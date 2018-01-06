@@ -1,0 +1,137 @@
+1514988404349	geckodriver	INFO	Listening on 127.0.0.1:58134
+1514988419352	mozprofile::profile	INFO	Using profile path /var/folders/51/7hgm7cw544zbxk5yzt8tj4s00000gn/T/rust_mozprofile.IGTJRVbVdJ9I
+1514988419365	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1514988419393	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58141
+1514988419949	addons.xpi	WARN	Add-on shield-recipe-client@mozilla.org is not compatible with application version.
+1514988419951	addons.xpi	WARN	Add-on shield-recipe-client@mozilla.org is not compatible with application version.
+1514988419951	addons.xpi	WARN	Add-on shield-recipe-client@mozilla.org is not compatible with application version.
+1514988419960	addons.xpi	WARN	Add-on activity-stream@mozilla.org is not compatible with application version.
+1514988419961	addons.xpi	WARN	Add-on activity-stream@mozilla.org is not compatible with application version.
+1514988419961	addons.xpi	WARN	Add-on activity-stream@mozilla.org is not compatible with application version.
+1514988419967	addons.xpi	WARN	Add-on onboarding@mozilla.org is not compatible with application version.
+1514988419967	addons.xpi	WARN	Add-on onboarding@mozilla.org is not compatible with application version.
+1514988419968	addons.xpi	WARN	Add-on onboarding@mozilla.org is not compatible with application version.
+1514988419979	addons.xpi	WARN	Add-on aushelper@mozilla.org is not compatible with application version.
+1514988419979	addons.xpi	WARN	Add-on aushelper@mozilla.org is not compatible with application version.
+1514988419980	addons.xpi	WARN	Add-on aushelper@mozilla.org is not compatible with application version.
+1514988419983	addons.xpi	WARN	Add-on e10srollout@mozilla.org is not compatible with application version.
+1514988419984	addons.xpi	WARN	Add-on e10srollout@mozilla.org is not compatible with application version.
+1514988419984	addons.xpi	WARN	Add-on e10srollout@mozilla.org is not compatible with application version.
+1514988419988	addons.xpi	WARN	Add-on firefox@getpocket.com is not compatible with application version.
+1514988419988	addons.xpi	WARN	Add-on firefox@getpocket.com is not compatible with application version.
+1514988419988	addons.xpi	WARN	Add-on firefox@getpocket.com is not compatible with application version.
+1514988419991	addons.xpi	WARN	Add-on webcompat@mozilla.org is not compatible with application version.
+1514988419991	addons.xpi	WARN	Add-on webcompat@mozilla.org is not compatible with application version.
+1514988419991	addons.xpi	WARN	Add-on webcompat@mozilla.org is not compatible with application version.
+1514988419997	addons.xpi	WARN	Add-on formautofill@mozilla.org is not compatible with application version.
+1514988419997	addons.xpi	WARN	Add-on formautofill@mozilla.org is not compatible with application version.
+1514988419998	addons.xpi	WARN	Add-on formautofill@mozilla.org is not compatible with application version.
+1514988420427	Marionette	INFO	Enabled via --marionette
+1514988452995	geckodriver	INFO	Listening on 127.0.0.1:58315
+1514988468003	mozprofile::profile	INFO	Using profile path /var/folders/51/7hgm7cw544zbxk5yzt8tj4s00000gn/T/rust_mozprofile.QjQQRYGjMtWw
+1514988468009	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1514988468023	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58322
+1514988468628	Marionette	INFO	Enabled via --marionette
+2018-01-03 22:07:49.672 plugin-container[3566:773190] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1514988470327	Marionette	INFO	Listening on port 58322
+1514988473078	Marionette	DEBUG	Register listener.js for window 2147483649
+1514988473095	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514988473622	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514988473623	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1514988474186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1514988474312	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1514988727015	geckodriver	INFO	Listening on 127.0.0.1:58662
+1514988742089	mozprofile::profile	INFO	Using profile path /var/folders/51/7hgm7cw544zbxk5yzt8tj4s00000gn/T/rust_mozprofile.ThWdRdLTtGpZ
+1514988742094	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1514988742100	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58691
+1514988742649	Marionette	INFO	Enabled via --marionette
+2018-01-03 22:12:23.627 plugin-container[3719:799340] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1514988744099	Marionette	INFO	Listening on port 58691
+1514988747214	Marionette	DEBUG	Register listener.js for window 2147483649
+1514988747237	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514988747333	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514988747333	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514988748514	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.yiqiyin.com/login"
+1514988748625	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.yiqiyin.com/login"
+2018-01-03 22:13:48.138 plugin-container[3746:807993] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1514988829961	geckodriver	INFO	Listening on 127.0.0.1:58864
+1514988844975	mozprofile::profile	INFO	Using profile path /var/folders/51/7hgm7cw544zbxk5yzt8tj4s00000gn/T/rust_mozprofile.XV6qD7aogUFn
+1514988844980	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1514988844986	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58890
+1514988845620	Marionette	INFO	Enabled via --marionette
+2018-01-03 22:14:06.575 plugin-container[3756:809042] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa02f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1514988847090	Marionette	INFO	Listening on port 58890
+1514988850039	Marionette	DEBUG	Register listener.js for window 2147483649
+1514988850053	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514988850148	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514988850150	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514988851566	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.yiqiyin.com/login"
+1514988851651	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.yiqiyin.com/login"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://www.yiqiyin.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://www.yiqiyin.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1514988981748	geckodriver	INFO	Listening on 127.0.0.1:59177
+1514988982022	geckodriver	INFO	Listening on 127.0.0.1:59180
+1514988996787	mozprofile::profile	INFO	Using profile path /var/folders/51/7hgm7cw544zbxk5yzt8tj4s00000gn/T/rust_mozprofile.1DY47UfOH0VV
+1514988996793	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1514988996798	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59208
+1514988997034	mozprofile::profile	INFO	Using profile path /var/folders/51/7hgm7cw544zbxk5yzt8tj4s00000gn/T/rust_mozprofile.rbuZypYdCAFr
+1514988997040	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1514988997046	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59211
+1514988997482	Marionette	INFO	Enabled via --marionette
+1514988997790	Marionette	INFO	Enabled via --marionette
+2018-01-03 22:16:39.145 plugin-container[3810:820878] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa04b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 22:16:39.744 plugin-container[3811:820927] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa147, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1514989000458	Marionette	INFO	Listening on port 59208
+1514989000790	Marionette	INFO	Listening on port 59211
+1514989002018	Marionette	DEBUG	Register listener.js for window 2147483649
+1514989002073	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514989002137	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514989002138	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514989002198	Marionette	DEBUG	Register listener.js for window 2147483649
+1514989002235	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514989002327	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514989002328	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514989004611	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.yiqiyin.com/login"
+1514989004715	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.yiqiyin.com/login"
+1514989005270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.yiqiyin.com/login"
+1514989005351	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.yiqiyin.com/login"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1514989027403	geckodriver	INFO	Listening on 127.0.0.1:59299
+1514989042419	mozprofile::profile	INFO	Using profile path /var/folders/51/7hgm7cw544zbxk5yzt8tj4s00000gn/T/rust_mozprofile.3hemBh4w5Yx5
+1514989042426	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1514989042433	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59323
+1514989042955	Marionette	INFO	Enabled via --marionette
+2018-01-03 22:17:24.134 plugin-container[3838:826301] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1514989044562	Marionette	INFO	Listening on port 59323
+1514989047487	Marionette	DEBUG	Register listener.js for window 2147483649
+1514989047500	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514989047543	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514989047543	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514989049143	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.yiqiyin.com/login"
+1514989049269	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.yiqiyin.com/login"
+1515058417355	geckodriver	INFO	Listening on 127.0.0.1:53282
+1515058432364	mozprofile::profile	INFO	Using profile path /var/folders/51/7hgm7cw544zbxk5yzt8tj4s00000gn/T/rust_mozprofile.3TI1VhqGdP0u
+1515058432370	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1515058432384	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53291
+1515058433500	Marionette	INFO	Enabled via --marionette
+2018-01-04 17:33:55.018 plugin-container[3082:389796] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515058435756	Marionette	INFO	Listening on port 53291
+1515058437444	Marionette	DEBUG	Register listener.js for window 2147483649
+1515058437461	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515058437542	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515058437543	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515058439514	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.yiqiyin.com/login"
+1515058439592	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.yiqiyin.com/login"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://www.yiqiyin.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
