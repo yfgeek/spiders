@@ -46,8 +46,8 @@ class Go(object):
 
         loginparams = {
             'utf8': '✓',
-            'mobile': '',
-            'password': '123456',
+            'mobile': '账户',
+            'password': '密码',
             'authenticity_token': token
         }
         # post loginparams to login
