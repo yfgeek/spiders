@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.ark.io/"
+    ],
+    "id":50,
+    "name":"ark",
+    "name_cn":"\uff0d",
+    "name_en":"Ark/ARK",
+    "time":"2017-05-24",
+    "website":[
+        "http://ark.io/"
+    ],
+    "whitepaper":"https://ark.io/whitepaper/"
+}

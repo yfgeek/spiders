@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://minemanic.com/mtlmcv3/"
+    ],
+    "id":1126,
+    "name":"metal-music-coin",
+    "name_cn":"\uff0d",
+    "name_en":"Metal Music Coin/MTLMC3",
+    "time":"\uff0d",
+    "website":[
+        "http://metalmusiccoin.pw/"
+    ],
+    "whitepaper":"-"
+}

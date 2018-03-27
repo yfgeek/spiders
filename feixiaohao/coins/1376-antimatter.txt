@@ -1,0 +1,10 @@
+{
+    "blockchain":[],
+    "id":1376,
+    "name":"antimatter",
+    "name_cn":"\uff0d",
+    "name_en":"Antimatter/ANTX",
+    "time":"2017-06-26",
+    "website":[],
+    "whitepaper":"-"
+}

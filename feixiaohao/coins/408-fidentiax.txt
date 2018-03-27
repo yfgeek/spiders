@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x52a7cb918c11a16958be40cba7e31e32a499a465",
+        "https://ethplorer.io/address/0x52a7cb918c11a16958be40cba7e31e32a499a465"
+    ],
+    "id":408,
+    "name":"fidentiax",
+    "name_cn":"\uff0d",
+    "name_en":"FidentiaX/FDX",
+    "time":"2018-01-03",
+    "website":[
+        "https://www.fidentiax.com/"
+    ],
+    "whitepaper":"https://www.fidentiax.com/webfiles/1513527048626/pdf/web/viewer_cn.html"
+}

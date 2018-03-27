@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://html.mastercalls.io/"
+    ],
+    "id":217,
+    "name":"html-coin",
+    "name_cn":"\uff0d",
+    "name_en":"HTMLCOIN/HTML",
+    "time":"2017-12-29",
+    "website":[
+        "http://www.htmlcoin.com/",
+        "https://htmlcoin.business/"
+    ],
+    "whitepaper":"https://htmlcoincom-pfxdtfqnnxx.stackpathdns.com/inc/uploads/2017/10/Htmlcoin-White-Paper-V.5-For-Public-Release.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainradar.com/dsh/blocks",
+        "http://democats.org/pool/?name=dashcoin"
+    ],
+    "id":953,
+    "name":"dashcoin",
+    "name_cn":"\uff0d",
+    "name_en":"Dashcoin/DSH",
+    "time":"\uff0d",
+    "website":[
+        "http://dashcoin.info/"
+    ],
+    "whitepaper":"-"
+}

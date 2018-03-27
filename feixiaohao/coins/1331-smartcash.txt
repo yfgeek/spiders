@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.smartcash.cc/"
+    ],
+    "id":1331,
+    "name":"smartcash",
+    "name_cn":"\uff0d",
+    "name_en":"SmartCash/SMART",
+    "time":"2017-07-22",
+    "website":[
+        "https://smartcash.cc/"
+    ],
+    "whitepaper":"-"
+}

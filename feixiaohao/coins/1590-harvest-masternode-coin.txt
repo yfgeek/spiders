@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://hmcexplorer.com/",
+        "https://masternodes.online/currencies/HC/"
+    ],
+    "id":1590,
+    "name":"harvest-masternode-coin",
+    "name_cn":"\uff0d",
+    "name_en":"Harvest Masternode Coin/HC",
+    "time":"2018-01-16",
+    "website":[
+        "https://www.harvestcoin.org/"
+    ],
+    "whitepaper":"https://www.harvestcoin.org/images/HMC_WHITEpaper.pdf"
+}

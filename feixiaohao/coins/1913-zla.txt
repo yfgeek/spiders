@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16",
+        "https://ethplorer.io/address/0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16"
+    ],
+    "id":1913,
+    "name":"zla",
+    "name_cn":"\uff0d",
+    "name_en":"Zilla/ZLA",
+    "time":"2018-01-30",
+    "website":[
+        "https://zla.io/"
+    ],
+    "whitepaper":"https://zla.io/assets/landingpage/docs/ZILLA_White_Paper_en.pdf"
+}

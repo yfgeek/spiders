@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e",
+        "https://ethplorer.io/address/0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e"
+    ],
+    "id":1678,
+    "name":"modum",
+    "name_cn":"\uff0d",
+    "name_en":"Modum/MOD",
+    "time":"2017-10-24",
+    "website":[
+        "https://modum.io/"
+    ],
+    "whitepaper":"https://modum.io/wp-content/uploads/2017/08/modum-whitepaper-v.-1.0.pdf"
+}

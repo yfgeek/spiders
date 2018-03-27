@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Taas",
+        "http://explorer.ambisafe.co/",
+        "/asset/TAAS/2?_k=9wkwx8"
+    ],
+    "id":195,
+    "name":"taas",
+    "name_cn":"\uff0d",
+    "name_en":"TaaS/TAAS",
+    "time":"2017-03-27",
+    "website":[
+        "https://taas.fund/"
+    ],
+    "whitepaper":"http://taas.fund/media/whitepaper.pdf"
+}

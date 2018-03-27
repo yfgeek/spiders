@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/assets.html?CJpRwfpBcFyA6p3g1fb7xuiArSQ7xLkNH8SD9AB4HeD9"
+    ],
+    "id":827,
+    "name":"monster-byte",
+    "name_cn":"\uff0d",
+    "name_en":"Monster Byte/MBI",
+    "time":"2017-08-14",
+    "website":[
+        "https://monsterbyte.io/"
+    ],
+    "whitepaper":"https://www.monsterbyte.io/images/MonsterByteICOWhitepaper.pdf"
+}

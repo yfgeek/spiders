@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25",
+        "https://ethplorer.io/address/0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25"
+    ],
+    "id":131,
+    "name":"sirin-labs-token",
+    "name_cn":"\uff0d",
+    "name_en":"Sirin Labs/SRN",
+    "time":"2017-12-29",
+    "website":[
+        "http://www.sirinlabs.com/"
+    ],
+    "whitepaper":"https://sirinlabs.com/media/SIRINLABS_-_White_Paper.pdf"
+}

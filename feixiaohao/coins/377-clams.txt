@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://khashier.com/chain/Clam"
+    ],
+    "id":377,
+    "name":"clams",
+    "name_cn":"\u8d1d\u58f3\u5e01",
+    "name_en":"Clams/CLAM",
+    "time":"2017-05-25",
+    "website":[
+        "http://clamcoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1882,
+    "name":"wearechain",
+    "name_cn":"\u5168\u6c11\u94fe",
+    "name_en":"WeAreChain/WAC",
+    "time":"2017-12-18",
+    "website":[
+        "https://www.wearechain.com/"
+    ],
+    "whitepaper":"https://www.wearechain.com/whitepaper/wac-white-paper.pdf"
+}

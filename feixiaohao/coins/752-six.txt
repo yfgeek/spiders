@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/tokens"
+    ],
+    "id":752,
+    "name":"six",
+    "name_cn":"\uff0d",
+    "name_en":"Six/SIX",
+    "time":"\uff0d",
+    "website":[
+        "https://yoexs.com"
+    ],
+    "whitepaper":"-"
+}

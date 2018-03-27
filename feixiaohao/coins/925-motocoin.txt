@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://moto.explorer.superpool.in/"
+    ],
+    "id":925,
+    "name":"motocoin",
+    "name_cn":"\uff0d",
+    "name_en":"Motocoin/MOTO",
+    "time":"\uff0d",
+    "website":[
+        "http://motocoin.org/"
+    ],
+    "whitepaper":"-"
+}

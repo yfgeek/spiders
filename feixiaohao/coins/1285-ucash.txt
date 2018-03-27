@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x92e52a1a235d9a103d970901066ce910aacefd37",
+        "https://ethplorer.io/address/0x92e52a1a235d9a103d970901066ce910aacefd37"
+    ],
+    "id":1285,
+    "name":"ucash",
+    "name_cn":"\uff0d",
+    "name_en":"UCASH/UCASH",
+    "time":"2018-02-10",
+    "website":[
+        "https://u.cash"
+    ],
+    "whitepaper":"-"
+}

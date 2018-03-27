@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/dot/"
+    ],
+    "id":495,
+    "name":"dotcoin",
+    "name_cn":"\uff0d",
+    "name_en":"Dotcoin/DOT",
+    "time":"\uff0d",
+    "website":[
+        "https://www.cryptopia.co.nz/"
+    ],
+    "whitepaper":"-"
+}

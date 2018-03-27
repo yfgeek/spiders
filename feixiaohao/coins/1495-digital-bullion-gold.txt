@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/dbg/"
+    ],
+    "id":1495,
+    "name":"digital-bullion-gold",
+    "name_cn":"\uff0d",
+    "name_en":"Digital Bulli.../DBG",
+    "time":"\uff0d",
+    "website":[
+        "http://digitalbulliongold.com/"
+    ],
+    "whitepaper":"-"
+}

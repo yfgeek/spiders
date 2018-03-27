@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://ecnblockchain.com/",
+        "https://chainz.cryptoid.info/ecn/",
+        "https://www.blockexperts.com/ecn"
+    ],
+    "id":1291,
+    "name":"e-coin",
+    "name_cn":"\uff0d",
+    "name_en":"E-coin/ECN",
+    "time":"\uff0d",
+    "website":[
+        "https://www.ecoinsource.com/"
+    ],
+    "whitepaper":"-"
+}

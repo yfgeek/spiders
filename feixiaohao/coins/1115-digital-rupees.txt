@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://203.128.6.219:3001/",
+        "http://www.presstab.pw/phpexplorer/DRS/index.php"
+    ],
+    "id":1115,
+    "name":"digital-rupees",
+    "name_cn":"\uff0d",
+    "name_en":"Digital Rupees/DRS",
+    "time":"\uff0d",
+    "website":[
+        "https://www.digitalrs.me/"
+    ],
+    "whitepaper":"-"
+}

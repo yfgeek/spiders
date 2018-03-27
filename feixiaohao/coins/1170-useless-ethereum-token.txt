@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x27f706edde3aD952EF647Dd67E24e38CD0803DD6",
+        "https://ethplorer.io/address/0x27f706edde3aD952EF647Dd67E24e38CD0803DD6"
+    ],
+    "id":1170,
+    "name":"useless-ethereum-token",
+    "name_cn":"\uff0d",
+    "name_en":"Useless Ether.../UET",
+    "time":"2017-07-06",
+    "website":[
+        "https://uetoken.com/",
+        "http://www.uselesstoken.com/"
+    ],
+    "whitepaper":"-"
+}

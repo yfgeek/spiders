@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://explorer.embercoin.io/",
+        "https://www.coinexplorer.net/EMB",
+        "http://explorer.embercoin.io/"
+    ],
+    "id":1520,
+    "name":"embercoin",
+    "name_cn":"\uff0d",
+    "name_en":"EmberCoin/EMB",
+    "time":"2017-07-28",
+    "website":[
+        "https://www.embercoin.io/"
+    ],
+    "whitepaper":"-"
+}

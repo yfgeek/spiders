@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://138.68.44.164:18888/"
+    ],
+    "id":1681,
+    "name":"moneycoin",
+    "name_cn":"\uff0d",
+    "name_en":"MoneyCoin/MONEY",
+    "time":"\uff0d",
+    "website":[
+        "http://moneycoin.pw/"
+    ],
+    "whitepaper":"-"
+}

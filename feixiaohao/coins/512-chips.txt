@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://chips1.explorer.supernet.org/",
+        "http://explorer.chips.cash/"
+    ],
+    "id":512,
+    "name":"chips",
+    "name_cn":"\uff0d",
+    "name_en":"CHIPS/CHIPS",
+    "time":"2017-09-26",
+    "website":[],
+    "whitepaper":"-"
+}

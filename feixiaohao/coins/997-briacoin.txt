@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://block.briacoin.com/"
+    ],
+    "id":997,
+    "name":"briacoin",
+    "name_cn":"\uff0d",
+    "name_en":"BriaCoin/BRIA",
+    "time":"2017-06-30",
+    "website":[
+        "https://briacoin.com"
+    ],
+    "whitepaper":"-"
+}

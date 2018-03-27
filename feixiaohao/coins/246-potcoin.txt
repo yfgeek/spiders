@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/pot/",
+        "https://chain.potcoin.com/"
+    ],
+    "id":246,
+    "name":"potcoin",
+    "name_cn":"\uff0d",
+    "name_en":"PotCoin/POT",
+    "time":"2014-01-21",
+    "website":[
+        "http://www.potcoin.com/"
+    ],
+    "whitepaper":"-"
+}

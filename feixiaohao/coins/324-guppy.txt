@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Guppy"
+    ],
+    "id":324,
+    "name":"guppy",
+    "name_cn":"\uff0d",
+    "name_en":"Matchpool/GUP",
+    "time":"2017-04-30",
+    "website":[
+        "https://matchpool.co/"
+    ],
+    "whitepaper":"https://matchpool.co/wp-content/uploads/2017/04/mp_wp3.pdf"
+}

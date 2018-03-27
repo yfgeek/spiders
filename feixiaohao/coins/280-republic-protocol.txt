@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x408e41876cccdc0f92210600ef50372656052a38",
+        "https://ethplorer.io/address/0x408e41876cccdc0f92210600ef50372656052a38"
+    ],
+    "id":280,
+    "name":"republic-protocol",
+    "name_cn":"\uff0d",
+    "name_en":"Republic Protocol/REN",
+    "time":"2018-02-22",
+    "website":[
+        "https://republicprotocol.com/"
+    ],
+    "whitepaper":"https://republicprotocol.github.io/whitepaper/republic-whitepaper.pdf"
+}

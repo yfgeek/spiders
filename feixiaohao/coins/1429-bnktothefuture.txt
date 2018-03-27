@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f",
+        "https://ethplorer.io/address/0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f"
+    ],
+    "id":1429,
+    "name":"bnktothefuture",
+    "name_cn":"\uff0d",
+    "name_en":"BnkToTheFuture/BFT",
+    "time":"2018-03-22",
+    "website":[
+        "https://bf-token.bnktothefuture.com/",
+        "!/"
+    ],
+    "whitepaper":"https://bf-token.bnktothefuture.com/pdf/whitepaper.pdf"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/karm/"
+    ],
+    "id":1628,
+    "name":"karmacoin",
+    "name_cn":"\u5927\u8c61\u5e01",
+    "name_en":"Karmacoin/KARMA",
+    "time":"\uff0d",
+    "website":[
+        "http://www.givekarma.net/"
+    ],
+    "whitepaper":"-"
+}

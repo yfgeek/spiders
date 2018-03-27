@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xeb7c20027172e5d143fb030d50f91cece2d1485d",
+        "https://ethplorer.io/address/0xeb7c20027172e5d143fb030d50f91cece2d1485d"
+    ],
+    "id":513,
+    "name":"ebtcnew",
+    "name_cn":"\uff0d",
+    "name_en":"eBitcoin/EBTC",
+    "time":"2017-11-01",
+    "website":[
+        "https://ebitcoin.org/"
+    ],
+    "whitepaper":"https://ebitcoin.org/wp-content/uploads/2017/12/eBitcoin-eBTC-A_TOKENIZED_VERSION_OF_BITCOIN_ON_ETHEREUM_cn.pdf"
+}

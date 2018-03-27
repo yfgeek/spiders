@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xEA610B1153477720748DC13ED378003941d84fAB",
+        "https://ethplorer.io/address/0xea610b1153477720748dc13ed378003941d84fab"
+    ],
+    "id":362,
+    "name":"alis",
+    "name_cn":"\uff0d",
+    "name_en":"ALIS/ALIS",
+    "time":"2017-10-13",
+    "website":[
+        "https://alismedia.jp/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf6cfe53d6febaeea051f400ff5fc14f0cbbdaca1",
+        "https://ethplorer.io/address/0xf6cfe53d6febaeea051f400ff5fc14f0cbbdaca1"
+    ],
+    "id":685,
+    "name":"digipulse",
+    "name_cn":"\uff0d",
+    "name_en":"DigiPulse/DGPT",
+    "time":"2017-11-21",
+    "website":[
+        "https://www.digipulse.io/",
+        "https://scrypto.io/"
+    ],
+    "whitepaper":"-"
+}

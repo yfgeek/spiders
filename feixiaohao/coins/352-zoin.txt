@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/zoi/",
+        "http://explorer.zoinofficial.com:3001/"
+    ],
+    "id":352,
+    "name":"zoin",
+    "name_cn":"\uff0d",
+    "name_en":"Zoin/ZOI",
+    "time":"\uff0d",
+    "website":[
+        "http://zoinofficial.com/"
+    ],
+    "whitepaper":"https://zoinofficial.com/docs/Zoin-Whitepaper.pdf"
+}

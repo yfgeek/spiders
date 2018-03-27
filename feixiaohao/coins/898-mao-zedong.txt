@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "http://explorer.mao-zedong.net:3001/"
+    ],
+    "id":898,
+    "name":"mao-zedong",
+    "name_cn":"\uff0d",
+    "name_en":"Mao Zedong/MAO",
+    "time":"2017-08-09",
+    "website":[],
+    "whitepaper":"-"
+}

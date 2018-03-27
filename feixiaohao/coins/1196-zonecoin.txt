@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.zonecoin.tech/"
+    ],
+    "id":1196,
+    "name":"zonecoin",
+    "name_cn":"\uff0d",
+    "name_en":"Zonecoin/ZNE",
+    "time":"\uff0d",
+    "website":[
+        "https://www.zonecoin.tech/"
+    ],
+    "whitepaper":"-"
+}

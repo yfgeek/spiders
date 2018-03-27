@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.cryptocarbon.co.uk/"
+    ],
+    "id":817,
+    "name":"cryptocarbon",
+    "name_cn":"\uff0d",
+    "name_en":"CryptoCarbon/CCRB",
+    "time":"\uff0d",
+    "website":[
+        "https://cryptocarbon.co.uk/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=3"
+    ],
+    "id":85,
+    "name":"maidsafecoin",
+    "name_cn":"\u4e92\u8054\u7f51\u5e01",
+    "name_en":"MaidSafeCoin/MAID",
+    "time":"2006-02-03",
+    "website":[
+        "http://maidsafe.net"
+    ],
+    "whitepaper":"https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md"
+}

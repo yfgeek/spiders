@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.gridresearchcorp.com/gridcoin/"
+    ],
+    "id":301,
+    "name":"gridcoin",
+    "name_cn":"\u683c\u96f7\u5fb7\u5e01",
+    "name_en":"GridCoin/GRC",
+    "time":"2014-10-16",
+    "website":[
+        "http://www.gridcoin.us/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x809826cceab68c387726af962713b64cb5cb3cca",
+        "https://ethplorer.io/address/0x809826cceab68c387726af962713b64cb5cb3cca"
+    ],
+    "id":1309,
+    "name":"nucleus",
+    "name_cn":"\uff0d",
+    "name_en":"Nucleus Vision/NCASH",
+    "time":"2018-02-26",
+    "website":[
+        "https://nucleus.vision/"
+    ],
+    "whitepaper":"https://docsend.com/view/sfdfg6p"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://e.axiomcoin.xyz/"
+    ],
+    "id":1387,
+    "name":"axiom",
+    "name_cn":"\uff0d",
+    "name_en":"Axiom/AXIOM",
+    "time":"\uff0d",
+    "website":[
+        "http://axiomcrypto.org/"
+    ],
+    "whitepaper":"-"
+}

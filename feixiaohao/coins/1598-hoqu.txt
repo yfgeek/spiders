@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1b957dc4aefeed3b4a2351a6a6d5cbfbba0cecfa",
+        "https://ethplorer.io/address/0x1b957dc4aefeed3b4a2351a6a6d5cbfbba0cecfa"
+    ],
+    "id":1598,
+    "name":"hoqu",
+    "name_cn":"\uff0d",
+    "name_en":"HQX/HQX",
+    "time":"2018-03-08",
+    "website":[
+        "https://www.hoqu.io/"
+    ],
+    "whitepaper":"-"
+}

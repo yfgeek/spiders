@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b",
+        "https://ethplorer.io/address/0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b"
+    ],
+    "id":252,
+    "name":"unikoin-gold",
+    "name_cn":"\uff0d",
+    "name_en":"Unikoin Gold/UKG",
+    "time":"2017-11-06",
+    "website":[
+        "https://unikrn.com/",
+        "https://unikoingold.com/"
+    ],
+    "whitepaper":"https://static.unikrn.com/4242/unikrn_bm/doc/whitepaper_cn.pdf"
+}

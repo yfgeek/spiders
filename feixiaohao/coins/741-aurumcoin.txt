@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://aurumblocks.cointech.net/chain/AurumCoin",
+        "http://italyiimp.com/explorer/AU"
+    ],
+    "id":741,
+    "name":"aurumcoin",
+    "name_cn":"\uff0d",
+    "name_en":"AurumCoin/AU",
+    "time":"\uff0d",
+    "website":[
+        "http://www.aurumcoin.com/",
+        "http://www.aurumcoin-au.com/"
+    ],
+    "whitepaper":"-"
+}

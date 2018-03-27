@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://securechain.info/"
+    ],
+    "id":963,
+    "name":"securecoin",
+    "name_cn":"\u5b89\u5168\u5e01",
+    "name_en":"SecureCoin/SRC",
+    "time":"2013-09-06",
+    "website":[
+        "http://securecoin.org/"
+    ],
+    "whitepaper":"-"
+}

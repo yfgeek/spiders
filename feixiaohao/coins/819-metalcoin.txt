@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/METALCOIN"
+    ],
+    "id":819,
+    "name":"metalcoin",
+    "name_cn":"\uff0d",
+    "name_en":"MetalCoin/METAL",
+    "time":"\uff0d",
+    "website":[
+        "http://www.metalmoshpit.com/"
+    ],
+    "whitepaper":"-"
+}

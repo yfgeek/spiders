@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://tokyocoin.xyz/network"
+    ],
+    "id":921,
+    "name":"tokyo",
+    "name_cn":"\uff0d",
+    "name_en":"TOKYO/TOKC",
+    "time":"2018-01-16",
+    "website":[
+        "http://tokyocoin.info/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://blocks.rhfcoin.com/"
+    ],
+    "id":1764,
+    "name":"rhfcoin",
+    "name_cn":"\uff0d",
+    "name_en":"RHFCoin/RHFC",
+    "time":"\uff0d",
+    "website":[
+        "http://rhfcoin.com/"
+    ],
+    "whitepaper":"-"
+}

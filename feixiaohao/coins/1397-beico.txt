@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1397,
+    "name":"beico",
+    "name_cn":"B-Token",
+    "name_en":"Beico/BTK",
+    "time":"2017-08-03",
+    "website":[
+        "https://beico.io/"
+    ],
+    "whitepaper":"-"
+}

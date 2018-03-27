@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/ioc/"
+    ],
+    "id":277,
+    "name":"iocoin",
+    "name_cn":"\uff0d",
+    "name_en":"I/O Coin/IOC",
+    "time":"\uff0d",
+    "website":[
+        "http://iocoin.io/"
+    ],
+    "whitepaper":"https://www.docdroid.net/0hq7LH9/io-whitepaper-v2-final.pdf"
+}

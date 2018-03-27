@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://espv2.miningalts.com/",
+        "http://espers.thecryptochat.net/"
+    ],
+    "id":433,
+    "name":"espers",
+    "name_cn":"\uff0d",
+    "name_en":"Espers/ESP",
+    "time":"\uff0d",
+    "website":[
+        "http://espers.io/",
+        "http://cryptocoderz.com/espers.html"
+    ],
+    "whitepaper":"-"
+}

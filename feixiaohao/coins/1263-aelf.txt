@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1263,
+    "name":"aelf",
+    "name_cn":"\uff0d",
+    "name_en":"ELF/ELF",
+    "time":"2017-12-22",
+    "website":[
+        "http://aelf.io/"
+    ],
+    "whitepaper":"https://grid.hoopox.com/%C3%A6lf_whitepaper_v1.2.pdf"
+}

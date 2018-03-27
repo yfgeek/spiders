@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xb110ec7b1dcb8fab8dedbf28f53bc63ea5bedd84",
+        "https://ethplorer.io/address/0xb110ec7b1dcb8fab8dedbf28f53bc63ea5bedd84"
+    ],
+    "id":1807,
+    "name":"sphre-air",
+    "name_cn":"\uff0d",
+    "name_en":"Sphre AIR/XID",
+    "time":"2017-07-12",
+    "website":[
+        "http://www.sphre.co/"
+    ],
+    "whitepaper":"http://www.sphre.co/cs/downloads/Air_Platform_Whitepaper.pdf"
+}

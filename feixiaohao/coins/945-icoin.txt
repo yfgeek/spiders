@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/icn/"
+    ],
+    "id":945,
+    "name":"icoin",
+    "name_cn":"\uff0d",
+    "name_en":"iCoin/ICN",
+    "time":"\uff0d",
+    "website":[
+        "http://www.icoin.world/"
+    ],
+    "whitepaper":"https://coss.io/documents/white-papers/iconomi.pdf"
+}

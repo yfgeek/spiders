@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1255,
+    "name":"cte",
+    "name_cn":"\u804c\u4e1a\u94fe",
+    "name_en":"CTEChain/CTE",
+    "time":"2018-02-01",
+    "website":[
+        "https://cte.work/"
+    ],
+    "whitepaper":"https://cte.work/pdf/White%20Papers%20of%20CTEChain.pdf?v=2018"
+}

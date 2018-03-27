@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://neotracker.io/asset/ecc6b20d3ccac1ee9ef109af5a7cdb85706b1df9"
+    ],
+    "id":179,
+    "name":"redpulse",
+    "name_cn":"\u7ea2\u8272\u8109\u51b2",
+    "name_en":"RED PULSE/RPX",
+    "time":"2017-10-28",
+    "website":[
+        "https://www.red-pulse.com/landing"
+    ],
+    "whitepaper":"https://coin.red-pulse.com/wp-content/uploads/redpulse-whitepaper-en.pdf"
+}

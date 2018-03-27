@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://www.wdcexplorer.com/"
+    ],
+    "id":732,
+    "name":"worldcoin",
+    "name_cn":"\u4e16\u754c\u5e01",
+    "name_en":"WorldCoin/WDC",
+    "time":"\uff0d",
+    "website":[
+        "http://worldcoin.global/"
+    ],
+    "whitepaper":"-"
+}

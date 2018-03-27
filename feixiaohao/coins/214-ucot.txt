@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":214,
+    "name":"ucot",
+    "name_cn":"\u4f18\u7269\u94fe",
+    "name_en":"Ubique Chain of Things/UCOT",
+    "time":"2018-02-11",
+    "website":[
+        "http://www.ucot.world/"
+    ],
+    "whitepaper":"http://www.ucot.world/wp-content/uploads/2018/02/UCOT-WP-CN.pdf"
+}

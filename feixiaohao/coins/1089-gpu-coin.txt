@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://poswallet.com/blockChain/gpu/"
+    ],
+    "id":1089,
+    "name":"gpu-coin",
+    "name_cn":"\uff0d",
+    "name_en":"GPU Coin/GPU",
+    "time":"\uff0d",
+    "website":[
+        "http://gpucoin.usedgpus.com/"
+    ],
+    "whitepaper":"-"
+}

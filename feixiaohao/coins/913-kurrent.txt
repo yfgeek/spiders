@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.kurrentproject.com/",
+        "http://cryptoguru.tk/CurrencyInfo/index.php?Currency=KURT"
+    ],
+    "id":913,
+    "name":"kurrent",
+    "name_cn":"\uff0d",
+    "name_en":"Kurrent/KURT",
+    "time":"\uff0d",
+    "website":[
+        "http://kurrentproject.com/"
+    ],
+    "whitepaper":"-"
+}

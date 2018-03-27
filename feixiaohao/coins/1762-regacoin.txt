@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://84.200.32.210:9001/"
+    ],
+    "id":1762,
+    "name":"regacoin",
+    "name_cn":"\uff0d",
+    "name_en":"Regacoin/REGA",
+    "time":"\uff0d",
+    "website":[
+        "https://regaco.in/"
+    ],
+    "whitepaper":"-"
+}

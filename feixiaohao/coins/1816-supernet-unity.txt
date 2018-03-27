@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://nxtreporting.com/?as=12071612744977229797"
+    ],
+    "id":1816,
+    "name":"supernet-unity",
+    "name_cn":"\uff0d",
+    "name_en":"SuperNET/UNITY",
+    "time":"\uff0d",
+    "website":[
+        "http://supernet.org"
+    ],
+    "whitepaper":"-"
+}

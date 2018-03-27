@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
+        "https://ethplorer.io/address/0x51db5ad35c671a87207d88fc11d593ac0c8415bd"
+    ],
+    "id":303,
+    "name":"moeda-loyalty-points",
+    "name_cn":"\uff0d",
+    "name_en":"Moeda Loyalty/MDA",
+    "time":"2017-09-12",
+    "website":[
+        "https://moeda.in/"
+    ],
+    "whitepaper":"-"
+}

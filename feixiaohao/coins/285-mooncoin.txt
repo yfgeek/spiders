@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/moon/",
+        "https://bchain.info/MOON/",
+        "https://www.moonchain.net/chain/Mooncoin"
+    ],
+    "id":285,
+    "name":"mooncoin",
+    "name_cn":"\u6708\u4eae\u5e01",
+    "name_en":"Mooncoin/MOON",
+    "time":"\uff0d",
+    "website":[
+        "https://www.mooncoin.eco/",
+        "http://mooncoin.com/"
+    ],
+    "whitepaper":"-"
+}

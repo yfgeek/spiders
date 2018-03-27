@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf44745fbd41f6a1ba151df190db0564c5fcc4410",
+        "https://ethplorer.io/address/0xf44745fbd41f6a1ba151df190db0564c5fcc4410"
+    ],
+    "id":620,
+    "name":"copytrack",
+    "name_cn":"\uff0d",
+    "name_en":"Copytrack/CPY",
+    "time":"2018-02-24",
+    "website":[
+        "https://copytrack.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://med.szbpool.com:2750/chain/Mediterraneancoin/"
+    ],
+    "id":1666,
+    "name":"mediterraneancoin",
+    "name_cn":"\u5730\u4e2d\u6d77\u5e01",
+    "name_en":"Mediterraneancoin/MED",
+    "time":"\uff0d",
+    "website":[
+        "http://www.mediterraneancoin.org/"
+    ],
+    "whitepaper":"-"
+}

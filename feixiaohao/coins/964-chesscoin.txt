@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/chess"
+    ],
+    "id":964,
+    "name":"chesscoin",
+    "name_cn":"\uff0d",
+    "name_en":"ChessCoin/CHESS",
+    "time":"\uff0d",
+    "website":[
+        "https://chess-coin.github.io/"
+    ],
+    "whitepaper":"-"
+}

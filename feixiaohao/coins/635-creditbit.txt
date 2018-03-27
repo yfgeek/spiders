@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xAef38fBFBF932D1AeF3B808Bc8fBd8Cd8E1f8BC5"
+    ],
+    "id":635,
+    "name":"creditbit",
+    "name_cn":"\u4fe1\u7528\u5e01",
+    "name_en":"Creditbit/CRB",
+    "time":"\uff0d",
+    "website":[
+        "https://www.creditbit.org/"
+    ],
+    "whitepaper":"https://www.creditbit.org/downloads/WHITEPAPER-CREDIT2.0_2%20CHINA_FINAL.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xfb2f26f266fb2805a387230f2aa0a331b4d96fba",
+        "https://ethplorer.io/address/0xfb2f26f266fb2805a387230f2aa0a331b4d96fba"
+    ],
+    "id":337,
+    "name":"dadi",
+    "name_cn":"\uff0d",
+    "name_en":"DADI/DADI",
+    "time":"2018-02-20",
+    "website":[
+        "https://dadi.cloud/en"
+    ],
+    "whitepaper":"https://dadi.cloud/public/files/dadi.white-paper.pdf"
+}

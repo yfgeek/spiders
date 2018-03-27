@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x50ee674689d75c0f88e8f83cfe8c4b69e8fd590d",
+        "https://ethplorer.io/address/0x50ee674689d75c0f88e8f83cfe8c4b69e8fd590d"
+    ],
+    "id":838,
+    "name":"emphy",
+    "name_cn":"\uff0d",
+    "name_en":"Emphy/EPY",
+    "time":"2017-11-12",
+    "website":[
+        "https://emphy.io/"
+    ],
+    "whitepaper":"https://emphy.io/wp-content/uploads/2017/10/Emphy_Whitepaper_eng_v1_2-2.pdf"
+}

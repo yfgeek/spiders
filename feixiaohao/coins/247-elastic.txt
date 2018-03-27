@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://elasticexplorer.org/"
+    ],
+    "id":247,
+    "name":"elastic",
+    "name_cn":"\uff0d",
+    "name_en":"Elastic/XEL",
+    "time":"2017-06-24",
+    "website":[
+        "https://www.elastic.pw/"
+    ],
+    "whitepaper":"-"
+}

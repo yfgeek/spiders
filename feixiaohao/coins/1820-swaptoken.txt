@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://fickschnitzel.pw:5001/"
+    ],
+    "id":1820,
+    "name":"swaptoken",
+    "name_cn":"\uff0d",
+    "name_en":"SwapToken/TOKEN",
+    "time":"\uff0d",
+    "website":[
+        "http://trollpayment.com/"
+    ],
+    "whitepaper":"-"
+}

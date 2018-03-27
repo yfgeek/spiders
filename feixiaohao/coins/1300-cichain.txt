@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1300,
+    "name":"cichain",
+    "name_cn":"\u4e91\u4fdd\u94fe",
+    "name_en":"Cloud-Insurance Chain/CIC",
+    "time":"2018-02-05",
+    "website":[
+        "https://cichain.io/"
+    ],
+    "whitepaper":"https://cichain.io/doc/WhitePaper_zh_HK.pdf"
+}

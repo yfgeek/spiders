@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.mergechain.com:3000/"
+    ],
+    "id":291,
+    "name":"mergecoin",
+    "name_cn":"\u4f17\u5408\u5e01",
+    "name_en":"MergeCoin/MGC",
+    "time":"2017-03-29",
+    "website":[
+        "http://www.mergecoin.com/"
+    ],
+    "whitepaper":"-"
+}

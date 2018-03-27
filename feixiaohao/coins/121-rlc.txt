@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/RLC",
+        "https://ethplorer.io/address/0x607f4c5bb672230e8672085532f7e901544a7375"
+    ],
+    "id":121,
+    "name":"rlc",
+    "name_cn":"\u4e91\u7b97\u5b9d",
+    "name_en":"iExec RLC/RLC",
+    "time":"2017-04-19",
+    "website":[
+        "http://iex.ec/"
+    ],
+    "whitepaper":"http://iex.ec/?page_id=186"
+}

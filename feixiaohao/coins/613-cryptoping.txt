@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/assets.html?Bi4w2UuGRt2jAJFfRb8b3SwDUV5x8krCzX2zZHcRfPNc"
+    ],
+    "id":613,
+    "name":"cryptoping",
+    "name_cn":"\uff0d",
+    "name_en":"CryptoPing/PING",
+    "time":"2017-07-04",
+    "website":[
+        "https://cryptoping.tech/"
+    ],
+    "whitepaper":"https://cryptoping.tech/cp_whitepaper_en.pdf"
+}

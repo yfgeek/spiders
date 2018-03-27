@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244",
+        "https://ethplorer.io/address/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244"
+    ],
+    "id":394,
+    "name":"rivetz",
+    "name_cn":"\uff0d",
+    "name_en":"Rivetz/RVT",
+    "time":"2017-09-26",
+    "website":[
+        "https://rivetzintl.com/"
+    ],
+    "whitepaper":"https://rivetzintl.com/rvt-white-paper-1.02.pdf"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://blockexperts.com/dope"
+    ],
+    "id":464,
+    "name":"dopecoin",
+    "name_cn":"\u9ebb\u53f6\u5e01",
+    "name_en":"DopeCoin/DOPE",
+    "time":"\uff0d",
+    "website":[
+        "http://www.dopecoin.com/"
+    ],
+    "whitepaper":"-"
+}

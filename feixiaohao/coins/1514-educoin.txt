@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/address/0xa0872eE815B8dd0F6937386Fd77134720d953581"
+    ],
+    "id":1514,
+    "name":"educoin",
+    "name_cn":"\u6559\u80b2\u5e01",
+    "name_en":"EduCoin/EDU",
+    "time":"2018-02-22",
+    "website":[
+        "http://edu.one/"
+    ],
+    "whitepaper":"http://whitepaper.edu.one/EduCoin_WhitePaper.pdf"
+}

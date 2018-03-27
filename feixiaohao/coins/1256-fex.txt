@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x271220fbefd584a6b0a6ad457721c076321646a1"
+    ],
+    "id":1256,
+    "name":"fex",
+    "name_cn":"\uff0d",
+    "name_en":"FEX/FEX",
+    "time":"2017-12-11",
+    "website":[
+        "https://fex.hk/"
+    ],
+    "whitepaper":"https://fexpro.io/Files/Whitepaper_chinese.pdf"
+}

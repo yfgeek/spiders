@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.mylinx.io/",
+        "http://explorer2.mylinx.io/"
+    ],
+    "id":678,
+    "name":"linx",
+    "name_cn":"\uff0d",
+    "name_en":"Linx/LINX",
+    "time":"2017-06-17",
+    "website":[
+        "https://mylinx.io/"
+    ],
+    "whitepaper":"-"
+}

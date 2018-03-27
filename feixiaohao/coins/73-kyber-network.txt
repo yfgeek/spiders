@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/KyberNetwork",
+        "https://ethplorer.io/address/0xdd974d5c2e2928dea5f71b9825b8b646686bd200"
+    ],
+    "id":73,
+    "name":"kyber-network",
+    "name_cn":"\uff0d",
+    "name_en":"Kyber Network/KNC",
+    "time":"2017-09-25",
+    "website":[
+        "https://kyber.network/"
+    ],
+    "whitepaper":"https://kyber.network/assets/KyberNetworkWhitepaper.pdf"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.unify.today/explorer/"
+    ],
+    "id":758,
+    "name":"unify",
+    "name_cn":"\uff0d",
+    "name_en":"Unify/UNIFY",
+    "time":"2017-06-24",
+    "website":[
+        "http://www.unify.today/"
+    ],
+    "whitepaper":"-"
+}

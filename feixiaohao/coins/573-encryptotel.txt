@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/assets.html?8ofu3VpEaVCFjRqLLqzTMNs5URKUUQMrPp3k6oFmiCc6"
+    ],
+    "id":573,
+    "name":"encryptotel",
+    "name_cn":"\uff0d",
+    "name_en":"EncryptoTel/ETT",
+    "time":"\uff0d",
+    "website":[
+        "https://encryptotel.com/"
+    ],
+    "whitepaper":"http://ico.encryptotel.com/assets/pdf/EncryptoTel_WP_v1.pdf"
+}

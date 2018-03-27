@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.magnetwork.io/"
+    ],
+    "id":621,
+    "name":"magnet",
+    "name_cn":"\uff0d",
+    "name_en":"Magnet/MAG",
+    "time":"2017-11-24",
+    "website":[
+        "http://magnetwork.io/"
+    ],
+    "whitepaper":"http://magnetwork.io/wp-content/uploads/2017/12/MAGNETWORK_WHITEPAPER_1_0.pdf"
+}

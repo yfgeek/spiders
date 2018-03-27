@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/bitb/",
+        "http://aida.ageleis.de/"
+    ],
+    "id":141,
+    "name":"bitbean",
+    "name_cn":"\uff0d",
+    "name_en":"BitBean/BITB",
+    "time":"\uff0d",
+    "website":[
+        "http://www.bitbean.org/"
+    ],
+    "whitepaper":"-"
+}

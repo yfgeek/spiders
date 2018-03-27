@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.u-currency.com/"
+    ],
+    "id":345,
+    "name":"universal-currency",
+    "name_cn":"\uff0d",
+    "name_en":"Universal Cur.../UNIT",
+    "time":"\uff0d",
+    "website":[
+        "http://www.u-currency.com/"
+    ],
+    "whitepaper":"-"
+}

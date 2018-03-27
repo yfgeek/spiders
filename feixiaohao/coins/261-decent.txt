@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://decent-db.com/"
+    ],
+    "id":261,
+    "name":"decent",
+    "name_cn":"\uff0d",
+    "name_en":"DECENT/DCT",
+    "time":"2016-09-10",
+    "website":[
+        "https://decent.ch/"
+    ],
+    "whitepaper":"http://www.the-blockchain.com/docs/Decentralized%20Open-Source%20Content%20Distribution%20(DECENT)%20whitepaper.pdf"
+}

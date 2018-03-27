@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://mona.chainsight.info/"
+    ],
+    "id":61,
+    "name":"monacoin",
+    "name_cn":"\u840c\u5948\u5e01",
+    "name_en":"MonaCoin/MONA",
+    "time":"2013-12-01",
+    "website":[
+        "http://monacoin.org"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.californium.info:2750/"
+    ],
+    "id":1106,
+    "name":"californium",
+    "name_cn":"\uff0d",
+    "name_en":"Californium/CF",
+    "time":"\uff0d",
+    "website":[
+        "http://www.californium.info/"
+    ],
+    "whitepaper":"-"
+}

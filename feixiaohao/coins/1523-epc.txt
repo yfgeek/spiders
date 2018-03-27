@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1523,
+    "name":"epc",
+    "name_cn":"\u7535\u7ade\u94fe",
+    "name_en":"Electronic PK Chain/EPC",
+    "time":"2018-01-22",
+    "website":[
+        "http://epc.im/"
+    ],
+    "whitepaper":"http://epc.im/epc.pdf"
+}

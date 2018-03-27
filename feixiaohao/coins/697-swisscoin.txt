@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/sic",
+        "http://explorer.swisscoin.eu/"
+    ],
+    "id":697,
+    "name":"swisscoin",
+    "name_cn":"\u745e\u58eb\u5e01",
+    "name_en":"Swisscoin/SIC",
+    "time":"2016-06-03",
+    "website":[
+        "https://swisscoin.eu/"
+    ],
+    "whitepaper":"http://backup.swisscoin.eu/document/SWISSCOIN-Whitepaper.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18",
+        "https://ethplorer.io/address/0x42d6622dece394b54999fbd73d108123806f6a18"
+    ],
+    "id":188,
+    "name":"spankchain",
+    "name_cn":"\uff0d",
+    "name_en":"SpankChain/SPANK",
+    "time":"2017-11-24",
+    "website":[
+        "https://spankchain.com/"
+    ],
+    "whitepaper":"https://spankchain.com/static/whitepaper.13abf6d4.pdf"
+}

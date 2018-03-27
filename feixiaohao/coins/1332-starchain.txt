@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1332,
+    "name":"starchain",
+    "name_cn":"\u661f\u94fe",
+    "name_en":"Starchain/STC",
+    "time":"2018-01-20",
+    "website":[
+        "http://www.starchain.one/"
+    ],
+    "whitepaper":"http://www.starchain.one/img/%E6%98%9F%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf"
+}

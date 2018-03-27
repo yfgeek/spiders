@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://ex.peoplecoin.pw/"
+    ],
+    "id":1726,
+    "name":"peoplecoin",
+    "name_cn":"\u4eba\u4eba\u5e01",
+    "name_en":"PeopleCoin/MEN",
+    "time":"2017-07-28",
+    "website":[
+        "https://www.peoplecoin.pw/"
+    ],
+    "whitepaper":"-"
+}

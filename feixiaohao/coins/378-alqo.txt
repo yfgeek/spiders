@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.alqo.org/",
+        "https://orbit.alqo.org/"
+    ],
+    "id":378,
+    "name":"alqo",
+    "name_cn":"\uff0d",
+    "name_en":"ALQO/ALQO",
+    "time":"2017-11-20",
+    "website":[
+        "https://alqo.org/"
+    ],
+    "whitepaper":"-"
+}

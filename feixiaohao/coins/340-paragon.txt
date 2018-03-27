@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D",
+        "https://ethplorer.io/address/0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D"
+    ],
+    "id":340,
+    "name":"paragon",
+    "name_cn":"\uff0d",
+    "name_en":"Paragon/PRG",
+    "time":"2017-10-27",
+    "website":[
+        "https://paragoncoin.com/"
+    ],
+    "whitepaper":"-"
+}

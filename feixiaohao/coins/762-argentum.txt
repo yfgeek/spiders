@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/arg/"
+    ],
+    "id":762,
+    "name":"argentum",
+    "name_cn":"\u94f6\u7279\u5e01",
+    "name_en":"Argentum/ARG",
+    "time":"\uff0d",
+    "website":[
+        "http://www.argentum.io/"
+    ],
+    "whitepaper":"-"
+}

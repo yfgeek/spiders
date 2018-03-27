@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1632,
+    "name":"kittehcoin",
+    "name_cn":"\u55b5\u5e01",
+    "name_en":"Kittehcoin/MEOW",
+    "time":"\uff0d",
+    "website":[
+        "https://kittehcoin.info/"
+    ],
+    "whitepaper":"-"
+}

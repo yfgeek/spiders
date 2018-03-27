@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://zeroexplorer.forgetop.com/"
+    ],
+    "id":641,
+    "name":"zero",
+    "name_cn":"\uff0d",
+    "name_en":"Zero/ZER",
+    "time":"\uff0d",
+    "website":[
+        "http://zero.finance/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724",
+        "https://ethplorer.io/address/0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724"
+    ],
+    "id":248,
+    "name":"viberate",
+    "name_cn":"\uff0d",
+    "name_en":"Viberate/VIB",
+    "time":"2017-10-07",
+    "website":[
+        "https://www.viberate.com/"
+    ],
+    "whitepaper":"https://www.viberate.io/pdf/Viberate.io_Whitepaper.pdf"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://nxtportal.org/currencies/18154834130337484019"
+    ],
+    "id":1696,
+    "name":"nautiluscoin",
+    "name_cn":"\uff0d",
+    "name_en":"NautilusCoin/NAUT",
+    "time":"2014-05-27",
+    "website":[
+        "http://www.nautiluscoin.com"
+    ],
+    "whitepaper":"-"
+}

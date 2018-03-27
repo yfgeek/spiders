@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5121e348e897daef1eef23959ab290e5557cf274",
+        "https://ethplorer.io/address/0x5121e348e897daef1eef23959ab290e5557cf274"
+    ],
+    "id":1253,
+    "name":"poly-ai",
+    "name_cn":"\uff0d",
+    "name_en":"POLY AI/AI",
+    "time":"2017-11-25",
+    "website":[
+        "https://polynetwork.org/"
+    ],
+    "whitepaper":"https://polynetwork.org/public/whitepaper.pdf"
+}

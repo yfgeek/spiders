@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.impulsecoin.io/"
+    ],
+    "id":1191,
+    "name":"impulsecoin",
+    "name_cn":"\u8109\u51b2\u5e01",
+    "name_en":"ImpulseCoin/IMPS",
+    "time":"\uff0d",
+    "website":[
+        "http://www.impulsecoin.io/"
+    ],
+    "whitepaper":"-"
+}

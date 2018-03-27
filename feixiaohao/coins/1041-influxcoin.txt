@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/infx/"
+    ],
+    "id":1041,
+    "name":"influxcoin",
+    "name_cn":"\uff0d",
+    "name_en":"Influxcoin/INFX",
+    "time":"\uff0d",
+    "website":[
+        "http://influxcoin.xyz/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x226bb599a12c826476e3a771454697ea52e9e220",
+        "https://ethplorer.io/address/0x226bb599a12c826476e3a771454697ea52e9e220"
+    ],
+    "id":332,
+    "name":"propy",
+    "name_cn":"\uff0d",
+    "name_en":"Propy/PRO",
+    "time":"2017-09-20",
+    "website":[
+        "https://propy.com/"
+    ],
+    "whitepaper":"https://tokensale.propy.com/Propy-White-Paper-17-Jul-2017.pdf"
+}

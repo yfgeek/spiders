@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://170.75.163.187:3001/"
+    ],
+    "id":1870,
+    "name":"vgina",
+    "name_cn":"\uff0d",
+    "name_en":"VGINA/VGINA",
+    "time":"\uff0d",
+    "website":[
+        "http://www.vgina.ca/"
+    ],
+    "whitepaper":"-"
+}

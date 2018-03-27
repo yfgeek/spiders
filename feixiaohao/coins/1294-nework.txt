@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/"
+    ],
+    "id":1294,
+    "name":"nework",
+    "name_cn":"\uff0d",
+    "name_en":"Nework/NKC",
+    "time":"2018-01-30",
+    "website":[
+        "http://nework.pro/"
+    ],
+    "whitepaper":"http://nework.pro/whitepaper-cn.pdf"
+}

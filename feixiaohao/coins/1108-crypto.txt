@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://crypto.miningalts.com/"
+    ],
+    "id":1108,
+    "name":"crypto",
+    "name_cn":"\uff0d",
+    "name_en":"Crypto/CTO",
+    "time":"\uff0d",
+    "website":[
+        "http://tailflick.wix.com/official-crypto"
+    ],
+    "whitepaper":"-"
+}

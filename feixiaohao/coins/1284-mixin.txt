@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xa974c709cfb4566686553a20790685a47aceaa33"
+    ],
+    "id":1284,
+    "name":"mixin",
+    "name_cn":"\uff0d",
+    "name_en":"Mixin/XIN",
+    "time":"2018-01-09",
+    "website":[
+        "http://mixin.one"
+    ],
+    "whitepaper":"https://mixin.one/assets/Mixin-Draft-2017-12-22.pdf"
+}

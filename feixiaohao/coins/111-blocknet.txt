@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/block/"
+    ],
+    "id":111,
+    "name":"blocknet",
+    "name_cn":"\uff0d",
+    "name_en":"Blocknet/BLOCK",
+    "time":"\uff0d",
+    "website":[
+        "http://blocknet.co/"
+    ],
+    "whitepaper":"-"
+}

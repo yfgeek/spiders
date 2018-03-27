@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/btx",
+        "http://51.15.78.208:3001/"
+    ],
+    "id":120,
+    "name":"bitcore",
+    "name_cn":"\uff0d",
+    "name_en":"Bitcore/BTX",
+    "time":"2017-04-24",
+    "website":[
+        "http://bitcore.cc/"
+    ],
+    "whitepaper":"-"
+}

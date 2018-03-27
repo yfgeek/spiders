@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.byteball.org/"
+    ],
+    "id":86,
+    "name":"byteball",
+    "name_cn":"\u5b57\u8282\u96ea\u7403",
+    "name_en":"Byteball/GBYTE",
+    "time":"2017-01-30",
+    "website":[
+        "https://byteball.org/"
+    ],
+    "whitepaper":"-"
+}

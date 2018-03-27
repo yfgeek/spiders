@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1645,
+    "name":"lettercoin",
+    "name_cn":"\u4fe1\u5e01",
+    "name_en":"letter coin/LEC",
+    "time":"2017-08-01",
+    "website":[
+        "http://www.lettercoin.pro/"
+    ],
+    "whitepaper":"-"
+}

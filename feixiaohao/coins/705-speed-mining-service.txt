@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x39013f961c378f02c2b82a6e1d31e9812786fd9d",
+        "https://ethplorer.io/address/0x39013f961c378f02c2b82a6e1d31e9812786fd9d"
+    ],
+    "id":705,
+    "name":"speed-mining-service",
+    "name_cn":"\uff0d",
+    "name_en":"Speed Mining Service/SMS",
+    "time":"2018-01-31",
+    "website":[
+        "https://smscoin.jp/en"
+    ],
+    "whitepaper":"https://smscoin.jp/sites/default/files/whitepaper_cn.pdf"
+}

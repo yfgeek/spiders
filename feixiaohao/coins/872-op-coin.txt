@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://104.223.43.151:8080/",
+        "http://opcoin.prenges.rocks/"
+    ],
+    "id":872,
+    "name":"op-coin",
+    "name_cn":"\uff0d",
+    "name_en":"OP Coin/OPC",
+    "time":"2018-01-09",
+    "website":[
+        "http://opcoin.info/"
+    ],
+    "whitepaper":"-"
+}

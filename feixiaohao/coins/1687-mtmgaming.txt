@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "http://asset.burstnation.com/asset/15836104858047390466"
+    ],
+    "id":1687,
+    "name":"mtmgaming",
+    "name_cn":"\uff0d",
+    "name_en":"MTMGaming/MTM",
+    "time":"\uff0d",
+    "website":[],
+    "whitepaper":"-"
+}

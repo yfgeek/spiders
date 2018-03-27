@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://chain.uncoin.org/"
+    ],
+    "id":1856,
+    "name":"uncoin",
+    "name_cn":"\u8054\u548c\u5e01",
+    "name_en":"UNCoin/UNC",
+    "time":"\uff0d",
+    "website":[
+        "http://uncoin.org/"
+    ],
+    "whitepaper":"-"
+}

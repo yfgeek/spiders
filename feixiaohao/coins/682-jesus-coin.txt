@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xe2d82dc7da0e6f882e96846451f4fabcc8f90528",
+        "https://ethplorer.io/address/0xe2d82dc7da0e6f882e96846451f4fabcc8f90528"
+    ],
+    "id":682,
+    "name":"jesus-coin",
+    "name_cn":"\uff0d",
+    "name_en":"Jesus Coin/JC",
+    "time":"2018-02-13",
+    "website":[
+        "https://jesuscoin.network/"
+    ],
+    "whitepaper":"https://jesuscoin.network/wp-content/uploads/2018/01/whitepaper_JESUSCoin.pdf"
+}

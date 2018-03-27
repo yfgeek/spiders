@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://coinplorer.com/YAC"
+    ],
+    "id":1046,
+    "name":"yacoin",
+    "name_cn":"\u96c5\u5e01",
+    "name_en":"Yacoin/YAC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.yacoin.org"
+    ],
+    "whitepaper":"-"
+}

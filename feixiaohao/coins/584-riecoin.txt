@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/ric/"
+    ],
+    "id":584,
+    "name":"riecoin",
+    "name_cn":"\u9ece\u66fc\u5e01",
+    "name_en":"Riecoin/RIC",
+    "time":"2014-02-09",
+    "website":[
+        "http://riecoin.org/"
+    ],
+    "whitepaper":"-"
+}

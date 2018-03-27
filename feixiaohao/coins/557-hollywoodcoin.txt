@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://chain.hollywoodcoin.biz/"
+    ],
+    "id":557,
+    "name":"hollywoodcoin",
+    "name_cn":"\uff0d",
+    "name_en":"HollyWoodCoin/HWC",
+    "time":"2017-12-14",
+    "website":[
+        "http://hollywoodcoin.us/"
+    ],
+    "whitepaper":"-"
+}

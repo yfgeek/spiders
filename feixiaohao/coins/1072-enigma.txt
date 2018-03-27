@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockexplorer.enigmacoin.exnet.su/",
+        "http://www.multifaucet.tk/index.php?blockexplorer=XNG"
+    ],
+    "id":1072,
+    "name":"enigma",
+    "name_cn":"\uff0d",
+    "name_en":"Enigma/XNG",
+    "time":"\uff0d",
+    "website":[
+        "http://www.enigmacoin.exnet.su/"
+    ],
+    "whitepaper":"-"
+}

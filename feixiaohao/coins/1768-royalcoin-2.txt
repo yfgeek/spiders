@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "http://royalcoin-explorer.ml/"
+    ],
+    "id":1768,
+    "name":"royalcoin-2",
+    "name_cn":"\uff0d",
+    "name_en":"RoyalCoin 2/RYCN",
+    "time":"\uff0d",
+    "website":[],
+    "whitepaper":"-"
+}

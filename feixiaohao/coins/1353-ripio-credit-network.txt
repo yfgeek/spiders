@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+        "https://ethplorer.io/address/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6"
+    ],
+    "id":1353,
+    "name":"ripio-credit-network",
+    "name_cn":"\uff0d",
+    "name_en":"Ripio Credit Network/RCN",
+    "time":"2017-10-27",
+    "website":[
+        "https://ripiocredit.network/"
+    ],
+    "whitepaper":"https://ripiocredit.network/wp/RCN%20Whitepaper%20ENG.pdf"
+}

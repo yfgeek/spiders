@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://neotracker.io/asset/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7",
+        "https://neoexplorer.co/assets/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7",
+        "https://antchain.xyz/asset/hash/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7"
+    ],
+    "id":64,
+    "name":"gas",
+    "name_cn":"\uff0d",
+    "name_en":"Gas/GAS",
+    "time":"\uff0d",
+    "website":[
+        "https://neo.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2",
+        "https://ethplorer.io/address/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2"
+    ],
+    "id":773,
+    "name":"accelerator-network",
+    "name_cn":"\uff0d",
+    "name_en":"Accelerator Network/ACC",
+    "time":"2017-11-25",
+    "website":[
+        "https://accelerator.network/"
+    ],
+    "whitepaper":"-"
+}

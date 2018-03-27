@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://revolvercoin.org:3001/",
+        "http://yiimp.ccminer.org/explorer/XRE"
+    ],
+    "id":1003,
+    "name":"revolvercoin",
+    "name_cn":"\uff0d",
+    "name_en":"RevolverCoin/XRE",
+    "time":"\uff0d",
+    "website":[
+        "http://revolvercoin.org/"
+    ],
+    "whitepaper":"-"
+}

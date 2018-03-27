@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x05c7065d644096a4e4c3fe24af86e36de021074b",
+        "https://ethplorer.io/address/0x05c7065d644096a4e4c3fe24af86e36de021074b"
+    ],
+    "id":692,
+    "name":"lendconnect",
+    "name_cn":"\uff0d",
+    "name_en":"LendConnect/LCT",
+    "time":"2018-01-11",
+    "website":[
+        "https://lendconnect.io/"
+    ],
+    "whitepaper":"https://lendconnect.io/LCTwhitepaperv2.pdf"
+}

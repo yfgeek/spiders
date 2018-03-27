@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.sooncoin.com/"
+    ],
+    "id":1055,
+    "name":"sooncoin",
+    "name_cn":"\uff0d",
+    "name_en":"SoonCoin/SOON",
+    "time":"\uff0d",
+    "website":[
+        "http://www.sooncoin.com/"
+    ],
+    "whitepaper":"-"
+}

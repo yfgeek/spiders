@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/SwarmCity"
+    ],
+    "id":398,
+    "name":"swarm-city",
+    "name_cn":"\uff0d",
+    "name_en":"Swarm City/SWT",
+    "time":"\uff0d",
+    "website":[
+        "http://swarm.city/"
+    ],
+    "whitepaper":"-"
+}

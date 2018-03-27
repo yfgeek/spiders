@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.cfcoin66.com:8008/richlist"
+    ],
+    "id":722,
+    "name":"cfcion66",
+    "name_cn":"\u5496\u5561\u91d1\u94fe",
+    "name_en":"Coffee gold chain/CFC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.cfcoin66.com"
+    ],
+    "whitepaper":"http://www.cfcoin66.com/Upload/Files/17/10/1011ad99a7e0f2053f29c9ae917ef39c.pdf"
+}

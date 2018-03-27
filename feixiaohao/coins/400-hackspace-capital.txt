@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x43567eb78638A55bbE51E9f9FB5B2D7AD1F125aa",
+        "https://ethplorer.io/address/0x43567eb78638a55bbe51e9f9fb5b2d7ad1f125aa"
+    ],
+    "id":400,
+    "name":"hackspace-capital",
+    "name_cn":"\uff0d",
+    "name_en":"Hackspace Capital/HAC",
+    "time":"2018-01-15",
+    "website":[
+        "https://hackspace.capital/"
+    ],
+    "whitepaper":"https://hackspace.capital/userfls/docs/whitepaper_eng.pdf"
+}

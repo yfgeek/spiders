@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "http://explorer.geertcoin.com/"
+    ],
+    "id":1192,
+    "name":"geertcoin",
+    "name_cn":"\uff0d",
+    "name_en":"GeertCoin/GEERT",
+    "time":"\uff0d",
+    "website":[],
+    "whitepaper":"-"
+}

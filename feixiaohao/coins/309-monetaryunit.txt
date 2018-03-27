@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/mue/"
+    ],
+    "id":309,
+    "name":"monetaryunit",
+    "name_cn":"\uff0d",
+    "name_en":"MonetaryUnit/MUE",
+    "time":"\uff0d",
+    "website":[
+        "http://www.monetaryunit.org"
+    ],
+    "whitepaper":"-"
+}

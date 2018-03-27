@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+        "https://ethplorer.io/address/0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+    ],
+    "id":19,
+    "name":"binance-coin",
+    "name_cn":"\u5e01\u5b89\u5e01",
+    "name_en":"Binance Coin/BNB",
+    "time":"2017-07-26",
+    "website":[
+        "https://www.binance.com/"
+    ],
+    "whitepaper":"-"
+}

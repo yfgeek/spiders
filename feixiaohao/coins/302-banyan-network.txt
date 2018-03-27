@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x35a69642857083ba2f30bfab735dacc7f0bac969",
+        "https://ethplorer.io/address/0x35a69642857083ba2f30bfab735dacc7f0bac969"
+    ],
+    "id":302,
+    "name":"banyan-network",
+    "name_cn":"\u6995\u6811\u7f51\u7edc",
+    "name_en":"Banyan Network/BBN",
+    "time":"2018-03-21",
+    "website":[
+        "http://www.banyanbbt.org"
+    ],
+    "whitepaper":"https://www.banyanbbt.org/assets/downloads/BanyanNetwork_whitepaper_english_v92.pdf"
+}

@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1477,
+    "name":"cubits",
+    "name_cn":"\uff0d",
+    "name_en":"Cubits/QBT",
+    "time":"\uff0d",
+    "website":[
+        "http://qbt.scificrypto.info/"
+    ],
+    "whitepaper":"-"
+}

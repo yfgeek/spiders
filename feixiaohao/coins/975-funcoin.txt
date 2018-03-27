@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/a/FUNC"
+    ],
+    "id":975,
+    "name":"funcoin",
+    "name_cn":"\uff0d",
+    "name_en":"FUNCoin/FUNC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.funcoin.io/"
+    ],
+    "whitepaper":"-"
+}

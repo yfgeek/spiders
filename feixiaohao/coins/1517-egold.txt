@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x6025f65f6b2f93d8ed1efedc752acfd4bdbcec3e",
+        "https://ethplorer.io/address/0x6025f65f6b2f93d8ed1efedc752acfd4bdbcec3e"
+    ],
+    "id":1517,
+    "name":"egold",
+    "name_cn":"\uff0d",
+    "name_en":"EGOLD/EGOLD",
+    "time":"2017-11-02",
+    "website":[
+        "https://egoldtoken.org/"
+    ],
+    "whitepaper":"-"
+}

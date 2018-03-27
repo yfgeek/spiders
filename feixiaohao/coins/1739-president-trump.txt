@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=68"
+    ],
+    "id":1739,
+    "name":"president-trump",
+    "name_cn":"\uff0d",
+    "name_en":"President Trump/PRES",
+    "time":"\uff0d",
+    "website":[
+        "http://trump.2016coin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/snrg/"
+    ],
+    "id":537,
+    "name":"synergy",
+    "name_cn":"\uff0d",
+    "name_en":"Synergy/SNRG",
+    "time":"\uff0d",
+    "website":[
+        "http://www.synergycoin.com/"
+    ],
+    "whitepaper":"-"
+}

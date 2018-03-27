@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://miningpool2.thruhere.net:11003/"
+    ],
+    "id":1197,
+    "name":"playercoin",
+    "name_cn":"\uff0d",
+    "name_en":"PlayerCoin/PLACO",
+    "time":"2017-10-30",
+    "website":[
+        "http://www.playercoin.world/"
+    ],
+    "whitepaper":"-"
+}

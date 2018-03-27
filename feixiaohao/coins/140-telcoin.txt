@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x85e076361cc813a908ff672f9bad1541474402b2",
+        "https://ethplorer.io/address/0x85e076361cc813a908ff672f9bad1541474402b2"
+    ],
+    "id":140,
+    "name":"telcoin",
+    "name_cn":"\uff0d",
+    "name_en":"Telcoin/TEL",
+    "time":"2018-01-14",
+    "website":[
+        "https://www.telco.in/"
+    ],
+    "whitepaper":"-"
+}

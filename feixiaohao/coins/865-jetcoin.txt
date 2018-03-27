@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x8727c112c712c4a03371ac87a74dd6ab104af768"
+    ],
+    "id":865,
+    "name":"jetcoin",
+    "name_cn":"\uff0d",
+    "name_en":"JetCoin/JET",
+    "time":"2017-07-08",
+    "website":[
+        "http://www.jetcoininstitute.com/"
+    ],
+    "whitepaper":"https://www.jetcoininstitute.com/WhitePaperJetcoin.pdf"
+}

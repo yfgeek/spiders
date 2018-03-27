@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=35"
+    ],
+    "id":1365,
+    "name":"agoras-tokens",
+    "name_cn":"\uff0d",
+    "name_en":"Agoras Tokens/AGRS",
+    "time":"\uff0d",
+    "website":[
+        "http://www.idni.org/"
+    ],
+    "whitepaper":"-"
+}

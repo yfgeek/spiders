@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1592,
+    "name":"herochain",
+    "name_cn":"\u82f1\u96c4\u94fe",
+    "name_en":"HeroChain/HEC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.herochain.org/"
+    ],
+    "whitepaper":"http://www.herochain.org/img/HeroChainWhitePaper.pdf"
+}

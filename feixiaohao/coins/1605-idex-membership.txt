@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xcc13fc627effd6e35d2d2706ea3c4d7396c610ea",
+        "https://ethplorer.io/address/0xcc13fc627effd6e35d2d2706ea3c4d7396c610ea"
+    ],
+    "id":1605,
+    "name":"idex-membership",
+    "name_cn":"\uff0d",
+    "name_en":"IDEX Membership/IDXM",
+    "time":"2018-01-18",
+    "website":[
+        "https://auroradao.com/tokensale/"
+    ],
+    "whitepaper":"-"
+}

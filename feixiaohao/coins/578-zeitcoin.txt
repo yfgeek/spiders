@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/zeit/"
+    ],
+    "id":578,
+    "name":"zeitcoin",
+    "name_cn":"\u6cfd\u5854\u5e01",
+    "name_en":"Zeitcoin/ZTC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.zeit-coin.net"
+    ],
+    "whitepaper":"-"
+}

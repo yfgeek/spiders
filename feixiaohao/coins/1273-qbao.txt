@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.qtum.org/token/QMUDYjQpjkxZjjfEdKznqsim7VMS5LZzqp"
+    ],
+    "id":1273,
+    "name":"qbao",
+    "name_cn":"\uff0d",
+    "name_en":"Qbao/QBT",
+    "time":"2017-12-03",
+    "website":[
+        "https://qbao.fund"
+    ],
+    "whitepaper":"https://qbao.fund/qbao/qbao/resources/pdf/qbao_fund_zh-CN.pdf"
+}

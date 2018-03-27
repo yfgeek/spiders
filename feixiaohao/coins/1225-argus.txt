@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://blockexp.com:8046/"
+    ],
+    "id":1225,
+    "name":"argus",
+    "name_cn":"\uff0d",
+    "name_en":"Argus/ARGUS",
+    "time":"\uff0d",
+    "website":[
+        "https://www.argusnetwork.co"
+    ],
+    "whitepaper":"-"
+}

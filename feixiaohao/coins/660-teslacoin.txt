@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/tes/"
+    ],
+    "id":660,
+    "name":"teslacoin",
+    "name_cn":"\u7279\u65af\u62c9\u5e01",
+    "name_en":"TeslaCoin/TES",
+    "time":"\uff0d",
+    "website":[
+        "http://tesla-coin.com/"
+    ],
+    "whitepaper":"-"
+}

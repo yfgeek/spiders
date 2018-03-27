@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":96,
+    "name":"medishares",
+    "name_cn":"\uff0d",
+    "name_en":"MediShares/MDS",
+    "time":"2017-12-14",
+    "website":[
+        "http://www.medishares.org"
+    ],
+    "whitepaper":"http://doc.medishares.org/whitepaper/MediShares.Whitepaper.CN.pdf"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://growersintl.com/explorer/"
+    ],
+    "id":724,
+    "name":"growers-international",
+    "name_cn":"\uff0d",
+    "name_en":"Growers Inter.../GRWI",
+    "time":"2017-08-20",
+    "website":[
+        "http://growersintl.com/coin/"
+    ],
+    "whitepaper":"-"
+}

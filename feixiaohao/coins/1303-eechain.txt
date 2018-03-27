@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/address/0x7568b9ece8966ae20e7f5edf90bcd6b77c2a47ca"
+    ],
+    "id":1303,
+    "name":"eechain",
+    "name_cn":"\u6613\u80fd\u94fe",
+    "name_en":"Energy Eco Chain/EET",
+    "time":"2018-01-09",
+    "website":[
+        "http://www.energyecochain.com"
+    ],
+    "whitepaper":"http://www.energyecochain.com/assets/EnergyEcoChain_zh.pdf"
+}

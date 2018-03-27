@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://ardor.tools/"
+    ],
+    "id":1606,
+    "name":"ignis",
+    "name_cn":"\u706b\u94fe",
+    "name_en":"Ignis/IGNIS",
+    "time":"2017-12-14",
+    "website":[
+        "https://www.jelurida.com/ico",
+        "https://www.jelurida.com"
+    ],
+    "whitepaper":"-"
+}

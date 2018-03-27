@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/VULCANO/index.php",
+        "http://185.177.59.57:1400/"
+    ],
+    "id":1875,
+    "name":"vulcano",
+    "name_cn":"\uff0d",
+    "name_en":"Vulcano/VULC",
+    "time":"2017-10-31",
+    "website":[
+        "https://vulcanocoin.club/"
+    ],
+    "whitepaper":"-"
+}

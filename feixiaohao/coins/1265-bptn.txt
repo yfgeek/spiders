@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1265,
+    "name":"bptn",
+    "name_cn":"\u540d\u4eba\u94fe",
+    "name_en":"BPTN/BPTN",
+    "time":"2018-02-19",
+    "website":[
+        "http://www.bptn.io/"
+    ],
+    "whitepaper":"http://www.bptn.io/whitepaper_cn"
+}

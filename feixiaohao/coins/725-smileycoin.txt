@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/smly/"
+    ],
+    "id":725,
+    "name":"smileycoin",
+    "name_cn":"\uff0d",
+    "name_en":"SmileyCoin/SMLY",
+    "time":"\uff0d",
+    "website":[
+        "http://tutor-web.info"
+    ],
+    "whitepaper":"-"
+}

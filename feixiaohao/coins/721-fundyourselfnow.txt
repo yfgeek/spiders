@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/FundYourselfNow",
+        "http://ethplorer.io/address/0x88FCFBc22C6d3dBaa25aF478C578978339BDe77a"
+    ],
+    "id":721,
+    "name":"fundyourselfnow",
+    "name_cn":"\uff0d",
+    "name_en":"FundYourselfN.../FYN",
+    "time":"2017-08-05",
+    "website":[
+        "https://www.fundyourselfnow.com/"
+    ],
+    "whitepaper":"https://www.fundyourselfnow.com/wp-content/uploads/2017/04/FYN-Business_Outline-2017.pdf"
+}

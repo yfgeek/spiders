@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1874,
+    "name":"vtcoin",
+    "name_cn":"\u4ee5\u7279\u5e01",
+    "name_en":"VTCoin/VTC",
+    "time":"\uff0d",
+    "website":[
+        "https://www.vtcoin.co"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/insn/",
+        "http://insane.thecryptochat.net/"
+    ],
+    "id":781,
+    "name":"insanecoin-insn",
+    "name_cn":"\uff0d",
+    "name_en":"InsaneCoin/INSN",
+    "time":"\uff0d",
+    "website":[
+        "http://www.insanecoin.com"
+    ],
+    "whitepaper":"-"
+}

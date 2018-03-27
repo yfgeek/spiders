@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://tradecoinv2.com:3002/"
+    ],
+    "id":1844,
+    "name":"tradecoin-v2",
+    "name_cn":"\uff0d",
+    "name_en":"TradecoinV2/TRADE2",
+    "time":"2017-07-12",
+    "website":[
+        "http://tradecoinv2.site/"
+    ],
+    "whitepaper":"-"
+}

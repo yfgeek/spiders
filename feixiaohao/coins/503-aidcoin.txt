@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x37e8789bb9996cac9156cd5f5fd32599e6b91289",
+        "https://ethplorer.io/address/0x37e8789bb9996cac9156cd5f5fd32599e6b91289"
+    ],
+    "id":503,
+    "name":"aidcoin",
+    "name_cn":"\uff0d",
+    "name_en":"AidCoin/AID",
+    "time":"2018-01-25",
+    "website":[
+        "https://www.aidcoin.co/"
+    ],
+    "whitepaper":"-"
+}

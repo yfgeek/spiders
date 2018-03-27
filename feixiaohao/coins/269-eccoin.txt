@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/ecc/",
+        "https://cryptobe.com/chain/E-CurrencyCoin"
+    ],
+    "id":269,
+    "name":"eccoin",
+    "name_cn":"\uff0d",
+    "name_en":"E-Currency Coin/ECC",
+    "time":"\uff0d",
+    "website":[
+        "https://ecc.network/"
+    ],
+    "whitepaper":"https://ecc.network/downloads/documents/ecc-whitepaper.pdf"
+}

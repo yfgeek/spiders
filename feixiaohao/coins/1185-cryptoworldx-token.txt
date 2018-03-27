@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "https://explorer.cryptoworldx.com/"
+    ],
+    "id":1185,
+    "name":"cryptoworldx-token",
+    "name_cn":"\uff0d",
+    "name_en":"CryptoWorldX .../CWXT",
+    "time":"\uff0d",
+    "website":[],
+    "whitepaper":"-"
+}

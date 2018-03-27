@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.fiyea.com/arc/"
+    ],
+    "id":882,
+    "name":"arroncoin",
+    "name_cn":"\u827e\u4f26\u5e01",
+    "name_en":"ArronCoin/ARC",
+    "time":"2016-08-15",
+    "website":[
+        "http://www.ailuncoin.com/"
+    ],
+    "whitepaper":"-"
+}

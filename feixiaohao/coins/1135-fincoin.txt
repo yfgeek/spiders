@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.fincoin.co/"
+    ],
+    "id":1135,
+    "name":"fincoin",
+    "name_cn":"\uff0d",
+    "name_en":"FinCoin/FNC",
+    "time":"2017-07-12",
+    "website":[
+        "http://fincoin.co/"
+    ],
+    "whitepaper":"-"
+}

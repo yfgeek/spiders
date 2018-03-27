@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "http://blockexplorer.virtualcoin.ca/"
+    ],
+    "id":926,
+    "name":"virtualcoin",
+    "name_cn":"\u865a\u62df\u5e01",
+    "name_en":"VirtualCoin/VC",
+    "time":"\uff0d",
+    "website":[],
+    "whitepaper":"-"
+}

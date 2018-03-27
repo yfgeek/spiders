@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.rublebit.info/"
+    ],
+    "id":1770,
+    "name":"rublebit",
+    "name_cn":"\uff0d",
+    "name_en":"RubleBit/RUBIT",
+    "time":"\uff0d",
+    "website":[
+        "http://rublebit.com/"
+    ],
+    "whitepaper":"-"
+}

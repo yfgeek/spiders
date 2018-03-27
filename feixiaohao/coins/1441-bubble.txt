@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "https://cryptobe.com/chain/Bubble"
+    ],
+    "id":1441,
+    "name":"bubble",
+    "name_cn":"\uff0d",
+    "name_en":"Bubble/BUB",
+    "time":"\uff0d",
+    "website":[],
+    "whitepaper":"-"
+}

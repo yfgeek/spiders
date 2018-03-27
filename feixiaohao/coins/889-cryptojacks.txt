@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://node1.cryptojacks.com/"
+    ],
+    "id":889,
+    "name":"cryptojacks",
+    "name_cn":"\uff0d",
+    "name_en":"Cryptojacks/CJ",
+    "time":"\uff0d",
+    "website":[
+        "http://cryptojacks.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://poswallet.com/blockChain/posw/"
+    ],
+    "id":406,
+    "name":"posw-coin",
+    "name_cn":"\uff0d",
+    "name_en":"PoSW Coin/POSW",
+    "time":"\uff0d",
+    "website":[
+        "https://posw.io/"
+    ],
+    "whitepaper":"-"
+}

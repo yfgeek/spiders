@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf7920b0768ecb20a123fac32311d07d193381d6f",
+        "https://ethplorer.io/address/0xf7920b0768ecb20a123fac32311d07d193381d6f"
+    ],
+    "id":148,
+    "name":"timenewbank",
+    "name_cn":"\uff0d",
+    "name_en":"Time New Bank/TNB",
+    "time":"2017-11-27",
+    "website":[
+        "https://tnb.fund/"
+    ],
+    "whitepaper":"https://tnb.fund/pdf/TNB_business_white_paper_zh.pdf?v=1.0.1"
+}

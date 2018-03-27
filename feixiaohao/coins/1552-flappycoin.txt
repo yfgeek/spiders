@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.goflap.io"
+    ],
+    "id":1552,
+    "name":"flappycoin",
+    "name_cn":"\u8c61\u7d20\u9e1f\u5e01",
+    "name_en":"FlappyCoin/FLAP",
+    "time":"\uff0d",
+    "website":[
+        "https://flappycoins.wordpress.com/"
+    ],
+    "whitepaper":"-"
+}

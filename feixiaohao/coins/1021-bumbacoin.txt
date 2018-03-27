@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://blockchain.bumbacoin.com/"
+    ],
+    "id":1021,
+    "name":"bumbacoin",
+    "name_cn":"\uff0d",
+    "name_en":"BumbaCoin/BUMBA",
+    "time":"\uff0d",
+    "website":[
+        "http://bumbacoin.com/"
+    ],
+    "whitepaper":"-"
+}

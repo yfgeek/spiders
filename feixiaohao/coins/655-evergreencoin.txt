@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://transactions.evergreencoin.org/"
+    ],
+    "id":655,
+    "name":"evergreencoin",
+    "name_cn":"\u9ec4\u91d1\u5e01",
+    "name_en":"EverGreenCoin/EGC",
+    "time":"\uff0d",
+    "website":[
+        "http://evergreencoin.org/"
+    ],
+    "whitepaper":"-"
+}

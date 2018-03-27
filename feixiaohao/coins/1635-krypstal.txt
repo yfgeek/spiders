@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/krs"
+    ],
+    "id":1635,
+    "name":"krypstal",
+    "name_cn":"\uff0d",
+    "name_en":"Krypstal/KRS",
+    "time":"2017-08-20",
+    "website":[
+        "https://www.krypstal.com/"
+    ],
+    "whitepaper":"-"
+}

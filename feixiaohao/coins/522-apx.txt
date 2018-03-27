@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":522,
+    "name":"apx",
+    "name_cn":"\uff0d",
+    "name_en":"APX/APX",
+    "time":"\uff0d",
+    "website":[
+        "https://apxv.org/"
+    ],
+    "whitepaper":"-"
+}

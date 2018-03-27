@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/dollar/"
+    ],
+    "id":1215,
+    "name":"dollar-online",
+    "name_cn":"\uff0d",
+    "name_en":"Dollar Online/DOLLAR",
+    "time":"\uff0d",
+    "website":[
+        "http://www.edollar.online/"
+    ],
+    "whitepaper":"-"
+}

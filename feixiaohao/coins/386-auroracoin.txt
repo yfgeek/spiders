@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/aur/",
+        "http://insight.auroracoin.is/"
+    ],
+    "id":386,
+    "name":"auroracoin",
+    "name_cn":"\u6781\u5149\u5e01",
+    "name_en":"Auroracoin/AUR",
+    "time":"\uff0d",
+    "website":[
+        "http://auroracoin.is/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1515,
+    "name":"egcchain",
+    "name_cn":"\uff0d",
+    "name_en":"Engine/EGCC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.egcchain.com/"
+    ],
+    "whitepaper":"http://7xqn4j.com1.z0.glb.clouddn.com/Engine%20V2.2.2%20-%20Chinese%20Version.pdf"
+}

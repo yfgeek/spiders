@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/OmiseGo",
+        "https://ethplorer.io/address/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
+    ],
+    "id":22,
+    "name":"omisego",
+    "name_cn":"\u5ae9\u6a21\u5e01",
+    "name_en":"OmiseGo/OMG",
+    "time":"2017-06-27",
+    "website":[
+        "https://omg.omise.co/"
+    ],
+    "whitepaper":"https://cdn.omise.co/omg/whitepaper.pdf"
+}

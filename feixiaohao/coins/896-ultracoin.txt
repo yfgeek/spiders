@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://utc.presstab.pw/"
+    ],
+    "id":896,
+    "name":"ultracoin",
+    "name_cn":"\u6fc0\u8fdb\u5e01",
+    "name_en":"UltraCoin/UTC",
+    "time":"\uff0d",
+    "website":[
+        "http://ultracoin.io/"
+    ],
+    "whitepaper":"-"
+}

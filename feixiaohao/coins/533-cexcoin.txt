@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":533,
+    "name":"cexcoin",
+    "name_cn":"\uff0d",
+    "name_en":"CEXCOIN/CEX",
+    "time":"2017-11-30",
+    "website":[
+        "https://cex.com/"
+    ],
+    "whitepaper":"-"
+}

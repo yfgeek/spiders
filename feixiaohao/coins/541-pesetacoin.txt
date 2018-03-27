@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/ptc/"
+    ],
+    "id":541,
+    "name":"pesetacoin",
+    "name_cn":"\u6781\u5b9d\u5e01",
+    "name_en":"Pesetacoin/PTC",
+    "time":"\uff0d",
+    "website":[
+        "http://pesetacoin.info/"
+    ],
+    "whitepaper":"-"
+}

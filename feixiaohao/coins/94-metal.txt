@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xF433089366899D83a9f26A773D59ec7eCF30355e"
+    ],
+    "id":94,
+    "name":"metal",
+    "name_cn":"\uff0d",
+    "name_en":"Metal/MTL",
+    "time":"2017-07-10",
+    "website":[
+        "https://www.metalpay.com/"
+    ],
+    "whitepaper":"https://www.metalpay.com/assets/pdf/whitepaper.pdf"
+}

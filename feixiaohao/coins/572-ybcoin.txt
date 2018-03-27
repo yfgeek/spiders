@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer_ybc.taiyilabs.com/"
+    ],
+    "id":572,
+    "name":"ybcoin",
+    "name_cn":"\u5143\u5b9d\u5e01",
+    "name_en":"YbCoin/YBCT",
+    "time":"2013-06-28",
+    "website":[
+        "http://www.ybcoin.com/"
+    ],
+    "whitepaper":"-"
+}

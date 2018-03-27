@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/2give"
+    ],
+    "id":617,
+    "name":"2give",
+    "name_cn":"\uff0d",
+    "name_en":"2GIVE/2GIVE",
+    "time":"\uff0d",
+    "website":[
+        "https://2give.info/"
+    ],
+    "whitepaper":"-"
+}

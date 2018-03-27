@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://neotracker.io/asset/ac116d4b8d4ca55e6b6d4ecce2192039b51cccc5"
+    ],
+    "id":268,
+    "name":"zeepin",
+    "name_cn":"\uff0d",
+    "name_en":"Zeepin/ZPT",
+    "time":"2018-01-31",
+    "website":[
+        "https://www.zeepin.io/"
+    ],
+    "whitepaper":"https://www.zeepin.io/whitepaper.php?type=list"
+}

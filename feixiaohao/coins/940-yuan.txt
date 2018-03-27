@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://yuancoin.coingogo.com/"
+    ],
+    "id":940,
+    "name":"yuan",
+    "name_cn":"\u6e90\u5e01",
+    "name_en":"YUANCOIN/YUAN",
+    "time":"\uff0d",
+    "website":[
+        "http://yuancoin.coingogo.com/"
+    ],
+    "whitepaper":"-"
+}

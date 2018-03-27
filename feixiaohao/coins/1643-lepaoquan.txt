@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://120.27.125.227/"
+    ],
+    "id":1643,
+    "name":"lepaoquan",
+    "name_cn":"\u4e50\u8dd1\u5708",
+    "name_en":"Lepaoquan/HLB",
+    "time":"\uff0d",
+    "website":[
+        "http://www.lepaoquan.com/"
+    ],
+    "whitepaper":"-"
+}

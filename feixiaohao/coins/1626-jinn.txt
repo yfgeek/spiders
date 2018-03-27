@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://www.mynxt.info/asset/3061160746493230502"
+    ],
+    "id":1626,
+    "name":"jinn",
+    "name_cn":"\uff0d",
+    "name_en":"Jinn/JINN",
+    "time":"\uff0d",
+    "website":[
+        "http://www.jinnlabs.com"
+    ],
+    "whitepaper":"-"
+}

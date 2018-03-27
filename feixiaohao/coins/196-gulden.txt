@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://blockchain.gulden.com/"
+    ],
+    "id":196,
+    "name":"gulden",
+    "name_cn":"\uff0d",
+    "name_en":"Gulden/NLG",
+    "time":"\uff0d",
+    "website":[
+        "https://gulden.com/"
+    ],
+    "whitepaper":"-"
+}

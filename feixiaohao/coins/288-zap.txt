@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x6781a0f84c7e9e846dcb84a9a5bd49333067b104",
+        "https://ethplorer.io/address/0x6781a0f84c7e9e846dcb84a9a5bd49333067b104"
+    ],
+    "id":288,
+    "name":"zap",
+    "name_cn":"\uff0d",
+    "name_en":"ZAP/ZAP",
+    "time":"2018-01-11",
+    "website":[
+        "http://www.zap.org/"
+    ],
+    "whitepaper":"https://www.zap.store/whitepaper.pdf"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://cagechain.info/chain/Cagecoin"
+    ],
+    "id":1444,
+    "name":"cagecoin",
+    "name_cn":"\u51ef\u5947\u5e01",
+    "name_en":"CageCoin/CAGE",
+    "time":"\uff0d",
+    "website":[
+        "http://cagecoin.net"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/blitz/"
+    ],
+    "id":650,
+    "name":"blitzcash",
+    "name_cn":"\uff0d",
+    "name_en":"Blitzcash/BLITZ",
+    "time":"\uff0d",
+    "website":[
+        "http://blitz.cash"
+    ],
+    "whitepaper":"-"
+}

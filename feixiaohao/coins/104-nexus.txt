@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://nexusoft.io/platform/Explorer",
+        "http://nxs.efficienthash.com/",
+        "http://nxsorbitalscan.com/"
+    ],
+    "id":104,
+    "name":"nexus",
+    "name_cn":"\uff0d",
+    "name_en":"Nexus/NXS",
+    "time":"\uff0d",
+    "website":[
+        "http://www.nexusearth.com/"
+    ],
+    "whitepaper":"-"
+}

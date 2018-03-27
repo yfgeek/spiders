@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x44197a4c44d6a059297caf6be4f7e172bd56caaf",
+        "https://ethplorer.io/address/0x44197a4c44d6a059297caf6be4f7e172bd56caaf"
+    ],
+    "id":716,
+    "name":"eltcoin",
+    "name_cn":"\uff0d",
+    "name_en":"ELTCOIN/ELTCOIN",
+    "time":"2017-11-05",
+    "website":[
+        "https://www.eltcoin.tech/"
+    ],
+    "whitepaper":"https://s3.eu-west-1.amazonaws.com/eltcoin/ELTCOIN%20WHITEPAPER.pdf"
+}

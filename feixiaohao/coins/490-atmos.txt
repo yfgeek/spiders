@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/atms/"
+    ],
+    "id":490,
+    "name":"atmos",
+    "name_cn":"\uff0d",
+    "name_en":"Atmos/ATMS",
+    "time":"\uff0d",
+    "website":[
+        "https://novusphere.io/"
+    ],
+    "whitepaper":"-"
+}

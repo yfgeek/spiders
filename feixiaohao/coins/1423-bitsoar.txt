@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://bsrblockchain.com/"
+    ],
+    "id":1423,
+    "name":"bitsoar",
+    "name_cn":"\uff0d",
+    "name_en":"BitSoar/BSR",
+    "time":"2017-10-18",
+    "website":[
+        "http://bitsoar.com/"
+    ],
+    "whitepaper":"-"
+}

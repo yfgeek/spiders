@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://173.254.204.74:12313/",
+        "http://xgox.ddns.net/"
+    ],
+    "id":1305,
+    "name":"go-coin",
+    "name_cn":"\uff0d",
+    "name_en":"XGOX/XGOX",
+    "time":"2017-10-19",
+    "website":[
+        "http://xgox.rocks/"
+    ],
+    "whitepaper":"-"
+}

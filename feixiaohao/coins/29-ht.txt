@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":29,
+    "name":"ht",
+    "name_cn":"\u706b\u5e01\u5168\u7403\u79ef\u5206",
+    "name_en":"HT/HT",
+    "time":"2018-01-24",
+    "website":[
+        "https://www.huobi.pro"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.socialsend.io/"
+    ],
+    "id":677,
+    "name":"social-send",
+    "name_cn":"\uff0d",
+    "name_en":"Social Send/SEND",
+    "time":"2017-12-07",
+    "website":[
+        "http://socialsend.io/"
+    ],
+    "whitepaper":"-"
+}

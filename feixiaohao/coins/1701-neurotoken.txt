@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x69beab403438253f13b6e92db91f7fb849258263",
+        "http://ethplorer.io/address/0x69beab403438253f13b6e92db91f7fb849258263"
+    ],
+    "id":1701,
+    "name":"neurotoken",
+    "name_cn":"\uff0d",
+    "name_en":"Neurotoken/NTK",
+    "time":"2018-02-20",
+    "website":[
+        "https://neuromation.io/"
+    ],
+    "whitepaper":"https://neuromation.io/whitepaper.php?lang=en"
+}

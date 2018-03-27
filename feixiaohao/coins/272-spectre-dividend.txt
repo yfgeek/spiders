@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf",
+        "https://ethplorer.io/address/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf"
+    ],
+    "id":272,
+    "name":"spectre-dividend",
+    "name_cn":"\uff0d",
+    "name_en":"SXDT/SXDT",
+    "time":"2018-01-12",
+    "website":[
+        "http://www.spectre.ai/"
+    ],
+    "whitepaper":"https://d1zzssn32v8b7a.cloudfront.net/media/en/spectre_whitepaper_v_2_3.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf",
+        "https://ethplorer.io/address/0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf"
+    ],
+    "id":321,
+    "name":"latoken",
+    "name_cn":"\uff0d",
+    "name_en":"LAToken/LA",
+    "time":"2017-10-26",
+    "website":[
+        "https://sale.latoken.com/"
+    ],
+    "whitepaper":"-"
+}

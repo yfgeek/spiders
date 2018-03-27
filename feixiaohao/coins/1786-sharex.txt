@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1786,
+    "name":"sharex",
+    "name_cn":"\uff0d",
+    "name_en":"ShareX/SEXC",
+    "time":"2018-01-19",
+    "website":[
+        "https://sharex.vc/"
+    ],
+    "whitepaper":"https://sharex.vc/pdf.html"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+        "https://ethplorer.io/address/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e"
+    ],
+    "id":66,
+    "name":"dragonchain",
+    "name_cn":"\u9f99\u94fe",
+    "name_en":"Dragonchain/DRGN",
+    "time":"2017-12-04",
+    "website":[
+        "https://dragonchain.com/"
+    ],
+    "whitepaper":"https://dragonchain.com/assets/Dragonchain_Business_Summary.pdf"
+}

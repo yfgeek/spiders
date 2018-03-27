@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1350,
+    "name":"commerceblock",
+    "name_cn":"\uff0d",
+    "name_en":"Commerceblock/CBT",
+    "time":"\uff0d",
+    "website":[
+        "https://www.commerceblock.com/"
+    ],
+    "whitepaper":"https://www.commerceblock.com/commerceblock-whitepaper.pdf"
+}

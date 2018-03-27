@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1668,
+    "name":"mex",
+    "name_cn":"\uff0d",
+    "name_en":"MEX/MEX",
+    "time":"\uff0d",
+    "website":[
+        "http://introduce.mex.link/"
+    ],
+    "whitepaper":"http://introduce.mex.link/whitepaper/mex_whitepaper_final.pdf"
+}

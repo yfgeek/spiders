@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/put/",
+        "http://explorer.putincoin.org:8080/"
+    ],
+    "id":664,
+    "name":"putincoin",
+    "name_cn":"\uff0d",
+    "name_en":"PutinCoin/PUT",
+    "time":"\uff0d",
+    "website":[
+        "https://putincoin.org",
+        "https://putincoin.info/"
+    ],
+    "whitepaper":"-"
+}

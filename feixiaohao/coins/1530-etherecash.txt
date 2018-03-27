@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1530,
+    "name":"etherecash",
+    "name_cn":"\uff0d",
+    "name_en":"Etherecash/ECH",
+    "time":"2018-02-18",
+    "website":[
+        "http://etherecash.io/"
+    ],
+    "whitepaper":"https://etherecash.io/whitepaper/White%20Paper%20V2.0.pdf"
+}

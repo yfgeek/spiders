@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/bcc/",
+        "https://www.blockexperts.com/bcc"
+    ],
+    "id":1338,
+    "name":"bitconnect",
+    "name_cn":"\uff0d",
+    "name_en":"BitConnect/BCC",
+    "time":"\uff0d",
+    "website":[
+        "https://bitconnectcoin.co/"
+    ],
+    "whitepaper":"-"
+}

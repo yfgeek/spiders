@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xc8c6a31a4a806d3710a7b38b7b296d2fabccdba8",
+        "https://ethplorer.io/address/0xc8c6a31a4a806d3710a7b38b7b296d2fabccdba8"
+    ],
+    "id":483,
+    "name":"elixir",
+    "name_cn":"\uff0d",
+    "name_en":"Elixir/ELIX",
+    "time":"2017-09-24",
+    "website":[
+        "http://elixirtoken.io/"
+    ],
+    "whitepaper":"-"
+}

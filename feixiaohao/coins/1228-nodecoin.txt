@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "http://cryptoguru.tk/CurrencyInfo/index.php?Currency=NODC"
+    ],
+    "id":1228,
+    "name":"nodecoin",
+    "name_cn":"\u8282\u70b9\u5e01",
+    "name_en":"NodeCoin/NODC",
+    "time":"\uff0d",
+    "website":[],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765",
+        "http://ethplorer.io/address/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765"
+    ],
+    "id":1308,
+    "name":"liveedu",
+    "name_cn":"\uff0d",
+    "name_en":"LiveEdu/LEDU",
+    "time":"2018-03-05",
+    "website":[
+        "https://tokensale.liveedu.tv/",
+        "https://www.liveedu.tv/"
+    ],
+    "whitepaper":"https://tokensale.liveedu.tv/static/docs/LiveEdu-white-paper-zh.pdf"
+}

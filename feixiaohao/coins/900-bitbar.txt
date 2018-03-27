@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://btb.altcoinwarz.com"
+    ],
+    "id":900,
+    "name":"bitbar",
+    "name_cn":"\u6bd4\u7279\u91d1\u6761",
+    "name_en":"BitBar/BTB",
+    "time":"\uff0d",
+    "website":[
+        "http://bitbar.co/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/sfc"
+    ],
+    "id":1172,
+    "name":"solarflarecoin",
+    "name_cn":"\uff0d",
+    "name_en":"Solarflarecoin/SFC",
+    "time":"\uff0d",
+    "website":[
+        "http://solarflarecoin.us/"
+    ],
+    "whitepaper":"-"
+}

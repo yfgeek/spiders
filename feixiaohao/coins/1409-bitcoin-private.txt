@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.btcprivate.org/"
+    ],
+    "id":1409,
+    "name":"bitcoin-private",
+    "name_cn":"\uff0d",
+    "name_en":"Bitcoin Private/BTCP",
+    "time":"2018-03-10",
+    "website":[
+        "https://btcprivate.org/"
+    ],
+    "whitepaper":"https://btcprivate.org/whitepaper_zh_cn.pdf?lang=zh_cn"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://openledger.io/asset/SMOKE"
+    ],
+    "id":1801,
+    "name":"smoke",
+    "name_cn":"\uff0d",
+    "name_en":"Smoke/SMOKE",
+    "time":"2017-08-18",
+    "website":[
+        "https://www.smoke.network/"
+    ],
+    "whitepaper":"-"
+}

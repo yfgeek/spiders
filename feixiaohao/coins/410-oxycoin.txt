@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.oxycoin.io/"
+    ],
+    "id":410,
+    "name":"oxycoin",
+    "name_cn":"\uff0d",
+    "name_en":"Oxycoin/OXY",
+    "time":"2017-11-11",
+    "website":[
+        "https://oxycoin.io/"
+    ],
+    "whitepaper":"https://oxycoin.io/whitepaper.pdf"
+}

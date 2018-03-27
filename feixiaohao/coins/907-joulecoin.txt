@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/xjo/"
+    ],
+    "id":907,
+    "name":"joulecoin",
+    "name_cn":"\u7126\u8033\u5e01",
+    "name_en":"Joulecoin/XJO",
+    "time":"\uff0d",
+    "website":[
+        "http://www.jouleco.in/"
+    ],
+    "whitepaper":"-"
+}

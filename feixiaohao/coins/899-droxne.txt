@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.droxne.network/",
+        "http://45.63.119.167:3002/"
+    ],
+    "id":899,
+    "name":"droxne",
+    "name_cn":"\uff0d",
+    "name_en":"DROXNE/DRXNE",
+    "time":"2017-09-15",
+    "website":[
+        "http://droxne.net/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/strat/",
+        "http://cryptobe.com/chain/Stratis"
+    ],
+    "id":30,
+    "name":"stratis",
+    "name_cn":"\uff0d",
+    "name_en":"Stratis/STRAT",
+    "time":"2016-08-06",
+    "website":[
+        "http://stratisplatform.com/"
+    ],
+    "whitepaper":"https://stratisplatform.com/files/Stratis_Whitepaper.pdf"
+}

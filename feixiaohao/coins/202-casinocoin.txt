@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://csc.blockexp.info/chain/CasinoCoin"
+    ],
+    "id":202,
+    "name":"casinocoin",
+    "name_cn":"\u5361\u897f\u8bfa\u5e01",
+    "name_en":"CasinoCoin/CSC",
+    "time":"\uff0d",
+    "website":[
+        "http://casinocoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=56"
+    ],
+    "id":278,
+    "name":"safe-exchange-coin",
+    "name_cn":"\uff0d",
+    "name_en":"Safe Exchange Coin/SAFEX",
+    "time":"\uff0d",
+    "website":[
+        "http://safex.io/"
+    ],
+    "whitepaper":"-"
+}

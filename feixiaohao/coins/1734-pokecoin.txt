@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "http://application.id/explorer/poke/"
+    ],
+    "id":1734,
+    "name":"pokecoin",
+    "name_cn":"\uff0d",
+    "name_en":"PokeCoin/POKE",
+    "time":"\uff0d",
+    "website":[],
+    "whitepaper":"-"
+}

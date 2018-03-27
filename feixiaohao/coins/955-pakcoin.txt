@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/pak/",
+        "https://prohashing.com/explorer/Pakcoin/"
+    ],
+    "id":955,
+    "name":"pakcoin",
+    "name_cn":"\uff0d",
+    "name_en":"Pakcoin/PAK",
+    "time":"\uff0d",
+    "website":[
+        "http://www.pakcoin.io/"
+    ],
+    "whitepaper":"-"
+}

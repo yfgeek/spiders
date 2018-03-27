@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1443,
+    "name":"bxb",
+    "name_cn":"\u5e01\u5174\u80a1",
+    "name_en":"BXB/BXB",
+    "time":"2017-06-26",
+    "website":[
+        "http://www.coin78.com/"
+    ],
+    "whitepaper":"-"
+}

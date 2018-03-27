@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf70a642bd387f94380ffb90451c2c81d4eb82cbc"
+    ],
+    "id":502,
+    "name":"starbase",
+    "name_cn":"\uff0d",
+    "name_en":"Starbase/STAR",
+    "time":"2017-12-19",
+    "website":[
+        "https://starbase.co/"
+    ],
+    "whitepaper":"https://starbase.co/whitepaper"
+}

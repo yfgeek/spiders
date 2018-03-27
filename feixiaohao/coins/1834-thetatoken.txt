@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1834,
+    "name":"thetatoken",
+    "name_cn":"\uff0d",
+    "name_en":"Theta/THETA",
+    "time":"2018-01-16",
+    "website":[
+        "https://www.thetatoken.org/"
+    ],
+    "whitepaper":"https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-latest.pdf"
+}

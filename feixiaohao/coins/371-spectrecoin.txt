@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/xspec/"
+    ],
+    "id":371,
+    "name":"spectrecoin",
+    "name_cn":"\u5e7d\u7075\u5e01",
+    "name_en":"Spectrecoin/XSPEC",
+    "time":"\uff0d",
+    "website":[
+        "https://spectreproject.io/",
+        "http://coinwiki.info/en/SpectreCoin"
+    ],
+    "whitepaper":"https://eprint.iacr.org/2016/1159.pdf"
+}

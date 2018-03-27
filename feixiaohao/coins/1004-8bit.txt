@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.8bit.trade/",
+        "http://explorer.8-bit.ga/"
+    ],
+    "id":1004,
+    "name":"8bit",
+    "name_cn":"\uff0d",
+    "name_en":"8Bit/8BIT",
+    "time":"\uff0d",
+    "website":[
+        "http://www.8-bit.ga/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=50"
+    ],
+    "id":1829,
+    "name":"teslacoilcoin",
+    "name_cn":"\uff0d",
+    "name_en":"TeslaCoilCoin/TESLA",
+    "time":"\uff0d",
+    "website":[
+        "http://teslacoilcoin.org/"
+    ],
+    "whitepaper":"-"
+}

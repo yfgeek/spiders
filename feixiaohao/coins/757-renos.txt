@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://45.32.173.218/"
+    ],
+    "id":757,
+    "name":"renos",
+    "name_cn":"\uff0d",
+    "name_en":"Renos/RNS",
+    "time":"\uff0d",
+    "website":[
+        "https://renoscoin.com/"
+    ],
+    "whitepaper":"-"
+}

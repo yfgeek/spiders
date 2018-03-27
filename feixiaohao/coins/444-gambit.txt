@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/gam/"
+    ],
+    "id":444,
+    "name":"gambit",
+    "name_cn":"\uff0d",
+    "name_en":"Gambit/GAM",
+    "time":"\uff0d",
+    "website":[
+        "http://www.gambitcrypto.com"
+    ],
+    "whitepaper":"-"
+}

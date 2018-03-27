@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x07e3c70653548B04f0A75970C1F81B4CBbFB606f",
+        "https://ethplorer.io/address/0x07e3c70653548b04f0a75970c1f81b4cbbfb606f"
+    ],
+    "id":307,
+    "name":"agrello-delta",
+    "name_cn":"\uff0d",
+    "name_en":"Agrello/DLT",
+    "time":"2017-09-10",
+    "website":[
+        "https://www.agrello.org/",
+        "https://www.agrello.io/"
+    ],
+    "whitepaper":"https://docs.agrello.org/Agrello-Self-Aware-Whitepaper-Version-2-Chinese.pdf"
+}

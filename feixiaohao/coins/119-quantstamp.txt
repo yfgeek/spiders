@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":119,
+    "name":"quantstamp",
+    "name_cn":"\uff0d",
+    "name_en":"Quantstamp/QSP",
+    "time":"2017-11-22",
+    "website":[
+        "https://quantstamp.com/"
+    ],
+    "whitepaper":"-"
+}

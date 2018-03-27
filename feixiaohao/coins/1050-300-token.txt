@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xaec98a708810414878c3bcdf46aad31ded4a4557",
+        "https://ethplorer.io/address/0xaec98a708810414878c3bcdf46aad31ded4a4557"
+    ],
+    "id":1050,
+    "name":"300-token",
+    "name_cn":"\uff0d",
+    "name_en":"300 Token/300",
+    "time":"2017-07-26",
+    "website":[
+        "http://300tokensparta.com/"
+    ],
+    "whitepaper":"-"
+}

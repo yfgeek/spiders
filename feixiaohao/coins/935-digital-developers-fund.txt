@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xcc4ef9eeaf656ac1a2ab886743e98e97e090ed38",
+        "https://ethplorer.io/address/0xcc4ef9eeaf656ac1a2ab886743e98e97e090ed38"
+    ],
+    "id":935,
+    "name":"digital-developers-fund",
+    "name_cn":"\uff0d",
+    "name_en":"Digital Developers Fund/DDF",
+    "time":"2017-08-13",
+    "website":[
+        "https://www.digitaldevelopersfund.com/"
+    ],
+    "whitepaper":"https://www.digitaldevelopersfund.com/wp-content/uploads/2017/06/DDF.pdf"
+}

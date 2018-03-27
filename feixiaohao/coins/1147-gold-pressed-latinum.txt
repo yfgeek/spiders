@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://cryptoguru.tk/index.php?Currency=GPL"
+    ],
+    "id":1147,
+    "name":"gold-pressed-latinum",
+    "name_cn":"\uff0d",
+    "name_en":"Gold Pressed .../GPL",
+    "time":"\uff0d",
+    "website":[
+        "http://www.scificrypto.info/gpl/index.htm"
+    ],
+    "whitepaper":"-"
+}

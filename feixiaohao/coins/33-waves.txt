@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://wavesgo.com/",
+        "http://wavesexplorer.com/"
+    ],
+    "id":33,
+    "name":"waves",
+    "name_cn":"\u6ce2\u5e01",
+    "name_en":"Waves/WAVES",
+    "time":"2016-05-31",
+    "website":[
+        "https://wavesplatform.com/"
+    ],
+    "whitepaper":"https://wavesplatform.com/files/whitepaper_v0.pdf"
+}

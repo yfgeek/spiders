@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.syndicateltd.net/"
+    ],
+    "id":473,
+    "name":"syndicate",
+    "name_cn":"\uff0d",
+    "name_en":"Syndicate/SYNX",
+    "time":"\uff0d",
+    "website":[
+        "http://syndicateltd.net/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.taoexplorer.com/"
+    ],
+    "id":376,
+    "name":"tao",
+    "name_cn":"\uff0d",
+    "name_en":"Tao/XTO",
+    "time":"\uff0d",
+    "website":[
+        "http://tao.network/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://blockchain.marijuanacoin.net/"
+    ],
+    "id":1123,
+    "name":"marijuanacoin",
+    "name_cn":"\u5927\u9ebb\u5e01",
+    "name_en":"Marijuanacoin/MAR",
+    "time":"\uff0d",
+    "website":[
+        "https://marijuanacoin.net"
+    ],
+    "whitepaper":"-"
+}

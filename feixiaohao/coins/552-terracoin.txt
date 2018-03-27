@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://zpool.ca/explorer/TRC",
+        "https://bchain.info/TRC/"
+    ],
+    "id":552,
+    "name":"terracoin",
+    "name_cn":"\u5927\u5730\u5e01",
+    "name_en":"Terracoin/TRC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.terracoin.info/"
+    ],
+    "whitepaper":"-"
+}

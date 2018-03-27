@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://mainnet.iop.cash"
+    ],
+    "id":496,
+    "name":"internet-of-people",
+    "name_cn":"\uff0d",
+    "name_en":"Internet of People/IOP",
+    "time":"\uff0d",
+    "website":[
+        "http://iop.global/",
+        "http://iopcommunity.com/"
+    ],
+    "whitepaper":"-"
+}

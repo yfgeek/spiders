@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1362,
+    "name":"acchain",
+    "name_cn":"\uff0d",
+    "name_en":"ACChain/ACC",
+    "time":"2018-02-11",
+    "website":[
+        "https://www.acchain.org/"
+    ],
+    "whitepaper":"-"
+}

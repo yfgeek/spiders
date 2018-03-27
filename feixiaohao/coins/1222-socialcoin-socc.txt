@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://blockexp.com:9996/"
+    ],
+    "id":1222,
+    "name":"socialcoin-socc",
+    "name_cn":"\uff0d",
+    "name_en":"SocialCoin/SOCC",
+    "time":"2017-07-03",
+    "website":[
+        "http://www.social-coin.co.uk/"
+    ],
+    "whitepaper":"-"
+}

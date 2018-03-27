@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xfec0cf7fe078a500abf15f1284958f22049c2c7e",
+        "https://ethplorer.io/address/0xfec0cf7fe078a500abf15f1284958f22049c2c7e"
+    ],
+    "id":375,
+    "name":"maecenas",
+    "name_cn":"\uff0d",
+    "name_en":"Maecenas/ART",
+    "time":"2017-10-19",
+    "website":[
+        "http://www.maecenas.co/"
+    ],
+    "whitepaper":"https://www.maecenas.co/Maecenas-WhitePaper.pdf"
+}

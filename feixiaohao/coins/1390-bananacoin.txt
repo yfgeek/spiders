@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1390,
+    "name":"bananacoin",
+    "name_cn":"\u9999\u8549\u5e01",
+    "name_en":"BananacCoin/BCO",
+    "time":"\uff0d",
+    "website":[
+        "http://www.bananacoin.io"
+    ],
+    "whitepaper":"https://bananacoin.io/files/White_Paper_Bananacoin_en.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://45.55.52.85:3001/",
+        "https://chainz.cryptoid.info/usc/"
+    ],
+    "id":794,
+    "name":"ultimate-secure-cash",
+    "name_cn":"\uff0d",
+    "name_en":"Ultimate Secure Cash/USC",
+    "time":"\uff0d",
+    "website":[
+        "http://ultimatesecurecash.info/"
+    ],
+    "whitepaper":"-"
+}

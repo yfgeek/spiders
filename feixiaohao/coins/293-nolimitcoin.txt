@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://nolimitcoin.info/"
+    ],
+    "id":293,
+    "name":"nolimitcoin",
+    "name_cn":"\uff0d",
+    "name_en":"NoLimitCoin/NLC2",
+    "time":"\uff0d",
+    "website":[
+        "http://www.nolimitcoin.org/"
+    ],
+    "whitepaper":"-"
+}

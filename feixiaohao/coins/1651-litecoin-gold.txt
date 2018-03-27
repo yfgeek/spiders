@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0879e0c9822b75f31f0b0ed2a30be9f484a57c2f",
+        "https://ethplorer.io/address/0x0879e0c9822b75f31f0b0ed2a30be9f484a57c2f"
+    ],
+    "id":1651,
+    "name":"litecoin-gold",
+    "name_cn":"\uff0d",
+    "name_en":"LiteCoin Gold/LTG",
+    "time":"2017-10-25",
+    "website":[
+        "http://www.litecoingold.info/"
+    ],
+    "whitepaper":"-"
+}

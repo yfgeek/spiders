@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa",
+        "https://ethplorer.io/address/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa"
+    ],
+    "id":232,
+    "name":"presearch",
+    "name_cn":"\uff0d",
+    "name_en":"Presearch/PRE",
+    "time":"2017-12-06",
+    "website":[
+        "https://www.presearch.io/"
+    ],
+    "whitepaper":"https://www.presearch.io/uploads/WhitePaper.pdf"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/ion/"
+    ],
+    "id":164,
+    "name":"ion",
+    "name_cn":"\uff0d",
+    "name_en":"ION/ION",
+    "time":"\uff0d",
+    "website":[
+        "https://ionomy.com/"
+    ],
+    "whitepaper":"https://ionomy.com/about/whitepaper"
+}

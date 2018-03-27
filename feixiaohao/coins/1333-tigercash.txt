@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1333,
+    "name":"tigercash",
+    "name_cn":"\uff0d",
+    "name_en":"Tiger Cash/TCH",
+    "time":"2017-11-15",
+    "website":[
+        "https://www.cointiger.com"
+    ],
+    "whitepaper":"-"
+}

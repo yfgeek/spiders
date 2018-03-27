@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab",
+        "https://ethplorer.io/address/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab"
+    ],
+    "id":374,
+    "name":"domraider",
+    "name_cn":"\uff0d",
+    "name_en":"DomRaider/DRT",
+    "time":"2017-10-20",
+    "website":[
+        "https://www.domraider.io/"
+    ],
+    "whitepaper":"-"
+}

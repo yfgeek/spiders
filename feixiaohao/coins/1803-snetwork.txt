@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1803,
+    "name":"snetwork",
+    "name_cn":"\uff0d",
+    "name_en":"Snetwork/SNET",
+    "time":"2018-01-19",
+    "website":[
+        "http://snetwork.io/"
+    ],
+    "whitepaper":"-"
+}

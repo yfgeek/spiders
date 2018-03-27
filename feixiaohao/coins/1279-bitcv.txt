@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1014613e2b3cbc4d575054d4982e580d9b99d7b1"
+    ],
+    "id":1279,
+    "name":"bitcv",
+    "name_cn":"\u5e01\u5a01",
+    "name_en":"BitCV/BCV",
+    "time":"\uff0d",
+    "website":[
+        "https://bitcv.one/"
+    ],
+    "whitepaper":"https://bitcv.one/doc/bitcv_whitepaper_tr.pdf"
+}

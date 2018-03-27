@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://etherscan.io/token/0x4DF812F6064def1e5e029f1ca858777CC98D2D81"
+    ],
+    "id":357,
+    "name":"xaurum",
+    "name_cn":"\uff0d",
+    "name_en":"Xaurum/XAUR",
+    "time":"\uff0d",
+    "website":[
+        "http://www.xaurum.org/"
+    ],
+    "whitepaper":"-"
+}

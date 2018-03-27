@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xba2184520a1cc49a6159c57e61e1844e085615b6",
+        "https://ethplorer.io/address/0xba2184520a1cc49a6159c57e61e1844e085615b6"
+    ],
+    "id":432,
+    "name":"hellogold",
+    "name_cn":"\uff0d",
+    "name_en":"HelloGold/HGT",
+    "time":"2017-10-13",
+    "website":[
+        "https://www.hellogold.com/"
+    ],
+    "whitepaper":"-"
+}

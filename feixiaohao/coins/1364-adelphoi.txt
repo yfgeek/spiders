@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.mynxt.info/asset/17477397104276156702",
+        "https://nxtportal.org/assets/17477397104276156702"
+    ],
+    "id":1364,
+    "name":"adelphoi",
+    "name_cn":"\uff0d",
+    "name_en":"Adelphoi/ADL",
+    "time":"2017-06-17",
+    "website":[
+        "https://www.adelphoi.io/"
+    ],
+    "whitepaper":"https://www.adelphoi.io/content/pdf/wp_1.pdf"
+}

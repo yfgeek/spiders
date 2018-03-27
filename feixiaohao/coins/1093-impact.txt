@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/imx/"
+    ],
+    "id":1093,
+    "name":"impact",
+    "name_cn":"\uff0d",
+    "name_en":"Impact/IMX",
+    "time":"\uff0d",
+    "website":[
+        "http://impact-coin.com/"
+    ],
+    "whitepaper":"-"
+}

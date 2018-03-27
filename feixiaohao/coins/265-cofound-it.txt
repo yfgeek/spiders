@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e"
+    ],
+    "id":265,
+    "name":"cofound-it",
+    "name_cn":"\uff0d",
+    "name_en":"Cofound.it/CFI",
+    "time":"2017-06-20",
+    "website":[
+        "https://cofound.it/"
+    ],
+    "whitepaper":"https://cofounditmedia.s3-eu-west-1.amazonaws.com/documents/Cofound.it_business_plan_Na27itB.pdf"
+}

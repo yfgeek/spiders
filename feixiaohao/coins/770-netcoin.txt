@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://cryptoguru.tk/CurrencyInfo/index.php?Currency=NET"
+    ],
+    "id":770,
+    "name":"netcoin",
+    "name_cn":"\u7f51\u7edc\u5e01",
+    "name_en":"NetCoin/NET",
+    "time":"\uff0d",
+    "website":[
+        "http://netcoin.io"
+    ],
+    "whitepaper":"-"
+}

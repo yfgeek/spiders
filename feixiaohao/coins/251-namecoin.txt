@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.namecoin.info"
+    ],
+    "id":251,
+    "name":"namecoin",
+    "name_cn":"\u57df\u540d\u5e01",
+    "name_en":"Namecoin/NMC",
+    "time":"2011-04-18",
+    "website":[
+        "https://www.namecoin.org/"
+    ],
+    "whitepaper":"-"
+}

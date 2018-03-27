@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://pwr.explorer.cryptoally.net/"
+    ],
+    "id":1735,
+    "name":"powercoin",
+    "name_cn":"\u529b\u91cf\u5e01",
+    "name_en":"Powercoin/PWR",
+    "time":"\uff0d",
+    "website":[
+        "http://powercoin.us/"
+    ],
+    "whitepaper":"-"
+}

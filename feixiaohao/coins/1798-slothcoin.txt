@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://188.226.214.24/crawler/block_crawler.php"
+    ],
+    "id":1798,
+    "name":"slothcoin",
+    "name_cn":"\uff0d",
+    "name_en":"SLOTH/SLOTH",
+    "time":"\uff0d",
+    "website":[
+        "http://www.slothcoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xab95e915c123fded5bdfb6325e35ef5515f1ea69",
+        "https://ethplorer.io/address/0xab95e915c123fded5bdfb6325e35ef5515f1ea69"
+    ],
+    "id":638,
+    "name":"xenon",
+    "name_cn":"\uff0d",
+    "name_en":"Xenon/XNN",
+    "time":"2017-10-28",
+    "website":[
+        "https://xenon.network/"
+    ],
+    "whitepaper":"-"
+}

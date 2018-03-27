@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.absorb.cn/"
+    ],
+    "id":1360,
+    "name":"abcoin",
+    "name_cn":"\u5f15\u529b\u6ce2",
+    "name_en":"ABCoin/YLB",
+    "time":"\uff0d",
+    "website":[
+        "http://www.absorb.cn/"
+    ],
+    "whitepaper":"-"
+}

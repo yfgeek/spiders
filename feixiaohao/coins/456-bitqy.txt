@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf0f8b0b8dbb1124261fc8d778e2287e3fd2cf4f5",
+        "https://ethplorer.io/address/0xf0f8b0b8dbb1124261fc8d778e2287e3fd2cf4f5"
+    ],
+    "id":456,
+    "name":"bitqy",
+    "name_cn":"\uff0d",
+    "name_en":"bitqy/BQ",
+    "time":"2017-08-28",
+    "website":[
+        "https://bitqy.org/"
+    ],
+    "whitepaper":"-"
+}

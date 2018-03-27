@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://htcblockchain.com/"
+    ],
+    "id":787,
+    "name":"hitcoin",
+    "name_cn":"\u6000\u7279\u5e01",
+    "name_en":"HitCoin/HTC",
+    "time":"\uff0d",
+    "website":[
+        "http://hitcoininfo.com/"
+    ],
+    "whitepaper":"-"
+}

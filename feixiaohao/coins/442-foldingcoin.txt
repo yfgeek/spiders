@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/FLDC"
+    ],
+    "id":442,
+    "name":"foldingcoin",
+    "name_cn":"\uff0d",
+    "name_en":"FoldingCoin/FLDC",
+    "time":"2015-02-02",
+    "website":[
+        "http://www.foldingcoin.net/"
+    ],
+    "whitepaper":"-"
+}

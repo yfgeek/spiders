@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.skycoin.net/"
+    ],
+    "id":114,
+    "name":"skycoin",
+    "name_cn":"\u5929\u7a7a\u5e01",
+    "name_en":"Skycoin/SKY",
+    "time":"\uff0d",
+    "website":[
+        "http://skycoin.net/"
+    ],
+    "whitepaper":"-"
+}

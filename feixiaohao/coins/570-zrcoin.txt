@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":570,
+    "name":"zrcoin",
+    "name_cn":"\uff0d",
+    "name_en":"ZrCoin (Pre-L.../ZRC",
+    "time":"2017-06-17",
+    "website":[
+        "https://zrcoin.io/"
+    ],
+    "whitepaper":"https://zrcoin.io/files/Whitepaper_ENG.pdf"
+}

@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1532,
+    "name":"ethereumfog",
+    "name_cn":"\u4ee5\u592a\u96fe",
+    "name_en":"EthereumFog/ETF",
+    "time":"\uff0d",
+    "website":[
+        "http://ethereumfog.org/"
+    ],
+    "whitepaper":"-"
+}

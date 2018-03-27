@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1371,
+    "name":"alphacat",
+    "name_cn":"\uff0d",
+    "name_en":"Alphacat/ACAT",
+    "time":"2018-02-16",
+    "website":[
+        "https://www.alphacat.io/"
+    ],
+    "whitepaper":"http://alphacat.io/A_UpLoad/upload_file/20180104/20180104184135_2968.pdf"
+}

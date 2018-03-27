@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.gcnchain.com/chain/GCoin"
+    ],
+    "id":484,
+    "name":"gcoin",
+    "name_cn":"\u683c\u7f57\u5e01",
+    "name_en":"GCoin/GCN",
+    "time":"\uff0d",
+    "website":[
+        "https://gcn.zone"
+    ],
+    "whitepaper":"-"
+}

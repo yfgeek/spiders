@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explore.sia.tech/"
+    ],
+    "id":28,
+    "name":"siacoin",
+    "name_cn":"\u4e91\u50a8\u5e01",
+    "name_en":"Siacoin/SC",
+    "time":"2015-07-03",
+    "website":[
+        "http://sia.tech/"
+    ],
+    "whitepaper":"https://sia.tech/sia.pdf"
+}

@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "http://chainradar.com/qcn/blocks"
+    ],
+    "id":1158,
+    "name":"quazarcoin",
+    "name_cn":"\uff0d",
+    "name_en":"QuazarCoin/QCN",
+    "time":"\uff0d",
+    "website":[],
+    "whitepaper":"-"
+}

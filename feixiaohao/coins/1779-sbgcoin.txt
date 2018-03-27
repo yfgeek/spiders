@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1779,
+    "name":"sbgcoin",
+    "name_cn":"\u4ec0\u5e01\u80a1",
+    "name_en":"SBG/SBG",
+    "time":"\uff0d",
+    "website":[
+        "https://www.asdbi.com/"
+    ],
+    "whitepaper":"-"
+}

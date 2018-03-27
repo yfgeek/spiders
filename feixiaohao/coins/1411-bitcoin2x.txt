@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x15ef5b9447710eab904e63e6233ff540400d603f",
+        "https://ethplorer.io/address/0x15ef5b9447710eab904e63e6233ff540400d603f"
+    ],
+    "id":1411,
+    "name":"bitcoin2x",
+    "name_cn":"\uff0d",
+    "name_en":"Bitcoin2x/BTC2X",
+    "time":"2017-11-21",
+    "website":[
+        "http://bitcoin-2x.org/"
+    ],
+    "whitepaper":"-"
+}

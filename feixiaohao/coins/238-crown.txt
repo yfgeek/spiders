@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/crw/",
+        "http://crw.blockpioneers.info/index.php"
+    ],
+    "id":238,
+    "name":"crown",
+    "name_cn":"\uff0d",
+    "name_en":"Crown/CRW",
+    "time":"\uff0d",
+    "website":[
+        "http://crown.tech/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/HackerGold"
+    ],
+    "id":1586,
+    "name":"hacker-gold",
+    "name_cn":"\uff0d",
+    "name_en":"Hacker Gold/HKG",
+    "time":"\uff0d",
+    "website":[
+        "https://hack.ether.camp/sale"
+    ],
+    "whitepaper":"-"
+}

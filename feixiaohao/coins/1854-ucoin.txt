@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.ucoin.name/",
+        "http://bitexp.net/explorer.php?coin=UCoin"
+    ],
+    "id":1854,
+    "name":"ucoin",
+    "name_cn":"\uff0d",
+    "name_en":"UCoin/U",
+    "time":"\uff0d",
+    "website":[
+        "http://ucoin.name/"
+    ],
+    "whitepaper":"-"
+}

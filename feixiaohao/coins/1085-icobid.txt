@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/icob",
+        "http://explorer.icobidplatform.com/"
+    ],
+    "id":1085,
+    "name":"icobid",
+    "name_cn":"\uff0d",
+    "name_en":"ICOBID/ICOB",
+    "time":"\uff0d",
+    "website":[
+        "http://icobidplatform.net/"
+    ],
+    "whitepaper":"http://www.icobidplatform.com/attorneys.html"
+}

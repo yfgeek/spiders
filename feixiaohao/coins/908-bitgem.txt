@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://abe.alfter.us/chain/Bitgem"
+    ],
+    "id":908,
+    "name":"bitgem",
+    "name_cn":"\u6bd4\u57fa\u5e01",
+    "name_en":"Bitgem/BTG",
+    "time":"\uff0d",
+    "website":[
+        "http://www.bitgem.pw/"
+    ],
+    "whitepaper":"-"
+}

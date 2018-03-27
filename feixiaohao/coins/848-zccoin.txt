@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.multifaucet.tk/index.php?blockexplorer=ZCC"
+    ],
+    "id":848,
+    "name":"zccoin",
+    "name_cn":"\u62db\u8d22\u5e01",
+    "name_en":"ZcCoin/ZCC",
+    "time":"2013-08-08",
+    "website":[
+        "http://www.zccoin.org"
+    ],
+    "whitepaper":"-"
+}

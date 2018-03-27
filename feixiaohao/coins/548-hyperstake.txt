@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/HYP/index.php"
+    ],
+    "id":548,
+    "name":"hyperstake",
+    "name_cn":"\uff0d",
+    "name_en":"HyperStake/HYP",
+    "time":"\uff0d",
+    "website":[
+        "http://hyperstake.io/"
+    ],
+    "whitepaper":"-"
+}

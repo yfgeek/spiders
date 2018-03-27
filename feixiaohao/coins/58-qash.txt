@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6",
+        "https://ethplorer.io/address/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6"
+    ],
+    "id":58,
+    "name":"qash",
+    "name_cn":"\uff0d",
+    "name_en":"QASH/QASH",
+    "time":"2017-11-22",
+    "website":[
+        "https://liquid.plus/"
+    ],
+    "whitepaper":"-"
+}

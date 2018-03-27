@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://blockexplorer.vaperscoin.com/"
+    ],
+    "id":897,
+    "name":"vaperscoin",
+    "name_cn":"\uff0d",
+    "name_en":"VapersCoin/VPRC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.vaperscoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1880,
+    "name":"wax",
+    "name_cn":"\uff0d",
+    "name_en":"WAX/WAX",
+    "time":"2017-12-22",
+    "website":[
+        "https://wax.io"
+    ],
+    "whitepaper":"https://wax.io/wp/WAX_White_Paper_zh.pdf"
+}

@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1413,
+    "name":"bitcoinfaith",
+    "name_cn":"\u6bd4\u7279\u4fe1\u4ef0",
+    "name_en":"Bitcoin Faith/BTF",
+    "time":"\uff0d",
+    "website":[
+        "http://bitcoinfaith.org/"
+    ],
+    "whitepaper":"-"
+}

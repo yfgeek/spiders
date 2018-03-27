@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "http://halloweencoin.thecryptochat.net/"
+    ],
+    "id":1587,
+    "name":"halloween-coin",
+    "name_cn":"\uff0d",
+    "name_en":"Halloween Coin/HALLO",
+    "time":"\uff0d",
+    "website":[],
+    "whitepaper":"-"
+}

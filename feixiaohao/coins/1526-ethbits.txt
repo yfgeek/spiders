@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1b9743f556d65e757c4c650b4555baf354cb8bd3",
+        "https://ethplorer.io/address/0x1b9743f556d65e757c4c650b4555baf354cb8bd3"
+    ],
+    "id":1526,
+    "name":"ethbits",
+    "name_cn":"\uff0d",
+    "name_en":"Ethbits/ETB",
+    "time":"\uff0d",
+    "website":[
+        "https://www.ethbits.com/"
+    ],
+    "whitepaper":"https://ico.ethbits.com/white_paper.pdf"
+}

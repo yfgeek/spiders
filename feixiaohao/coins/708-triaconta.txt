@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x3293cc907fde439b39aedaf1b982785adaff186b",
+        "https://ethplorer.io/address/0x3293cc907fde439b39aedaf1b982785adaff186b"
+    ],
+    "id":708,
+    "name":"triaconta",
+    "name_cn":"\uff0d",
+    "name_en":"TRIA/TRIA",
+    "time":"\uff0d",
+    "website":[
+        "https://triaconta.com/"
+    ],
+    "whitepaper":"-"
+}

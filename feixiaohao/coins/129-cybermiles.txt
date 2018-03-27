@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":129,
+    "name":"cybermiles",
+    "name_cn":"\u8349\u8393\u7cd6",
+    "name_en":"CyberMiles/CMT",
+    "time":"2017-12-07",
+    "website":[
+        "https://cm.5miles.com/zh-tw/"
+    ],
+    "whitepaper":"https://cm.5miles.com/file/technical/Technical%20Whitepaper_zh-tw.pdf"
+}

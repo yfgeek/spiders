@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://45.55.45.204/"
+    ],
+    "id":1563,
+    "name":"future-digital-currency",
+    "name_cn":"\uff0d",
+    "name_en":"Future Digita.../FDC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.futuredigitalcurrency.org/"
+    ],
+    "whitepaper":"-"
+}

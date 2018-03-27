@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1467,
+    "name":"coinextoken",
+    "name_cn":"\uff0d",
+    "name_en":"CoinEx Token/CET",
+    "time":"\uff0d",
+    "website":[
+        "https://www.coinex.com/token"
+    ],
+    "whitepaper":"-"
+}

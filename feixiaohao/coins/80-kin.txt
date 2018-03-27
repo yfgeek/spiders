@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Kin",
+        "https://ethplorer.io/address/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5"
+    ],
+    "id":80,
+    "name":"kin",
+    "name_cn":"\uff0d",
+    "name_en":"Kin/KIN",
+    "time":"2017-09-28",
+    "website":[
+        "https://kin.kik.com"
+    ],
+    "whitepaper":"https://kin.kik.com/Kin%20Whitepaper%20v1.pdf"
+}

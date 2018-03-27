@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://bixc.life/root/index.aspx",
+        "http://104.131.1.225/"
+    ],
+    "id":1424,
+    "name":"bixc",
+    "name_cn":"\uff0d",
+    "name_en":"BIXC/BIXC",
+    "time":"\uff0d",
+    "website":[],
+    "whitepaper":"-"
+}

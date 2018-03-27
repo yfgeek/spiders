@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":354,
+    "name":"bodhi",
+    "name_cn":"\u83e9\u63d0",
+    "name_en":"Bodhi/BOT",
+    "time":"2017-11-21",
+    "website":[
+        "https://www.bodhi.network"
+    ],
+    "whitepaper":"-"
+}

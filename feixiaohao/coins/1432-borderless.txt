@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1432,
+    "name":"borderless",
+    "name_cn":"\u65e0\u754c\u5e01",
+    "name_en":"Borderless/BDS",
+    "time":"2018-02-07",
+    "website":[
+        "http://www.borderless.vip/"
+    ],
+    "whitepaper":"https://www.borderless.vip/wp-content/uploads/2017/10/Whitepaper_EN.pdf"
+}

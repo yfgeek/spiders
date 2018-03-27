@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://minemanic.com/nbe/"
+    ],
+    "id":1404,
+    "name":"bitcentavo",
+    "name_cn":"\uff0d",
+    "name_en":"BitCentavo/NBE",
+    "time":"\uff0d",
+    "website":[
+        "http://bitcentavo.com"
+    ],
+    "whitepaper":"-"
+}

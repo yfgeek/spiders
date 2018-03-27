@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chain.sibcoin.net/"
+    ],
+    "id":292,
+    "name":"sibcoin",
+    "name_cn":"\u897f\u4f2f\u5229\u4e9a\u91d1\u5e01",
+    "name_en":"SIBCoin/SIB",
+    "time":"\uff0d",
+    "website":[
+        "https://sibcoin.money/",
+        "http://sibcoin.org"
+    ],
+    "whitepaper":"-"
+}

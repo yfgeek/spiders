@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "http://cryptobe.com/chain/P7Coin"
+    ],
+    "id":1229,
+    "name":"p7coin",
+    "name_cn":"\uff0d",
+    "name_en":"P7Coin/P7C",
+    "time":"\uff0d",
+    "website":[],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://stellar.expert/explorer/asset/MOBI-GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH"
+    ],
+    "id":243,
+    "name":"mobius",
+    "name_cn":"\uff0d",
+    "name_en":"Mobius/MOBI",
+    "time":"2018-01-19",
+    "website":[
+        "https://mobius.network/"
+    ],
+    "whitepaper":"https://docsend.com/view/gr63mgi"
+}

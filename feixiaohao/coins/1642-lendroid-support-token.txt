@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4de2573e27e648607b50e1cfff921a33e4a34405",
+        "https://ethplorer.io/address/0x4de2573e27e648607b50e1cfff921a33e4a34405"
+    ],
+    "id":1642,
+    "name":"lendroid-support-token",
+    "name_cn":"\uff0d",
+    "name_en":"Lendroid Support Token/LST",
+    "time":"2018-03-25",
+    "website":[
+        "https://www.lendroid.com/"
+    ],
+    "whitepaper":"-"
+}

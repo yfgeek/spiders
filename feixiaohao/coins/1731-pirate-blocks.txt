@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "http://skull.servep2p.com:3001/"
+    ],
+    "id":1731,
+    "name":"pirate-blocks",
+    "name_cn":"\uff0d",
+    "name_en":"Pirate Blocks/SKULL",
+    "time":"2017-06-27",
+    "website":[],
+    "whitepaper":"-"
+}

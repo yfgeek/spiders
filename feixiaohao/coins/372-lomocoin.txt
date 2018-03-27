@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.lomocoin.com/"
+    ],
+    "id":372,
+    "name":"lomocoin",
+    "name_cn":"\u90bb\u840c\u5b9d",
+    "name_en":"LoMoCoin/LMC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.lomostar.com/"
+    ],
+    "whitepaper":"-"
+}

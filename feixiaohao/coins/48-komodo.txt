@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://kmd.explorer.supernet.org/",
+        "http://kmd.komodochainz.info"
+    ],
+    "id":48,
+    "name":"komodo",
+    "name_cn":"\u79d1\u83ab\u591a\u5e01",
+    "name_en":"Komodo/KMD",
+    "time":"\uff0d",
+    "website":[
+        "https://komodoplatform.com/"
+    ],
+    "whitepaper":"https://komodoplatform.com/downloads/Komodo_dPoW_Whitepaper_v1.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/post",
+        "https://bitexplorer.top/"
+    ],
+    "id":917,
+    "name":"postcoin",
+    "name_cn":"\uff0d",
+    "name_en":"PostCoin/POST",
+    "time":"\uff0d",
+    "website":[
+        "https://postcoin.top/"
+    ],
+    "whitepaper":"-"
+}

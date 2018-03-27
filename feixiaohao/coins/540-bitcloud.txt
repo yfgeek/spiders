@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/btdx/"
+    ],
+    "id":540,
+    "name":"bitcloud",
+    "name_cn":"\uff0d",
+    "name_en":"Bitcloud/BTDX",
+    "time":"\uff0d",
+    "website":[
+        "https://bit-cloud.info/"
+    ],
+    "whitepaper":"-"
+}

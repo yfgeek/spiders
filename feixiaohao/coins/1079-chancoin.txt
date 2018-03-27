@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chancoin.info/",
+        "https://www.blockexperts.com/4chn"
+    ],
+    "id":1079,
+    "name":"chancoin",
+    "name_cn":"\uff0d",
+    "name_en":"ChanCoin/4CHN",
+    "time":"2017-06-29",
+    "website":[
+        "https://chancoin.org/"
+    ],
+    "whitepaper":"-"
+}

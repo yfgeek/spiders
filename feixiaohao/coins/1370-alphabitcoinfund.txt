@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x036407F23D5E1C1486F7488332CF54bf06E5F09F"
+    ],
+    "id":1370,
+    "name":"alphabitcoinfund",
+    "name_cn":"\uff0d",
+    "name_en":"Alphabit/ABC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.alphabitcoinfund.com/"
+    ],
+    "whitepaper":"https://ab-chain.com/storage/whitepapers/AB-CHAIN_whitepaper_EN.pdf"
+}

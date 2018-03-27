@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/bta/",
+        "http://bata.midnightminer.net/"
+    ],
+    "id":832,
+    "name":"bata",
+    "name_cn":"\uff0d",
+    "name_en":"Bata/BTA",
+    "time":"\uff0d",
+    "website":[
+        "http://www.bata.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://prohashing.com/explorer/Emerald/",
+        "https://chainz.cryptoid.info/emd/",
+        "http://emd.blockexp.info/"
+    ],
+    "id":1007,
+    "name":"emerald",
+    "name_cn":"\uff0d",
+    "name_en":"Emerald Crypto/EMD",
+    "time":"\uff0d",
+    "website":[
+        "http://www.emeraldcrypto.de/"
+    ],
+    "whitepaper":"-"
+}

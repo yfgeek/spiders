@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1270,
+    "name":"iost",
+    "name_cn":"\uff0d",
+    "name_en":"Internet of Services/IOST",
+    "time":"2018-01-11",
+    "website":[
+        "http://iost.io/"
+    ],
+    "whitepaper":"https://docsend.com/view/ihwqcdg"
+}

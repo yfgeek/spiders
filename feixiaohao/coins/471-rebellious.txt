@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf",
+        "https://ethplorer.io/address/0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf"
+    ],
+    "id":471,
+    "name":"rebellious",
+    "name_cn":"\uff0d",
+    "name_en":"Rebellious/REBL",
+    "time":"2018-01-11",
+    "website":[
+        "https://www.rebellious.io/"
+    ],
+    "whitepaper":"http://www.rebellious.io/external/RebelliousWhitepaper_CN-s_v10.pdf"
+}

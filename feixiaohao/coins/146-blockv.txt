@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x340d2bde5eb28c1eed91b2f790723e3b160613b7",
+        "https://ethplorer.io/address/0x340d2bde5eb28c1eed91b2f790723e3b160613b7"
+    ],
+    "id":146,
+    "name":"blockv",
+    "name_cn":"\uff0d",
+    "name_en":"BLOCKv/VEE",
+    "time":"2017-11-29",
+    "website":[
+        "https://blockv.io/"
+    ],
+    "whitepaper":"https://blockv.io/documents/whitepaper.pdf"
+}

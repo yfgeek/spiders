@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://dogechain.info/chain/Dogecoin"
+    ],
+    "id":38,
+    "name":"dogecoin",
+    "name_cn":"\u72d7\u72d7\u5e01",
+    "name_en":"Dogecoin/DOGE",
+    "time":"2013-12-12",
+    "website":[
+        "http://dogecoin.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://dgc.blockr.io",
+        "https://chainz.cryptoid.info/dgc/"
+    ],
+    "id":844,
+    "name":"digitalcoin",
+    "name_cn":"\u6570\u7801\u5e01",
+    "name_en":"Digitalcoin/DGC",
+    "time":"\uff0d",
+    "website":[
+        "http://digitalcoin.co"
+    ],
+    "whitepaper":"-"
+}

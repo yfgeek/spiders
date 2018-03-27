@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":504,
+    "name":"etchain",
+    "name_cn":"\u6cdb\u5a31\u94fe",
+    "name_en":"IPTChain/IPT",
+    "time":"\uff0d",
+    "website":[
+        "http://www.iptchain.net/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.ubitcoin.cc"
+    ],
+    "id":1853,
+    "name":"ubitcoin",
+    "name_cn":"\u5c0f\u6bd4\u7279\u5e01",
+    "name_en":"uBitcoin/UBC",
+    "time":"2017-09-01",
+    "website":[
+        "http://www.ubitcoin.cc"
+    ],
+    "whitepaper":"-"
+}

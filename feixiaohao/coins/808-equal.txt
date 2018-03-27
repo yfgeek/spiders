@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x47dd62d4d075dead71d0e00299fc56a2d747bebb",
+        "https://ethplorer.io/address/0x47dd62d4d075dead71d0e00299fc56a2d747bebb"
+    ],
+    "id":808,
+    "name":"equal",
+    "name_cn":"\uff0d",
+    "name_en":"Equal/EQL",
+    "time":"2018-01-30",
+    "website":[
+        "http://www.equaltoken.io"
+    ],
+    "whitepaper":"http://www.equaltoken.io/whitepapers/EQL_Whitepaper_v2_chinese.pdf"
+}

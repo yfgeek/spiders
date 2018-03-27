@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.cryptonex.org/"
+    ],
+    "id":52,
+    "name":"cryptonex",
+    "name_cn":"\uff0d",
+    "name_en":"Cryptonex/CNX",
+    "time":"2017-10-08",
+    "website":[
+        "https://cryptonex.org/"
+    ],
+    "whitepaper":"-"
+}

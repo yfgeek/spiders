@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://explorer.cloakcoin.com/",
+        "http://www.presstab.pw/phpexplorer/CLOAK/index.php",
+        "https://chainz.cryptoid.info/cloak/"
+    ],
+    "id":228,
+    "name":"cloakcoin",
+    "name_cn":"\u62ab\u98ce\u5e01",
+    "name_en":"CloakCoin/CLOAK",
+    "time":"\uff0d",
+    "website":[
+        "https://www.cloakcoin.com/"
+    ],
+    "whitepaper":"-"
+}

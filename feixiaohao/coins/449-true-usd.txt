@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e",
+        "https://ethplorer.io/address/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e"
+    ],
+    "id":449,
+    "name":"true-usd",
+    "name_cn":"\uff0d",
+    "name_en":"True USD/TUSD",
+    "time":"2018-03-06",
+    "website":[
+        "https://www.trusttoken.com/",
+        "https://www.trueusd.com/"
+    ],
+    "whitepaper":"-"
+}

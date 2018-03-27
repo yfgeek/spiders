@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1214,
+    "name":"cccoin",
+    "name_cn":"\u8f66\u94fe",
+    "name_en":"CarChain/CCB",
+    "time":"\uff0d",
+    "website":[
+        "http://cccoin.top/"
+    ],
+    "whitepaper":"-"
+}

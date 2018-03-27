@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://blocks.compcoin.com/"
+    ],
+    "id":1468,
+    "name":"compcoin",
+    "name_cn":"\uff0d",
+    "name_en":"Compcoin/CMP",
+    "time":"2017-08-04",
+    "website":[
+        "https://compcoin.com/"
+    ],
+    "whitepaper":"https://compcoin.com/wp-content/uploads/2017/06/Compcoin-Token-For-A.I.-Financial-Trading-060817v2-1.pdf"
+}

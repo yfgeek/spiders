@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1869,
+    "name":"vegascoin",
+    "name_cn":"\u62c9\u65af\u7ef4\u52a0\u65af\u5e01",
+    "name_en":"VegasCoin/VGC",
+    "time":"\uff0d",
+    "website":[
+        "http://vegascoin.co/"
+    ],
+    "whitepaper":"-"
+}

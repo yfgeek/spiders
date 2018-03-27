@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://cryptobe.com/chain/Electra/"
+    ],
+    "id":358,
+    "name":"electra",
+    "name_cn":"\uff0d",
+    "name_en":"Electra/ECA",
+    "time":"\uff0d",
+    "website":[
+        "https://electraproject.org/",
+        "http://electraproject.weebly.com/"
+    ],
+    "whitepaper":"https://cdn.electraproject.org/wp-content/uploads/2018/02/electra-white-paper_1.0.pdf"
+}

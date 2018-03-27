@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1593,
+    "name":"herocoin",
+    "name_cn":"\uff0d",
+    "name_en":"HERO Coin/PLAY",
+    "time":"2017-12-31",
+    "website":[
+        "https://www.herocoin.io/"
+    ],
+    "whitepaper":"https://s3.eu-central-1.amazonaws.com/hero-landingpage/HERO_Whitepaper_cn.pdf"
+}

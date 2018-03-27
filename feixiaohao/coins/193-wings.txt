@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x667088b212ce3d06a1b553a7221E1fD19000d9aF"
+    ],
+    "id":193,
+    "name":"wings",
+    "name_cn":"\uff0d",
+    "name_en":"Wings/WINGS",
+    "time":"2017-05-23",
+    "website":[
+        "https://wings.ai/"
+    ],
+    "whitepaper":"https://gallery.mailchimp.com/e96dd1e39a278ec293dcc8de1/files/WINGS_Whitepaper_V1.1.pdf"
+}

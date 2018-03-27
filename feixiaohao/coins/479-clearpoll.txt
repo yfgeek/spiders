@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9",
+        "https://ethplorer.io/address/0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9"
+    ],
+    "id":479,
+    "name":"clearpoll",
+    "name_cn":"\uff0d",
+    "name_en":"ClearPoll/POLL",
+    "time":"2017-10-26",
+    "website":[
+        "https://www.clearpoll.io/"
+    ],
+    "whitepaper":"-"
+}

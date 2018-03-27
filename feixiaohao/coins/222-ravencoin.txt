@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://threeeyed.info/"
+    ],
+    "id":222,
+    "name":"ravencoin",
+    "name_cn":"\uff0d",
+    "name_en":"Ravencoin/RVN",
+    "time":"2018-03-10",
+    "website":[
+        "https://ravencoin.org/"
+    ],
+    "whitepaper":"https://ravencoin.org/wp-content/uploads/2018/03/X16R-Whitepaper.pdf"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/assets.html?59Yy7EgS27Bjure3r77NeamJrUmKR99pVFUgVxP7DYF8"
+    ],
+    "id":1673,
+    "name":"minex",
+    "name_cn":"\uff0d",
+    "name_en":"Minex/MINEX",
+    "time":"2017-08-08",
+    "website":[
+        "http://minexteam.com/"
+    ],
+    "whitepaper":"https://drive.google.com/open?id=0B4zV2DaptXf4RUZaNVotMjBaNUE"
+}

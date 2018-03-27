@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.ipbc.io"
+    ],
+    "id":458,
+    "name":"interplanetary-broadcast-coin",
+    "name_cn":"\uff0d",
+    "name_en":"Interplanetary Broadcast Coin/IPBC",
+    "time":"2018-03-05",
+    "website":[
+        "https://ipbc.io/"
+    ],
+    "whitepaper":"-"
+}

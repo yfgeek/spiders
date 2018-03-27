@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://blockexplorer.lavajumper.com/chain/Sexcoin"
+    ],
+    "id":665,
+    "name":"sexcoin",
+    "name_cn":"\u6027\u5e01",
+    "name_en":"Sexcoin/SXC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.sexcoin.info/"
+    ],
+    "whitepaper":"-"
+}

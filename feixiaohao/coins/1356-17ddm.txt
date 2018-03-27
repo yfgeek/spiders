@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1356,
+    "name":"17ddm",
+    "name_cn":"\u5a31\u4e50\u661f\u7403",
+    "name_en":"DDMCoin/DDM",
+    "time":"\uff0d",
+    "website":[
+        "http://www.17ddm.com/"
+    ],
+    "whitepaper":"-"
+}

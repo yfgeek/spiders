@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x13f11c9905a08ca76e3e853be63d4f0944326c72",
+        "https://ethplorer.io/address/0x13f11c9905a08ca76e3e853be63d4f0944326c72"
+    ],
+    "id":369,
+    "name":"divi",
+    "name_cn":"\uff0d",
+    "name_en":"Divi/DIVX",
+    "time":"2017-11-26",
+    "website":[
+        "https://www.diviproject.org/"
+    ],
+    "whitepaper":"-"
+}

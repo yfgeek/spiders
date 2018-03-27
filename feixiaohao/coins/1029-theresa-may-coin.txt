@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/may/"
+    ],
+    "id":1029,
+    "name":"theresa-may-coin",
+    "name_cn":"\uff0d",
+    "name_en":"Theresa May Coin/MAY",
+    "time":"\uff0d",
+    "website":[
+        "http://www.theresamaycoin.com/"
+    ],
+    "whitepaper":"-"
+}

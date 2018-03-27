@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/thc",
+        "http://thcblock.ga/"
+    ],
+    "id":346,
+    "name":"hempcoin",
+    "name_cn":"\u6cf0\u5408\u5e01",
+    "name_en":"HempCoin/THC",
+    "time":"\uff0d",
+    "website":[
+        "http://hempcoin.org/"
+    ],
+    "whitepaper":"http://hempcoin.org/whitepaper.pdf"
+}

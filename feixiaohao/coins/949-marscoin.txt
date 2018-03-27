@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explore.marscoin.org/",
+        "http://cryptoguru.tk/index.php?Currency=MRS"
+    ],
+    "id":949,
+    "name":"marscoin",
+    "name_cn":"\u661f\u9645\u5e01",
+    "name_en":"Marscoin/MRS",
+    "time":"\uff0d",
+    "website":[
+        "http://marscoin.org/"
+    ],
+    "whitepaper":"-"
+}

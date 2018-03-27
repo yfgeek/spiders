@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0b76544f6c413a555f309bf76260d1e02377c02a",
+        "https://ethplorer.io/address/0x0b76544f6c413a555f309bf76260d1e02377c02a"
+    ],
+    "id":270,
+    "name":"intchain",
+    "name_cn":"\u82f1\u7279\u5e01",
+    "name_en":"INT chain/INT",
+    "time":"2017-09-22",
+    "website":[
+        "http://intchain.io"
+    ],
+    "whitepaper":"https://intchain.io/whitepaper/INT-whitepaper-release-CN.pdf"
+}

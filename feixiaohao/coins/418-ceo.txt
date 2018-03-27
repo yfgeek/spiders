@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://b.ceo.bi/block?qt=CEOcoinBlockchain"
+    ],
+    "id":418,
+    "name":"ceo",
+    "name_cn":"CEO\u5e01",
+    "name_en":"CEOcoin/CEO",
+    "time":"\uff0d",
+    "website":[
+        "https://www.bite.ceo/"
+    ],
+    "whitepaper":"-"
+}

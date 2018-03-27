@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://bitshares.openledger.info/asset/KEXCOIN"
+    ],
+    "id":1630,
+    "name":"kexcoin",
+    "name_cn":"\uff0d",
+    "name_en":"KexCoin/KEXCOIN",
+    "time":"2017-09-23",
+    "website":[
+        "https://kexcoin.com/"
+    ],
+    "whitepaper":"-"
+}

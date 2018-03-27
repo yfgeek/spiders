@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x8d5a69dc82a47594881256f2eef81770274fa30f",
+        "https://ethplorer.io/address/0x8d5a69dc82a47594881256f2eef81770274fa30f"
+    ],
+    "id":1695,
+    "name":"natcoin",
+    "name_cn":"\uff0d",
+    "name_en":"Natcoin/NTC",
+    "time":"2017-10-30",
+    "website":[
+        "https://www.natcoin.io/"
+    ],
+    "whitepaper":"-"
+}

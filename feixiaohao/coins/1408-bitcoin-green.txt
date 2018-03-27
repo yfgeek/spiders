@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.savebitcoin.io/"
+    ],
+    "id":1408,
+    "name":"bitcoin-green",
+    "name_cn":"\uff0d",
+    "name_en":"Bitcoin Green/BITG",
+    "time":"2018-03-22",
+    "website":[
+        "https://www.savebitcoin.io/"
+    ],
+    "whitepaper":"https://www.savebitcoin.io/whitepaper/#new-page-47"
+}

@@ -1,0 +1,10 @@
+{
+    "blockchain":[],
+    "id":1476,
+    "name":"cryptopiafeeshares",
+    "name_cn":"\uff0d",
+    "name_en":"CryptopiaFeeShares/CEFS",
+    "time":"2018-01-09",
+    "website":[],
+    "whitepaper":"-"
+}

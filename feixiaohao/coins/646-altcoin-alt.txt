@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=149"
+    ],
+    "id":646,
+    "name":"altcoin-alt",
+    "name_cn":"\uff0d",
+    "name_en":"Altcoin/ALT",
+    "time":"\uff0d",
+    "website":[
+        "http://altcoinmarketcap.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://blockexplorer.obsidianplatform.com/",
+        "https://xxl.obsidianplatform.com/"
+    ],
+    "id":605,
+    "name":"obsidian",
+    "name_cn":"\uff0d",
+    "name_en":"Obsidian/ODN",
+    "time":"2017-10-01",
+    "website":[
+        "https://obsidianplatform.com"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "http://31.220.50.241:8250/"
+    ],
+    "id":1549,
+    "name":"fireflycoin",
+    "name_cn":"\u8424\u706b\u866b\u5e01",
+    "name_en":"FireFlyCoin/FFC",
+    "time":"\uff0d",
+    "website":[],
+    "whitepaper":"-"
+}

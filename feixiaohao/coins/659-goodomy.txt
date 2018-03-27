@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xaE616e72D3d89e847f74E8ace41Ca68bbF56af79"
+    ],
+    "id":659,
+    "name":"goodomy",
+    "name_cn":"\uff0d",
+    "name_en":"Goodomy/GOOD",
+    "time":"2017-06-26",
+    "website":[
+        "http://goodomy.com/"
+    ],
+    "whitepaper":"-"
+}

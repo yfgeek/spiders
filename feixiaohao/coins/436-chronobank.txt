@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/TIME"
+    ],
+    "id":436,
+    "name":"chronobank",
+    "name_cn":"\uff0d",
+    "name_en":"Chronobank/TIME",
+    "time":"2016-12-15",
+    "website":[
+        "https://chronobank.io/"
+    ],
+    "whitepaper":"https://chronobank.io/files/whitepaper.pdf"
+}

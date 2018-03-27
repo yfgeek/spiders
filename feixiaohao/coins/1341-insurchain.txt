@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1341,
+    "name":"insurchain",
+    "name_cn":"\uff0d",
+    "name_en":"InsurChain/INSUR",
+    "time":"\uff0d",
+    "website":[
+        "http://www.insurchain.org/"
+    ],
+    "whitepaper":"http://www.insurchain.org/InsurChain-WhitePaper.pdf"
+}

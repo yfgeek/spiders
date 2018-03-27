@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://minemanic.com/red/"
+    ],
+    "id":1012,
+    "name":"redcoin",
+    "name_cn":"\u7ea2\u5e01",
+    "name_en":"RedCoin/RED",
+    "time":"\uff0d",
+    "website":[
+        "http://redcoin.pw/"
+    ],
+    "whitepaper":"-"
+}

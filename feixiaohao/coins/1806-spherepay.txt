@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xa9ec9f5c1547bd5b0247cf6ae3aab666d10948be",
+        "https://ethplorer.io/address/0xa9ec9f5c1547bd5b0247cf6ae3aab666d10948be"
+    ],
+    "id":1806,
+    "name":"spherepay",
+    "name_cn":"\uff0d",
+    "name_en":"SpherePay/SAY",
+    "time":"2018-03-09",
+    "website":[
+        "https://say.spherepay.com/"
+    ],
+    "whitepaper":"https://say.spherepay.com/static/pdf/SAYWhitepaper.pdf"
+}

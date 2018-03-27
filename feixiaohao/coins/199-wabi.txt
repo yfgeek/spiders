@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x286bda1413a2df81731d4930ce2f862a35a609fe",
+        "https://ethplorer.io/address/0x286bda1413a2df81731d4930ce2f862a35a609fe"
+    ],
+    "id":199,
+    "name":"wabi",
+    "name_cn":"\u86d9\u5e01",
+    "name_en":"WaBi/WABI",
+    "time":"2017-12-13",
+    "website":[
+        "https://wacoin.io/"
+    ],
+    "whitepaper":"http://resources.wacoin.io/WaBI_Whitepaper_ENG.pdf"
+}

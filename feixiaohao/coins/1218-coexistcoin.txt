@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/tokens/7tZxVdAWc8QvsMrXBoicMgU2bSJsaEpFJnPYn1H31B8B",
+        "https://gravit.ws/asset.aspx?asset=7tZxVdAWc8QvsMrXBoicMgU2bSJsaEpFJnPYn1H31B8B"
+    ],
+    "id":1218,
+    "name":"coexistcoin",
+    "name_cn":"\uff0d",
+    "name_en":"CoExistCoin/COXST",
+    "time":"\uff0d",
+    "website":[
+        "http://coexistcoin.com/"
+    ],
+    "whitepaper":"https://coexistcoin.org/whitepaper.html"
+}

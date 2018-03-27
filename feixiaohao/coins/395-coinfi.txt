@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":395,
+    "name":"coinfi",
+    "name_cn":"\uff0d",
+    "name_en":"CoinFi/COFI",
+    "time":"2018-01-30",
+    "website":[
+        "https://sale.coinfi.com/cn"
+    ],
+    "whitepaper":"https://docs.google.com/document/d/1p6xaFl4nPv1CuJv6F2fkZ6qBq2lBS6ePyFna8QZt1KM/edit"
+}

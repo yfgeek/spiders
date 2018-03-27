@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Lunyr"
+    ],
+    "id":255,
+    "name":"lunyr",
+    "name_cn":"\uff0d",
+    "name_en":"Lunyr/LUN",
+    "time":"2017-03-29",
+    "website":[
+        "https://lunyr.com/"
+    ],
+    "whitepaper":"https://github.com/Lunyr/Lunyr/blob/master/Lunyr_White_Paper_ENG.pdf"
+}

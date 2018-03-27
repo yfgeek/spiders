@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/"
+    ],
+    "id":35,
+    "name":"bitshares",
+    "name_cn":"\u6bd4\u7279\u80a1",
+    "name_en":"BitShares/BTS",
+    "time":"2014-07-19",
+    "website":[
+        "https://bitshares.org"
+    ],
+    "whitepaper":"http://docs.bitshares.eu/bitshares/papers/index.html"
+}

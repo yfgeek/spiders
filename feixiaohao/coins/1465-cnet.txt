@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1465,
+    "name":"cnet",
+    "name_cn":"\uff0d",
+    "name_en":"Currency Network/CNET",
+    "time":"\uff0d",
+    "website":[
+        "http://www.cnet.global/"
+    ],
+    "whitepaper":"-"
+}

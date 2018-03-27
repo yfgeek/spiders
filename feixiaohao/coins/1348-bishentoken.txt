@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5bc792754fc71e2f7892e72922690f57c9724132"
+    ],
+    "id":1348,
+    "name":"bishentoken",
+    "name_cn":"\u5e01\u795e",
+    "name_en":"Bishen Token/BIT",
+    "time":"2018-02-10",
+    "website":[
+        "http://www.bishen.im"
+    ],
+    "whitepaper":"http://bishen.im/#tx"
+}

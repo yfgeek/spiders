@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/FunFair",
+        "https://ethplorer.io/address/0x419d0d8bdd9af5e606ae2232ed285aff190e711b"
+    ],
+    "id":69,
+    "name":"funfair",
+    "name_cn":"\uff0d",
+    "name_en":"FunFair/FUN",
+    "time":"2017-06-28",
+    "website":[
+        "https://funfair.io/"
+    ],
+    "whitepaper":"https://funfair.io/white-papers-languages/"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/octo/"
+    ],
+    "id":1052,
+    "name":"octocoin",
+    "name_cn":"\uff0d",
+    "name_en":"OctoCoin/888",
+    "time":"\uff0d",
+    "website":[
+        "http://octocoinfoundation.org/"
+    ],
+    "whitepaper":"-"
+}

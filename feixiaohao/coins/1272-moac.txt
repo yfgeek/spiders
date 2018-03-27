@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xcbce61316759d807c474441952ce41985bbc5a40"
+    ],
+    "id":1272,
+    "name":"moac",
+    "name_cn":"\u58a8\u5ba2",
+    "name_en":"Moac/MOAC",
+    "time":"2018-01-15",
+    "website":[
+        "http://moac.io/"
+    ],
+    "whitepaper":"http://moac.io/files/MOAC%20technical%20whitepaper%20en.pdf"
+}

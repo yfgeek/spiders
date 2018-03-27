@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.shadow.cash/chain/ShadowCash"
+    ],
+    "id":780,
+    "name":"shadowcash",
+    "name_cn":"\uff0d",
+    "name_en":"ShadowCash/SDC",
+    "time":"\uff0d",
+    "website":[
+        "http://shadowproject.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x8eb24319393716668d768dcec29356ae9cffe285",
+        "https://ethplorer.io/address/0x8eb24319393716668d768dcec29356ae9cffe285"
+    ],
+    "id":123,
+    "name":"singularitynet",
+    "name_cn":"\uff0d",
+    "name_en":"SingularityNET/AGI",
+    "time":"2018-01-18",
+    "website":[
+        "https://singularitynet.io/"
+    ],
+    "whitepaper":"https://public.singularitynet.io/whitepaper.pdf"
+}

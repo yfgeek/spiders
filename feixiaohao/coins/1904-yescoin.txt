@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1904,
+    "name":"yescoin",
+    "name_cn":"\uff0d",
+    "name_en":"Yescoin/YES",
+    "time":"\uff0d",
+    "website":[
+        "http://yescoin.us/"
+    ],
+    "whitepaper":"-"
+}

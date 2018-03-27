@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorador.cryptoescudo.net/chain/CryptoEscudo"
+    ],
+    "id":1117,
+    "name":"cryptoescudo",
+    "name_cn":"\uff0d",
+    "name_en":"CryptoEscudo/CESC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.cryptoescudo.org/"
+    ],
+    "whitepaper":"-"
+}

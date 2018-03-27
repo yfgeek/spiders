@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xc3972ac283b3a7a56125674631a5c254f7f373cf",
+        "https://ethplorer.io/address/0xc3972ac283b3a7a56125674631a5c254f7f373cf"
+    ],
+    "id":863,
+    "name":"hawla-today",
+    "name_cn":"\uff0d",
+    "name_en":"Hawala.Today/HAT",
+    "time":"2017-11-15",
+    "website":[
+        "https://www.hawala.today/"
+    ],
+    "whitepaper":"https://www.hawala.today/HAT_Whitepaper.pdf"
+}

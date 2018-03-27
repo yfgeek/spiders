@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.allsafetoken.com:3001/"
+    ],
+    "id":1035,
+    "name":"allsafe",
+    "name_cn":"\uff0d",
+    "name_en":"AllSafe/ASAFE",
+    "time":"\uff0d",
+    "website":[
+        "https://allsafetoken.com/"
+    ],
+    "whitepaper":"-"
+}

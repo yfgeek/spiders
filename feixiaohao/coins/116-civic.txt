@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/civic"
+    ],
+    "id":116,
+    "name":"civic",
+    "name_cn":"\uff0d",
+    "name_en":"Civic/CVC",
+    "time":"2017-07-18",
+    "website":[
+        "https://www.civic.com/"
+    ],
+    "whitepaper":"https://tokensale.civic.com/CivicTokenSaleWhitePaper.pdf"
+}

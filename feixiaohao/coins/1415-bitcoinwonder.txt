@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1415,
+    "name":"bitcoinwonder",
+    "name_cn":"\u6bd4\u7279\u5947\u8ff9",
+    "name_en":"Bitcoin Wonder/BCW",
+    "time":"\uff0d",
+    "website":[
+        "http://www.bitcoinwonder.io"
+    ],
+    "whitepaper":"http://www.bitcoinwonder.io/#baipi"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://bitinfocharts.com/vertcoin/",
+        "https://bchain.info/vtc/",
+        "https://www.coinexplorer.net/VTC"
+    ],
+    "id":115,
+    "name":"vertcoin",
+    "name_cn":"\u7eff\u5e01",
+    "name_en":"Vertcoin/VTC",
+    "time":"2014-01-06",
+    "website":[
+        "http://vertcoin.org/"
+    ],
+    "whitepaper":"-"
+}

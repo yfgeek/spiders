@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://speedcash.acc-pool.pw/"
+    ],
+    "id":1034,
+    "name":"speedcash",
+    "name_cn":"\uff0d",
+    "name_en":"Speedcash/SCS",
+    "time":"\uff0d",
+    "website":[
+        "http://www.scash.ml/"
+    ],
+    "whitepaper":"-"
+}

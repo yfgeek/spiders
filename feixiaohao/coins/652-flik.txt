@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x17fd666fa0784885fa1afec8ac624d9b7e72b752",
+        "https://ethplorer.io/address/0x17fd666fa0784885fa1afec8ac624d9b7e72b752"
+    ],
+    "id":652,
+    "name":"flik",
+    "name_cn":"\uff0d",
+    "name_en":"FLiK/FLIK",
+    "time":"2017-10-08",
+    "website":[
+        "http://www.theflik.io/"
+    ],
+    "whitepaper":"-"
+}

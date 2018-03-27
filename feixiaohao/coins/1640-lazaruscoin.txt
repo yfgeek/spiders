@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1640,
+    "name":"lazaruscoin",
+    "name_cn":"\uff0d",
+    "name_en":"Lazaruscoin/LAZ",
+    "time":"\uff0d",
+    "website":[
+        "http://lazaruscoin.com/"
+    ],
+    "whitepaper":"-"
+}

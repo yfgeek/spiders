@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.sumokoin.com/"
+    ],
+    "id":595,
+    "name":"sumokoin",
+    "name_cn":"\uff0d",
+    "name_en":"Sumokoin/SUMO",
+    "time":"\uff0d",
+    "website":[
+        "https://www.sumokoin.org/"
+    ],
+    "whitepaper":"https://cryptonote.org/whitepaper.pdf"
+}

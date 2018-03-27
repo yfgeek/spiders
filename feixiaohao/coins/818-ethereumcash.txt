@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5d21ef5f25a985380b65c8e943a0082feda0db84",
+        "https://ethplorer.io/address/0x5d21ef5f25a985380b65c8e943a0082feda0db84"
+    ],
+    "id":818,
+    "name":"ethereumcash",
+    "name_cn":"\uff0d",
+    "name_en":"Ethereumcash/ECASH",
+    "time":"2017-10-14",
+    "website":[
+        "https://www.ethereumcash.technology/"
+    ],
+    "whitepaper":"-"
+}

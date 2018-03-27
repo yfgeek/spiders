@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xb6ee9668771a79be7967ee29a63d4184f8097143",
+        "https://ethplorer.io/address/0xb6ee9668771a79be7967ee29a63d4184f8097143"
+    ],
+    "id":499,
+    "name":"cargox",
+    "name_cn":"\uff0d",
+    "name_en":"CargoX/CXO",
+    "time":"2018-02-01",
+    "website":[
+        "https://cargox.io/"
+    ],
+    "whitepaper":"https://cargox.io/CargoX-Whitepaper.pdf"
+}

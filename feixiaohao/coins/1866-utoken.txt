@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xeF4B9B2F36aBceF247e22e5b20097B3185EbCfD5"
+    ],
+    "id":1866,
+    "name":"utoken",
+    "name_cn":"\uff0d",
+    "name_en":"UToken/UTK",
+    "time":"2017-12-19",
+    "website":[
+        "http://www.u.cx"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.russiacoin.info/"
+    ],
+    "id":543,
+    "name":"russiacoin",
+    "name_cn":"\uff0d",
+    "name_en":"RussiaCoin/RC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.russiacoin.info/"
+    ],
+    "whitepaper":"-"
+}

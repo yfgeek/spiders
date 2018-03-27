@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1782,
+    "name":"seer",
+    "name_cn":"\uff0d",
+    "name_en":"SEER/SEER",
+    "time":"\uff0d",
+    "website":[
+        "https://www.seer.best/"
+    ],
+    "whitepaper":"https://www.seer.best/img/SEER%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainradar.com/bcn/blocks",
+        "http://democats.org/pool/?name=bytecoin"
+    ],
+    "id":32,
+    "name":"bytecoin-bcn",
+    "name_cn":"\u5b57\u8282\u5e01",
+    "name_en":"Bytecoin/BCN",
+    "time":"2012-07-04",
+    "website":[
+        "https://bytecoin.org/"
+    ],
+    "whitepaper":"-"
+}

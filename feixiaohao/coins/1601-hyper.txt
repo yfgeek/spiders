@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://prohashing.com/explorer/Hypercoin/"
+    ],
+    "id":1601,
+    "name":"hyper",
+    "name_cn":"\uff0d",
+    "name_en":"Hyper/HYPER",
+    "time":"\uff0d",
+    "website":[
+        "http://hypercrypto.com/"
+    ],
+    "whitepaper":"-"
+}

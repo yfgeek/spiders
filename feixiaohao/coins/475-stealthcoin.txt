@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chain.stealthcoin.com/",
+        "https://chainz.cryptoid.info/xst/",
+        "http://www.presstab.pw/phpexplorer/XST/index.php"
+    ],
+    "id":475,
+    "name":"stealthcoin",
+    "name_cn":"\uff0d",
+    "name_en":"Stealthcoin/XST",
+    "time":"\uff0d",
+    "website":[
+        "https://www.stealthcoin.com/"
+    ],
+    "whitepaper":"-"
+}

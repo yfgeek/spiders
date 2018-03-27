@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.hcc.top/"
+    ],
+    "id":856,
+    "name":"health-care-chain",
+    "name_cn":"\u533b\u7597\u94fe",
+    "name_en":"Health Care Chain/HCC",
+    "time":"2017-08-17",
+    "website":[
+        "https://www.hcc.top/"
+    ],
+    "whitepaper":"-"
+}

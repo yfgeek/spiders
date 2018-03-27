@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://debitcoinexplorer.xyz/"
+    ],
+    "id":1097,
+    "name":"debitcoin",
+    "name_cn":"\uff0d",
+    "name_en":"Debitcoin/DBTC",
+    "time":"\uff0d",
+    "website":[
+        "https://debitcoin.xyz/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/NimiqNetwork"
+    ],
+    "id":256,
+    "name":"nimiq",
+    "name_cn":"\u7f51\u7edc\u5e01",
+    "name_en":"Nimiq/NET",
+    "time":"2017-06-11",
+    "website":[
+        "https://nimiq.com/"
+    ],
+    "whitepaper":"-"
+}

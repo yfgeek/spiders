@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xa8006c4ca56f24d6836727d106349320db7fef82",
+        "https://ethplorer.io/address/0xa8006c4ca56f24d6836727d106349320db7fef82"
+    ],
+    "id":593,
+    "name":"internxt",
+    "name_cn":"\uff0d",
+    "name_en":"Internxt/INXT",
+    "time":"2017-10-08",
+    "website":[
+        "https://internxt.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/blk/"
+    ],
+    "id":281,
+    "name":"blackcoin",
+    "name_cn":"\u9ed1\u5e01",
+    "name_en":"BlackCoin/BLK",
+    "time":"2014-02-24",
+    "website":[
+        "http://www.blackcoin.co/"
+    ],
+    "whitepaper":"-"
+}

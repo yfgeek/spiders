@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":282,
+    "name":"ugchain",
+    "name_cn":"\uff0d",
+    "name_en":"UgChain/UGC",
+    "time":"2018-01-13",
+    "website":[
+        "http://www.ugchain.org/"
+    ],
+    "whitepaper":"-"
+}

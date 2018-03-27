@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd7cddd45629934c2f6ed3b63217bd8085d7c14a8",
+        "https://ethplorer.io/address/0xd7cddd45629934c2f6ed3b63217bd8085d7c14a8"
+    ],
+    "id":1354,
+    "name":"animation-vision-cash",
+    "name_cn":"\uff0d",
+    "name_en":"AVH/AVH",
+    "time":"2018-02-11",
+    "website":[
+        "http://av.cash/"
+    ],
+    "whitepaper":"http://avcashimg.s3-accelerate.amazonaws.com/pdf/AVH_WP_EnglishV1.pdf"
+}

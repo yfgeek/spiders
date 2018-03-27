@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.lbry.io/"
+    ],
+    "id":206,
+    "name":"library-credit",
+    "name_cn":"\uff0d",
+    "name_en":"LBRY Credits/LBC",
+    "time":"2016-07-04",
+    "website":[
+        "https://lbry.io/"
+    ],
+    "whitepaper":"-"
+}

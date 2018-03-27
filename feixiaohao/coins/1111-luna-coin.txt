@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://blockexperts.com/luna",
+        "http://minecoins.online:8090/",
+        "http://212.24.102.92/"
+    ],
+    "id":1111,
+    "name":"luna-coin",
+    "name_cn":"\uff0d",
+    "name_en":"Luna Coin/LUNA",
+    "time":"\uff0d",
+    "website":[
+        "https://bitluna.org/"
+    ],
+    "whitepaper":"-"
+}

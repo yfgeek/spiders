@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/klc"
+    ],
+    "id":353,
+    "name":"kilocoin",
+    "name_cn":"\u81f3\u9ad8\u5e01",
+    "name_en":"KiloCoin/KLC",
+    "time":"\uff0d",
+    "website":[
+        "http://kilocoin.com/"
+    ],
+    "whitepaper":"-"
+}

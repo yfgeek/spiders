@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/ICONOMI"
+    ],
+    "id":100,
+    "name":"iconomi",
+    "name_cn":"\uff0d",
+    "name_en":"Iconomi/ICN",
+    "time":"2016-12-21",
+    "website":[
+        "https://www.iconomi.net/"
+    ],
+    "whitepaper":"https://coss.io/documents/white-papers/iconomi.pdf"
+}

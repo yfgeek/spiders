@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://45.63.54.41/"
+    ],
+    "id":1152,
+    "name":"starcash-network",
+    "name_cn":"\uff0d",
+    "name_en":"StarCash Network/STARS",
+    "time":"2017-11-08",
+    "website":[
+        "http://starcash.co/"
+    ],
+    "whitepaper":"-"
+}

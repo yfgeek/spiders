@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.litecoinca.sh/"
+    ],
+    "id":1650,
+    "name":"litecoin-cash",
+    "name_cn":"\uff0d",
+    "name_en":"Litecoin Cash/LCC",
+    "time":"2018-02-22",
+    "website":[
+        "https://litecoinca.sh/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://block.madcoin.life:3001/"
+    ],
+    "id":1080,
+    "name":"madcoin",
+    "name_cn":"\uff0d",
+    "name_en":"Madcoin/MDC",
+    "time":"2018-01-01",
+    "website":[
+        "https://madcoin.life/"
+    ],
+    "whitepaper":"-"
+}

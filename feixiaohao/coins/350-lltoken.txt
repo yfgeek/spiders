@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":350,
+    "name":"lltoken",
+    "name_cn":"\u6d41\u91cf\u77ff\u77f3",
+    "name_en":"LLToken/LLT",
+    "time":"2017-08-30",
+    "website":[
+        "https://jiaoyi.yunfan.com"
+    ],
+    "whitepaper":"-"
+}

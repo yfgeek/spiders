@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://yenten-blockexplorer.chocottokozukai.click/"
+    ],
+    "id":1903,
+    "name":"yenten",
+    "name_cn":"\uff0d",
+    "name_en":"YENTEN/YTN",
+    "time":"2017-12-19",
+    "website":[
+        "https://conan-equal-newone.github.io/yenten/"
+    ],
+    "whitepaper":"-"
+}

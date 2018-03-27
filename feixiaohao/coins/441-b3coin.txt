@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/b3/"
+    ],
+    "id":441,
+    "name":"b3coin",
+    "name_cn":"\uff0d",
+    "name_en":"B3Coin/B3",
+    "time":"\uff0d",
+    "website":[
+        "http://b3coin.net/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x6425c6be902d692ae2db752b3c268afadb099d3b",
+        "https://ethplorer.io/address/0x6425c6be902d692ae2db752b3c268afadb099d3b"
+    ],
+    "id":1761,
+    "name":"red-mwat",
+    "name_cn":"\uff0d",
+    "name_en":"Restart Energy MWAT/MWAT",
+    "time":"2018-02-18",
+    "website":[
+        "https://restartenergy.io"
+    ],
+    "whitepaper":"https://restartenergy.io/Restart_Energy_Whitepaper.pdf"
+}

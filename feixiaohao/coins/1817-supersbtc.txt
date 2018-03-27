@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1817,
+    "name":"supersbtc",
+    "name_cn":"\u8d85\u7ea7\u6bd4\u7279\u5e01",
+    "name_en":"Super Bitcoin/SBTC",
+    "time":"2017-12-05",
+    "website":[
+        "http://www.supersmartbitcoin.com/"
+    ],
+    "whitepaper":"-"
+}

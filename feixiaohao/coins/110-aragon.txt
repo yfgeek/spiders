@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Aragon"
+    ],
+    "id":110,
+    "name":"aragon",
+    "name_cn":"\u963f\u62c9\u8d21",
+    "name_en":"Aragon/ANT",
+    "time":"2017-05-17",
+    "website":[
+        "https://aragon.one/"
+    ],
+    "whitepaper":"https://aragon.one/network/"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/a/EUR"
+    ],
+    "id":1051,
+    "name":"biteur",
+    "name_cn":"\uff0d",
+    "name_en":"bitEUR/BITEUR",
+    "time":"\uff0d",
+    "website":[
+        "http://bit.ly/BitShares_EURO"
+    ],
+    "whitepaper":"-"
+}

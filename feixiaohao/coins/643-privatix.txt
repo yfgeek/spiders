@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a",
+        "https://ethplorer.io/address/0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a"
+    ],
+    "id":643,
+    "name":"privatix",
+    "name_cn":"\uff0d",
+    "name_en":"Privatix/PRIX",
+    "time":"2017-11-17",
+    "website":[
+        "https://privatix.io/"
+    ],
+    "whitepaper":"https://dxw4crzwfgmzw.cloudfront.net/whitepaper/PRIVATIX-WHITEPAPER-CHN.pdf"
+}

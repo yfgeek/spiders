@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x33f90Dee07c6E8B9682dD20F73E6C358B2ED0f03",
+        "https://ethplorer.io/address/0x33f90dee07c6e8b9682dd20f73e6c358b2ed0f03"
+    ],
+    "id":1100,
+    "name":"trident",
+    "name_cn":"\uff0d",
+    "name_en":"Trident Group/TRDT",
+    "time":"2017-12-16",
+    "website":[
+        "https://www.tridentgroup.io/"
+    ],
+    "whitepaper":"-"
+}

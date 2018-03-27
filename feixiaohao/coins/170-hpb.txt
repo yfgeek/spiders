@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x38c6a68304cdefb9bec48bbfaaba5c5b47818bb2"
+    ],
+    "id":170,
+    "name":"hpb",
+    "name_cn":"\u82af\u94fe",
+    "name_en":"HPB/HPB",
+    "time":"\uff0d",
+    "website":[
+        "http://www.gxn.io"
+    ],
+    "whitepaper":"http://www.gxn.io/files/hpb_white_paper.pdf"
+}

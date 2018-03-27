@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.asch.io/"
+    ],
+    "id":171,
+    "name":"asch",
+    "name_cn":"\u963f\u5e0c\u5e01",
+    "name_en":"Asch/XAS",
+    "time":"2016-08-16",
+    "website":[
+        "https://www.asch.io/"
+    ],
+    "whitepaper":"http://asch-public.oss-cn-beijing.aliyuncs.com/asch.io/Asch-whitepaper-zh.pdf"
+}

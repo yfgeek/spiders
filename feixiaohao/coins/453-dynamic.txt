@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://dyn.blocksandchain.com/"
+    ],
+    "id":453,
+    "name":"dynamic",
+    "name_cn":"\uff0d",
+    "name_en":"Dynamic/DYN",
+    "time":"\uff0d",
+    "website":[
+        "https://duality.solutions/"
+    ],
+    "whitepaper":"-"
+}

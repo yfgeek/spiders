@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://cryptobe.com/chain/StrongHands",
+        "http://173.254.204.74:3001/"
+    ],
+    "id":1022,
+    "name":"stronghands",
+    "name_cn":"\uff0d",
+    "name_en":"StrongHands/SHND",
+    "time":"\uff0d",
+    "website":[
+        "http://stronghands.github.io/"
+    ],
+    "whitepaper":"-"
+}

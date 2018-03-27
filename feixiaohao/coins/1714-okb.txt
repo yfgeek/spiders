@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1714,
+    "name":"okb",
+    "name_cn":"OK\u5168\u7403\u901a\u7528\u79ef\u5206",
+    "name_en":"OKB/OKB",
+    "time":"\uff0d",
+    "website":[
+        "https://www.okex.com/"
+    ],
+    "whitepaper":"-"
+}

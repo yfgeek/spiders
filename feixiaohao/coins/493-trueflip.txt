@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xa7f976c360ebbed4465c2855684d1aae5271efa9",
+        "https://ethplorer.io/address/0xa7f976c360ebbed4465c2855684d1aae5271efa9"
+    ],
+    "id":493,
+    "name":"trueflip",
+    "name_cn":"\uff0d",
+    "name_en":"TrueFlip/TFL",
+    "time":"2017-08-24",
+    "website":[
+        "https://trueflip.io/",
+        "https://steemit.com/@trueflip/"
+    ],
+    "whitepaper":"https://trueflip.io/TrueFlip%20Whitepaper(01.06).pdf?1"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://gastracker.io/"
+    ],
+    "id":15,
+    "name":"ethereum-classic",
+    "name_cn":"\u4ee5\u592a\u7ecf\u5178",
+    "name_en":"Ethereum Classic/ETC",
+    "time":"2015-11-01",
+    "website":[
+        "https://ethereumclassic.github.io/"
+    ],
+    "whitepaper":"https://ethereumclassic.github.io/assets/etc-thesis.pdf"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://cryptofresh.com/a/ICOO"
+    ],
+    "id":760,
+    "name":"ico-openledger",
+    "name_cn":"\uff0d",
+    "name_en":"ICO OpenLedger/ICOO",
+    "time":"\uff0d",
+    "website":[
+        "https://icoo.io/"
+    ],
+    "whitepaper":"-"
+}

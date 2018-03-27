@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://prohashing.com/explorer/Corgicoin"
+    ],
+    "id":670,
+    "name":"corgicoin",
+    "name_cn":"\u5c0f\u72d7\u5e01",
+    "name_en":"CorgiCoin/CORG",
+    "time":"\uff0d",
+    "website":[
+        "https://corgicoinproofofstake.wordpress.com/"
+    ],
+    "whitepaper":"-"
+}

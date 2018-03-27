@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/vta/",
+        "https://www.virtacoin.world/C-Data/"
+    ],
+    "id":519,
+    "name":"virtacoin",
+    "name_cn":"\uff0d",
+    "name_en":"Virtacoin/VTA",
+    "time":"\uff0d",
+    "website":[
+        "https://www.virtacoin.world/"
+    ],
+    "whitepaper":"-"
+}

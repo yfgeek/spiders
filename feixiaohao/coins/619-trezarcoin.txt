@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://explorer.trezarcoin.com/",
+        "https://trezarcoin.network/",
+        "http://tzc.explorerz.top:3004/"
+    ],
+    "id":619,
+    "name":"trezarcoin",
+    "name_cn":"\uff0d",
+    "name_en":"TrezarCoin/TZC",
+    "time":"2017-09-30",
+    "website":[
+        "http://trezarcoin.com/"
+    ],
+    "whitepaper":"-"
+}

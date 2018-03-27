@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.sbccoin.io/"
+    ],
+    "id":1814,
+    "name":"strikebitclub",
+    "name_cn":"\uff0d",
+    "name_en":"StrikeBitClub/SBC",
+    "time":"2017-12-09",
+    "website":[
+        "https://strikebitclub.com/",
+        "https://sbccoin.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://lpool.name/explorer/ROOFS"
+    ],
+    "id":1103,
+    "name":"roofs",
+    "name_cn":"\uff0d",
+    "name_en":"ROOFS/ROOFS",
+    "time":"2017-10-30",
+    "website":[
+        "https://www.roofs.business/"
+    ],
+    "whitepaper":"-"
+}

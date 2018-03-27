@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1663,
+    "name":"mdt",
+    "name_cn":"\u91cf\u6570\u5e01",
+    "name_en":"Measurable Data/MDT",
+    "time":"2018-01-03",
+    "website":[
+        "https://www.mdt.co/"
+    ],
+    "whitepaper":"https://www.mdt.co/cn/docs/whitepaper.pdf"
+}

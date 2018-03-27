@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x49aec0752e68d0282db544c677f6ba407ba17ed7",
+        "https://ethplorer.io/address/0x49aec0752e68d0282db544c677f6ba407ba17ed7"
+    ],
+    "id":883,
+    "name":"billionaire-token",
+    "name_cn":"\uff0d",
+    "name_en":"Billionaire T.../XBL",
+    "time":"2017-09-24",
+    "website":[
+        "https://billionairetoken.com/"
+    ],
+    "whitepaper":"-"
+}

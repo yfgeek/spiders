@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/xbc"
+    ],
+    "id":550,
+    "name":"bitcoin-plus",
+    "name_cn":"\uff0d",
+    "name_en":"Bitcoin Plus/XBC",
+    "time":"2017-05-26",
+    "website":[
+        "http://www.bitcoinplus.org"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x2233799ee2683d75dfefacbcd2a26c78d34b470d",
+        "https://ethplorer.io/address/0x2233799ee2683d75dfefacbcd2a26c78d34b470d"
+    ],
+    "id":1168,
+    "name":"network-token",
+    "name_cn":"\uff0d",
+    "name_en":"Network Token/NTWK",
+    "time":"2017-10-28",
+    "website":[
+        "http://www.networktoken.io/"
+    ],
+    "whitepaper":"-"
+}

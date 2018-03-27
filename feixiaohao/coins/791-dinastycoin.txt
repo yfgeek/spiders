@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://democats.org/blockchain/?name=dinastycoin",
+        "http://dcy.ms-pool.net.ua/",
+        "blockchain_blocks"
+    ],
+    "id":791,
+    "name":"dinastycoin",
+    "name_cn":"\uff0d",
+    "name_en":"Dinastycoin/DCY",
+    "time":"2017-06-25",
+    "website":[
+        "http://www.dinastycoin.com/"
+    ],
+    "whitepaper":"-"
+}

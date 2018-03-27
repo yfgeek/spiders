@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.techsharescommunity.com/wallet",
+        "/explorer/blocks"
+    ],
+    "id":1825,
+    "name":"techshares",
+    "name_cn":"\u79d1\u6280\u80a1",
+    "name_en":"TechShares/THS",
+    "time":"\uff0d",
+    "website":[
+        "http://www.techsharescommunity.com/"
+    ],
+    "whitepaper":"-"
+}

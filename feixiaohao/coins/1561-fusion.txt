@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd0352a019e9ab9d757776f532377aaebd36fd541",
+        "http://ethplorer.io/address/0xd0352a019e9ab9d757776f532377aaebd36fd541"
+    ],
+    "id":1561,
+    "name":"fusion",
+    "name_cn":"\uff0d",
+    "name_en":"Fusion/FSN",
+    "time":"2018-02-17",
+    "website":[
+        "https://fusion.org/"
+    ],
+    "whitepaper":"http://fusion-main.oss-ap-southeast-1.aliyuncs.com/FUSION%20Whitepaper.pdf"
+}

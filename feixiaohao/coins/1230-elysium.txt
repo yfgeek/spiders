@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "http://blockexp.com:7000/"
+    ],
+    "id":1230,
+    "name":"elysium",
+    "name_cn":"\uff0d",
+    "name_en":"Elysium/ELS",
+    "time":"\uff0d",
+    "website":[],
+    "whitepaper":"-"
+}

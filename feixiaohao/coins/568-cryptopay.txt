@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e",
+        "https://ethplorer.io/address/0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e"
+    ],
+    "id":568,
+    "name":"cryptopay",
+    "name_cn":"\uff0d",
+    "name_en":"Cryptopay/CPAY",
+    "time":"2017-12-29",
+    "website":[
+        "https://cryptopay.me/",
+        "https://ico.cryptopay.me/"
+    ],
+    "whitepaper":"https://ico.cryptopay.me/ico_cpay_wp.pdf"
+}

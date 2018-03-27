@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://bstyexplorer.globalboost.info/"
+    ],
+    "id":1031,
+    "name":"globalboost-y",
+    "name_cn":"\uff0d",
+    "name_en":"GlobalBoost-Y/BSTY",
+    "time":"\uff0d",
+    "website":[
+        "http://globalboost-y.com/"
+    ],
+    "whitepaper":"-"
+}

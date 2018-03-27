@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://188.226.178.216:3001/",
+        "https://altmix.org/coins/2-SHIELD"
+    ],
+    "id":322,
+    "name":"shield-xsh",
+    "name_cn":"\u795e\u76fe",
+    "name_en":"SHIELD/XSH",
+    "time":"2017-11-04",
+    "website":[
+        "https://shieldcurrency.com/"
+    ],
+    "whitepaper":"http://www.shieldx.sh/XSHWP-CN.pdf"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://prohashing.com/explorer/Blazecoin/"
+    ],
+    "id":861,
+    "name":"blazecoin",
+    "name_cn":"\uff0d",
+    "name_en":"BlazeCoin/BLZ",
+    "time":"\uff0d",
+    "website":[
+        "http://blazeco.in/"
+    ],
+    "whitepaper":"-"
+}

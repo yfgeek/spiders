@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.fuzzbawls.pw/explore/MintCoin/"
+    ],
+    "id":396,
+    "name":"mintcoin",
+    "name_cn":"\u8584\u8377\u5e01",
+    "name_en":"Mintcoin/MINT",
+    "time":"\uff0d",
+    "website":[
+        "http://www.mintcoinofficial.com"
+    ],
+    "whitepaper":"-"
+}

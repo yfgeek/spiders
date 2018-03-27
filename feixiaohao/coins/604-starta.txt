@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":604,
+    "name":"starta",
+    "name_cn":"\uff0d",
+    "name_en":"Starta/STA",
+    "time":"2017-07-19",
+    "website":[
+        "https://startaico.com/"
+    ],
+    "whitepaper":"-"
+}

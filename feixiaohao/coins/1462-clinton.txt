@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1462,
+    "name":"clinton",
+    "name_cn":"\uff0d",
+    "name_en":"Clinton/CLINT",
+    "time":"\uff0d",
+    "website":[
+        "http://myclint.us/"
+    ],
+    "whitepaper":"-"
+}

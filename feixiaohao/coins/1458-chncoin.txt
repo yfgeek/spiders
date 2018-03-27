@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/cnc/"
+    ],
+    "id":1458,
+    "name":"chncoin",
+    "name_cn":"\u4e2d\u56fd\u5e01",
+    "name_en":"CHNCoin/CNC",
+    "time":"\uff0d",
+    "website":[
+        "http://chncoin.org/"
+    ],
+    "whitepaper":"-"
+}

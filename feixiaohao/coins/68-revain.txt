@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x48f775efbe4f5ece6e0df2f7b5932df56823b990",
+        "https://ethplorer.io/address/0x48f775efbe4f5ece6e0df2f7b5932df56823b990"
+    ],
+    "id":68,
+    "name":"revain",
+    "name_cn":"\uff0d",
+    "name_en":"Revain/R",
+    "time":"2017-11-02",
+    "website":[
+        "https://revain.org/"
+    ],
+    "whitepaper":"http://revain.org/pdf/wp/en-wp.pdf"
+}

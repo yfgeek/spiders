@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://blockexplorer.electroneum.com/"
+    ],
+    "id":71,
+    "name":"electroneum",
+    "name_cn":"\uff0d",
+    "name_en":"Electroneum/ETN",
+    "time":"2017-11-03",
+    "website":[
+        "http://electroneum.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://golosd.com/",
+        "https://golosdb.com/"
+    ],
+    "id":460,
+    "name":"golos",
+    "name_cn":"\uff0d",
+    "name_en":"Golos/GOLOS",
+    "time":"\uff0d",
+    "website":[
+        "https://golos.io/"
+    ],
+    "whitepaper":"https://wiki.golos.io/1-introduction/golos_whitepaper.html"
+}

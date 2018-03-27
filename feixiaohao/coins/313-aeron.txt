@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
+        "https://ethplorer.io/address/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6"
+    ],
+    "id":313,
+    "name":"aeron",
+    "name_cn":"\uff0d",
+    "name_en":"Aeron/ARN",
+    "time":"2017-11-08",
+    "website":[
+        "https://aeron.aero/"
+    ],
+    "whitepaper":"https://aeron.aero/AeronWhitepaper_cn.pdf"
+}

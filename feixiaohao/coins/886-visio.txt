@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/visio/"
+    ],
+    "id":886,
+    "name":"visio",
+    "name_cn":"\uff0d",
+    "name_en":"Visio/VISIO",
+    "time":"\uff0d",
+    "website":[
+        "http://www.visioplatform.com/"
+    ],
+    "whitepaper":"http://visioplatform.com/files/whitepaper_visio.pdf"
+}

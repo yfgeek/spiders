@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/assets.html?725Yv9oceWsB4GsYwyy4A52kEwyVrL5avubkeChSnL46"
+    ],
+    "id":672,
+    "name":"ergo",
+    "name_cn":"\uff0d",
+    "name_en":"Ergo/EFYT",
+    "time":"2017-06-30",
+    "website":[
+        "http://ergoplatform.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://piecoin.thecryptochat.net/"
+    ],
+    "id":1146,
+    "name":"piecoin",
+    "name_cn":"\uff0d",
+    "name_en":"PIECoin/PIE",
+    "time":"\uff0d",
+    "website":[
+        "http://www.piecoin.info/",
+        "http://piecoin.tech/"
+    ],
+    "whitepaper":"-"
+}

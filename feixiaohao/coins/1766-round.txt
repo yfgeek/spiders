@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4993CB95c7443bdC06155c5f5688Be9D8f6999a5"
+    ],
+    "id":1766,
+    "name":"round",
+    "name_cn":"\uff0d",
+    "name_en":"Round/ROUND",
+    "time":"2017-07-27",
+    "website":[
+        "http://roundcoin.org/"
+    ],
+    "whitepaper":"-"
+}

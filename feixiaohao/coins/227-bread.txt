@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":227,
+    "name":"bread",
+    "name_cn":"\uff0d",
+    "name_en":"Bread/BRD",
+    "time":"2017-12-25",
+    "website":[
+        "https://token.breadapp.com/en/"
+    ],
+    "whitepaper":"https://d2n2g5n187q8lu.cloudfront.net/static/docs/BRD-whitepaper-EN.pdf"
+}

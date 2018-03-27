@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://neotracker.io/"
+    ],
+    "id":1260,
+    "name":"ont",
+    "name_cn":"\u672c\u4f53",
+    "name_en":"Ontology/ONT",
+    "time":"\uff0d",
+    "website":[
+        "https://ont.io/"
+    ],
+    "whitepaper":"https://ont.io/static/wp/%E6%9C%AC%E4%BD%93%E7%99%BD%E7%9A%AE%E4%B9%A6%E6%A6%82%E8%A7%88.pdf"
+}

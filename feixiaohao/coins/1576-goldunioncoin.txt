@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xfd399192a8dc99aad26052be7db95ffacc17f11c"
+    ],
+    "id":1576,
+    "name":"goldunioncoin",
+    "name_cn":"\uff0d",
+    "name_en":"GoldUnionCoin/GUC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.goldunioncoin.org/"
+    ],
+    "whitepaper":"-"
+}

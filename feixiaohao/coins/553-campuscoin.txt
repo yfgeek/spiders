@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://block.campuscoin.net:8000/",
+        "http://block.campuscoin.net/"
+    ],
+    "id":553,
+    "name":"campuscoin",
+    "name_cn":"\uff0d",
+    "name_en":"CampusCoin/CMPCO",
+    "time":"2017-07-28",
+    "website":[
+        "https://campuscoin.net/"
+    ],
+    "whitepaper":"-"
+}

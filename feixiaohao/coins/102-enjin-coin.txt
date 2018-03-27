@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+        "https://ethplorer.io/address/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
+    ],
+    "id":102,
+    "name":"enjin-coin",
+    "name_cn":"\u6069\u91d1\u5e01",
+    "name_en":"Enjin Coin/ENJ",
+    "time":"2017-11-02",
+    "website":[
+        "https://www.enjin.com/",
+        "https://enjincoin.io/"
+    ],
+    "whitepaper":"https://enjincoin.io/enjincoin_whitepaper_cn.pdf"
+}

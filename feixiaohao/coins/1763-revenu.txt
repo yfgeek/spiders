@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.multifaucet.tk/index.php?blockexplorer=REV",
+        "http://www.tekyexplorer.xyz/rev/index.php"
+    ],
+    "id":1763,
+    "name":"revenu",
+    "name_cn":"\uff0d",
+    "name_en":"Revenu/REV",
+    "time":"\uff0d",
+    "website":[
+        "https://revsurfprofit.com/coin/"
+    ],
+    "whitepaper":"-"
+}

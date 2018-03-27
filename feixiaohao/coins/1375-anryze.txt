@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://wavesexplorer.com/tx/HXdFUiw5yLLWhkorsRy1E5GttG2QZfzEYAVgEgjBNh8t"
+    ],
+    "id":1375,
+    "name":"anryze",
+    "name_cn":"\uff0d",
+    "name_en":"ANRYZE/RYZ",
+    "time":"2017-11-28",
+    "website":[
+        "https://anryze.com/"
+    ],
+    "whitepaper":"-"
+}

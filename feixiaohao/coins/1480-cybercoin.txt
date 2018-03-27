@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://cyber.miningalts.com/"
+    ],
+    "id":1480,
+    "name":"cybercoin",
+    "name_cn":"\uff0d",
+    "name_en":"CyberCoin/CC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.cybercoin.space/"
+    ],
+    "whitepaper":"-"
+}

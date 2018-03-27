@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Trustcoin"
+    ],
+    "id":290,
+    "name":"trust",
+    "name_cn":"\uff0d",
+    "name_en":"WeTrust/TRST",
+    "time":"2017-02-28",
+    "website":[
+        "https://www.wetrust.io/"
+    ],
+    "whitepaper":"https://github.com/WeTrustPlatform/documents/blob/master/WeTrustWhitePaper.pdf"
+}

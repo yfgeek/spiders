@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/gun/"
+    ],
+    "id":801,
+    "name":"guncoin",
+    "name_cn":"\uff0d",
+    "name_en":"Guncoin/GUN",
+    "time":"\uff0d",
+    "website":[
+        "http://www.guncoin.info/"
+    ],
+    "whitepaper":"-"
+}

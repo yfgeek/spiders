@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://ubiqscan.io/"
+    ],
+    "id":134,
+    "name":"ubiq",
+    "name_cn":"\uff0d",
+    "name_en":"Ubiq/UBQ",
+    "time":"2016-08-13",
+    "website":[
+        "http://ubiqsmart.com/"
+    ],
+    "whitepaper":"-"
+}

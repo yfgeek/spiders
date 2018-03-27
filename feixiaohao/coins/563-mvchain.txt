@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xb17df9a3b09583a9bdcf757d6367171476d4d8a3"
+    ],
+    "id":563,
+    "name":"mvchain",
+    "name_cn":"\u5c0f\u725b\u94fe",
+    "name_en":"Maverick Chain/MVC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.mvchain.net/"
+    ],
+    "whitepaper":"-"
+}

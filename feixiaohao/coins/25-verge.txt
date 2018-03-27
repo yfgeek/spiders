@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://verge-blockchain.info/"
+    ],
+    "id":25,
+    "name":"verge",
+    "name_cn":"\uff0d",
+    "name_en":"Verge/XVG",
+    "time":"2014-10-09",
+    "website":[
+        "http://vergecurrency.com/"
+    ],
+    "whitepaper":"https://vergecurrency.com/assets/Verge-Anonymity-Centric-CryptoCurrency.pdf"
+}

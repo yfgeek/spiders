@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://www.mynxt.info/asset/12422608354438203866"
+    ],
+    "id":51,
+    "name":"ardor",
+    "name_cn":"\u963f\u6735\u5e01",
+    "name_en":"Ardor/ARDR",
+    "time":"\uff0d",
+    "website":[
+        "https://www.ardorplatform.org/"
+    ],
+    "whitepaper":"-"
+}

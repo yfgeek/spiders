@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.dynamiccoin.net/"
+    ],
+    "id":1508,
+    "name":"dynamiccoin",
+    "name_cn":"\u52a8\u529b\u5e01",
+    "name_en":"DynamicCoin/DMC",
+    "time":"\uff0d",
+    "website":[
+        "http://dynamiccoin.org/"
+    ],
+    "whitepaper":"-"
+}

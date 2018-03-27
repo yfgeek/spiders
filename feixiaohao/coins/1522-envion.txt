@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd780ae2bf04cd96e577d3d014762f831d97129d0",
+        "https://ethplorer.io/address/0xd780ae2bf04cd96e577d3d014762f831d97129d0"
+    ],
+    "id":1522,
+    "name":"envion",
+    "name_cn":"\uff0d",
+    "name_en":"Envion/EVN",
+    "time":"2018-02-16",
+    "website":[
+        "https://www.envion.org"
+    ],
+    "whitepaper":"https://www.envion.org/en/download/envion_whitepaper.pdf"
+}

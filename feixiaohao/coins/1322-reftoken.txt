@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1322,
+    "name":"reftoken",
+    "name_cn":"\u5f15\u8350\u4ee4\u724c",
+    "name_en":"RefToken/REF",
+    "time":"2018-01-20",
+    "website":[
+        "https://reftoken.io/"
+    ],
+    "whitepaper":"https://reftoken.io/uploads/reftoken-whitepaper-5.6.pdf"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://185.223.31.170:3001/"
+    ],
+    "id":914,
+    "name":"aerium",
+    "name_cn":"\uff0d",
+    "name_en":"Aerium/AERM",
+    "time":"2017-11-18",
+    "website":[
+        "https://www.aerium.info/"
+    ],
+    "whitepaper":"-"
+}

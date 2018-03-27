@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1961b3331969ed52770751fc718ef530838b6dee",
+        "https://ethplorer.io/address/0x1961b3331969ed52770751fc718ef530838b6dee"
+    ],
+    "id":338,
+    "name":"bitdegree",
+    "name_cn":"\uff0d",
+    "name_en":"BitDegree/BDG",
+    "time":"2018-01-12",
+    "website":[
+        "https://www.bitdegree.org/"
+    ],
+    "whitepaper":"https://www.bitdegree.org/white-paper.pdf"
+}

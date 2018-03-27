@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://159.203.112.182:3001/"
+    ],
+    "id":1249,
+    "name":"tristar-coin",
+    "name_cn":"\uff0d",
+    "name_en":"Tristar Coin/TSTR",
+    "time":"\uff0d",
+    "website":[
+        "http://www.tristarcoin.com/"
+    ],
+    "whitepaper":"-"
+}

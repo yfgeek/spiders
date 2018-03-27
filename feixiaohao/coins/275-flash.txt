@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.flashcoin.io/"
+    ],
+    "id":275,
+    "name":"flash",
+    "name_cn":"\uff0d",
+    "name_en":"Flash/FLASH",
+    "time":"2017-06-27",
+    "website":[
+        "https://flashcoin.io/"
+    ],
+    "whitepaper":"https://www.flashcoin.io/docs/FLASHWhitepaper.pdf"
+}

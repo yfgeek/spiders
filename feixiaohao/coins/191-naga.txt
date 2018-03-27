@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131",
+        "https://ethplorer.io/address/0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131"
+    ],
+    "id":191,
+    "name":"naga",
+    "name_cn":"\uff0d",
+    "name_en":"NAGA/NGC",
+    "time":"2017-12-24",
+    "website":[
+        "https://www.nagaico.com/"
+    ],
+    "whitepaper":"-"
+}

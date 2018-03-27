@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/pnd/"
+    ],
+    "id":455,
+    "name":"pandacoin-pnd",
+    "name_cn":"\u718a\u732b\u5e01",
+    "name_en":"Pandacoin/PND",
+    "time":"\uff0d",
+    "website":[
+        "http://digitalpandacoin.org/"
+    ],
+    "whitepaper":"-"
+}

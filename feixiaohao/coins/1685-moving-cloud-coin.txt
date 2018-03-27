@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1685,
+    "name":"moving-cloud-coin",
+    "name_cn":"\u884c\u4e91\u5e01",
+    "name_en":"Moving Cloud .../MCC",
+    "time":"2017-09-06",
+    "website":[
+        "http://mcc.mcstore.cn/"
+    ],
+    "whitepaper":"-"
+}

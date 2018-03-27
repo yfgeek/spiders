@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://blockchain.mn/",
+        "https://wallet.e-dinarcoin.com/",
+        "/explorer/blocks"
+    ],
+    "id":294,
+    "name":"e-dinar-coin",
+    "name_cn":"\u827e\u7279\u5e01",
+    "name_en":"E-Dinar Coin/EDR",
+    "time":"\uff0d",
+    "website":[
+        "https://edinarcoin.com/"
+    ],
+    "whitepaper":"-"
+}

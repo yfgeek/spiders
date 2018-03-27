@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://nxtportal.org/assets/4110498475301476439"
+    ],
+    "id":1811,
+    "name":"stex",
+    "name_cn":"\uff0d",
+    "name_en":"STEX/STEX",
+    "time":"\uff0d",
+    "website":[
+        "https://stocks.exchange/ico"
+    ],
+    "whitepaper":"https://stex.exchange/media/pdf/whitepaper.pdf"
+}

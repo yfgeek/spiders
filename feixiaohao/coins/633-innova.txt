@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.innovacoin.info"
+    ],
+    "id":633,
+    "name":"innova",
+    "name_cn":"\uff0d",
+    "name_en":"Innova/INN",
+    "time":"2017-11-09",
+    "website":[
+        "http://innovacoin.info/"
+    ],
+    "whitepaper":"-"
+}

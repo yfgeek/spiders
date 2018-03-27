@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
+        "https://ethplorer.io/address/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74"
+    ],
+    "id":44,
+    "name":"walton",
+    "name_cn":"\u6c83\u5c14\u987f\u94fe",
+    "name_en":"Walton/WTC",
+    "time":"2017-08-28",
+    "website":[
+        "http://www.waltonchain.org/"
+    ],
+    "whitepaper":"-"
+}

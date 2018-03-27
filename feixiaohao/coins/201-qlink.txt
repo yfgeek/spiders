@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://neotracker.io/asset/0d821bd7b6d53f5c2b40e217c6defc8bbe896cf5"
+    ],
+    "id":201,
+    "name":"qlink",
+    "name_cn":"\uff0d",
+    "name_en":"Qlink/QLC",
+    "time":"2017-12-30",
+    "website":[
+        "http://qlink.mobi/"
+    ],
+    "whitepaper":"https://qlink.mobi/qlink2/res/WhitePaper_cn.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://blockchair.com/bitcoin-cash/blocks",
+        "http://blockdozer.com/insight/",
+        "https://www.blocktrail.com/BCC"
+    ],
+    "id":3,
+    "name":"bitcoin-cash",
+    "name_cn":"\u6bd4\u7279\u73b0\u91d1",
+    "name_en":"Bitcoin Cash(BCC)/BCH",
+    "time":"2017-07-24",
+    "website":[
+        "https://www.bitcoincash.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":194,
+    "name":"appcoins",
+    "name_cn":"\uff0d",
+    "name_en":"AppCoins/APPC",
+    "time":"2018-01-08",
+    "website":[
+        "https://appcoins.io/"
+    ],
+    "whitepaper":"https://appcoins.io/pdf/appcoins_white_paper.pdf"
+}

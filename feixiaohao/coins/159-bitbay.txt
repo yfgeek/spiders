@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.bitbay.market/",
+        "https://chainz.cryptoid.info/bay/"
+    ],
+    "id":159,
+    "name":"bitbay",
+    "name_cn":"\uff0d",
+    "name_en":"BitBay/BAY",
+    "time":"\uff0d",
+    "website":[
+        "http://bitbay.market/"
+    ],
+    "whitepaper":"-"
+}

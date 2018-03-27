@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/bxt/"
+    ],
+    "id":820,
+    "name":"bittokens",
+    "name_cn":"\uff0d",
+    "name_en":"BitTokens/BXT",
+    "time":"\uff0d",
+    "website":[
+        "http://www.bittoken.pw/"
+    ],
+    "whitepaper":"-"
+}

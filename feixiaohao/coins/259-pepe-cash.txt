@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/PEPECASH"
+    ],
+    "id":259,
+    "name":"pepe-cash",
+    "name_cn":"\uff0d",
+    "name_en":"Pepe Cash/PEPECASH",
+    "time":"\uff0d",
+    "website":[
+        "http://rarepepedirectory.com/",
+        "http://rarepepewallet.com"
+    ],
+    "whitepaper":"-"
+}

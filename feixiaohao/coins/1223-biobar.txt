@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://blockexp.com:8888/"
+    ],
+    "id":1223,
+    "name":"biobar",
+    "name_cn":"\uff0d",
+    "name_en":"BioBar/BIOB",
+    "time":"\uff0d",
+    "website":[
+        "http://biobar-crypto.ml/"
+    ],
+    "whitepaper":"-"
+}

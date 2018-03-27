@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/ufo/"
+    ],
+    "id":423,
+    "name":"ufo-coin",
+    "name_cn":"\uff0d",
+    "name_en":"UFO Coin/UFO",
+    "time":"\uff0d",
+    "website":[
+        "https://ufocoin.net/"
+    ],
+    "whitepaper":"-"
+}

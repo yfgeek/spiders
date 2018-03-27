@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1299,
+    "name":"zipper",
+    "name_cn":"\uff0d",
+    "name_en":"Zipper/ZIP",
+    "time":"2018-01-31",
+    "website":[
+        "http://zipper.io"
+    ],
+    "whitepaper":"http://zipper.io/zipper.pdf"
+}

@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1868,
+    "name":"valuechain",
+    "name_cn":"\u4ef7\u503c\u94fe",
+    "name_en":"Value Chain/VLC",
+    "time":"2018-01-31",
+    "website":[
+        "http://valuechain.biz/index_pc.html"
+    ],
+    "whitepaper":"http://valuechain.biz/ValueChain_Whitebook_v.02.pdf"
+}

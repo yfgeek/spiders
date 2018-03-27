@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/StatusNetwork"
+    ],
+    "id":45,
+    "name":"status",
+    "name_cn":"\uff0d",
+    "name_en":"Status/SNT",
+    "time":"2017-06-29",
+    "website":[
+        "http://status.im/"
+    ],
+    "whitepaper":"https://status.im/whitepaper.pdf"
+}

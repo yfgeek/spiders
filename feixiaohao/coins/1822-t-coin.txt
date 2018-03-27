@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1822,
+    "name":"t-coin",
+    "name_cn":"\u7279\u5e01",
+    "name_en":"T-coin/TCOIN",
+    "time":"\uff0d",
+    "website":[
+        "http://www.trcplatform.com/"
+    ],
+    "whitepaper":"-"
+}

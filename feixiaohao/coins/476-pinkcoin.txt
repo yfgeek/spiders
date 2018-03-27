@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://explorer.pinkarmy.ml/",
+        "https://chainz.cryptoid.info/pink/"
+    ],
+    "id":476,
+    "name":"pinkcoin",
+    "name_cn":"\u4ee3\u5e01",
+    "name_en":"PinkCoin/PINK",
+    "time":"2016-01-18",
+    "website":[
+        "http://getstarted.with.pink/",
+        "https://pinkbuffaloz.com/"
+    ],
+    "whitepaper":"-"
+}

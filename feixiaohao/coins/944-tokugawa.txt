@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.tokugawacoin.com/"
+    ],
+    "id":944,
+    "name":"tokugawa",
+    "name_cn":"\uff0d",
+    "name_en":"Tokugawa/TOK",
+    "time":"2017-12-11",
+    "website":[
+        "http://www.tokugawacoin.com/"
+    ],
+    "whitepaper":"-"
+}

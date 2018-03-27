@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://openledger.io/asset/CVCOIN"
+    ],
+    "id":511,
+    "name":"cvcoin",
+    "name_cn":"\uff0d",
+    "name_en":"CVCoin/CVCOIN",
+    "time":"2017-07-16",
+    "website":[
+        "https://crypviser.net"
+    ],
+    "whitepaper":"https://ico.crypviser.net/static/docs/CrypViserWhitepaper_en.pdf"
+}

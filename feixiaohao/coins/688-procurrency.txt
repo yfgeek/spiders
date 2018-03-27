@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://cryptobe.com/chain/ProCurrency/"
+    ],
+    "id":688,
+    "name":"procurrency",
+    "name_cn":"\uff0d",
+    "name_en":"ProCurrency/PROC",
+    "time":"\uff0d",
+    "website":[
+        "https://www.procommerce.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd850942ef8811f2a866692a623011bde52a462c1"
+    ],
+    "id":16,
+    "name":"vechain",
+    "name_cn":"\u552f\u94fe",
+    "name_en":"VeChain/VEN",
+    "time":"2017-08-23",
+    "website":[
+        "https://tokensale.vechain.com/"
+    ],
+    "whitepaper":"-"
+}

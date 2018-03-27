@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/way"
+    ],
+    "id":884,
+    "name":"wayguide",
+    "name_cn":"\uff0d",
+    "name_en":"WayGuide/WAY",
+    "time":"\uff0d",
+    "website":[
+        "https://wayguide.club/"
+    ],
+    "whitepaper":"-"
+}

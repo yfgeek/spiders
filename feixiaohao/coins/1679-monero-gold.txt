@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0f598112679b78e17a4a9febc83703710d33489c",
+        "https://ethplorer.io/address/0x0f598112679b78e17a4a9febc83703710d33489c"
+    ],
+    "id":1679,
+    "name":"monero-gold",
+    "name_cn":"\uff0d",
+    "name_en":"Monero Gold/XMRG",
+    "time":"2018-02-03",
+    "website":[
+        "https://monero-gold.org"
+    ],
+    "whitepaper":"https://monero-gold.org/whitepaper.pdf"
+}

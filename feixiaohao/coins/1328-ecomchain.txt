@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1328,
+    "name":"ecomchain",
+    "name_cn":"\uff0d",
+    "name_en":"Ecom Chain/ECOM",
+    "time":"\uff0d",
+    "website":[
+        "http://www.ecomchain.io/"
+    ],
+    "whitepaper":"https://candy.ecomchain.io/page/ecomchain_whitepaper_zh.pdf"
+}

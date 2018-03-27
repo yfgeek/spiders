@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x8b353021189375591723e7384262f45709a3c3dc",
+        "https://ethplorer.io/address/0x8b353021189375591723e7384262f45709a3c3dc"
+    ],
+    "id":244,
+    "name":"tomochain",
+    "name_cn":"\uff0d",
+    "name_en":"TomoChain/TOMO",
+    "time":"2018-03-08",
+    "website":[
+        "https://tomocoin.io/"
+    ],
+    "whitepaper":"https://tomocoin.io/docs/whitepaper4.0CN-link.pdf"
+}

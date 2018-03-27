@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xac3da587eac229c9896d919abc235ca4fd7f72c1",
+        "https://ethplorer.io/address/0xac3da587eac229c9896d919abc235ca4fd7f72c1"
+    ],
+    "id":359,
+    "name":"target-coin",
+    "name_cn":"\uff0d",
+    "name_en":"Target Coin/TGT",
+    "time":"2017-09-30",
+    "website":[
+        "https://www.tgtcoins.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.qtum.org/token/QQvbcXesB5BbRF3niHcbsfgaJv85gbbuTs"
+    ],
+    "id":158,
+    "name":"medibloc",
+    "name_cn":"\uff0d",
+    "name_en":"Medibloc/MED",
+    "time":"2017-12-23",
+    "website":[
+        "https://medibloc.org/en/"
+    ],
+    "whitepaper":"https://medibloc-homepage.oss-us-west-1.aliyuncs.com/whitepaper/medibloc_whitepaper_ch.pdf"
+}

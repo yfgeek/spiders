@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.maxcoinproject.net",
+        "https://explorer2.maxcoinproject.net"
+    ],
+    "id":767,
+    "name":"maxcoin",
+    "name_cn":"\u6700\u5927\u5e01",
+    "name_en":"MaxCoin/MAX",
+    "time":"2014-02-06",
+    "website":[
+        "https://www.maxcoin.co.uk/"
+    ],
+    "whitepaper":"-"
+}

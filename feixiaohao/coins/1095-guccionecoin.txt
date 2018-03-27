@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://minemanic.com/gcc/"
+    ],
+    "id":1095,
+    "name":"guccionecoin",
+    "name_cn":"\uff0d",
+    "name_en":"GuccioneCoin/GCC",
+    "time":"\uff0d",
+    "website":[
+        "https://guccionecoin.wordpress.com/"
+    ],
+    "whitepaper":"-"
+}

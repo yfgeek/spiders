@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5af2be193a6abca9c8817001f45744777db30756",
+        "https://ethplorer.io/address/0x5af2be193a6abca9c8817001f45744777db30756"
+    ],
+    "id":59,
+    "name":"bitquence",
+    "name_cn":"\uff0d",
+    "name_en":"Bitquence/BQX",
+    "time":"2017-07-19",
+    "website":[
+        "https://www.ethos.io/"
+    ],
+    "whitepaper":"https://www.bitquence.com/wp-content/uploads/2017/05/BitquenceWhitePaper.pdf"
+}

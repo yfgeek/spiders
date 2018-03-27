@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1850,
+    "name":"turbocoin",
+    "name_cn":"\uff0d",
+    "name_en":"TurboCoin/TURBO",
+    "time":"2017-07-02",
+    "website":[
+        "http://turboproject.org/"
+    ],
+    "whitepaper":"-"
+}

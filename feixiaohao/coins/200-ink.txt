@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":200,
+    "name":"ink",
+    "name_cn":"\u58a8\u94fe",
+    "name_en":"Ink/INK",
+    "time":"2017-11-21",
+    "website":[
+        "https://ink.plus/"
+    ],
+    "whitepaper":"-"
+}

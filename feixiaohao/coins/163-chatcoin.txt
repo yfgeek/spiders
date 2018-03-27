@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/"
+    ],
+    "id":163,
+    "name":"chatcoin",
+    "name_cn":"\uff0d",
+    "name_en":"ChatCoin/CHAT",
+    "time":"2018-01-19",
+    "website":[
+        "http://beechat.com/"
+    ],
+    "whitepaper":"http://www.openchat.co/whitepaper/OpenChat_zh.pdf"
+}

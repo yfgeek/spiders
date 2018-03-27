@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xc27c95350ecd634c80df89db0f10cd5c24b7b11f"
+    ],
+    "id":1330,
+    "name":"pixiecoin",
+    "name_cn":"\u5996\u7cbe\u5e01",
+    "name_en":"PixieCoin/PXC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.pixiecoin.io"
+    ],
+    "whitepaper":"http://www.pixiecoin.io/PixieCoinWhitePaper_EN.pdf"
+}

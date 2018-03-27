@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x28c8d01ff633ea9cd8fc6a451d7457889e698de6",
+        "https://ethplorer.io/address/0x28c8d01ff633ea9cd8fc6a451d7457889e698de6"
+    ],
+    "id":911,
+    "name":"ethereum-gold",
+    "name_cn":"\uff0d",
+    "name_en":"Ethereum Gold/ETG",
+    "time":"2017-10-22",
+    "website":[
+        "https://www.ethereumgold.info/"
+    ],
+    "whitepaper":"https://ethereumgold.info/Golden-Paper-ETG.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.nubits.com",
+        "https://nuexplorer.ddns.net"
+    ],
+    "id":532,
+    "name":"nubits",
+    "name_cn":"\uff0d",
+    "name_en":"NuBits/USNBT",
+    "time":"\uff0d",
+    "website":[
+        "https://www.nubits.com"
+    ],
+    "whitepaper":"-"
+}

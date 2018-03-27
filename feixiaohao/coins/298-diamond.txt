@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/dmd/",
+        "https://masternodes.online/currencies/DMD/"
+    ],
+    "id":298,
+    "name":"diamond",
+    "name_cn":"\u94bb\u77f3\u5e01",
+    "name_en":"Diamond/DMD",
+    "time":"\uff0d",
+    "website":[
+        "http://bit.diamonds"
+    ],
+    "whitepaper":"-"
+}

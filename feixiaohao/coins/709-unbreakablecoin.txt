@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/unb"
+    ],
+    "id":709,
+    "name":"unbreakablecoin",
+    "name_cn":"\uff0d",
+    "name_en":"UnbreakableCoin/UNB",
+    "time":"\uff0d",
+    "website":[
+        "http://www.unbreakablecoin.com/"
+    ],
+    "whitepaper":"-"
+}

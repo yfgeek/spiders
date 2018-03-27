@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1618,
+    "name":"investdigital",
+    "name_cn":"\uff0d",
+    "name_en":"InvestDigital/IDT",
+    "time":"2018-01-16",
+    "website":[
+        "https://investdigital.info/"
+    ],
+    "whitepaper":"https://investdigital.info/public/InvestDigital_Whitepaper_CN.pdf"
+}

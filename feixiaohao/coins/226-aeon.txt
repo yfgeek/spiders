@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://chainradar.com/aeon/blocks"
+    ],
+    "id":226,
+    "name":"aeon",
+    "name_cn":"\uff0d",
+    "name_en":"Aeon/AEON",
+    "time":"\uff0d",
+    "website":[
+        "http://www.aeon.cash/"
+    ],
+    "whitepaper":"-"
+}

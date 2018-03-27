@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
+        "https://ethplorer.io/address/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8"
+    ],
+    "id":262,
+    "name":"everex",
+    "name_cn":"\uff0d",
+    "name_en":"Everex/EVX",
+    "time":"2017-10-11",
+    "website":[
+        "https://www.everex.io/"
+    ],
+    "whitepaper":"-"
+}

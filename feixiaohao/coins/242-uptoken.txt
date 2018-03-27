@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x6ba460ab75cd2c56343b3517ffeba60748654d26",
+        "http://ethplorer.io/address/0x6ba460ab75cd2c56343b3517ffeba60748654d26"
+    ],
+    "id":242,
+    "name":"uptoken",
+    "name_cn":"\uff0d",
+    "name_en":"UpToken/UP",
+    "time":"2018-03-21",
+    "website":[
+        "https://uptoken.org/"
+    ],
+    "whitepaper":"https://uptoken.org/UpToken-whitepaper.pdf"
+}

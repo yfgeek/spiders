@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/42/",
+        "https://prohashing.com/explorer/42/"
+    ],
+    "id":756,
+    "name":"42-coin",
+    "name_cn":"42\u4e2a\u5e01",
+    "name_en":"42-coin/42",
+    "time":"\uff0d",
+    "website":[
+        "http://42-coin.org/"
+    ],
+    "whitepaper":"-"
+}

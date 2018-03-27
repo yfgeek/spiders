@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/BCAP"
+    ],
+    "id":1393,
+    "name":"bcap",
+    "name_cn":"\uff0d",
+    "name_en":"BCAP/BCAP",
+    "time":"2017-04-03",
+    "website":[
+        "http://blockchain.capital/",
+        "https://blockchainloop.com/"
+    ],
+    "whitepaper":"-"
+}

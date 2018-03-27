@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://47.97.8.71/"
+    ],
+    "id":1317,
+    "name":"finchain",
+    "name_cn":"\u91d1\u878d\u94fe",
+    "name_en":"Finchain/JRC",
+    "time":"2017-12-25",
+    "website":[
+        "https://www.finchain.info/finchain.html"
+    ],
+    "whitepaper":"https://www.finchain.info/white_paper.html"
+}

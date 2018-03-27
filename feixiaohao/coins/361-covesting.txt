@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xe2fb6529ef566a080e6d23de0bd351311087d567",
+        "https://ethplorer.io/address/0xe2fb6529ef566a080e6d23de0bd351311087d567"
+    ],
+    "id":361,
+    "name":"covesting",
+    "name_cn":"\uff0d",
+    "name_en":"Covesting/COV",
+    "time":"2018-01-24",
+    "website":[
+        "https://covesting.io/"
+    ],
+    "whitepaper":"https://covesting.io/Covesting_White_Paper.pdf"
+}

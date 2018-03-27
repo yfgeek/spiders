@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://reecoinexplorer.com/"
+    ],
+    "id":1071,
+    "name":"reecoin",
+    "name_cn":"\u745e\u91d1\u5e01",
+    "name_en":"ReeCoin/REE",
+    "time":"\uff0d",
+    "website":[
+        "http://www.reecoin.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1418,
+    "name":"bithot",
+    "name_cn":"\u6bd4\u7279\u70ed\u70b9",
+    "name_en":"Bitcoin Hot/BTH",
+    "time":"\uff0d",
+    "website":[
+        "http://www.bithot.org"
+    ],
+    "whitepaper":"-"
+}

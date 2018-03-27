@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.shellcoin.org/"
+    ],
+    "id":1789,
+    "name":"shellcoin",
+    "name_cn":"\u5c0f\u8d1d\u58f3",
+    "name_en":"ShellCoin/SHELL",
+    "time":"\uff0d",
+    "website":[
+        "http://www.shellcoin.org"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.discovermoin.com/"
+    ],
+    "id":754,
+    "name":"moin",
+    "name_cn":"\uff0d",
+    "name_en":"Moin/MOIN",
+    "time":"\uff0d",
+    "website":[
+        "https://discovermoin.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x554c20b7c486beee439277b4540a434566dc4c02",
+        "https://ethplorer.io/address/0x554c20b7c486beee439277b4540a434566dc4c02"
+    ],
+    "id":253,
+    "name":"decision-token",
+    "name_cn":"\uff0d",
+    "name_en":"Decision Token/HST",
+    "time":"2017-11-13",
+    "website":[
+        "https://horizonstate.com/"
+    ],
+    "whitepaper":"https://horizonstate.com/whitepaper/"
+}

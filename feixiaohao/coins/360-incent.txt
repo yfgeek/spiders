@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/"
+    ],
+    "id":360,
+    "name":"incent",
+    "name_cn":"\uff0d",
+    "name_en":"Incent/INCNT",
+    "time":"2017-08-02",
+    "website":[
+        "https://www.incentloyalty.com/"
+    ],
+    "whitepaper":"https://www.incentloyalty.com/frontend_js_css/assets/whitepaper/UsingBlockchaintoBoostCommerce.pdf"
+}

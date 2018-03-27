@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/pho/"
+    ],
+    "id":778,
+    "name":"photon",
+    "name_cn":"\u5149\u5b50\u5e01",
+    "name_en":"Photon/PHO",
+    "time":"\uff0d",
+    "website":[
+        "http://www.photoncc.com/"
+    ],
+    "whitepaper":"-"
+}

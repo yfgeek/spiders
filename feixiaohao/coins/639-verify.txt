@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd",
+        "https://ethplorer.io/address/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd"
+    ],
+    "id":639,
+    "name":"verify",
+    "name_cn":"\uff0d",
+    "name_en":"Verify/CRED",
+    "time":"2017-12-15",
+    "website":[
+        "https://verify.as/"
+    ],
+    "whitepaper":"https://verify.as/files/whitepaper.pdf"
+}

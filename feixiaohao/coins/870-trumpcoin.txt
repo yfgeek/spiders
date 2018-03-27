@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/trump/"
+    ],
+    "id":870,
+    "name":"trumpcoin",
+    "name_cn":"\uff0d",
+    "name_en":"TrumpCoin/TRUMP",
+    "time":"\uff0d",
+    "website":[
+        "http://www.trumpcoin.com"
+    ],
+    "whitepaper":"-"
+}

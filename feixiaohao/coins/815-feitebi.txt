@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0fa9198bb9ca66260fa9a182f27ebbaab55430ff"
+    ],
+    "id":815,
+    "name":"feitebi",
+    "name_cn":"\u98de\u7279\u5e01",
+    "name_en":"Feitebi/FTB",
+    "time":"2017-11-30",
+    "website":[
+        "https://feitebi.com/"
+    ],
+    "whitepaper":"-"
+}

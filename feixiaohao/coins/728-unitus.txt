@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.unitus.online"
+    ],
+    "id":728,
+    "name":"unitus",
+    "name_cn":"\u82f1\u8054\u5e01",
+    "name_en":"Unitus/UIS",
+    "time":"\uff0d",
+    "website":[
+        "http://unitus.online"
+    ],
+    "whitepaper":"-"
+}

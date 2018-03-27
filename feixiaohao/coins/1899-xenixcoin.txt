@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://xenixblockchain.com/"
+    ],
+    "id":1899,
+    "name":"xenixcoin",
+    "name_cn":"\uff0d",
+    "name_en":"Xenixcoin/XEN",
+    "time":"\uff0d",
+    "website":[
+        "https://xenixcoin.com/"
+    ],
+    "whitepaper":"-"
+}

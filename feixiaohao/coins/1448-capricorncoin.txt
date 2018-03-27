@@ -1,0 +1,10 @@
+{
+    "blockchain":[],
+    "id":1448,
+    "name":"capricorncoin",
+    "name_cn":"\u6469\u7faf\u5e01",
+    "name_en":"Capricorncoin/CCC",
+    "time":"2017-12-28",
+    "website":[],
+    "whitepaper":"-"
+}

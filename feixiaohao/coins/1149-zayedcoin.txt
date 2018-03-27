@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.zayedcoin.net/"
+    ],
+    "id":1149,
+    "name":"zayedcoin",
+    "name_cn":"\uff0d",
+    "name_en":"Zayedcoin/ZYD",
+    "time":"\uff0d",
+    "website":[
+        "http://www.zayedcoin.net/"
+    ],
+    "whitepaper":"-"
+}

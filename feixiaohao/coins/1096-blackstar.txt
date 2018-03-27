@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://104.238.184.49:3001/"
+    ],
+    "id":1096,
+    "name":"blackstar",
+    "name_cn":"\uff0d",
+    "name_en":"Blackstar/BSTAR",
+    "time":"\uff0d",
+    "website":[
+        "http://blackstarotc.com/"
+    ],
+    "whitepaper":"-"
+}

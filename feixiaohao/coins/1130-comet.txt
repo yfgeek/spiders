@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1130,
+    "name":"comet",
+    "name_cn":"\uff0d",
+    "name_en":"Comet/CMT",
+    "time":"\uff0d",
+    "website":[
+        "https://cometcoin.com/"
+    ],
+    "whitepaper":"-"
+}

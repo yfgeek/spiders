@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1629,
+    "name":"kashhcoin",
+    "name_cn":"\uff0d",
+    "name_en":"KashhCoin/KASHH",
+    "time":"\uff0d",
+    "website":[
+        "http://www.kashhcoin.com/"
+    ],
+    "whitepaper":"-"
+}

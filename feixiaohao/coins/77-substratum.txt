@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a",
+        "https://ethplorer.io/address/0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a"
+    ],
+    "id":77,
+    "name":"substratum",
+    "name_cn":"\uff0d",
+    "name_en":"Substratum/SUB",
+    "time":"2017-09-26",
+    "website":[
+        "https://substratum.net/"
+    ],
+    "whitepaper":"https://substratum.net/wp-content/uploads/2017/07/substratum_whitepaper.pdf"
+}

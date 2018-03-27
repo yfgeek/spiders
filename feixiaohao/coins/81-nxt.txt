@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://www.mynxt.info/blockexplorer/",
+        "https://nxtportal.org/",
+        "http://www.peerexplorer.com/"
+    ],
+    "id":81,
+    "name":"nxt",
+    "name_cn":"\u672a\u6765\u5e01",
+    "name_en":"Nxt/NXT",
+    "time":"2013-11-24",
+    "website":[
+        "https://nxt.org/"
+    ],
+    "whitepaper":"http://www.nxtcommunity.org/nxt-whitepaper"
+}

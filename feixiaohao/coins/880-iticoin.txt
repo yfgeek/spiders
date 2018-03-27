@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.iticoin.com/"
+    ],
+    "id":880,
+    "name":"iticoin",
+    "name_cn":"\uff0d",
+    "name_en":"iTicoin/ITI",
+    "time":"\uff0d",
+    "website":[
+        "http://iticoin.com/"
+    ],
+    "whitepaper":"-"
+}

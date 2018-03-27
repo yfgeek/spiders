@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/ac/"
+    ],
+    "id":451,
+    "name":"asiacoin",
+    "name_cn":"\u4e9a\u6d32\u5e01",
+    "name_en":"AsiaCoin/AC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.thecoin.asia/"
+    ],
+    "whitepaper":"-"
+}

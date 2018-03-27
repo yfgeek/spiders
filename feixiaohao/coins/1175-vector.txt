@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://cryptobe.com/chain/Vector"
+    ],
+    "id":1175,
+    "name":"vector",
+    "name_cn":"\uff0d",
+    "name_en":"Vector/VEC2",
+    "time":"\uff0d",
+    "website":[
+        "http://vector-blockchain.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/gld/"
+    ],
+    "id":598,
+    "name":"goldcoin",
+    "name_cn":"\u91d1\u5e01",
+    "name_en":"GoldCoin/GLD",
+    "time":"\uff0d",
+    "website":[
+        "https://www.goldcoin.org/"
+    ],
+    "whitepaper":"-"
+}

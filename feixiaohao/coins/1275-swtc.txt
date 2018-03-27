@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://state.jingtum.com/",
+        "!/"
+    ],
+    "id":1275,
+    "name":"swtc",
+    "name_cn":"\u65af\u5fae\u7279",
+    "name_en":"System Working Token China/SWTC",
+    "time":"2015-04-01",
+    "website":[
+        "https://www.jingtum.com/"
+    ],
+    "whitepaper":"-"
+}

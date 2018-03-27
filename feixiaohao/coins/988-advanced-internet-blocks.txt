@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://block.aib.iobond.com/"
+    ],
+    "id":988,
+    "name":"advanced-internet-blocks",
+    "name_cn":"\uff0d",
+    "name_en":"Advanced Internet Blocks/AIB",
+    "time":"\uff0d",
+    "website":[
+        "http://aib.iobond.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xa54ddc7b3cce7fc8b1e3fa0256d0db80d2c10970",
+        "https://ethplorer.io/address/0xa54ddc7b3cce7fc8b1e3fa0256d0db80d2c10970"
+    ],
+    "id":768,
+    "name":"neverdie",
+    "name_cn":"\uff0d",
+    "name_en":"NEVERDIE/NDC",
+    "time":"2017-08-10",
+    "website":[
+        "https://neverdie.com/"
+    ],
+    "whitepaper":"https://neverdie.com/wp/NDC-TPT-ICO-Whitepaper-v-1-eng.pdf"
+}

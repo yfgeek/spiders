@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://47.89.14.72/index.php"
+    ],
+    "id":1749,
+    "name":"qlcoin",
+    "name_cn":"\u533a\u94fe\u5e01",
+    "name_en":"qlcoin/QLB",
+    "time":"\uff0d",
+    "website":[
+        "http://47.89.14.72/"
+    ],
+    "whitepaper":"http://47.89.14.72/upload/bps.pdf"
+}

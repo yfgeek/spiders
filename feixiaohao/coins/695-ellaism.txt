@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.ellaism.org"
+    ],
+    "id":695,
+    "name":"ellaism",
+    "name_cn":"\uff0d",
+    "name_en":"Ellaism/ELLA",
+    "time":"2017-10-31",
+    "website":[
+        "https://ellaism.org/",
+        "https://ellaism.io/"
+    ],
+    "whitepaper":"-"
+}

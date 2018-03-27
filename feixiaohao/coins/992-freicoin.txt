@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://freicoin.info/chain/Freicoin"
+    ],
+    "id":992,
+    "name":"freicoin",
+    "name_cn":"\u8fd0\u8f93\u5e01",
+    "name_en":"Freicoin/FRC",
+    "time":"\uff0d",
+    "website":[
+        "http://freico.in"
+    ],
+    "whitepaper":"-"
+}

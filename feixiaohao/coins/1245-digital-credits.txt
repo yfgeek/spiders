@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://explorer.dcredits.com/"
+    ],
+    "id":1245,
+    "name":"digital-credits",
+    "name_cn":"\uff0d",
+    "name_en":"Digital Credits/DGCS",
+    "time":"\uff0d",
+    "website":[
+        "http://dcredits.com/"
+    ],
+    "whitepaper":"-"
+}

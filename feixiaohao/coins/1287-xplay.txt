@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x90528aeb3a2b736b780fd1b6c478bb7e1d643170",
+        "https://ethplorer.io/address/0x90528aeb3a2b736b780fd1b6c478bb7e1d643170"
+    ],
+    "id":1287,
+    "name":"xplay",
+    "name_cn":"\uff0d",
+    "name_en":"XPlay/XPA",
+    "time":"2017-09-20",
+    "website":[
+        "https://xplay.fund/"
+    ],
+    "whitepaper":"-"
+}

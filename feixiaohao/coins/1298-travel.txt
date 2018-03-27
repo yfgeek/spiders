@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1298,
+    "name":"travel",
+    "name_cn":"\u65c5\u884c\u94fe",
+    "name_en":"Travel/TRA",
+    "time":"2018-03-05",
+    "website":[
+        "http://www.travel.one/"
+    ],
+    "whitepaper":"http://www.travel.one/assets/pdf/Travel_White%20Paper_cn.pdf"
+}

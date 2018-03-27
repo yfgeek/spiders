@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x74ceda77281b339142a36817fa5f9e29412bab85",
+        "https://ethplorer.io/address/0x74ceda77281b339142a36817fa5f9e29412bab85"
+    ],
+    "id":438,
+    "name":"eroscoin",
+    "name_cn":"\uff0d",
+    "name_en":"Eroscoin/ERO",
+    "time":"2017-12-07",
+    "website":[
+        "https://eroscoin.org/"
+    ],
+    "whitepaper":"-"
+}

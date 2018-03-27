@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/qrk/"
+    ],
+    "id":630,
+    "name":"quark",
+    "name_cn":"\u5938\u514b\u5e01",
+    "name_en":"Quark/QRK",
+    "time":"\uff0d",
+    "website":[
+        "http://www.qrknet.info/"
+    ],
+    "whitepaper":"-"
+}

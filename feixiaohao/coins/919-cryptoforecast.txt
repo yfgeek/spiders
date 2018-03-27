@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=158"
+    ],
+    "id":919,
+    "name":"cryptoforecast",
+    "name_cn":"\uff0d",
+    "name_en":"CryptoForecast/CFT",
+    "time":"\uff0d",
+    "website":[
+        "https://cryptoforecast.com/"
+    ],
+    "whitepaper":"https://cryptoforecast.com/static/static/WhitePaper_V1.0.pdf"
+}

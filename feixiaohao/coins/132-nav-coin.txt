@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/nav/"
+    ],
+    "id":132,
+    "name":"nav-coin",
+    "name_cn":"\u7eb3\u74e6\u970d\u5e01",
+    "name_en":"NAV Coin/NAV",
+    "time":"2014-07-06",
+    "website":[
+        "http://www.navcoin.org/"
+    ],
+    "whitepaper":"https://www.navcoin.org/files/navtech-whitepaper-beta-v0.9.pdf"
+}

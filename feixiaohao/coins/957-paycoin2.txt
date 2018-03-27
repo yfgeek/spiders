@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://ledger.paycoin.com/"
+    ],
+    "id":957,
+    "name":"paycoin2",
+    "name_cn":"\u652f\u4ed8\u5e01",
+    "name_en":"PayCoin/XPY",
+    "time":"\uff0d",
+    "website":[
+        "http://www.paycoin.com"
+    ],
+    "whitepaper":"-"
+}

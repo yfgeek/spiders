@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1752,
+    "name":"qube",
+    "name_cn":"\uff0d",
+    "name_en":"Qube/QUBE",
+    "time":"2018-01-16",
+    "website":[
+        "http://www.qube.vip/"
+    ],
+    "whitepaper":"http://www.qube.vip/download/QUBE_White_Paper_A_Bloomberg_for_Blockchain_cn.pdf"
+}

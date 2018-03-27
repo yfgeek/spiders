@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/xmg/"
+    ],
+    "id":683,
+    "name":"magi",
+    "name_cn":"\uff0d",
+    "name_en":"Magi/XMG",
+    "time":"\uff0d",
+    "website":[
+        "http://coinmagi.org/"
+    ],
+    "whitepaper":"-"
+}

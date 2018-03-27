@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/rby/"
+    ],
+    "id":383,
+    "name":"rubycoin",
+    "name_cn":"\u7ea2\u5b9d\u77f3\u5e01",
+    "name_en":"Rubycoin/RBY",
+    "time":"2014-02-17",
+    "website":[
+        "http://www.rubycoin.org/"
+    ],
+    "whitepaper":"-"
+}

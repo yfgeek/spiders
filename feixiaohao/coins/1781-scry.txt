@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1781,
+    "name":"scry",
+    "name_cn":"\uff0d",
+    "name_en":"Scry/DDD",
+    "time":"\uff0d",
+    "website":[
+        "https://home.scry.info/"
+    ],
+    "whitepaper":"-"
+}

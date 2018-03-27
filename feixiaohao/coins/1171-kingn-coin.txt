@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/knc/"
+    ],
+    "id":1171,
+    "name":"kingn-coin",
+    "name_cn":"\uff0d",
+    "name_en":"KingN Coin/KNC",
+    "time":"2017-06-25",
+    "website":[
+        "http://kingncoin.com/"
+    ],
+    "whitepaper":"https://kyber.network/assets/KyberNetworkWhitepaper.pdf"
+}

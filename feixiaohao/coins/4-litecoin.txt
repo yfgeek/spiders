@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://explorer.litecoin.net/chain/Litecoin",
+        "https://chainz.cryptoid.info/ltc/",
+        "https://live.blockcypher.com/ltc/"
+    ],
+    "id":4,
+    "name":"litecoin",
+    "name_cn":"\u83b1\u7279\u5e01",
+    "name_en":"Litecoin/LTC",
+    "time":"2011-11-09",
+    "website":[
+        "https://litecoin.com",
+        "https://litecoin.org/"
+    ],
+    "whitepaper":"-"
+}

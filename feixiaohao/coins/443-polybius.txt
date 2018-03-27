@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02"
+    ],
+    "id":443,
+    "name":"polybius",
+    "name_cn":"\uff0d",
+    "name_en":"Polybius/PLBT",
+    "time":"2017-07-07",
+    "website":[
+        "https://polybius.io/",
+        "https://medium.com/@PolybiusBank"
+    ],
+    "whitepaper":"https://polybius.io/media/tw_en.pdf"
+}

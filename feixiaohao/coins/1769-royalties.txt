@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://xryexplorer.info/"
+    ],
+    "id":1769,
+    "name":"royalties",
+    "name_cn":"\uff0d",
+    "name_en":"Royalties/XRY",
+    "time":"2017-07-25",
+    "website":[
+        "https://xry.io/"
+    ],
+    "whitepaper":"-"
+}

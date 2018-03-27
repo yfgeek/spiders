@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.creamchain.info/"
+    ],
+    "id":792,
+    "name":"cream",
+    "name_cn":"\uff0d",
+    "name_en":"Cream/CRM",
+    "time":"2017-08-01",
+    "website":[
+        "https://creamcoin.com/"
+    ],
+    "whitepaper":"https://creamcoin.com/whitepaper.html"
+}

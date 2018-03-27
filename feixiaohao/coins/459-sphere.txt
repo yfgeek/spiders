@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://sphere.iquidus.io/"
+    ],
+    "id":459,
+    "name":"sphere",
+    "name_cn":"\uff0d",
+    "name_en":"Sphere/SPHR",
+    "time":"\uff0d",
+    "website":[
+        "https://sphrpay.io/"
+    ],
+    "whitepaper":"-"
+}

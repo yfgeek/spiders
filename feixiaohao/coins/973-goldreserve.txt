@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/xgr"
+    ],
+    "id":973,
+    "name":"goldreserve",
+    "name_cn":"\uff0d",
+    "name_en":"GoldReserve/XGR",
+    "time":"\uff0d",
+    "website":[
+        "http://www.goldreservecoin.com/"
+    ],
+    "whitepaper":"-"
+}

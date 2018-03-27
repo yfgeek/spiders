@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x6F6DEb5db0C4994A8283A01D6CFeEB27Fc3bBe9C",
+        "https://ethplorer.io/address/0x6F6DEb5db0C4994A8283A01D6CFeEB27Fc3bBe9C"
+    ],
+    "id":1800,
+    "name":"smartbillions",
+    "name_cn":"\uff0d",
+    "name_en":"SmartBillions/SMART",
+    "time":"2017-11-24",
+    "website":[
+        "https://smartbillions.com/"
+    ],
+    "whitepaper":"-"
+}

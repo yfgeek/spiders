@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Pluton"
+    ],
+    "id":478,
+    "name":"pluton",
+    "name_cn":"\uff0d",
+    "name_en":"Pluton/PLU",
+    "time":"2016-01-04",
+    "website":[
+        "https://plutus.it/"
+    ],
+    "whitepaper":"https://plutus.it/assets/Plutus.it-White-Paper-v1.1.pdf"
+}

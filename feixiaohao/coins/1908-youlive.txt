@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1908,
+    "name":"youlive",
+    "name_cn":"\uff0d",
+    "name_en":"Youlive Coin/UC",
+    "time":"2018-02-09",
+    "website":[
+        "http://www.youlive.io"
+    ],
+    "whitepaper":"http://www.youlive.io/assets/imgEN/YouLive_WhitepaperV1.0.4.pdf"
+}

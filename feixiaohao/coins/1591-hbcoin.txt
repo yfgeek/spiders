@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://blockchain.hbcoin.net"
+    ],
+    "id":1591,
+    "name":"hbcoin",
+    "name_cn":"\u7ea2\u5305\u5e01",
+    "name_en":"HBCoin/HBC",
+    "time":"2017-08-05",
+    "website":[
+        "http://www.hbcoin.net/"
+    ],
+    "whitepaper":"-"
+}

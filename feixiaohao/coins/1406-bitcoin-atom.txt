@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://explorer.bitcoinatom.io/"
+    ],
+    "id":1406,
+    "name":"bitcoin-atom",
+    "name_cn":"\uff0d",
+    "name_en":"Bitcoin Atom/BCA",
+    "time":"2018-01-12",
+    "website":[
+        "https://bitcoinatom.io/"
+    ],
+    "whitepaper":"-"
+}

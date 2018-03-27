@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1478,
+    "name":"cxcic",
+    "name_cn":"\u521b\u65b0\u94fe",
+    "name_en":"Innovation Chain/INC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.cxcic.top/index.html"
+    ],
+    "whitepaper":"http://www.cxcic.top/uploads/20171220/b878c815567a64f41470fd8b34dc4967.pdf"
+}

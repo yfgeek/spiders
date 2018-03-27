@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C",
+        "https://ethplorer.io/address/0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C"
+    ],
+    "id":1571,
+    "name":"gladius-token",
+    "name_cn":"\uff0d",
+    "name_en":"Gladius Token/GLA",
+    "time":"2018-02-18",
+    "website":[
+        "https://gladius.io/"
+    ],
+    "whitepaper":"https://gladius.io/pdf/gladius-whitepaper.pdf"
+}

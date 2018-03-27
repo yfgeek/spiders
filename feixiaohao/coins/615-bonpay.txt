@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xcc34366e3842ca1bd36c1f324d15257960fcc801",
+        "https://ethplorer.io/address/0xcc34366e3842ca1bd36c1f324d15257960fcc801"
+    ],
+    "id":615,
+    "name":"bonpay",
+    "name_cn":"\uff0d",
+    "name_en":"Bonpay/BON",
+    "time":"2017-12-07",
+    "website":[
+        "https://bonpay.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://www.ridemycar.online:3001/"
+    ],
+    "id":1179,
+    "name":"ride-my-car",
+    "name_cn":"\uff0d",
+    "name_en":"Ride My Car/RIDE",
+    "time":"\uff0d",
+    "website":[
+        "http://www.ridemycar.net/"
+    ],
+    "whitepaper":"-"
+}

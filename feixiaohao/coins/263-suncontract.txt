@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404"
+    ],
+    "id":263,
+    "name":"suncontract",
+    "name_cn":"\uff0d",
+    "name_en":"SunContract/SNC",
+    "time":"2017-07-07",
+    "website":[
+        "https://suncontract.org/tokensale/index.html"
+    ],
+    "whitepaper":"https://suncontract.org/res/whitepaper.pdf"
+}

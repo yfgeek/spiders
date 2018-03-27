@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x014b50466590340d41307cc54dcee990c8d58aa8",
+        "https://ethplorer.io/address/0x014b50466590340d41307cc54dcee990c8d58aa8"
+    ],
+    "id":305,
+    "name":"icos",
+    "name_cn":"\uff0d",
+    "name_en":"ICOS/ICOS",
+    "time":"2017-10-24",
+    "website":[
+        "https://icos.icobox.io/",
+        "https://t.me/icobox_en"
+    ],
+    "whitepaper":"-"
+}

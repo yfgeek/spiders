@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://dhgchain.info/"
+    ],
+    "id":1494,
+    "name":"dhg",
+    "name_cn":"\uff0d",
+    "name_en":"DHG/DHG",
+    "time":"2017-07-19",
+    "website":[
+        "https://bitcointalk.org/index.php?topic=1945715.0"
+    ],
+    "whitepaper":"-"
+}

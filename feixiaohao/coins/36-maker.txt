@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/MKR"
+    ],
+    "id":36,
+    "name":"maker",
+    "name_cn":"\uff0d",
+    "name_en":"Maker/MKR",
+    "time":"\uff0d",
+    "website":[
+        "https://makerdao.com/"
+    ],
+    "whitepaper":"https://makerdao.com/whitepaper/DaiDec17WP.pdf"
+}

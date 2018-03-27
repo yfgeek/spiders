@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/ETHD/index.php",
+        "https://etherscan.io/token/0xdbfb423e9bbf16294388e07696a5120e4ceba0c5",
+        "https://ethplorer.io/address/0xdbfb423e9bbf16294388e07696a5120e4ceba0c5"
+    ],
+    "id":991,
+    "name":"ethereum-dark",
+    "name_cn":"\uff0d",
+    "name_en":"Ethereum Dark/ETHD",
+    "time":"2017-09-20",
+    "website":[
+        "https://www.ethereumdark.net/"
+    ],
+    "whitepaper":"-"
+}

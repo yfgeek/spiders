@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://exprolrer.12lian.com/cn/"
+    ],
+    "id":486,
+    "name":"dlc",
+    "name_cn":"\u8776\u94fe\u5e01",
+    "name_en":"DLC/DLC",
+    "time":"\uff0d",
+    "website":[
+        "https://www.chaoex.com/"
+    ],
+    "whitepaper":"-"
+}

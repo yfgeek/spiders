@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://bitswift.network/"
+    ],
+    "id":656,
+    "name":"bitswift",
+    "name_cn":"\u98de\u901f\u5e01",
+    "name_en":"Bitswift/SWIFT",
+    "time":"\uff0d",
+    "website":[
+        "http://bitswift.io/"
+    ],
+    "whitepaper":"-"
+}

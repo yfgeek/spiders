@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://pcsblockchain.com/"
+    ],
+    "id":1721,
+    "name":"pabyosi-coin-special",
+    "name_cn":"\uff0d",
+    "name_en":"Pabyosi Coin .../PCS",
+    "time":"\uff0d",
+    "website":[
+        "http://pcsblockchain.com/"
+    ],
+    "whitepaper":"-"
+}

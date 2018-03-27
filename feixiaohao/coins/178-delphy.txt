@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":178,
+    "name":"delphy",
+    "name_cn":"\u5929\u7b97",
+    "name_en":"Delphy/DPY",
+    "time":"2017-11-09",
+    "website":[
+        "https://delphy.org/"
+    ],
+    "whitepaper":"https://delphy.org/res/papers/Delphy_Whitepaper_CH.pdf"
+}

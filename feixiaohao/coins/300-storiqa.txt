@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5c3a228510d246b78a3765c20221cbf3082b44a4",
+        "https://ethplorer.io/address/0x5c3a228510d246b78a3765c20221cbf3082b44a4"
+    ],
+    "id":300,
+    "name":"storiqa",
+    "name_cn":"\uff0d",
+    "name_en":"Storiqa/STQ",
+    "time":"2018-03-14",
+    "website":[
+        "https://crowdsale.storiqa.com/"
+    ],
+    "whitepaper":"https://crowdsale.storiqa.com/static/docs/TS-white-paper-EN.pdf"
+}

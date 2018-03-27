@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://be.611.to/"
+    ],
+    "id":1081,
+    "name":"sixeleven",
+    "name_cn":"\uff0d",
+    "name_en":"SixEleven/611",
+    "time":"\uff0d",
+    "website":[
+        "https://611project.org/"
+    ],
+    "whitepaper":"-"
+}

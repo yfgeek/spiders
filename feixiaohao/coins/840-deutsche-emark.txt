@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://blockexplorer.deutsche-emark.org"
+    ],
+    "id":840,
+    "name":"deutsche-emark",
+    "name_cn":"\uff0d",
+    "name_en":"Deutsche eMark/DEM",
+    "time":"\uff0d",
+    "website":[
+        "http://deutsche-emark.de/"
+    ],
+    "whitepaper":"-"
+}

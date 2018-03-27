@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/uno/"
+    ],
+    "id":219,
+    "name":"unobtanium",
+    "name_cn":"\u8d85\u5bfc\u5e01",
+    "name_en":"Unobtanium/UNO",
+    "time":"\uff0d",
+    "website":[
+        "http://unobtanium.uno"
+    ],
+    "whitepaper":"-"
+}

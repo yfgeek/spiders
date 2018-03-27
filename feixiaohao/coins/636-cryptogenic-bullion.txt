@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/cbx/"
+    ],
+    "id":636,
+    "name":"cryptogenic-bullion",
+    "name_cn":"\uff0d",
+    "name_en":"Crypto Bullion/CBX",
+    "time":"\uff0d",
+    "website":[
+        "http://cryptobullion.io/"
+    ],
+    "whitepaper":"-"
+}

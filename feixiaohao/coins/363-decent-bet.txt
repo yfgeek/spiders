@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x9b68bfae21df5a510931a262cecf63f41338f264",
+        "https://ethplorer.io/address/0x9b68bfae21df5a510931a262cecf63f41338f264"
+    ],
+    "id":363,
+    "name":"decent-bet",
+    "name_cn":"\uff0d",
+    "name_en":"DecentBet/DBET",
+    "time":"2017-11-14",
+    "website":[
+        "https://www.decent.bet/"
+    ],
+    "whitepaper":"-"
+}

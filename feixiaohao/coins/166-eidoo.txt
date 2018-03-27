@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xced4e93198734ddaff8492d525bd258d49eb388e",
+        "https://ethplorer.io/address/0xced4e93198734ddaff8492d525bd258d49eb388e"
+    ],
+    "id":166,
+    "name":"eidoo",
+    "name_cn":"\uff0d",
+    "name_en":"Eidoo/EDO",
+    "time":"2017-10-18",
+    "website":[
+        "https://eidoo.io/"
+    ],
+    "whitepaper":"https://eidoo.io/docs/EIDOO_Technology_White_Paper_v_0_2_Draft_CN.pdf"
+}

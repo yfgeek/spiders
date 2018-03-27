@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://mainnet.decred.org/",
+        "https://explorer.dcrdata.org/",
+        "https://stats.decred.org/"
+    ],
+    "id":42,
+    "name":"decred",
+    "name_cn":"\uff0d",
+    "name_en":"Decred/DCR",
+    "time":"\uff0d",
+    "website":[
+        "https://www.decred.org/",
+        "https://docs.decred.org/"
+    ],
+    "whitepaper":"-"
+}

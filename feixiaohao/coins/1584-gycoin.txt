@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://gyc.ybi.net/"
+    ],
+    "id":1584,
+    "name":"gycoin",
+    "name_cn":"\u516c\u76ca\u5e01",
+    "name_en":"Gycoin/GYC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.gycoin.net/"
+    ],
+    "whitepaper":"-"
+}

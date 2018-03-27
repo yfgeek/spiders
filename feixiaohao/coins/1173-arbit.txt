@@ -1,0 +1,12 @@
+{
+    "blockchain":[
+        "http://cryptobe.com/chain/ARbitCoin"
+    ],
+    "id":1173,
+    "name":"arbit",
+    "name_cn":"\uff0d",
+    "name_en":"ARbit/ARB",
+    "time":"\uff0d",
+    "website":[],
+    "whitepaper":"-"
+}

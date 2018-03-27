@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://blockexperts.com/blu"
+    ],
+    "id":637,
+    "name":"bluecoin",
+    "name_cn":"\uff0d",
+    "name_en":"BlueCoin/BLU",
+    "time":"\uff0d",
+    "website":[
+        "http://www.bluecoin.io/"
+    ],
+    "whitepaper":"-"
+}

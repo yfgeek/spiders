@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1290,
+    "name":"beauty",
+    "name_cn":"\u7f8e\u871c",
+    "name_en":"Beauty Chain/BEC",
+    "time":"2018-02-23",
+    "website":[
+        "http://www.beauty.io/"
+    ],
+    "whitepaper":"http://www.beauty.io/pdf/cn.pdf"
+}

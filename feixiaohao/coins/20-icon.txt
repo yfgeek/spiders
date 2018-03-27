@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xb5a5f22694352c15b00323844ad545abb2b11028",
+        "https://ethplorer.io/address/0xb5a5f22694352c15b00323844ad545abb2b11028"
+    ],
+    "id":20,
+    "name":"icon",
+    "name_cn":"\uff0d",
+    "name_en":"ICON/ICX",
+    "time":"2017-10-28",
+    "website":[
+        "https://www.icon.foundation/"
+    ],
+    "whitepaper":"http://docs.icon.foundation/ICON-Whitepaper-EN-Draft.pdf"
+}

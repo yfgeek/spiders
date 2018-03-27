@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x622cd54deb2bb7a051515192417109bcf3fe098f",
+        "https://ethplorer.io/address/0x622cd54deb2bb7a051515192417109bcf3fe098f"
+    ],
+    "id":234,
+    "name":"ipcchain",
+    "name_cn":"\u77e5\u4ea7\u94fe",
+    "name_en":"IPChain/IPC",
+    "time":"2017-11-30",
+    "website":[
+        "http://www.ipcchain.org/"
+    ],
+    "whitepaper":"http://www.ipcchain.org/js/techWP3-0.pdf"
+}

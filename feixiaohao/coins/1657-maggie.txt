@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x647f274b3a7248d6cf51b35f08e7e7fd6edfb271"
+    ],
+    "id":1657,
+    "name":"maggie",
+    "name_cn":"\u9ea6\u5947",
+    "name_en":"Maggie Token/MAG",
+    "time":"2018-01-20",
+    "website":[
+        "http://maggie.vip/"
+    ],
+    "whitepaper":"http://maggie.vip/resources/images/Maggie_WhitePaper.pdf"
+}

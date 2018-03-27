@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0a76aad21948ea1ef447d26dee91a54370e151e0",
+        "https://ethplorer.io/address/0x0a76aad21948ea1ef447d26dee91a54370e151e0"
+    ],
+    "id":1531,
+    "name":"ethereum-lite",
+    "name_cn":"\uff0d",
+    "name_en":"Ethereum Lite/ELITE",
+    "time":"2017-10-28",
+    "website":[
+        "http://www.ethereumlite.org/"
+    ],
+    "whitepaper":"-"
+}

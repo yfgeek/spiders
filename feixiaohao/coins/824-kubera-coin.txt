@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd5527579226e4ebc8864906e49d05d4458ccf47f",
+        "https://ethplorer.io/address/0xd5527579226e4ebc8864906e49d05d4458ccf47f"
+    ],
+    "id":824,
+    "name":"kubera-coin",
+    "name_cn":"\uff0d",
+    "name_en":"Kubera Coin/KBR",
+    "time":"2017-12-12",
+    "website":[
+        "https://kuberacoin.com/"
+    ],
+    "whitepaper":"https://kuberacoin.com/whitepaper/KUBERA_CHINA.pdf"
+}

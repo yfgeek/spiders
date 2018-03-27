@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":803,
+    "name":"u_cx",
+    "name_cn":"UCX\u5e01",
+    "name_en":"UCX/UCX",
+    "time":"2017-09-21",
+    "website":[
+        "http://www.u.cx"
+    ],
+    "whitepaper":"-"
+}

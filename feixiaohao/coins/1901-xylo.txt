@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://xylo.unyun.cn/"
+    ],
+    "id":1901,
+    "name":"xylo",
+    "name_cn":"\uff0d",
+    "name_en":"XYLO/XYLO",
+    "time":"2017-12-07",
+    "website":[
+        "http://xylo.online/"
+    ],
+    "whitepaper":"http://xylo.online/whitepaper.html"
+}

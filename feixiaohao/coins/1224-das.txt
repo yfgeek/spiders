@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://das.explorerz.top:3002/"
+    ],
+    "id":1224,
+    "name":"das",
+    "name_cn":"\uff0d",
+    "name_en":"DAS/DAS",
+    "time":"2017-07-22",
+    "website":[
+        "http://dascryptocash.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/glc/"
+    ],
+    "id":990,
+    "name":"globalcoin",
+    "name_cn":"\u5168\u7403\u5e01",
+    "name_en":"GlobalCoin/GLC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.globalcoin.info/"
+    ],
+    "whitepaper":"-"
+}

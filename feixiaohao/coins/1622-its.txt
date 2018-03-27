@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://etherscan.io/"
+    ],
+    "id":1622,
+    "name":"its",
+    "name_cn":"\u667a\u6167\u4ea4\u901a\u94fe",
+    "name_en":"ITSchain/ITS",
+    "time":"2017-09-01",
+    "website":[
+        "http://www.itschain.cn/"
+    ],
+    "whitepaper":"-"
+}

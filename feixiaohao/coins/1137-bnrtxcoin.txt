@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://bnx.miningalts.com/"
+    ],
+    "id":1137,
+    "name":"bnrtxcoin",
+    "name_cn":"\uff0d",
+    "name_en":"BnrtxCoin/BNX",
+    "time":"2017-07-03",
+    "website":[
+        "http://www.bnrtx.com/"
+    ],
+    "whitepaper":"-"
+}

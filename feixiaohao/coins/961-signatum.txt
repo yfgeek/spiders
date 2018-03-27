@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.signatum.download/",
+        "http://explorer.signatum.io/"
+    ],
+    "id":961,
+    "name":"signatum",
+    "name_cn":"\uff0d",
+    "name_en":"Signatum/SIGT",
+    "time":"2017-07-25",
+    "website":[
+        "https://signatum.org/"
+    ],
+    "whitepaper":"-"
+}

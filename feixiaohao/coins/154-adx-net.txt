@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4470bb87d77b963a013db939be332f927f2b992e",
+        "https://ethplorer.io/address/0x4470bb87d77b963a013db939be332f927f2b992e"
+    ],
+    "id":154,
+    "name":"adx-net",
+    "name_cn":"\uff0d",
+    "name_en":"AdEx/ADX",
+    "time":"\uff0d",
+    "website":[
+        "https://www.adex.network/"
+    ],
+    "whitepaper":"https://www.adex.network/adex/AdEx-Whitepaper-v1.4.pdf"
+}

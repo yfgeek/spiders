@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1607,
+    "name":"iicoin",
+    "name_cn":"\u667a\u6295\u94fe",
+    "name_en":"Intelligent Investment Chain/IIC",
+    "time":"\uff0d",
+    "website":[
+        "http://www.iicoin.io/"
+    ],
+    "whitepaper":"-"
+}

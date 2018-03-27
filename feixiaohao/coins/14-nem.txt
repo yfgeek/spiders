@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://nembex.nem.ninja/",
+        "http://explorer.ournem.com"
+    ],
+    "id":14,
+    "name":"nem",
+    "name_cn":"\u65b0\u7ecf\u5e01",
+    "name_en":"NEM/XEM",
+    "time":"2015-04-01",
+    "website":[
+        "http://nem.io"
+    ],
+    "whitepaper":"-"
+}

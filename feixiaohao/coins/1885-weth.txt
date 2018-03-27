@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1885,
+    "name":"weth",
+    "name_cn":"\uff0d",
+    "name_en":"WETH/WETH",
+    "time":"2018-01-14",
+    "website":[
+        "https://weth.io/"
+    ],
+    "whitepaper":"-"
+}

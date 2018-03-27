@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1830,
+    "name":"tezos",
+    "name_cn":"\uff0d",
+    "name_en":"Tezos/XTZ",
+    "time":"2017-10-03",
+    "website":[
+        "https://www.tezos.com/"
+    ],
+    "whitepaper":"-"
+}

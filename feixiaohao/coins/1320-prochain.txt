@@ -1,0 +1,12 @@
+{
+    "blockchain":[],
+    "id":1320,
+    "name":"prochain",
+    "name_cn":"\u822c\u82e5",
+    "name_en":"ProChain/PRA",
+    "time":"2017-12-14",
+    "website":[
+        "https://chain.pro"
+    ],
+    "whitepaper":"http://oucxb2pew.bkt.clouddn.com/ProChain_CN.pdf"
+}

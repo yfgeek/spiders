@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
+        "https://ethplorer.io/address/0x103c3a209da59d3e7c4a89307e66521e081cfdf0"
+    ],
+    "id":113,
+    "name":"genesis-vision",
+    "name_cn":"\uff0d",
+    "name_en":"Genesis Vision/GVT",
+    "time":"2017-11-16",
+    "website":[
+        "https://genesis.vision/"
+    ],
+    "whitepaper":"https://genesis.vision/white-paper-chn.pdf"
+}

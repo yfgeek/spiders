@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5732046a883704404f284ce41ffadd5b007fd668",
+        "https://ethplorer.io/address/0x5732046a883704404f284ce41ffadd5b007fd668"
+    ],
+    "id":153,
+    "name":"bluzelle",
+    "name_cn":"\uff0d",
+    "name_en":"Bluzelle/BLZ",
+    "time":"2018-02-07",
+    "website":[
+        "https://bluzelle.com/"
+    ],
+    "whitepaper":"https://bluzelle.com/wp-content/uploads/2017/11/Bluzelle-White-Paper-v-1.2-Simplified-Chinese.pdf"
+}

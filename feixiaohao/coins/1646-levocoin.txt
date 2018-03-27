@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://162.243.113.23:3001/"
+    ],
+    "id":1646,
+    "name":"levocoin",
+    "name_cn":"\uff0d",
+    "name_en":"LEVO/LEVO",
+    "time":"\uff0d",
+    "website":[
+        "http://www.levocoin.com/"
+    ],
+    "whitepaper":"-"
+}

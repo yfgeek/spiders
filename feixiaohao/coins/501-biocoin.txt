@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://block-explorer.biocoin.bio/"
+    ],
+    "id":501,
+    "name":"biocoin",
+    "name_cn":"\uff0d",
+    "name_en":"BioCoin/BIO",
+    "time":"2018-02-16",
+    "website":[
+        "https://biocoin.bio/"
+    ],
+    "whitepaper":"https://biocoin.bio/files/Whitepaper.pdf"
+}
