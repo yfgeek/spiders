@@ -1,3 +1,0 @@
-{
-    "name":"coin_name"
-}
