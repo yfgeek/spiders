@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/spr/"
+    ],
+    "description":"SpreadCoin是一个比比特币更加去中心化的加密货币，它防止了比特币在安全性方面最受诟病的算力中心化问题。",
+    "id":668,
+    "name":"spreadcoin",
+    "name_cn":"－",
+    "name_en":"SpreadCoin/SPR",
+    "time":"－",
+    "website":[
+        "http://www.spreadcoin.info"
+    ],
+    "whitepaper":"http://www.spreadcoin.info/downloads/SpreadCoin-WhitePaper.pdf"
+}

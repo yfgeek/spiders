@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x622cd54deb2bb7a051515192417109bcf3fe098f",
+        "https://ethplorer.io/address/0x622cd54deb2bb7a051515192417109bcf3fe098f"
+    ],
+    "description":"知产链是定位于各类有形无形知产物质实现资本化，商品化，商业化的区块链商业应用底层平台的公有区块链项目，其初衷是利用区块链技术为各类有形无形的知识智慧进行存证、确...",
+    "id":246,
+    "name":"ipcchain",
+    "name_cn":"知产链",
+    "name_en":"IPChain/IPC",
+    "time":"2017-11-30",
+    "website":[
+        "http://www.ipcchain.org/"
+    ],
+    "whitepaper":"http://www.ipcchain.org/js/techWP3-0.pdf"
+}

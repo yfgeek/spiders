@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://neotracker.io/asset/b951ecbbc5fe37a9c280a76cb0ce0014827294cf"
+    ],
+    "description":"DeepBrain Chain的流通量是15亿。DeepBrain 将作为第一个AI项目运行在深脑链上。深脑链（DBC）是全球首创且唯一由区块链技术驱动的人工智...",
+    "id":138,
+    "name":"deepbrain-chain",
+    "name_cn":"深脑链",
+    "name_en":"DeepBrain Chain/DBC",
+    "time":"2017-12-29",
+    "website":[
+        "https://www.deepbrainchain.org/"
+    ],
+    "whitepaper":"https://www.deepbrainchain.org/pc/DeepBrainChainWhitepaper.pdf"
+}

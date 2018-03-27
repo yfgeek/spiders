@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b",
+        "https://ethplorer.io/address/0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b"
+    ],
+    "description":"",
+    "id":584,
+    "name":"tokenbox",
+    "name_cn":"－",
+    "name_en":"Tokenbox/TBX",
+    "time":"2018-01-24",
+    "website":[
+        "https://tokenbox.io/"
+    ],
+    "whitepaper":"https://tokenbox.io/docs/Tokenbox-WhitePaper-En.pdf"
+}

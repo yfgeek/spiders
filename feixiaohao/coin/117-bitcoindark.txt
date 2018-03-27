@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"匿名比特(Bitcoindark,BTCD)采用比特币的SHA-256算法，出块时间60秒，每个区块奖励20160个币，货币总量220W，于2014年6月19日...",
+    "id":117,
+    "name":"bitcoindark",
+    "name_cn":"匿名比特",
+    "name_en":"BitcoinDark/BTCD",
+    "time":"2014-07-09",
+    "website":[
+        "http://bitcoindark.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/gcr/"
+    ],
+    "description":"GCRCoin 是一种新型的分布式加密货币，为任何人提供了以简单的方式利用加密货币的好处并具有附加值的可能性。",
+    "id":559,
+    "name":"global-currency-reserve",
+    "name_cn":"－",
+    "name_en":"Global Curren.../GCR",
+    "time":"－",
+    "website":[
+        "http://gcrcoin.com/"
+    ],
+    "whitepaper":"-"
+}

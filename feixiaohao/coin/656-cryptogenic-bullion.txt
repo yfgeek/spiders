@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/cbx/"
+    ],
+    "description":"Crypto Bullion加密黄金主要用于储存财富，是第二代加密货币，旨在模拟黄金的性质和供应。加密黄金也是第一次使用它的开创性Proof-of-Stake-...",
+    "id":656,
+    "name":"cryptogenic-bullion",
+    "name_cn":"－",
+    "name_en":"Crypto Bullion/CBX",
+    "time":"－",
+    "website":[
+        "http://cryptobullion.io/"
+    ],
+    "whitepaper":"-"
+}

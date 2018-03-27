@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.qtum.org"
+    ],
+    "description":"ENT为一个安全可靠的交易系统，是区块链网络与ENT平台以及娱乐行业商业行为相结合的系统。它是韩国首个为娱乐商业生活提供通用支付手段的区块链应用项目，致力于打造...",
+    "id":340,
+    "name":"entcash",
+    "name_cn":"－",
+    "name_en":"ENT Cash/ENT",
+    "time":"2018-01-02",
+    "website":[
+        "http://www.entcash.com/"
+    ],
+    "whitepaper":"http://entcash.com/themes/en/dist/pdf/ENT%20white%20paper.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd850942ef8811f2a866692a623011bde52a462c1"
+    ],
+    "description":"唯链（Vechain）是什么？唯链（VeChain）平台是一个基于区块链技术的全球账本型信息交互协作云平台。通过 API 与应用层对接，把现实世界中的人、事或物...",
+    "id":17,
+    "name":"vechain",
+    "name_cn":"唯链",
+    "name_en":"VeChain/VEN",
+    "time":"2017-08-23",
+    "website":[
+        "https://tokensale.vechain.com/"
+    ],
+    "whitepaper":"-"
+}

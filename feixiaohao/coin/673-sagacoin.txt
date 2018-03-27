@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.sagacoin.net/"
+    ],
+    "description":"SagaCoin是一个具有长期目标的分散且安全的masternode网络项目，在2017年12月3日开始作为开源加密货币使用。创始人的重点是创建一个加密货币，作...",
+    "id":673,
+    "name":"sagacoin",
+    "name_cn":"－",
+    "name_en":"SagaCoin/SAGA",
+    "time":"2017-12-10",
+    "website":[
+        "https://sagacoin.net/"
+    ],
+    "whitepaper":"-"
+}

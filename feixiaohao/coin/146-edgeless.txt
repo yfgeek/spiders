@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Edgeless"
+    ],
+    "description":"EDGELESS是一个去中心化赌场， 使用以太坊智能合约，完全公平：随机数由以太坊智能合约生成.完全透明。这意味着所有人都能够知道赌场内部发生了什么；0% 赌场...",
+    "id":146,
+    "name":"edgeless",
+    "name_cn":"网络黄金",
+    "name_en":"Edgeless/EDG",
+    "time":"2017-02-28",
+    "website":[
+        "https://edgeless.io/"
+    ],
+    "whitepaper":"https://github.com/EdgelessCasino/White_paper/blob/master/White_Paper.pdf"
+}

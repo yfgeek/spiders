@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x089a6d83282fb8988a656189f1e7a73fa6c1cac2",
+        "https://ethplorer.io/address/0x089a6d83282fb8988a656189f1e7a73fa6c1cac2"
+    ],
+    "description":"",
+    "id":626,
+    "name":"prospectors-gold",
+    "name_cn":"－",
+    "name_en":"Prospectors Gold/PGL",
+    "time":"2017-10-08",
+    "website":[
+        "https://prospectors.io/"
+    ],
+    "whitepaper":"-"
+}

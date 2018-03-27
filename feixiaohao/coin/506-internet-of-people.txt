@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://mainnet.iop.cash"
+    ],
+    "description":"Internet of People (IOP)是一个完全不以服务器为基础的为应用和支付而生的基础设施。相反地，它以节点为基础，完全的去中心化。这些节点可以在家...",
+    "id":506,
+    "name":"internet-of-people",
+    "name_cn":"－",
+    "name_en":"Internet of People/IOP",
+    "time":"－",
+    "website":[
+        "http://iop.global/",
+        "http://iopcommunity.com/"
+    ],
+    "whitepaper":"-"
+}

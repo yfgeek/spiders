@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf7920b0768ecb20a123fac32311d07d193381d6f",
+        "https://ethplorer.io/address/0xf7920b0768ecb20a123fac32311d07d193381d6f"
+    ],
+    "description":"MiaoA International Timechain国际时间价值链，简称M.I.T，旨在打造精准的时间价值传输网络。每个个体被需求程度不同，越是对别人有帮...",
+    "id":153,
+    "name":"timenewbank",
+    "name_cn":"－",
+    "name_en":"Time New Bank/TNB",
+    "time":"2017-11-27",
+    "website":[
+        "https://tnb.fund/"
+    ],
+    "whitepaper":"https://tnb.fund/pdf/TNB_business_white_paper_zh.pdf?v=1.0.1"
+}

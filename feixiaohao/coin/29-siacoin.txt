@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explore.sia.tech/"
+    ],
+    "description":"Sia 最初的设计目的是：让云储存去中心化。 在这个平台上，您可以存放和提取各种各样的文件，并不需要为您的文件隐私和安全担心。通过运用加密技术，加密合约，和重复...",
+    "id":29,
+    "name":"siacoin",
+    "name_cn":"云储币",
+    "name_en":"Siacoin/SC",
+    "time":"2015-07-03",
+    "website":[
+        "http://sia.tech/"
+    ],
+    "whitepaper":"https://sia.tech/sia.pdf"
+}

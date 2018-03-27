@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://bitinfocharts.com/vertcoin/",
+        "https://bchain.info/vtc/",
+        "https://www.coinexplorer.net/VTC"
+    ],
+    "description":"绿币(VertCoin，Vert 法语 绿色)采用独特的 Adaptive N-factor in Scrypt 算法来有效阻止ASIC专用矿机，以让更多人参...",
+    "id":115,
+    "name":"vertcoin",
+    "name_cn":"绿币",
+    "name_en":"Vertcoin/VTC",
+    "time":"2014-01-06",
+    "website":[
+        "http://vertcoin.org/"
+    ],
+    "whitepaper":"-"
+}

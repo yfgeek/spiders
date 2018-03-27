@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x9e6b2b11542f2bc52f3029077ace37e8fd838d7f",
+        "https://ethplorer.io/address/0x9e6b2b11542f2bc52f3029077ace37e8fd838d7f"
+    ],
+    "description":"Hacken生态系统是一个以社区为管理的商业组织，致力于助力网络安全社区和区块链之间的连接，促进黑客道德，鼓励对计算机网络和软件的合法研究。我们的生态系统允许客...",
+    "id":426,
+    "name":"hacken",
+    "name_cn":"－",
+    "name_en":"Hacken/HKN",
+    "time":"2018-01-10",
+    "website":[
+        "https://hacken.io/"
+    ],
+    "whitepaper":"https://hacken.io/wp-content/uploads/1_CH_HackenWP.pdf"
+}

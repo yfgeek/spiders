@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xeb7c20027172e5d143fb030d50f91cece2d1485d",
+        "https://ethplorer.io/address/0xeb7c20027172e5d143fb030d50f91cece2d1485d"
+    ],
+    "description":"eBitcoin基金会是一个由来自全世界40多个资深区块链背景的人物组成的社区，他们有着相同的目标:使加密货币变得简单!它易于存取，易于花费，因此将会在易于使用...",
+    "id":521,
+    "name":"ebtcnew",
+    "name_cn":"－",
+    "name_en":"eBitcoin/EBTC",
+    "time":"2017-11-01",
+    "website":[
+        "https://ebitcoin.org/"
+    ],
+    "whitepaper":"https://ebitcoin.org/wp-content/uploads/2017/12/eBitcoin-eBTC-A_TOKENIZED_VERSION_OF_BITCOIN_ON_ETHEREUM_cn.pdf"
+}

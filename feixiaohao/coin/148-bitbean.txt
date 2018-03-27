@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/bitb/",
+        "http://aida.ageleis.de/"
+    ],
+    "description":"Bean Cash 是由 BitBean 重新命名而来。BitBean 区块链和网络始于2015年2月13日。这是第一个实现最大 20MB 区块大小的加密货币。...",
+    "id":148,
+    "name":"bitbean",
+    "name_cn":"－",
+    "name_en":"BitBean/BITB",
+    "time":"－",
+    "website":[
+        "http://www.bitbean.org/"
+    ],
+    "whitepaper":"-"
+}

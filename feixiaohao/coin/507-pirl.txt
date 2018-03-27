@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://explorer.pirl.io/",
+        "https://pirl.site/home"
+    ],
+    "description":"Pirl是以太坊项目启发下的第一个Ethash Masternode Crypto。Pirl抗ASIC,并利用智能合约的力量建立在一个全新的链上。Pirl的目标...",
+    "id":507,
+    "name":"pirl",
+    "name_cn":"－",
+    "name_en":"Pirl/PIRL",
+    "time":"2017-10-28",
+    "website":[
+        "https://pirl.io/"
+    ],
+    "whitepaper":"-"
+}

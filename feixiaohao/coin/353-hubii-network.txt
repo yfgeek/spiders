@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xdd6c68bb32462e01705011a4e2ad1a60740f217f",
+        "https://ethplorer.io/address/0xdd6c68bb32462e01705011a4e2ad1a60740f217f"
+    ],
+    "description":"Hubii Network是一个区块链内容平台，平台将分散的、碎片化的新闻资讯集合在一起，形成一个具有多内容多形式的信息网络，用户可以通过观看平台上的信息，随时...",
+    "id":353,
+    "name":"hubii-network",
+    "name_cn":"－",
+    "name_en":"Hubii Network/HBT",
+    "time":"2017-10-10",
+    "website":[
+        "https://www.hubii.network/"
+    ],
+    "whitepaper":"https://www.hubii.network/hubii-network-whitepaper-en.pdf"
+}

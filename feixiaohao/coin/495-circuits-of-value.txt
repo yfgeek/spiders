@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/COVALC"
+    ],
+    "description":"COVAL 平台正在开发，其主要目的是使用“脱链”方法实现价值转移。换句话说，来自其他公共和私人区块链（包括OVAL本身）的本地密码资产和令牌进入分布式分类帐（...",
+    "id":495,
+    "name":"circuits-of-value",
+    "name_cn":"－",
+    "name_en":"Circuits of V.../COVAL",
+    "time":"－",
+    "website":[
+        "http://cov.al/"
+    ],
+    "whitepaper":"-"
+}

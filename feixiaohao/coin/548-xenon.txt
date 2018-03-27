@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xab95e915c123fded5bdfb6325e35ef5515f1ea69",
+        "https://ethplorer.io/address/0xab95e915c123fded5bdfb6325e35ef5515f1ea69"
+    ],
+    "description":"Xenon是从EOS项目中fork (把EOS的代码克隆一份后在上面做开发）出的一条区块链，这使得EOS这个创新性的，提供高吞吐率的技术向公众提供了另一种选择，...",
+    "id":548,
+    "name":"xenon",
+    "name_cn":"－",
+    "name_en":"Xenon/XNN",
+    "time":"2017-10-28",
+    "website":[
+        "https://xenon.network/"
+    ],
+    "whitepaper":"-"
+}

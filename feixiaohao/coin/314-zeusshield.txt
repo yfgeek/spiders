@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x7A41e0517a5ecA4FdbC7FbebA4D4c47B9fF6DC63",
+        "https://ethplorer.io/address/0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63"
+    ],
+    "description":"基于区块链构建的信任网络与保险行业存在的契合点，并借助AI技术不断发展带来的精准营销和智能的理赔，我们希望构建新型保险生态。",
+    "id":314,
+    "name":"zeusshield",
+    "name_cn":"－",
+    "name_en":"Zeusshield/ZSC",
+    "time":"2017-10-14",
+    "website":[
+        "https://zsc.io/"
+    ],
+    "whitepaper":"-"
+}

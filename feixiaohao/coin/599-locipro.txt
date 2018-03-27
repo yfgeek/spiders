@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x9c23d67aea7b95d80942e3836bcdf7e708a747c2",
+        "https://ethplorer.io/address/0x9c23d67aea7b95d80942e3836bcdf7e708a747c2"
+    ],
+    "description":"Loci的使命是改变世界发明和价值观念的方式，Loci的目标是成为一个黄金标准平台，为发明者提供动力，促进创意、资本和人才的有效匹配。",
+    "id":599,
+    "name":"locipro",
+    "name_cn":"－",
+    "name_en":"Loci/LOCI",
+    "time":"2018-02-07",
+    "website":[
+        "https://locipro.com/"
+    ],
+    "whitepaper":"https://locipro.com/wp-content/uploads/2018/02/loci-full-whitepaper.pdf"
+}

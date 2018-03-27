@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x671abbe5ce652491985342e85428eb1b07bc6c64",
+        "https://ethplorer.io/address/0x671abbe5ce652491985342e85428eb1b07bc6c64"
+    ],
+    "description":"量子项目的目的是将机构流动性级cryptocurrency和数字资产市场。\n",
+    "id":415,
+    "name":"quantum",
+    "name_cn":"－",
+    "name_en":"Quantum/QAU",
+    "time":"－",
+    "website":[
+        "http://www.quantumproject.org/"
+    ],
+    "whitepaper":"http://www.quantumproject.org/s/whitepaper.pdf"
+}

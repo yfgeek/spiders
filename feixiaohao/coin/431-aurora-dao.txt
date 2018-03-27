@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814",
+        "https://ethplorer.io/address/0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814"
+    ],
+    "description":"Aurora 是 Ethereum 应用程序和协议的集合在一起形成的一个去中心化银行和金融平台。Aurora 提供一个先进的、开放的和稳定的供世界上任何人不管地...",
+    "id":431,
+    "name":"aurora-dao",
+    "name_cn":"－",
+    "name_en":"Aurora DAO/AURA",
+    "time":"2018-01-18",
+    "website":[
+        "https://auroradao.com"
+    ],
+    "whitepaper":"https://auroradao.com/assets/Aurora-Labs-Whitepaper-V0.9.4.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=149"
+    ],
+    "description":"ALTcoin（ALT）的创建是为了获得最大的市场份额。使用 ALT在出版物上购买广告空间。",
+    "id":645,
+    "name":"altcoin-alt",
+    "name_cn":"－",
+    "name_en":"Altcoin/ALT",
+    "time":"－",
+    "website":[
+        "http://altcoinmarketcap.com/"
+    ],
+    "whitepaper":"-"
+}

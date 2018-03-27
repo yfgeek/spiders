@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://khashier.com/chain/Clam"
+    ],
+    "description":"CLAMs由数字价值或货币构成，是经过集体努力运行计算机来进行转账、创造和验证的，CLAMS的底层技术有点类似于比特币，它的网络严格遵循协议，以确保一致性和保...",
+    "id":386,
+    "name":"clams",
+    "name_cn":"贝壳币",
+    "name_en":"Clams/CLAM",
+    "time":"2017-05-25",
+    "website":[
+        "http://clamcoin.org/"
+    ],
+    "whitepaper":"-"
+}

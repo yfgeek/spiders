@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x3839d8ba312751aa0248fed6a8bacb84308e20ed",
+        "https://ethplorer.io/address/0x3839d8ba312751aa0248fed6a8bacb84308e20ed"
+    ],
+    "description":"Bezop是一个去中心化的点对点电子商务订单管理和处理系统，提供自主的买卖双方保护服务，以及一个简单的增值税、收集系统。所有这些都由智能合约提供支持，并建立在区...",
+    "id":554,
+    "name":"bezop",
+    "name_cn":"－",
+    "name_en":"Bezop/BEZ",
+    "time":"2018-03-02",
+    "website":[
+        "https://bezop.io/"
+    ],
+    "whitepaper":"https://bezop.io/public/paper/whitepaper.pdf"
+}

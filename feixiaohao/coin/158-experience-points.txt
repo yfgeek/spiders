@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/xp/"
+    ],
+    "description":"Experience Points 是一个完全独立的, 平台不可知奖励代币和数字货币结合, 通过视频游戏, 活动, 体育, 教育和保护获取 XP, 然后在网上,...",
+    "id":158,
+    "name":"experience-points",
+    "name_cn":"－",
+    "name_en":"Experience Points/XP",
+    "time":"－",
+    "website":[
+        "http://www.xpcoin.io/"
+    ],
+    "whitepaper":"https://media.xpcoin.io/docs/XP-WhitePaper-v3.pdf"
+}

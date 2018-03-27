@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://biblepay-explorer.org/"
+    ],
+    "description":"",
+    "id":750,
+    "name":"biblepay",
+    "name_cn":"圣经币",
+    "name_en":"BiblePay/BBP",
+    "time":"2017-08-28",
+    "website":[
+        "https://biblepay.org/"
+    ],
+    "whitepaper":"-"
+}

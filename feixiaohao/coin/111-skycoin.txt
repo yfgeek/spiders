@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.skycoin.net/"
+    ],
+    "description":"天空币是下一代分布式加密数字货币，天空币项目起始于莱特币发行前后，是比特币的后继者和替代者，旨在安全性、易用性、便捷性上对比特币各项特性进行针对性的提升，弥补比...",
+    "id":111,
+    "name":"skycoin",
+    "name_cn":"天空币",
+    "name_en":"Skycoin/SKY",
+    "time":"－",
+    "website":[
+        "http://skycoin.net/"
+    ],
+    "whitepaper":"-"
+}

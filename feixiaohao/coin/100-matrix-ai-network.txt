@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d",
+        "http://ethplorer.io/address/0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d"
+    ],
+    "description":"",
+    "id":100,
+    "name":"matrix-ai-network",
+    "name_cn":"－",
+    "name_en":"Matrix AI Network/MAN",
+    "time":"2018-01-28",
+    "website":[
+        "https://www.matrixchain.io/"
+    ],
+    "whitepaper":"-"
+}

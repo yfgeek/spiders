@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/dash/"
+    ],
+    "description":"达世币是一种可线上操作的数字货币，用户可以使用达世币进行安全的在线即时支付，商户则可以为店内添加由全球千万用户所建立的开源支付平台。达世币核心由独特的激励制P2...",
+    "id":13,
+    "name":"dash",
+    "name_cn":"达世币",
+    "name_en":"Dash/DASH",
+    "time":"2014-01-18",
+    "website":[
+        "https://www.dash.org/"
+    ],
+    "whitepaper":"-"
+}

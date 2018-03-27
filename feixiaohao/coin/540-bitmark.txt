@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://explorer.bitmark.io/",
+        "http://btm.cryptocloudhosting.org/",
+        "https://chainz.cryptoid.info/btm/"
+    ],
+    "description":"Bitmark成立于2014年，是一家区块链所有权创业公司，在其平台上注册的所有权被绑定为称为bitmarks 的数字资产，用户可用其进行交易，并创建交易电子记...",
+    "id":540,
+    "name":"bitmark",
+    "name_cn":"－",
+    "name_en":"Bitmark/BTM",
+    "time":"2014-10-13",
+    "website":[
+        "http://bitmark.io/"
+    ],
+    "whitepaper":"-"
+}

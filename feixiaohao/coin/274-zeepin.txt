@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://neotracker.io/asset/ac116d4b8d4ca55e6b6d4ecce2192039b51cccc5"
+    ],
+    "description":"ZPT（Zeepin）是 Zeepin项目的NEO区块链代币。Zeepin项目的目标是建立一个分布式的创新型的新生态系统，这个生态系统公平，高效，在这个生态体系...",
+    "id":274,
+    "name":"zeepin",
+    "name_cn":"－",
+    "name_en":"Zeepin/ZPT",
+    "time":"2018-01-31",
+    "website":[
+        "https://www.zeepin.io/"
+    ],
+    "whitepaper":"https://www.zeepin.io/whitepaper.php?type=list"
+}

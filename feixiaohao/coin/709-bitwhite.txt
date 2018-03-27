@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://62.210.53.73:6040/"
+    ],
+    "description":"Bitcoin White 是一个高效、灵活、和安全的去中心化应用程序，平台旨在降低开发人员的门槛。选择JavaScript作为编程语言和关系型数据库来存储数据...",
+    "id":709,
+    "name":"bitwhite",
+    "name_cn":"－",
+    "name_en":"BitWhite/BTW",
+    "time":"2018-01-31",
+    "website":[
+        "https://bitwhite.org/"
+    ],
+    "whitepaper":"https://bitcoinwhite.org/doc/BTW-WP-ch.pdf"
+}

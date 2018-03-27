@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://explorer.pinkarmy.ml/",
+        "https://chainz.cryptoid.info/pink/"
+    ],
+    "description":"PinkCoin以全球钻石做储备的数字货币，一个PinkCoin代币最初将代表钻石池固定估价中的一分。这一分又代表着最初固定估价的一美元。BitGem资产管理...",
+    "id":482,
+    "name":"pinkcoin",
+    "name_cn":"代币",
+    "name_en":"PinkCoin/PINK",
+    "time":"2016-01-18",
+    "website":[
+        "http://getstarted.with.pink/",
+        "https://pinkbuffaloz.com/"
+    ],
+    "whitepaper":"-"
+}

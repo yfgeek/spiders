@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a",
+        "https://ethplorer.io/address/0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a"
+    ],
+    "description":"Swarm是一个基于区块链技术，完全去中心化，民主自治的资本市场平台。Swarm希望让所有小额投资者也能从世界上任何地方参与到高回报的数字货币资产投资中来。",
+    "id":350,
+    "name":"swarm-fund",
+    "name_cn":"－",
+    "name_en":"Swarm/SWM",
+    "time":"2018-02-08",
+    "website":[
+        "https://www.swarm.fund/"
+    ],
+    "whitepaper":"-"
+}

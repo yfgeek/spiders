@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://condensate.cryptophi.net/",
+        "http://condensate.thecryptochat.net/"
+    ],
+    "description":"",
+    "id":700,
+    "name":"condensate",
+    "name_cn":"－",
+    "name_en":"Condensate/RAIN",
+    "time":"－",
+    "website":[
+        "http://condensate.co"
+    ],
+    "whitepaper":"-"
+}

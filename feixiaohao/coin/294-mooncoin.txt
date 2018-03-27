@@ -1,0 +1,18 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/moon/",
+        "https://bchain.info/MOON/",
+        "https://www.moonchain.net/chain/Mooncoin"
+    ],
+    "description":"月亮币(Mooncoin,MOON)，采用GPU挖矿的Scrypt算法，出块时间1.5分钟，每块包含29531个币，总产量3844亿，等于地球到月亮的毫米数，于...",
+    "id":294,
+    "name":"mooncoin",
+    "name_cn":"月亮币",
+    "name_en":"Mooncoin/MOON",
+    "time":"－",
+    "website":[
+        "https://www.mooncoin.eco/",
+        "http://mooncoin.com/"
+    ],
+    "whitepaper":"-"
+}

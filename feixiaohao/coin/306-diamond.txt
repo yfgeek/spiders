@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/dmd/",
+        "https://masternodes.online/currencies/DMD/"
+    ],
+    "description":"发布于2013年7月13日，Scrypt算法，60秒/块，每块1个，共计438万个，每1块调整难度。交易需3个确认。",
+    "id":306,
+    "name":"diamond",
+    "name_cn":"钻石币",
+    "name_en":"Diamond/DMD",
+    "time":"－",
+    "website":[
+        "http://bit.diamonds"
+    ],
+    "whitepaper":"-"
+}

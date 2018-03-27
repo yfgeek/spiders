@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xa5f8fc0921880cb7342368bd128eb8050442b1a1",
+        "https://ethplorer.io/address/0xa5f8fc0921880cb7342368bd128eb8050442b1a1"
+    ],
+    "description":"Block.array是一家专注于创建从协议层到前端的垂直集成堆的初创公司，用户和企业需要采用基于区块链技术的特定用例。",
+    "id":490,
+    "name":"block-array",
+    "name_cn":"－",
+    "name_en":"Block Array/ARY",
+    "time":"2018-01-24",
+    "website":[
+        "https://www.blockarray.com"
+    ],
+    "whitepaper":"https://drive.google.com/file/d/1wS1pukoZCgJ2W-uYHhSOTIZ3uZUipbdO/view"
+}

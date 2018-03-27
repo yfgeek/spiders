@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x37e8789bb9996cac9156cd5f5fd32599e6b91289",
+        "https://ethplorer.io/address/0x37e8789bb9996cac9156cd5f5fd32599e6b91289"
+    ],
+    "description":"AidCoin是ERC20代币的一种，旨在成为通过以太坊区块链透明化捐赠和访问由AIDChain平台提供的服务生态系统的首选方法。 加密数字货币的运用将会影响我...",
+    "id":499,
+    "name":"aidcoin",
+    "name_cn":"－",
+    "name_en":"AidCoin/AID",
+    "time":"2018-01-25",
+    "website":[
+        "https://www.aidcoin.co/"
+    ],
+    "whitepaper":"-"
+}

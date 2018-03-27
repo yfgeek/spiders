@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://elasticexplorer.org/"
+    ],
+    "description":"Elastic Project（XEL), 是一个旨在建立分布超级计算机的开源项目。Elastic将提供一个具有执行互联网上计算任务的去中心分布计算基础设施。在...",
+    "id":245,
+    "name":"elastic",
+    "name_cn":"－",
+    "name_en":"Elastic/XEL",
+    "time":"2017-06-24",
+    "website":[
+        "https://www.elastic.pw/"
+    ],
+    "whitepaper":"-"
+}

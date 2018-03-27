@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/ppc/",
+        "https://peercoin.mintr.org/",
+        "https://www.coinexplorer.net/PPC"
+    ],
+    "description":"PPCoin，简称PPC，名字取自P2P货币的意思，即点对点货币，因此被翻译为点点币。PPC发布于2012年8月，PPC的研发团队和质数币XPM的研发团队为同一...",
+    "id":173,
+    "name":"peercoin",
+    "name_cn":"点点币",
+    "name_en":"Peercoin/PPC",
+    "time":"2012-08-19",
+    "website":[
+        "http://www.peercoin.net"
+    ],
+    "whitepaper":"-"
+}

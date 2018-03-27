@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xb17df9a3b09583a9bdcf757d6367171476d4d8a3"
+    ],
+    "description":"小牛链（Maverick Chain）致力于打造区块链行业最好的 BAAS （Blockchain as a Service）服务平台，我们为区块链开发者提供各...",
+    "id":578,
+    "name":"mvchain",
+    "name_cn":"小牛链",
+    "name_en":"Maverick Chain/MVC",
+    "time":"－",
+    "website":[
+        "http://www.mvchain.net/"
+    ],
+    "whitepaper":"-"
+}

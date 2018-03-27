@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
+        "https://ethplorer.io/address/0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6"
+    ],
+    "description":"Dentacoin 是第一个为全球牙科行业设计的区块链概念。Dentacoin ERC20 代币设置为供大众在全球范围内使用。Dentacoin 旨在全球范围内...",
+    "id":89,
+    "name":"dentacoin",
+    "name_cn":"－",
+    "name_en":"Dentacoin/DCN",
+    "time":"2017-08-12",
+    "website":[
+        "http://www.dentacoin.com/"
+    ],
+    "whitepaper":"-"
+}

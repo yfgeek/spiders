@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/ixc/"
+    ],
+    "description":"xCoin(IXC)是建立在Bitcoin上的点对点的虚拟币，采用与比特币相同的算法Sha-256，出块时间：10分钟，每块包含96个（比特币是50个），每20...",
+    "id":658,
+    "name":"ixcoin",
+    "name_cn":"－",
+    "name_en":"Ixcoin/IXC",
+    "time":"－",
+    "website":[
+        "https://www.ixcoin.net/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd0a4b8946cb52f0661273bfbc6fd0e0c75fc6433",
+        "https://ethplorer.io/address/0xd0a4b8946cb52f0661273bfbc6fd0e0c75fc6433"
+    ],
+    "description":"Storm Market 利用科技，为世界各地的用户创造更多赚取代币的机会。我们凭借 Storm 的游戏化微任务 平台，方便用户以全新的方式去赚取代币、参与互动...",
+    "id":70,
+    "name":"storm",
+    "name_cn":"－",
+    "name_en":"Storm/STORM",
+    "time":"2017-12-21",
+    "website":[
+        "https://stormtoken.com/"
+    ],
+    "whitepaper":"https://s3.amazonaws.com/cakecodes/pdf/storm_web/STORM_Token_White_Paper_Market_Research_Network_Development_vFINAL_.pdf"
+}

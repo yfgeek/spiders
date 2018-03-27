@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/rup",
+        "http://rupexplorer.com/"
+    ],
+    "description":"Rupee是始于2016年11月的一种加密货币，Rupee基于莱特币的源码。Rupee（卢比）是世界上广为人知的，作为一种许可货币在南亚使用，它是印度、巴基斯坦...",
+    "id":698,
+    "name":"rupee",
+    "name_cn":"－",
+    "name_en":"Rupee/RUP",
+    "time":"2017-07-12",
+    "website":[
+        "https://rupeeblockchain.org/"
+    ],
+    "whitepaper":"-"
+}

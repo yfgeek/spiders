@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://chainradar.com/bcn/blocks",
+        "http://democats.org/pool/?name=bytecoin"
+    ],
+    "description":"字节币BCN是第一个基于CryptoNote技术，致力于匿名反机枪池的超前的一种货币，2012年就已经发布。市面上有出现过同样名字bytecoin的币种，或许是...",
+    "id":33,
+    "name":"bytecoin-bcn",
+    "name_cn":"字节币",
+    "name_en":"Bytecoin/BCN",
+    "time":"2012-07-04",
+    "website":[
+        "https://bytecoin.org/"
+    ],
+    "whitepaper":"-"
+}

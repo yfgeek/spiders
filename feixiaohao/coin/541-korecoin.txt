@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/kore/"
+    ],
+    "description":"KORE平台专注于隐私和安全，旨在重新获得重要的不可剥夺的人权。",
+    "id":541,
+    "name":"korecoin",
+    "name_cn":"－",
+    "name_en":"KoreCoin/KORE",
+    "time":"－",
+    "website":[
+        "http://kore.life/"
+    ],
+    "whitepaper":"-"
+}

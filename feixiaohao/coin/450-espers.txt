@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://espv2.miningalts.com/",
+        "http://espers.thecryptochat.net/"
+    ],
+    "description":"Espers是一个原型区块链项目，目标是提供安全的消息传递，链上的网站以及给用户一个整体愉悦的体验。EspersBlockchain将保持网站非常安全，并且使它...",
+    "id":450,
+    "name":"espers",
+    "name_cn":"－",
+    "name_en":"Espers/ESP",
+    "time":"－",
+    "website":[
+        "http://espers.io/",
+        "http://cryptocoderz.com/espers.html"
+    ],
+    "whitepaper":"-"
+}

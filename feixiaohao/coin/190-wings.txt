@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x667088b212ce3d06a1b553a7221E1fD19000d9aF"
+    ],
+    "description":"WINGS是一个创造和发展社区的区块链平台，它致力于通过一个流动的组织模型来发动、支持和推广新的项目建议书，该模型被称作去中心化自治组织（DAO）。通过使用不可...",
+    "id":190,
+    "name":"wings",
+    "name_cn":"－",
+    "name_en":"Wings/WINGS",
+    "time":"2017-05-23",
+    "website":[
+        "https://wings.ai/"
+    ],
+    "whitepaper":"https://gallery.mailchimp.com/e96dd1e39a278ec293dcc8de1/files/WINGS_Whitepaper_V1.1.pdf"
+}

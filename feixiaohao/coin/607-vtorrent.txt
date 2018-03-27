@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://vtrchains.com/",
+        "http://cryptoguru.tk/NetworkInfo/index.php?Currency=VTR"
+    ],
+    "description":"vTorrent是世界上第一个建立在拥有1.5亿到2.5亿Bittorrent用户网络中的去中心化加密货币。vTorrent加密货币客户端可以容纳数以亿计的用户...",
+    "id":607,
+    "name":"vtorrent",
+    "name_cn":"－",
+    "name_en":"vTorrent/VTR",
+    "time":"－",
+    "website":[
+        "http://vtorrent.info/"
+    ],
+    "whitepaper":"-"
+}

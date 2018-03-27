@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xfca47962d45adfdfd1ab2d972315db4ce7ccf094",
+        "https://ethplorer.io/address/0xfca47962d45adfdfd1ab2d972315db4ce7ccf094"
+    ],
+    "description":"iXledger总部位于伦敦、利用区块链开发同类首个革新性保险解决方案（以前名为“InsureX Technologies”），iXledger基于有潜力提高效...",
+    "id":351,
+    "name":"ixledger",
+    "name_cn":"－",
+    "name_en":"iXledger/IXT",
+    "time":"－",
+    "website":[
+        "https://www.ixledger.com/"
+    ],
+    "whitepaper":"http://www.insurex.co/wp-content/uploads/2017/05/insurex_whitepaper.pdf"
+}

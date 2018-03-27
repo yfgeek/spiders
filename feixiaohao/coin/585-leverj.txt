@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0f4ca92660efad97a9a70cb0fe969c755439772c",
+        "https://ethplorer.io/address/0x0f4ca92660efad97a9a70cb0fe969c755439772c"
+    ],
+    "description":"Leverj 是一个建立在以太坊(Ethereum)上的混合分散交易所(DEX)。这个平台将具有一个用于ERC20现货代币，ETH按金衍生杠杆合约，以及杠杆ER...",
+    "id":585,
+    "name":"leverj",
+    "name_cn":"－",
+    "name_en":"Leverj/LEV",
+    "time":"2018-01-12",
+    "website":[
+        "https://www.leverj.io/"
+    ],
+    "whitepaper":"https://www.leverj.io/whitepaper.pdf"
+}

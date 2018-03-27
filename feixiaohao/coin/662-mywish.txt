@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1b22c32cd936cb97c28c5690a0695a82abf688e6",
+        "https://ethplorer.io/address/0x1b22c32cd936cb97c28c5690a0695a82abf688e6"
+    ],
+    "description":"MyWish令牌（WISH）是一个ERC-20令牌，将用于启用智能合约创建。MyWish有意创建一个平台来提高密码圈的安全性和便利性，该平台将允许使用智能合约和...",
+    "id":662,
+    "name":"mywish",
+    "name_cn":"－",
+    "name_en":"MyWish/WISH",
+    "time":"2017-11-29",
+    "website":[
+        "https://mywish.io/"
+    ],
+    "whitepaper":"-"
+}

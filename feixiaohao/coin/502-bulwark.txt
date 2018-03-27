@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://bwk.explorerz.top:3011/"
+    ],
+    "description":"Bulwark(BWK)是一种通过Masternodes来实现保护隐私的数字货币。Bulwark同时提供PrivateSend 和InstantSend,通过S...",
+    "id":502,
+    "name":"bulwark",
+    "name_cn":"－",
+    "name_en":"Bulwark/BWK",
+    "time":"2017-12-09",
+    "website":[
+        "https://bulwarkcrypto.com/"
+    ],
+    "whitepaper":"-"
+}

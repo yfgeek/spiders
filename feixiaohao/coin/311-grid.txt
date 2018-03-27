@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd",
+        "https://ethplorer.io/address/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd"
+    ],
+    "description":"Grid+是一家电力零售供应商，使我们的用户能够以接近批发价来购买电力。通过开放历史上来讲通常垄断的（电力）经济市场，Grid+激励用户购置太阳能发电板和储能电...",
+    "id":311,
+    "name":"grid",
+    "name_cn":"－",
+    "name_en":"GRID+/GRID",
+    "time":"2017-11-02",
+    "website":[
+        "http://gridplus.io/"
+    ],
+    "whitepaper":"-"
+}

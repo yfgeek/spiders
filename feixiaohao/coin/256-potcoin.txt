@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/pot/",
+        "https://chain.potcoin.com/"
+    ],
+    "description":"PotCoin是第一个建立在促进大麻产业交易合法化的数字货币，是一个分权自治的社区参与模式。PotCoin主要是授权模式，通过向大麻行业提供安全独特的加密货币...",
+    "id":256,
+    "name":"potcoin",
+    "name_cn":"－",
+    "name_en":"PotCoin/POT",
+    "time":"2014-01-21",
+    "website":[
+        "http://www.potcoin.com/"
+    ],
+    "whitepaper":"-"
+}

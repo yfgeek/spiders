@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/xspec/"
+    ],
+    "description":"Spectrecoin（XSPEC）是最重要的以隐私为核心的加密货币，具有高效的证据保障算法，可提供快速交易确认，以及用于网络隐私的完全集成的Tor + OBF...",
+    "id":370,
+    "name":"spectrecoin",
+    "name_cn":"幽灵币",
+    "name_en":"Spectrecoin/XSPEC",
+    "time":"－",
+    "website":[
+        "https://spectreproject.io/",
+        "http://coinwiki.info/en/SpectreCoin"
+    ],
+    "whitepaper":"https://eprint.iacr.org/2016/1159.pdf"
+}

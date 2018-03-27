@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd01db73e047855efb414e6202098c4be4cd2423b",
+        "https://ethplorer.io/address/0xd01db73e047855efb414e6202098c4be4cd2423b"
+    ],
+    "description":"Uquid Coin是一种基于ERC20的去中心化虚拟货币。这个区块链资产的目标是促进Uquid经济系统的发展。",
+    "id":297,
+    "name":"uquid-coin",
+    "name_cn":"－",
+    "name_en":"Uquid Coin/UQC",
+    "time":"2017-12-14",
+    "website":[
+        "https://uquidcoin.com/"
+    ],
+    "whitepaper":"-"
+}

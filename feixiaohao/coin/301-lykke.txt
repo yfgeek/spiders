@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://blockchainexplorer.lykke.com/asset/AXkedGbAH1XGDpAypVzA5eyjegX4FaCnvM"
+    ],
+    "description":"Lykke币，这一代币的发行方是瑞士登记注册的Lykke金融科技公司，而此代币的置换规则规定Lykke代币可以与该金融科技公司的股权产生直接联系，每拥有100枚...",
+    "id":301,
+    "name":"lykke",
+    "name_cn":"－",
+    "name_en":"Lykke/LKK",
+    "time":"－",
+    "website":[
+        "https://lykke.com"
+    ],
+    "whitepaper":"-"
+}

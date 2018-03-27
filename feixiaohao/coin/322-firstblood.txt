@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/FirstBlood"
+    ],
+    "description":"第一滴血，是一个可以让玩家随时随地挑战对手并获得赏金的去中心化电竞平台。全球电竞市场正在以迅猛的方式增长。2015年全球电竞市场的市值为7.48亿美元，预计到2...",
+    "id":322,
+    "name":"firstblood",
+    "name_cn":"第一滴血",
+    "name_en":"FirstBlood/1ST",
+    "time":"2016-09-26",
+    "website":[
+        "https://firstblood.io/"
+    ],
+    "whitepaper":"https://github.com/Firstbloodio/white-paper/blob/master/FirstBlood_White_Paper_EN.pdf"
+}

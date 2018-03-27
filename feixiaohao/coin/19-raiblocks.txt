@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://raiblocks.net/page/summary.php"
+    ],
+    "description":"纳诺的重心是改变全球人民的支付方式。自从2015年启动纳诺以来，纳诺的创始人及创造者科林·乐玛荷一直的运营目标是让加密货币在可持续发展的基础上运作。纳诺采用了一...",
+    "id":19,
+    "name":"raiblocks",
+    "name_cn":"纳诺",
+    "name_en":"NANO/XRB",
+    "time":"－",
+    "website":[
+        "https://raiblocks.net/"
+    ],
+    "whitepaper":"https://nano.org/en/whitepaper"
+}

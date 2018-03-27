@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/phr/"
+    ],
+    "description":"Phore 是一种数字加密货币，更新的 Phore 是前 KryptKoin (KTK)，Phore 创建于2017年9月， 交易所将以1：1的形式，直到201...",
+    "id":342,
+    "name":"phore",
+    "name_cn":"－",
+    "name_en":"Phore/PHR",
+    "time":"2017-11-08",
+    "website":[
+        "https://phore.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://stellar.expert/explorer/asset/RMT-GCVWTTPADC5YB5AYDKJCTUYSCJ7RKPGE4HT75NIZOUM4L7VRTS5EKLFN"
+    ],
+    "description":"",
+    "id":438,
+    "name":"sureremit",
+    "name_cn":"－",
+    "name_en":"SureRemit/RMT",
+    "time":"2018-02-16",
+    "website":[
+        "https://token.sureremit.co/"
+    ],
+    "whitepaper":"https://token.sureremit.co/SureRemit-WhitePaper-v.1.21.pdf"
+}

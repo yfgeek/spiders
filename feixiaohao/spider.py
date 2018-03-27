@@ -1,16 +1,17 @@
 # coding=utf-8
-# python version：2.7
+# python version：3.5
 import json
 import os
-import urllib2
+import urllib.request as urllib2
 import re
+
 from bs4 import BeautifulSoup as BS
 
 
 class Spider(object):
     def __init__(self):
         self.list = list()
-        self.id = 0
+        self.id = 1
 
     def get_coin_list(self, page):
         url = 'https://www.feixiaohao.com/list_%s.html' % page
@@ -18,11 +19,11 @@ class Spider(object):
         try:
             request = urllib2.Request(url)
             response = urllib2.urlopen(request)
-        except urllib2.HttpError, e:
-            print e.code
+        except urllib2.HttpError as e:
+            print(e.code)
             exit(0)
-        except urllib2.URLError, e:
-            print e.reason
+        except urllib2.URLError as e:
+            print(e.reason)
             exit(0)
 
         html = response.read()
@@ -34,16 +35,17 @@ class Spider(object):
 
         for row in table.findAll("tr"):
             if row.get('id'):
-              self.list.append(row.get('id'))
+                self.list.append(row.get('id'))
 
     def download_all_list(self):
         for coin in self.list:
-            print coin
+            print(coin)
             content = self.download(coin)
             self.write_file(coin, content)
 
     def run(self, page):
         for x in range(1, page):
+            print('Page' + str(x))
             self.get_coin_list(x)
         self.download_all_list()
 
@@ -52,16 +54,16 @@ class Spider(object):
         try:
             request = urllib2.Request(url)
             response = urllib2.urlopen(request)
-        except urllib2.HttpError, e:
+        except urllib2.HttpError as e:
             return
-        except urllib2.URLError, e:
+        except urllib2.URLError as e:
             return
         html = response.read()
         soup = BS(html, "lxml")
         des = soup.find("div", {
             "class": 'des'
         }).get_text().strip().replace(u'查看全部', '')
-        print des
+        print(des)
 
         ul = soup.find_all("div", {
             "class": "secondPark"
@@ -81,8 +83,9 @@ class Spider(object):
         for block in blockchain_list:
             blockchain.append(block.attrs['href'])
         content = {
-            'id' : self.id,
+            'id': self.id,
             'name': coin_name,
+            'description': des,
             'name_en': name_en,
             'name_cn': name_cn,
             'time': time,
@@ -96,8 +99,8 @@ class Spider(object):
         if not coin_name:
             return
         f = open(
-            '%s/coins/%d-%s.txt' % (os.path.abspath(os.curdir), self.id, coin_name), 'w')
-        js = json.dumps(content, sort_keys=True, indent=4, separators=(',', ':'))
+            '%s/coin/%d-%s.txt' % (os.path.abspath(os.curdir), self.id, coin_name), 'w',encoding='utf-8')
+        js = json.dumps(content, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ':'))
         f.write(js)
         self.id = self.id + 1
         f.close()

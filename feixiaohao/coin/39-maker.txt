@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/MKR"
+    ],
+    "description":"MakerDAO 是以太坊上的去中心化自治组织和智能合约系统，提供以太坊上第一个去中心稳定货币 Dai。DAI 是有数字资产抵押背书的硬通货，和美元保持1:1锚...",
+    "id":39,
+    "name":"maker",
+    "name_cn":"－",
+    "name_en":"Maker/MKR",
+    "time":"－",
+    "website":[
+        "https://makerdao.com/"
+    ],
+    "whitepaper":"https://makerdao.com/whitepaper/DaiDec17WP.pdf"
+}

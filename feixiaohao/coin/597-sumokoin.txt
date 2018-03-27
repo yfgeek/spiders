@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.sumokoin.com/"
+    ],
+    "description":"SUMOKOIN是用于高度机密交易的数字货币，具有保护隐私，不可追踪，去中心化，可靠等特性。SUMOKOIN创建时具有高度的隐私性，将Ring Confiden...",
+    "id":597,
+    "name":"sumokoin",
+    "name_cn":"－",
+    "name_en":"Sumokoin/SUMO",
+    "time":"－",
+    "website":[
+        "https://www.sumokoin.org/"
+    ],
+    "whitepaper":"https://cryptonote.org/whitepaper.pdf"
+}

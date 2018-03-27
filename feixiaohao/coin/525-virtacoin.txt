@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/vta/",
+        "https://www.virtacoin.world/C-Data/"
+    ],
+    "description":"Virtacoin是一种实验性的新型数字货币，支持即时付款给世界上任何地方的任何人。Virtacoin采用点对点技术，无需中央管理机构进行操作，管理交易和发放资...",
+    "id":525,
+    "name":"virtacoin",
+    "name_cn":"－",
+    "name_en":"Virtacoin/VTA",
+    "time":"－",
+    "website":[
+        "https://www.virtacoin.world/"
+    ],
+    "whitepaper":"-"
+}

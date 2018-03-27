@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://block.monacocoin.net:8080/"
+    ],
+    "description":"",
+    "id":611,
+    "name":"monacocoin",
+    "name_cn":"－",
+    "name_en":"MonacoCoin/XMCC",
+    "time":"2017-08-28",
+    "website":[
+        "http://www.monacocoin.net/"
+    ],
+    "whitepaper":"-"
+}

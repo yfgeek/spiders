@@ -1,0 +1,18 @@
+{
+    "blockchain":[
+        "https://mainnet.decred.org/",
+        "https://explorer.dcrdata.org/",
+        "https://stats.decred.org/"
+    ],
+    "description":"DCR拥有先进的PoW + PoS混合机制，所有PoW产出的块都必须经过PoS的验证才能成为合法的块，也就是POW打包记账 + POS投票治理的共识机制。所以在...",
+    "id":44,
+    "name":"decred",
+    "name_cn":"－",
+    "name_en":"Decred/DCR",
+    "time":"－",
+    "website":[
+        "https://www.decred.org/",
+        "https://docs.decred.org/"
+    ],
+    "whitepaper":"-"
+}

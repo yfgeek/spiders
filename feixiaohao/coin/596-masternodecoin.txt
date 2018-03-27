@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://mtnc.snodo.de:3001/"
+    ],
+    "description":"",
+    "id":596,
+    "name":"masternodecoin",
+    "name_cn":"－",
+    "name_en":"Masternodecoin/MTNC",
+    "time":"2017-09-07",
+    "website":[
+        "http://www.masternodecoin.org/"
+    ],
+    "whitepaper":"-"
+}

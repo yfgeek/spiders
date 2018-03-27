@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x554c20b7c486beee439277b4540a434566dc4c02",
+        "https://ethplorer.io/address/0x554c20b7c486beee439277b4540a434566dc4c02"
+    ],
+    "description":"Horizon State 是一个基于区块链的平台和生态系统，可实现高效投票和决策过程。该平台通过使用决策代币（HST）进行运作。这些通过为生态系统内的投票和其...",
+    "id":258,
+    "name":"decision-token",
+    "name_cn":"－",
+    "name_en":"Decision Token/HST",
+    "time":"2017-11-13",
+    "website":[
+        "https://horizonstate.com/"
+    ],
+    "whitepaper":"https://horizonstate.com/whitepaper/"
+}

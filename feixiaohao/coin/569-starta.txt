@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Starta加速器是由Starta风投资本于2015年成立的加速器项目。该加速器旨在帮助东欧的前沿技术公司进入美国市场。该项目是专为那些旨在适应美国文化和商业环...",
+    "id":569,
+    "name":"starta",
+    "name_cn":"－",
+    "name_en":"Starta/STA",
+    "time":"2017-07-19",
+    "website":[
+        "https://startaico.com/"
+    ],
+    "whitepaper":"-"
+}

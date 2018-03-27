@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x7703C35CfFdC5CDa8D27aa3df2F9ba6964544b6e",
+        "https://ethplorer.io/address/0x7703c35cffdc5cda8d27aa3df2f9ba6964544b6e"
+    ],
+    "description":"Pylon Network是一个推广分散式能源技术的分散平台。其运作基于区块链技术，为分散式创建信任机制和数据管理提供了空间。",
+    "id":732,
+    "name":"pylon-network",
+    "name_cn":"－",
+    "name_en":"Pylon Network/PYLNT",
+    "time":"2018-01-01",
+    "website":[
+        "https://pylon-network.org/"
+    ],
+    "whitepaper":"-"
+}

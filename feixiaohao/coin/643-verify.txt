@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd",
+        "https://ethplorer.io/address/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd"
+    ],
+    "description":"Verify是一个基于以太坊的去中心化的信誉协议，它将追踪参与者(买家和卖家）的历史交易，并为具有良好信誉的人送上福利。信誉协议建立在所有的历史交易之上，每个交...",
+    "id":643,
+    "name":"verify",
+    "name_cn":"－",
+    "name_en":"Verify/CRED",
+    "time":"2017-12-15",
+    "website":[
+        "https://verify.as/"
+    ],
+    "whitepaper":"https://verify.as/files/whitepaper.pdf"
+}

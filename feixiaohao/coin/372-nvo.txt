@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/NVST"
+    ],
+    "description":"NVO 项目利用安全网络，一个分布式文件存储系统和一个分布式计算系统，建立一个完全分散的交易平台，用户可以以匿名的方式交易加密资产。NVO 代币是在基于比特币区...",
+    "id":372,
+    "name":"nvo",
+    "name_cn":"－",
+    "name_en":"NVO/NVST",
+    "time":"2017-07-11",
+    "website":[
+        "https://nvo.io/"
+    ],
+    "whitepaper":"https://nvo.io/assets/whitepaper.pdf"
+}

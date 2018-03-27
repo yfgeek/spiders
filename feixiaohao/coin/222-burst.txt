@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://explore.burst.cryptoguru.org/",
+        "http://burstcoin.cc",
+        "http://x.burstnation.com/"
+    ],
+    "description":"成立于2014年8月10日,Burstcoin[BURST]使用的是一套独特的算法,称为能力证明或者(PoC),在帮助公司挖矿的时候,矿工利用的是未使用的硬盘...",
+    "id":222,
+    "name":"burst",
+    "name_cn":"－",
+    "name_en":"Burst/BURST",
+    "time":"2014-08-10",
+    "website":[
+        "https://www.burst-coin.org"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Monaco",
+        "https://ethplorer.io/address/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d"
+    ],
+    "description":"Monaco是一个基于以太坊智能合约的数字货币加密Visa卡。使用Monaco，可以直接消费卡中的比特币和以太币等ERC20数字货币，无论在线上线下，只要持有M...",
+    "id":127,
+    "name":"monaco",
+    "name_cn":"－",
+    "name_en":"Monaco/MCO",
+    "time":"2017-07-04",
+    "website":[
+        "https://www.mona.co/"
+    ],
+    "whitepaper":"https://mona.co/monaco-whitepaper.pdf"
+}

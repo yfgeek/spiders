@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://seq.blocksandchain.com"
+    ],
+    "description":"Sequence (SEQ)是一种资产通证，用作对冲通货膨胀，通货紧縮或令牌贬值。",
+    "id":466,
+    "name":"sequence",
+    "name_cn":"－",
+    "name_en":"Sequence/SEQ",
+    "time":"－",
+    "website":[
+        "https://duality.solutions"
+    ],
+    "whitepaper":"-"
+}

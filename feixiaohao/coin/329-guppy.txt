@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Guppy"
+    ],
+    "description":"Matchpool是一个以交友社区来促进相关经济的平台，这个平台是围绕一个叫做“池”的独家交友社区建立的，每个人都可以通过Matchpool的手机应用程序来建...",
+    "id":329,
+    "name":"guppy",
+    "name_cn":"－",
+    "name_en":"Matchpool/GUP",
+    "time":"2017-04-30",
+    "website":[
+        "https://matchpool.co/"
+    ],
+    "whitepaper":"https://matchpool.co/wp-content/uploads/2017/04/mp_wp3.pdf"
+}

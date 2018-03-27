@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/btdx/"
+    ],
+    "description":"BTDX是一种新型的分散式货币。不是由任何国家铸造或认可，而是由全球各地的用户所认可。只要有因特网，你就可以发送或接收BTDX，即使是在外层空间。BTDX的规则...",
+    "id":595,
+    "name":"bitcloud",
+    "name_cn":"－",
+    "name_en":"Bitcloud/BTDX",
+    "time":"－",
+    "website":[
+        "https://bit-cloud.info/"
+    ],
+    "whitepaper":"-"
+}

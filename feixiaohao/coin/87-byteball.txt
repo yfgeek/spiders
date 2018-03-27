@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.byteball.org/"
+    ],
+    "description":"Byteball是一个被称为区块链3.0的新型平台。其实它并不是区块链，而是用比区块链更巧妙DAG技术作为底层。从而做到不需要POW和POS，照样做到了100%...",
+    "id":87,
+    "name":"byteball",
+    "name_cn":"字节雪球",
+    "name_en":"Byteball/GBYTE",
+    "time":"2017-01-30",
+    "website":[
+        "https://byteball.org/"
+    ],
+    "whitepaper":"-"
+}

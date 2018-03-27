@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xb24754be79281553dc1adc160ddf5cd9b74361a4",
+        "https://ethplorer.io/address/0xb24754be79281553dc1adc160ddf5cd9b74361a4"
+    ],
+    "description":"RIALTO.AI是一家为加密货币套利，制造市场和交易预测提供自动算法的平台 。套利所得利润将通过分红的形式回馈 XRL 持有者。",
+    "id":418,
+    "name":"rialto",
+    "name_cn":"－",
+    "name_en":"Rialto/XRL",
+    "time":"2017-07-16",
+    "website":[
+        "https://www.rialto.ai/"
+    ],
+    "whitepaper":"https://www.rialto.ai/wp-content/uploads/2017/06/RIALTO.AI_Whitepaper.pdf"
+}

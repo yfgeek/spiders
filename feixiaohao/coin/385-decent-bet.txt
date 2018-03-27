@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x9b68bfae21df5a510931a262cecf63f41338f264",
+        "https://ethplorer.io/address/0x9b68bfae21df5a510931a262cecf63f41338f264"
+    ],
+    "description":"Decent.bet 是一个寄宿在以太坊智能合约上的透明的、可验证的体育打赌平台。它允许每个人在平台买入赌注，每个季度根据操作获得利润增长的回报。Decent....",
+    "id":385,
+    "name":"decent-bet",
+    "name_cn":"－",
+    "name_en":"DecentBet/DBET",
+    "time":"2017-11-14",
+    "website":[
+        "https://www.decent.bet/"
+    ],
+    "whitepaper":"-"
+}

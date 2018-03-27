@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainradar.com/aeon/blocks"
+    ],
+    "description":"AEON 是一种保护隐私的加密货币，允许匿名支付。AeonCoin 采用 CPU / GPU 算法。",
+    "id":226,
+    "name":"aeon",
+    "name_cn":"－",
+    "name_en":"Aeon/AEON",
+    "time":"－",
+    "website":[
+        "http://www.aeon.cash/"
+    ],
+    "whitepaper":"-"
+}

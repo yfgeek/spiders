@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf",
+        "https://ethplorer.io/address/0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf"
+    ],
+    "description":"Rebellious代币将使用独特的空投机制,而非利用ICO众筹式来发行,让虚拟币圈的所有成员一开始就有均等的机会获得公平份额的代币。",
+    "id":481,
+    "name":"rebellious",
+    "name_cn":"－",
+    "name_en":"Rebellious/REBL",
+    "time":"2018-01-11",
+    "website":[
+        "https://www.rebellious.io/"
+    ],
+    "whitepaper":"http://www.rebellious.io/external/RebelliousWhitepaper_CN-s_v10.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.interstellarcoin.com/"
+    ],
+    "description":"Interstellar Holdings是基于Scrypt算法的PoS加密货币，其主要重点是作为私人投资基金。",
+    "id":736,
+    "name":"interstellar-holdings",
+    "name_cn":"－",
+    "name_en":"Interstellar Holdings/HOLD",
+    "time":"2017-11-12",
+    "website":[
+        "https://www.interstellarcoin.com/"
+    ],
+    "whitepaper":"https://www.interstellarcoin.com/wp-content/uploads/2017/12/Interstellar_Holdings_Whitepaper_Q4_2017_-_midres-1.pdf"
+}

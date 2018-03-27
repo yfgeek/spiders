@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://kmd.explorer.supernet.org/",
+        "http://kmd.komodochainz.info"
+    ],
+    "description":"Komodo是一个以隐私为中心的加密货币，结合了ZCash的匿名性和比特币的安全性。使用由Komodo团队开发的新的共识机制，延迟工作证明，Komodo块可以使...",
+    "id":48,
+    "name":"komodo",
+    "name_cn":"科莫多币",
+    "name_en":"Komodo/KMD",
+    "time":"－",
+    "website":[
+        "https://komodoplatform.com/"
+    ],
+    "whitepaper":"https://komodoplatform.com/downloads/Komodo_dPoW_Whitepaper_v1.pdf"
+}

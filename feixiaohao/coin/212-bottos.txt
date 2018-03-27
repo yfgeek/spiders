@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"铂链（Bottos) 是基于区块链技术的全球最大数据集合池，解决人工智能（AI）行业优质数据获取难的痛点，独创智能数据入股合约，用数据挖矿方式实现个人数据财富共...",
+    "id":212,
+    "name":"bottos",
+    "name_cn":"铂链",
+    "name_en":"BOTTOS/BTO",
+    "time":"2018-01-14",
+    "website":[
+        "https://www.bottos.org/"
+    ],
+    "whitepaper":"https://www.bottos.org/pdf/Bottos%20whitepaper%20English%20final.pdf"
+}

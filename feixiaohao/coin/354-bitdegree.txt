@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1961b3331969ed52770751fc718ef530838b6dee",
+        "https://ethplorer.io/address/0x1961b3331969ed52770751fc718ef530838b6dee"
+    ],
+    "description":"世界上第一个由区块链驱动的在线教育平台，同时提供奖学金和科技人才收购。BitDegree平台将为学习者提供最好的课程资源，同时提供明确和透明的基于区块链奖励系统...",
+    "id":354,
+    "name":"bitdegree",
+    "name_cn":"－",
+    "name_en":"BitDegree/BDG",
+    "time":"2018-01-12",
+    "website":[
+        "https://www.bitdegree.org/"
+    ],
+    "whitepaper":"https://www.bitdegree.org/white-paper.pdf"
+}

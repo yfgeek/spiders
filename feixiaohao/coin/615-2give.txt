@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/2give"
+    ],
+    "description":"2GiveCoin是一种基于利益相关者的混合加密货币，它得益于比特币的开放源代码和透明性质，并利用了一种更为分布式的加密系统，即“Staking”和“采矿奖励系...",
+    "id":615,
+    "name":"2give",
+    "name_cn":"－",
+    "name_en":"2GIVE/2GIVE",
+    "time":"－",
+    "website":[
+        "https://2give.info/"
+    ],
+    "whitepaper":"-"
+}

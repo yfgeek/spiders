@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"IPTChain以泛娱乐IP为核心，具备增值或消费的商业基础，以及基于粉丝经济的群众基础，因此作为公有链的ETChain拥有稳固的底层商业逻辑和丰富的产业生态承...",
+    "id":514,
+    "name":"etchain",
+    "name_cn":"泛娱链",
+    "name_en":"IPTChain/IPT",
+    "time":"－",
+    "website":[
+        "http://www.iptchain.net/"
+    ],
+    "whitepaper":"-"
+}

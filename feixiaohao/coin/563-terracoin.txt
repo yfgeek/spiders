@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://zpool.ca/explorer/TRC",
+        "https://bchain.info/TRC/"
+    ],
+    "description":"Terracoin发布于2012年10月26日，总币量 4200 万。每2分钟产生一个区块(block)，头4年每个区块包含了20个TRC的报酬，以后每满4年，...",
+    "id":563,
+    "name":"terracoin",
+    "name_cn":"大地币",
+    "name_en":"Terracoin/TRC",
+    "time":"－",
+    "website":[
+        "http://www.terracoin.info/"
+    ],
+    "whitepaper":"-"
+}

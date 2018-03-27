@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://cryptofresh.com/a/ZEPH"
+    ],
+    "description":"Bitspark正在开发Zephyr项目来将银行排挤出汇款行业，通过比特股区块链，支持超过180种加密货币，使用Bitspark的转账操作完成世界上网外的去中心...",
+    "id":633,
+    "name":"zephyr",
+    "name_cn":"－",
+    "name_en":"Zephyr/ZEPH",
+    "time":"2017-11-09",
+    "website":[
+        "https://zephyr.bitspark.io/"
+    ],
+    "whitepaper":"-"
+}

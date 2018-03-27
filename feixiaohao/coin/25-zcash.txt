@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://explorer.zcha.in/",
+        "https://zchain.online/"
+    ],
+    "description":"Zcash 是首个使用零知识证明机制的区块链系统，它可提供完全的支付保密性，同时仍能够使用公有区块链来维护一个去中心化网络。与比特币相同的是，Zcash代币（Z...",
+    "id":25,
+    "name":"zcash",
+    "name_cn":"大零币",
+    "name_en":"Zcash/ZEC",
+    "time":"2016-10-28",
+    "website":[
+        "https://z.cash/"
+    ],
+    "whitepaper":"-"
+}

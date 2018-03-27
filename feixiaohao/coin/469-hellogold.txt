@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xba2184520a1cc49a6159c57e61e1844e085615b6",
+        "https://ethplorer.io/address/0xba2184520a1cc49a6159c57e61e1844e085615b6"
+    ],
+    "description":"HelloGold是一个基于区块链技术的黄金金融服务平台，主要依靠以太坊的智能合约实现黄金现货的交易、储蓄、抵押贷款和其他形式流转。HelloGold项目将会发...",
+    "id":469,
+    "name":"hellogold",
+    "name_cn":"－",
+    "name_en":"HelloGold/HGT",
+    "time":"2017-10-13",
+    "website":[
+        "https://www.hellogold.com/"
+    ],
+    "whitepaper":"-"
+}

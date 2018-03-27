@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://crowdcoin.site:3001/"
+    ],
+    "description":"CrowdCoin是一种基于工作量证明机制的加密货币，允许为了平台以及潜在货币更大的优点来做出改变和调整，利用主节点来提供网络和币价更强的稳定性。CrowdCo...",
+    "id":749,
+    "name":"crowdcoin",
+    "name_cn":"－",
+    "name_en":"CrowdCoin/CRC",
+    "time":"2017-12-13",
+    "website":[
+        "http://crowdcoin.site/"
+    ],
+    "whitepaper":"-"
+}

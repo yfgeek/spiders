@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/snrg/"
+    ],
+    "description":"SYNERGY 的目的是让人们在没有直接互动的情况下进行协作，共同实现互利的目标。 SYNERGY 利用技术融合其社区，使社区成为代表个人工作的自主角色。 我们...",
+    "id":552,
+    "name":"synergy",
+    "name_cn":"－",
+    "name_en":"Synergy/SNRG",
+    "time":"－",
+    "website":[
+        "http://www.synergycoin.com/"
+    ],
+    "whitepaper":"-"
+}

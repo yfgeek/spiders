@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/ufo/"
+    ],
+    "description":"UFO Coin 是一种去中心化的点对点协议，为安全地存储和传输价值。",
+    "id":432,
+    "name":"ufo-coin",
+    "name_cn":"－",
+    "name_en":"UFO Coin/UFO",
+    "time":"－",
+    "website":[
+        "https://ufocoin.net/"
+    ],
+    "whitepaper":"-"
+}

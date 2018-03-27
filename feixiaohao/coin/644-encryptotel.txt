@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/assets.html?8ofu3VpEaVCFjRqLLqzTMNs5URKUUQMrPp3k6oFmiCc6"
+    ],
+    "description":"EncryptoTel是一个通过安全的基于区块链的通信基础设施，提供以隐私为导向的加密音频及视频通话的项目。",
+    "id":644,
+    "name":"encryptotel",
+    "name_cn":"－",
+    "name_en":"EncryptoTel/ETT",
+    "time":"－",
+    "website":[
+        "https://encryptotel.com/"
+    ],
+    "whitepaper":"http://ico.encryptotel.com/assets/pdf/EncryptoTel_WP_v1.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/PEPECASH"
+    ],
+    "description":"PepeCash 就像这个目录上的其他卡一样，除了它更加流畅。PepeCash 的目标是成为 Pepesphere 的货币，目前大约有7亿 Pepe Cash ...",
+    "id":268,
+    "name":"pepe-cash",
+    "name_cn":"－",
+    "name_en":"Pepe Cash/PEPECASH",
+    "time":"－",
+    "website":[
+        "http://rarepepedirectory.com/",
+        "http://rarepepewallet.com"
+    ],
+    "whitepaper":"-"
+}

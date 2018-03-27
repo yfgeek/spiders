@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Bancor"
+    ],
+    "description":"Bancor协议使用支持智能合约的以太坊区块链，为其代币内嵌价格发现和流动机制。这些“智能代币”能把一个或数个代币作为储备金，让任何人随时通过智能合约快速兑换、...",
+    "id":92,
+    "name":"bancor",
+    "name_cn":"－",
+    "name_en":"Bancor/BNT",
+    "time":"2017-06-13",
+    "website":[
+        "https://bancor.network/"
+    ],
+    "whitepaper":"https://drive.google.com/file/d/0B3HPNP-GDn7aLXFWOFpTZEgyaEk/view"
+}

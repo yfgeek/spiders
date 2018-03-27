@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"HeatLedgeir代表着增强异步交易账本，体现一种全新的方式来构建加密货币和点对点去中心化资产账本。自定义私链来优化速度和架构，Heat提供了对于任何规模的...",
+    "id":486,
+    "name":"heat-ledger",
+    "name_cn":"－",
+    "name_en":"HEAT/HEAT",
+    "time":"－",
+    "website":[
+        "http://heatledger.com/"
+    ],
+    "whitepaper":"http://heatledger.com/HEATWhitepaper.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xEA610B1153477720748DC13ED378003941d84fAB",
+        "https://ethplorer.io/address/0xea610b1153477720748dc13ed378003941d84fab"
+    ],
+    "description":"ALIS是日本第一个分散型社交媒体平台。是能够使培养和发现为人们创造出有价值内容的作者的全新社交媒体平台。使用ALIS代币作为核心的驱动力，实现广告和隐形营销软...",
+    "id":377,
+    "name":"alis",
+    "name_cn":"－",
+    "name_en":"ALIS/ALIS",
+    "time":"2017-10-13",
+    "website":[
+        "https://alismedia.jp/"
+    ],
+    "whitepaper":"-"
+}

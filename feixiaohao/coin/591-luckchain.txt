@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/bash"
+    ],
+    "description":"幸运链节点队列QPoS算法是全新的区块链股权证明共识协议，是幸运链团队在微币PoS 3.0协议基础上发展的一套全新的节点排队采矿共识算法，这一协议目前已通过初...",
+    "id":591,
+    "name":"luckchain",
+    "name_cn":"幸运链",
+    "name_en":"LuckChain/BASH",
+    "time":"2017-07-28",
+    "website":[
+        "http://luckchain.org/"
+    ],
+    "whitepaper":"-"
+}

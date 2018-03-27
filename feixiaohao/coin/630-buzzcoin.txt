@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockexplorer.buzzcoin.info/"
+    ],
+    "description":"",
+    "id":630,
+    "name":"buzzcoin",
+    "name_cn":"－",
+    "name_en":"BuzzCoin/BUZZ",
+    "time":"2017-09-14",
+    "website":[
+        "http://www.buzzcoin.info/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/block/"
+    ],
+    "description":"Blocknet，一种在不同区块链之上的节点之间的点对点协议，致力于成为区块链的互联网，使不同加密货币开放终端之间的通信，以及让不同加密货币用户之间的服务发送成...",
+    "id":114,
+    "name":"blocknet",
+    "name_cn":"－",
+    "name_en":"Blocknet/BLOCK",
+    "time":"－",
+    "website":[
+        "http://blocknet.co/"
+    ],
+    "whitepaper":"-"
+}

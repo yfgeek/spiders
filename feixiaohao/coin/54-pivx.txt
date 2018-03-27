@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/pivx/",
+        "http://www.presstab.pw/phpexplorer/PIVX/",
+        "http://pivx.presstab.pw"
+    ],
+    "description":"普维币 PIVX 是私密即时验证交易的缩写，它专注于隐私权、去中心化，由创立者、开发人员、技术研发人员创立的全球社区运作的开源加密货币。PIVX是一种基于比特币...",
+    "id":54,
+    "name":"pivx",
+    "name_cn":"普维币",
+    "name_en":"PIVX/PIVX",
+    "time":"2016-01-30",
+    "website":[
+        "http://www.pivx.org"
+    ],
+    "whitepaper":"https://pivx.org/wp-content/uploads/2017/12/Chinese-PIVX-purple-paper-Technincal-Notes.pdf"
+}

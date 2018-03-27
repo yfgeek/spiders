@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.wdcexplorer.com/"
+    ],
+    "description":"世界币(WorldCoin,WDC)发布于2013年5月14日,确认速度快，2次确认，大约在60秒以内。scrypt算法。30秒每块，每块产64个WDC，每周回...",
+    "id":741,
+    "name":"worldcoin",
+    "name_cn":"世界币",
+    "name_en":"WorldCoin/WDC",
+    "time":"－",
+    "website":[
+        "http://worldcoin.global/"
+    ],
+    "whitepaper":"-"
+}

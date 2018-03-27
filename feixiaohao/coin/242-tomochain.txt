@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x8b353021189375591723e7384262f45709a3c3dc",
+        "https://ethplorer.io/address/0x8b353021189375591723e7384262f45709a3c3dc"
+    ],
+    "description":"Tomochain是改进以太坊区块链可扩展性限制的解决方案。 Tomochain计划通过使用第2层区块链来增加系统速度来支持横向扩展，同时还确保与以太坊进行数据...",
+    "id":242,
+    "name":"tomochain",
+    "name_cn":"－",
+    "name_en":"TomoChain/TOMO",
+    "time":"2018-03-09",
+    "website":[
+        "https://tomocoin.io/"
+    ],
+    "whitepaper":"https://tomocoin.io/docs/whitepaper4.0CN-link.pdf"
+}

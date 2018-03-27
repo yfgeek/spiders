@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x7d3e7d41da367b4fdce7cbe06502b13294deb758"
+    ],
+    "description":"共享链（ShareChain）是一个基于共享经济打造的智能、可信、开放、去中心化的信用数据价值平台，是通过区块链技术打造基于共享经济的底层架构。通过区块链技术颠...",
+    "id":642,
+    "name":"sharechain",
+    "name_cn":"共享链代币",
+    "name_en":"Super Smart Share/SSS",
+    "time":"2017-11-15",
+    "website":[
+        "http://www.sharechain.org"
+    ],
+    "whitepaper":"http://sc.gxshares.com/sharechain/%E5%85%B1%E4%BA%AB%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf"
+}

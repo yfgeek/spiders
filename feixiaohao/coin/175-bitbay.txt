@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://explorer.bitbay.market/",
+        "https://chainz.cryptoid.info/bay/"
+    ],
+    "description":"BitBay是一个免费软件程序包含世界上第一个分散的市场平台。 这个平台,利用双存款托管的力量,使得双方在世界各地进行贸易,绝对没有风险诈骗或谋杀。 此外,B...",
+    "id":175,
+    "name":"bitbay",
+    "name_cn":"－",
+    "name_en":"BitBay/BAY",
+    "time":"－",
+    "website":[
+        "http://bitbay.market/"
+    ],
+    "whitepaper":"-"
+}

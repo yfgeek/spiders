@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
+        "https://ethplorer.io/address/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a"
+    ],
+    "description":"Populous是一个基于区块链的票据金融交易系统。它采用XBRL数据，使用信用评分和破产公式，内含如Altman Z-Score等技术，可用于对潜在目标借款人...",
+    "id":28,
+    "name":"populous",
+    "name_cn":"－",
+    "name_en":"Populous/PPT",
+    "time":"2017-07-11",
+    "website":[
+        "http://populous.co/"
+    ],
+    "whitepaper":"http://populous.co/populous_whitepaper.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a",
+        "https://ethplorer.io/address/0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a"
+    ],
+    "description":"SUB币是substratum项目代币的简称；Substratum网络——去中心化网络的基础，一个开放源码的网络，让任何人均可借出他们的计算机作为寄存服务器赚取...",
+    "id":75,
+    "name":"substratum",
+    "name_cn":"－",
+    "name_en":"Substratum/SUB",
+    "time":"2017-09-26",
+    "website":[
+        "https://substratum.net/"
+    ],
+    "whitepaper":"https://substratum.net/wp-content/uploads/2017/07/substratum_whitepaper.pdf"
+}

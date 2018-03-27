@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://btczexplorer.blockhub.info/",
+        "https://bitcoinz.ph/"
+    ],
+    "description":"BitcoinZ是次世代比特币，继承比特币匿名交易(零知识证明) 的优势，使用去中心化的GPU挖矿（抗ASIC矿机，允许透过硬分岔，使BitcoinZ在未来亦能...",
+    "id":589,
+    "name":"bitcoinz",
+    "name_cn":"－",
+    "name_en":"BitcoinZ/BTCZ",
+    "time":"2017-10-13",
+    "website":[
+        "https://bitcoinz.global/",
+        "https://github.com/bitcoinz-pod/bitcoinz"
+    ],
+    "whitepaper":"-"
+}

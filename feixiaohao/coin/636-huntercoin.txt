@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.huntercoin.info/blockExplorer"
+    ],
+    "description":"Huntercoin是一种用于开源的P2P软件并且融合人工开采而产生的加密电子货币。发布日期是2014年2月1日，基于区块链，而非现实。人工开采——控制猎人(H...",
+    "id":636,
+    "name":"huntercoin",
+    "name_cn":"猎手币",
+    "name_en":"HunterCoin/HUC",
+    "time":"2014-02-01",
+    "website":[
+        "http://huntercoin.org/"
+    ],
+    "whitepaper":"-"
+}

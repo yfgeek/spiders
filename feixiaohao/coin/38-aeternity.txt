@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+        "https://ethplorer.io/address/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d"
+    ],
+    "description":"Aeternity号称新一代区块链网络,由德裔计算机科学家“以太坊教父”Yanislav Malahov与前Augur核心开发者Zack \nHess、前Syne...",
+    "id":38,
+    "name":"aeternity",
+    "name_cn":"－",
+    "name_en":"Aeternity/AE",
+    "time":"－",
+    "website":[
+        "https://www.aeternity.com/"
+    ],
+    "whitepaper":"https://blockchain.aeternity.com/%C3%A6ternity-blockchain-whitepaper.pdf"
+}

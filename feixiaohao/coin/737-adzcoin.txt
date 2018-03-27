@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://adzcoin.net/"
+    ],
+    "description":"",
+    "id":737,
+    "name":"adzcoin",
+    "name_cn":"－",
+    "name_en":"Adzcoin/ADZ",
+    "time":"－",
+    "website":[
+        "https://adzcoin.org/"
+    ],
+    "whitepaper":"-"
+}

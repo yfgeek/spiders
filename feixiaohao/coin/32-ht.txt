@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"火币全球通用积分，简称HT，是基于区块链发行和管理的积分系统。HT发行总量限定5亿，100%用于赠送，其中60%（三亿）用于购买点卡套餐赠送（每日限量）；20%...",
+    "id":32,
+    "name":"ht",
+    "name_cn":"火币全球积分",
+    "name_en":"HT/HT",
+    "time":"2018-01-24",
+    "website":[
+        "https://www.huobi.pro"
+    ],
+    "whitepaper":"-"
+}

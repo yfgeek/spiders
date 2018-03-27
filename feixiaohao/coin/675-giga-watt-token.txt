@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda",
+        "https://ethplorer.io/address/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda"
+    ],
+    "description":"",
+    "id":675,
+    "name":"giga-watt-token",
+    "name_cn":"－",
+    "name_en":"Giga Watt Token/WTT",
+    "time":"2017-09-03",
+    "website":[
+        "https://cryptonomos.com/wtt/"
+    ],
+    "whitepaper":"https://cryptonomos.com/wtt/white-paper.pdf"
+}

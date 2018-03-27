@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0371a82e4a9d0a4312f3ee2ac9c6958512891372",
+        "https://ethplorer.io/address/0x0371a82e4a9d0a4312f3ee2ac9c6958512891372"
+    ],
+    "description":"bitJob是一项前景光明立足于社会的项目,基于Blockchain技术,旨在为学生的课外兼职和工作经验进行改革。bitJob旨在改变学生的生活方式，并在学习中...",
+    "id":744,
+    "name":"student-coin",
+    "name_cn":"－",
+    "name_en":"bitJob/STU",
+    "time":"2017-11-16",
+    "website":[
+        "https://bitjob.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+        "https://ethplorer.io/address/0x27054b13b1b798b345b591a4d22e6562d47ea75a"
+    ],
+    "description":"AirSwap是一个点对点交易ERC20代币的去中心化交易平台。代币为AST（AirSwap Token)。AirSwap通过Index和Oracle两种功能提...",
+    "id":176,
+    "name":"airswap",
+    "name_cn":"－",
+    "name_en":"AirSwap/AST",
+    "time":"2017-10-18",
+    "website":[
+        "https://www.airswap.io/"
+    ],
+    "whitepaper":"-"
+}

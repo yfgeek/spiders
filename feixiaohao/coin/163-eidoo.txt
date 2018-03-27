@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xced4e93198734ddaff8492d525bd258d49eb388e",
+        "https://ethplorer.io/address/0xced4e93198734ddaff8492d525bd258d49eb388e"
+    ],
+    "description":"EIDOO项目是首个具备开放性、包容性、全局性的项目，致力于打造高效的“区块链人机界面”，简化用户与基于区块链的资产之间的互动，同时保留这项技术的主要优势。其成...",
+    "id":163,
+    "name":"eidoo",
+    "name_cn":"－",
+    "name_en":"Eidoo/EDO",
+    "time":"2017-10-18",
+    "website":[
+        "https://eidoo.io/"
+    ],
+    "whitepaper":"https://eidoo.io/docs/EIDOO_Technology_White_Paper_v_0_2_Draft_CN.pdf"
+}

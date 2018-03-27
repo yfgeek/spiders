@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x83984d6142934bb535793a82adb0a46ef0f66b6d",
+        "https://ethplorer.io/address/0x83984d6142934bb535793a82adb0a46ef0f66b6d"
+    ],
+    "description":"",
+    "id":493,
+    "name":"remme",
+    "name_cn":"－",
+    "name_en":"REMME/REM",
+    "time":"2018-02-27",
+    "website":[
+        "https://remme.io/",
+        "https://tokensale.remme.io/"
+    ],
+    "whitepaper":"-"
+}

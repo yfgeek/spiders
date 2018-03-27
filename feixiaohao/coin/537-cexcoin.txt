@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"CEXCOIN总量:1.5亿份，代币简称：CEX。目前用户持有3000万，平台持有1.2亿币（冻结状态，未流入市场）；CEXCOIN将作为平台推广积分免费赠送，...",
+    "id":537,
+    "name":"cexcoin",
+    "name_cn":"－",
+    "name_en":"CEXCOIN/CEX",
+    "time":"2017-11-30",
+    "website":[
+        "https://cex.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
+        "https://ethplorer.io/address/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45"
+    ],
+    "description":"Stox生态系统基于一个名为STX（Stox Token）的开源加密令牌。像其他类似的加密货币一样，STX可按比例分割、转让和互换。Stox生态系统中的活动主要...",
+    "id":416,
+    "name":"stox",
+    "name_cn":"拳王币",
+    "name_en":"Stox/STX",
+    "time":"2017-08-06",
+    "website":[
+        "https://www.stox.com/"
+    ],
+    "whitepaper":"https://www.stox.com/assets/stox-whitepaper.pdf"
+}

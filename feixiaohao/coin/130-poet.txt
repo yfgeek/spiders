@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
+        "https://ethplorer.io/address/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195"
+    ],
+    "description":"Po.et是一个共享、开放、通用的帐本，旨在记录元数据和数字创意资产的所有权信息。Po.et基于存在性证明，是第一个区块链上的非财务类应用。通过在比特币区块链上...",
+    "id":130,
+    "name":"poet",
+    "name_cn":"－",
+    "name_en":"Po.et/POE",
+    "time":"2017-09-02",
+    "website":[
+        "https://po.et/"
+    ],
+    "whitepaper":"https://po.et/whitepaper.pdf"
+}

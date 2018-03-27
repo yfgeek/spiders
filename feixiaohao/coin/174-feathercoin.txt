@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://explorer.feathercoin.com/",
+        "https://fsight.chain.tips/"
+    ],
+    "description":"羽毛币，英文名FeatherCoin，简称FTC，是一个在LTC基础上进行二次开发而来的一个电子货币。羽毛币的名称十分优雅，也具有不错的历史内涵。羽毛币FTC...",
+    "id":174,
+    "name":"feathercoin",
+    "name_cn":"羽毛币",
+    "name_en":"Feathercoin/FTC",
+    "time":"2013-04-16",
+    "website":[
+        "http://feathercoin.com"
+    ],
+    "whitepaper":"-"
+}

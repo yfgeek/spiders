@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xe469c4473af82217b30cf17b10bcdb6c8c796e75",
+        "https://ethplorer.io/address/0xe469c4473af82217b30cf17b10bcdb6c8c796e75"
+    ],
+    "description":"",
+    "id":657,
+    "name":"exrnchain",
+    "name_cn":"－",
+    "name_en":"EXRNchain/EXRN",
+    "time":"2017-10-26",
+    "website":[
+        "https://exrnchain.com/"
+    ],
+    "whitepaper":"-"
+}

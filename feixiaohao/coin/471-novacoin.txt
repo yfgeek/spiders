@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.novaco.in/"
+    ],
+    "description":"新星币(NovaCoin,NVC)2013年2月11日发布于俄罗斯，混合scrypt Proof-of-Work + Proof-of-Stake算法的去中心化...",
+    "id":471,
+    "name":"novacoin",
+    "name_cn":"新星币",
+    "name_en":"Novacoin/NVC",
+    "time":"－",
+    "website":[
+        "http://novacoin.org"
+    ],
+    "whitepaper":"-"
+}

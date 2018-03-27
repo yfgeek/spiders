@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/REP"
+    ],
+    "description":"REP是reputation的简写，是Augur系统的流通货币。Augur 是建立在以太坊平台上的去中心化预测市场平台。利用 Augur ，任何人都可以为任何自...",
+    "id":41,
+    "name":"augur",
+    "name_cn":"－",
+    "name_en":"Augur/REP",
+    "time":"2016-10-04",
+    "website":[
+        "http://www.augur.net/"
+    ],
+    "whitepaper":"http://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf"
+}

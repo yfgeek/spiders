@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x65292eeadf1426cd2df1c4793a3d7519f253913b",
+        "https://ethplorer.io/address/0x65292eeadf1426cd2df1c4793a3d7519f253913b"
+    ],
+    "description":"COSS代表加密货币一站式解决方案，其包含基于加密货币数字经济系统的所有特性在内的平台。COSS是一个100%的自筹项目，在其发布之前不依赖于任何外部投资。其新...",
+    "id":332,
+    "name":"coss",
+    "name_cn":"－",
+    "name_en":"COSS/COSS",
+    "time":"2017-09-26",
+    "website":[
+        "https://coss.io/"
+    ],
+    "whitepaper":"https://coss.io/documents/coss-whitepaper-v3.pdf"
+}

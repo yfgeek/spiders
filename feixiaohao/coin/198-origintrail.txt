@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+        "https://ethplorer.io/address/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f"
+    ],
+    "description":"OriginTrail 是第一个基于区块链的供应链解决方案，它可以提供供应链行业内相关性极高的数据存储，处理以及无缝的流通，使得行业内的关联企业可以安全便捷地交...",
+    "id":198,
+    "name":"origintrail",
+    "name_cn":"－",
+    "name_en":"OriginTrail/TRAC",
+    "time":"2018-01-26",
+    "website":[
+        "https://origintrail.io/"
+    ],
+    "whitepaper":"https://origintrail.io/storage/documents/OriginTrail-White-Paper.pdf"
+}

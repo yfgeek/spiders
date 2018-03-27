@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.t.top/index/"
+    ],
+    "description":"钛值是一个区块链智能合约分布式场景社交软件。在智能手机移动端全球化趋势下，用户可以在智能手机上像使用支付宝和微信一样使用钛值，而钛值不仅仅是一款钱包，还是基于区...",
+    "id":290,
+    "name":"tvcoin",
+    "name_cn":"钛值",
+    "name_en":"TV/TV",
+    "time":"－",
+    "website":[
+        "http://www.t.top/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/eac/"
+    ],
+    "description":"地球币是2013年12月20日在加拿大多伦多发布的一款基于scrypt算法的全球性的加密货币，致力于可持续和公平的发展。地球币总量为135亿，以365天为一个周...",
+    "id":424,
+    "name":"earthcoin",
+    "name_cn":"地球币",
+    "name_en":"EarthCoin/EAC",
+    "time":"2013-12-20",
+    "website":[
+        "http://earthcoin.io"
+    ],
+    "whitepaper":"-"
+}

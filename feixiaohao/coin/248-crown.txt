@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/crw/",
+        "http://crw.blockpioneers.info/index.php"
+    ],
+    "description":"Crown 是一个基于区块链技术构建自由开放式互联网的自治社区项目。数字令牌帮助我们的社区安全地存储他们创造的价值，应用程序平台邀请开发人员共同构建区块链应用程...",
+    "id":248,
+    "name":"crown",
+    "name_cn":"－",
+    "name_en":"Crown/CRW",
+    "time":"－",
+    "website":[
+        "http://crown.tech/"
+    ],
+    "whitepaper":"-"
+}

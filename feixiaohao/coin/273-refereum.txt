@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd0929d411954c47438dc1d871dd6081f5c5e149c"
+    ],
+    "description":"Refereum是基于区块链的去中心化游戏社交推广平台。Refereum平台通过直接奖励玩家和直播网站上的游戏主播来降低游戏的营销成本，建立游戏开发商，流媒体和...",
+    "id":273,
+    "name":"refereum",
+    "name_cn":"－",
+    "name_en":"Refereum/RFR",
+    "time":"2018-03-02",
+    "website":[
+        "https://refereum.com/"
+    ],
+    "whitepaper":"https://token.refereum.com/RefereumWhitepaper.pdf"
+}

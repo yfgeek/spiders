@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/bela/",
+        "https://prohashing.com/explorer/Bellacoin/"
+    ],
+    "description":"Belacam 是一个照片分享网站。",
+    "id":594,
+    "name":"belacoin",
+    "name_cn":"－",
+    "name_en":"BelaCoin/BELA",
+    "time":"2014-01-24",
+    "website":[
+        "http://livebela.com/"
+    ],
+    "whitepaper":"-"
+}

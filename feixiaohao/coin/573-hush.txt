@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.myhush.org/"
+    ],
+    "description":"Hush是Zerocash协议的实现，提供高标准的隐私保护交易元数据的机密性。",
+    "id":573,
+    "name":"hush",
+    "name_cn":"－",
+    "name_en":"Hush/HUSH",
+    "time":"－",
+    "website":[
+        "https://myhush.org/"
+    ],
+    "whitepaper":"-"
+}

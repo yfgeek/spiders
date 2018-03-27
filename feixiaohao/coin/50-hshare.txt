@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.h.cash/"
+    ],
+    "description":"Hshare（HSR）是Hcash发行的代币，该代币基于 UTXO 模型的稳定区块链系统进行开发。而在 Hcash 主链上线之后，可以在任何上线 Hshare的...",
+    "id":50,
+    "name":"hshare",
+    "name_cn":"红烧肉",
+    "name_en":"Hshare/HSR",
+    "time":"2017-08-21",
+    "website":[
+        "https://h.cash/"
+    ],
+    "whitepaper":"-"
+}

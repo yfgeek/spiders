@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x04f2e7221fdb1b52a68169b25793e51478ff0329",
+        "https://ethplorer.io/address/0x04f2e7221fdb1b52a68169b25793e51478ff0329"
+    ],
+    "description":"Cappasity工具代币(CAPP)作为一种数字支付工具发行，为来自全球各地的生态系统参与者提供AR/VR/3D内容交换。",
+    "id":323,
+    "name":"cappasity",
+    "name_cn":"－",
+    "name_en":"Cappasity/CAPP",
+    "time":"2017-12-07",
+    "website":[
+        "https://artoken.io/",
+        "https://cappasity.com/"
+    ],
+    "whitepaper":"https://artoken.io/assets/docs/Cappasity_WP_US_7.3.pdf?ver=1.06"
+}

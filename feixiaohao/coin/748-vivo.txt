@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://vivo.explorerz.top:3003/"
+    ],
+    "description":"",
+    "id":748,
+    "name":"vivo",
+    "name_cn":"－",
+    "name_en":"VIVO/VIVO",
+    "time":"2017-09-13",
+    "website":[
+        "https://www.vivocrypto.com/"
+    ],
+    "whitepaper":"-"
+}

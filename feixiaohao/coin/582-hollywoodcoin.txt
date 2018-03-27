@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chain.hollywoodcoin.biz/"
+    ],
+    "description":"好莱坞币是为了解决目前制约电影制作过程和发展的加密货币解决方案。让好莱坞电影公司能够以更实惠的价格搜索、订购和支付电影制作公司的服务，提高演员和管理人员的素质，...",
+    "id":582,
+    "name":"hollywoodcoin",
+    "name_cn":"－",
+    "name_en":"HollyWoodCoin/HWC",
+    "time":"2017-12-14",
+    "website":[
+        "http://hollywoodcoin.us/"
+    ],
+    "whitepaper":"-"
+}

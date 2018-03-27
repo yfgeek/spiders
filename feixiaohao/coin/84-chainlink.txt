@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+        "https://ethplorer.io/address/0x514910771af9ca656af840dff83e8264ecf986ca"
+    ],
+    "description":"ChainLink的LINK网络是第一个分散的oracle网络，允许任何人安全地提供智能合同，访问关键的外部数据，脱机支付和任何其他API功能。任何拥有数据Fe...",
+    "id":84,
+    "name":"chainlink",
+    "name_cn":"－",
+    "name_en":"ChainLink/LINK",
+    "time":"2017-09-21",
+    "website":[
+        "https://smartcontract.com/"
+    ],
+    "whitepaper":"https://link.smartcontract.com/whitepaper"
+}

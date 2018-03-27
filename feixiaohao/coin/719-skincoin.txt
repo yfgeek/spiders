@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x2bdc0d42996017fce214b21607a515da41a9e0c5"
+    ],
+    "description":"SkinCoin旨在通过为在线游戏引入通用的加密货币，使皮肤市场的一些交易变的更加简单透明。SkinCoin基于Ethereum协议开发，它的创始人是肤市场的两...",
+    "id":719,
+    "name":"skincoin",
+    "name_cn":"－",
+    "name_en":"SkinCoin/SKIN",
+    "time":"2017-07-22",
+    "website":[
+        "https://skincoin.org/"
+    ],
+    "whitepaper":"https://skincoin.org/whitepaper.pdf"
+}

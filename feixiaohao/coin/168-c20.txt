@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://etherscan.io/token/0x26e75307fc0c021472feb8f727839531f112f317",
+        "https://ethplorer.io/address/0x26e75307fc0c021472feb8f727839531f112f317"
+    ],
+    "description":"CRYPTO20是一种自主性、高绩效、低成本加密货币指数基金。交易系统的发展是完整的—— CRYPTO20在当前提供价值，而不是在未来某个时候提供价值。现在通过...",
+    "id":168,
+    "name":"c20",
+    "name_cn":"－",
+    "name_en":"CRYPTO20/C20",
+    "time":"2018-01-23",
+    "website":[
+        "https://crypto20.com/"
+    ],
+    "whitepaper":"https://static.crypto20.com/pdf/c20-whitepaper-zh.pdf?_ga=2.256730379.18623275.1516670565-84478642.1516670565"
+}

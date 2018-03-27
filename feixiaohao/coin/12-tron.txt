@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf230b790e05390fc8295f4d3f60332c93bed42e2",
+        "https://ethplorer.io/address/0xf230b790e05390fc8295f4d3f60332c93bed42e2"
+    ],
+    "description":"在多种区块链项目中，波场Tron作为是全球首家将分布式计算、社交金融，共享经济引入数字娱乐领域的科技金融公司备受资本瞩目。波场Tron是基于区块链的去中心化数字...",
+    "id":12,
+    "name":"tron",
+    "name_cn":"波场",
+    "name_en":"Tron/TRX",
+    "time":"2017-09-14",
+    "website":[
+        "https://tronlab.com/"
+    ],
+    "whitepaper":"https://dn-peiwo-web.qbox.me/Tron-Whitepaper-0831-V17.pdf"
+}

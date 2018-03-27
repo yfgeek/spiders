@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/NTRN/index.php",
+        "https://masternodes.online/currencies/NTRN/"
+    ],
+    "description":"Neutron 是第一个基于去中心化教育平台的加密货币。Neutron 加密货币（NTRN）是成熟的、可靠的区块链，特点有权益证明和Nuetron主节点系统。N...",
+    "id":546,
+    "name":"neutron",
+    "name_cn":"－",
+    "name_en":"Neutron/NTRN",
+    "time":"－",
+    "website":[
+        "http://www.neutroncoin.com/"
+    ],
+    "whitepaper":"-"
+}

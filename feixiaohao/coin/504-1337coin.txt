@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/1337/"
+    ],
+    "description":"1337被创建为一个实验证明的赌注货币，具有高奖励和通货膨胀控制系统。这是一个有趣的加密货币，为用户开发游戏，并计划用作在线游戏的游戏币。",
+    "id":504,
+    "name":"1337coin",
+    "name_cn":"－",
+    "name_en":"1337/1337",
+    "time":"－",
+    "website":[
+        "https://www.1337coin.net/"
+    ],
+    "whitepaper":"-"
+}

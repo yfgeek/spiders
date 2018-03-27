@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xF433089366899D83a9f26A773D59ec7eCF30355e"
+    ],
+    "description":"Metal是一种基于区块链技术，用来证明用户处理付款确认的，使用MTL代币进行奖励，类似于比特币的数字货币。Metal拥有一个友好的用户界面的产品，就像Venm...",
+    "id":95,
+    "name":"metal",
+    "name_cn":"－",
+    "name_en":"Metal/MTL",
+    "time":"2017-07-10",
+    "website":[
+        "https://www.metalpay.com/"
+    ],
+    "whitepaper":"https://www.metalpay.com/assets/pdf/whitepaper.pdf"
+}

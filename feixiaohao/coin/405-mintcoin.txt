@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.fuzzbawls.pw/explore/MintCoin/"
+    ],
+    "description":"薄荷币（MINT）主打绿色环保，发布5星期后采用完全股权证明（PoS）生产方式避免挖矿能源消耗，第一年股息20%，以后每年少5%。Scrypt 算法，30秒确认...",
+    "id":405,
+    "name":"mintcoin",
+    "name_cn":"薄荷币",
+    "name_en":"Mintcoin/MINT",
+    "time":"－",
+    "website":[
+        "http://www.mintcoinofficial.com"
+    ],
+    "whitepaper":"-"
+}

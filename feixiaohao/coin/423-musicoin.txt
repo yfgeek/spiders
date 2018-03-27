@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://orbiter.musicoin.org/"
+    ],
+    "description":"乐币是一种全新的音乐发行与消费系统诞生，新系统避免了数字音乐免费与代理人收费过多带来的弊端，旨在促进健康的音乐创作与消费环境。同时还诞生了一种全新的音乐货币 —...",
+    "id":423,
+    "name":"musicoin",
+    "name_cn":"乐币",
+    "name_en":"Musicoin/MUSIC",
+    "time":"－",
+    "website":[
+        "https://www.musicoin.org/"
+    ],
+    "whitepaper":"-"
+}

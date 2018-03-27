@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.ub.com/explorer"
+    ],
+    "description":"UnitedBitcoin将建立一个与法定货币挂钩的信用货币体系，并通过鼓励有价值的区块链开发项目，以支持能够为社会服务的智能合约。UnitedBitcoin网...",
+    "id":93,
+    "name":"unitedbitcoin",
+    "name_cn":"比特联储",
+    "name_en":"UnitedBitcoin/UBTC",
+    "time":"2017-12-12",
+    "website":[
+        "http://www.ub.com/"
+    ],
+    "whitepaper":"https://www.ub.com/support/whitepaper"
+}

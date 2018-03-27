@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=3"
+    ],
+    "description":"互联网币(MaidSafecoin ,MAID)采用maid原创核心算法，理念先进，完成之后有非常大的实用价值，发布于2014年4月22日。MaidSafeco...",
+    "id":86,
+    "name":"maidsafecoin",
+    "name_cn":"互联网币",
+    "name_en":"MaidSafeCoin/MAID",
+    "time":"2006-02-03",
+    "website":[
+        "http://maidsafe.net"
+    ],
+    "whitepaper":"https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md"
+}

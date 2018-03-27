@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x358d12436080a01a16f711014610f8a4c2c2d233",
+        "https://ethplorer.io/address/0x358d12436080a01a16f711014610f8a4c2c2d233"
+    ],
+    "description":"Pundi X是全球最大的去中心化线下数字货币销售网络。“去中心化”是指销售网络的每一个网点可以在以太坊区块链上与开发者或广告主签订智能合约，并且遵从智能合约的...",
+    "id":166,
+    "name":"pundi-x",
+    "name_cn":"－",
+    "name_en":"Pundi X/PXS",
+    "time":"2018-03-23",
+    "website":[
+        "https://pundix.com/"
+    ],
+    "whitepaper":"https://pundix.com/pdf/PundiX_WhitePaper_CN_FinalVer1.pdf"
+}

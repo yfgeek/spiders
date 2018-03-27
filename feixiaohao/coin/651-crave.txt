@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://cryptoblock.xyz:30002/",
+        "https://cryptobe.com/chain/Crave",
+        "https://crave.masternodes.pro/"
+    ],
+    "description":"CRAVE体现了加密货币的重要性，它关注用户的匿名性和隐私性，最终允许不可跟踪的交易。它基于DASH，功能包括Bitcoin CoreZerocoin协议增强，...",
+    "id":651,
+    "name":"crave",
+    "name_cn":"－",
+    "name_en":"Crave/CRAVE",
+    "time":"－",
+    "website":[
+        "http://www.craveproject.net/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.arcticcoin.org/"
+    ],
+    "description":"",
+    "id":740,
+    "name":"arcticcoin",
+    "name_cn":"－",
+    "name_en":"ArcticCoin/ARC",
+    "time":"－",
+    "website":[
+        "https://arcticcoin.org/"
+    ],
+    "whitepaper":"-"
+}

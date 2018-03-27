@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+        "https://ethplorer.io/address/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671"
+    ],
+    "description":"Numerai首先会给其交易数据加密，然后再将加密后的数据分享给数据科学家——这样一来，科学家们就没有机会照抄该基金的交易策略。不过，该公司会精细设计加密数据...",
+    "id":291,
+    "name":"numeraire",
+    "name_cn":"－",
+    "name_en":"Numeraire/NMR",
+    "time":"2017-02-21",
+    "website":[
+        "https://numer.ai/"
+    ],
+    "whitepaper":"-"
+}

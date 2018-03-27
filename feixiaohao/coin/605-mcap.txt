@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x93e682107d1e9defb0b5ee701c71707a4b2e46bc",
+        "https://ethplorer.io/address/0x93e682107d1e9defb0b5ee701c71707a4b2e46bc"
+    ],
+    "description":"MCAP是一个由Bitcoin Groth基金项目投资的基金，它专注于挖矿和ICO投资。MCAP币是一种基于以太网的货币令牌，代表着MCAP基金的持有权。所有M...",
+    "id":605,
+    "name":"mcap",
+    "name_cn":"－",
+    "name_en":"MCAP/MCAP",
+    "time":"－",
+    "website":[
+        "https://bitcoingrowthfund.com/mcap",
+        "https://www.mcaplabs.com/"
+    ],
+    "whitepaper":"-"
+}

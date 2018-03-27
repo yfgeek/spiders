@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.polispay.org/"
+    ],
+    "description":"",
+    "id":542,
+    "name":"polis",
+    "name_cn":"－",
+    "name_en":"Polis/POLIS",
+    "time":"2018-01-10",
+    "website":[
+        "https://polispay.org/"
+    ],
+    "whitepaper":"https://polispay.org/whitepaper"
+}

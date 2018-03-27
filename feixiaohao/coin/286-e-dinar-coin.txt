@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://blockchain.mn/",
+        "https://wallet.e-dinarcoin.com/",
+        "/explorer/blocks"
+    ],
+    "description":"E-dinar是一款基于开放性区块链计算技术操作的完全分散型支付系统，其支付系统内所用于交易的分散型加密货币被称为e-dinarcoin，在西方古希腊、古波斯、...",
+    "id":286,
+    "name":"e-dinar-coin",
+    "name_cn":"艾特币",
+    "name_en":"E-Dinar Coin/EDR",
+    "time":"－",
+    "website":[
+        "https://edinarcoin.com/"
+    ],
+    "whitepaper":"-"
+}

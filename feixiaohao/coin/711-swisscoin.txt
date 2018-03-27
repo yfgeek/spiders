@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/sic",
+        "http://explorer.swisscoin.eu/"
+    ],
+    "description":"瑞士币，英文SWISSCOIN，币代码SIC；瑞士币公司是2013年由阿森纳为首的50个商人和比特比技术小组在欧洲瑞士组成的区块链公司，经过三年区块链设计开源；...",
+    "id":711,
+    "name":"swisscoin",
+    "name_cn":"瑞士币",
+    "name_en":"Swisscoin/SIC",
+    "time":"2016-06-03",
+    "website":[
+        "https://swisscoin.eu/"
+    ],
+    "whitepaper":"http://backup.swisscoin.eu/document/SWISSCOIN-Whitepaper.pdf"
+}

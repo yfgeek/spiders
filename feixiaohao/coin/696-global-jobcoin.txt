@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x2ae965cd3d2b6d186e87d9586fc3bdbfc667cacc",
+        "https://ethplorer.io/address/0x2ae965cd3d2b6d186e87d9586fc3bdbfc667cacc"
+    ],
+    "description":"GJC是基于真实世界的应用场景，并成功实施于全球职业平台 Jobstoday。在Jobstoday平台上，雇主可以支付单个职业和多个打包的职业，国际间的雇主都会...",
+    "id":696,
+    "name":"global-jobcoin",
+    "name_cn":"－",
+    "name_en":"Global Jobcoin/GJC",
+    "time":"2018-01-15",
+    "website":[
+        "https://www.globaljobcoin.com/"
+    ],
+    "whitepaper":"https://www.globaljobcoin.com/media/files/documents/GJC_Whitepaper.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/ifc/"
+    ],
+    "description":"无限币（简称IFC）是一个新兴数字货币，相较于比特币更具流通优势，填补了比特币在商业流通、促进商业运转等领域的短板。无限币的定位是服务于日常生活的小额交易支付。...",
+    "id":233,
+    "name":"infinitecoin",
+    "name_cn":"无限币",
+    "name_en":"Infinitecoin/IFC",
+    "time":"2013-06-05",
+    "website":[
+        "http://www.infiniteco.in"
+    ],
+    "whitepaper":"-"
+}

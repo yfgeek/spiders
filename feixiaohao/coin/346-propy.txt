@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x226bb599a12c826476e3a771454697ea52e9e220",
+        "https://ethplorer.io/address/0x226bb599a12c826476e3a771454697ea52e9e220"
+    ],
+    "description":"PROPY(PRO)由智能合约驱动，根据地区法规跟踪和执行房地产交易。通过使用以太坊区块链，PROPY(PRO)允许经纪人、买家、卖家以及标题代理人/公证人在现...",
+    "id":346,
+    "name":"propy",
+    "name_cn":"－",
+    "name_en":"Propy/PRO",
+    "time":"2017-09-20",
+    "website":[
+        "https://propy.com/"
+    ],
+    "whitepaper":"https://tokensale.propy.com/Propy-White-Paper-17-Jul-2017.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Bat"
+    ],
+    "description":"BAT(Basic Attention Token)是Javascript创始人，Mozilla和Firefox浏览器联合创始人Brendan Eich创办的一...",
+    "id":53,
+    "name":"basic-attention-token",
+    "name_cn":"注意力币",
+    "name_en":"Basic Attention Token/BAT",
+    "time":"2017-05-31",
+    "website":[
+        "https://basicattentiontoken.org/"
+    ],
+    "whitepaper":"https://basicattentiontoken.org/wp-content/uploads/2017/05/BasicAttentionTokenWhitePaper-4.pdf"
+}

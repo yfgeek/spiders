@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.bridgecoin.org/"
+    ],
+    "description":"",
+    "id":155,
+    "name":"bridgecoin",
+    "name_cn":"－",
+    "name_en":"BridgeCoin/BCO",
+    "time":"2017-10-11",
+    "website":[
+        "https://bridgecoin.org/"
+    ],
+    "whitepaper":"-"
+}

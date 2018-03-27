@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/district0x",
+        "http://ethplorer.io/address/0x0abdace70d3790235af448c88547603b945604ea"
+    ],
+    "description":"district0x网络社区是一个去中心化的开源自治社区，基于以太坊、Aragon、IPFS等技术开发的。其核心框架为d0xINFRA是基于以太坊的智能合约并通...",
+    "id":186,
+    "name":"district0x",
+    "name_cn":"－",
+    "name_en":"district0x/DNT",
+    "time":"2017-08-04",
+    "website":[
+        "https://district0x.io/"
+    ],
+    "whitepaper":"https://district0x.io/docs/district0x-whitepaper.pdf"
+}

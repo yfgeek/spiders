@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/a/OCT"
+    ],
+    "description":"OracleChain（欧链）作为全球第一个直面区块链生态Oracle（预言机）需求的基础应用，将区块链技术服务和现实生活中的多种需求场景直接高效对接，深耕这个...",
+    "id":365,
+    "name":"oraclechain",
+    "name_cn":"欧链",
+    "name_en":"OracleChain/OCT",
+    "time":"2017-07-26",
+    "website":[
+        "http://oraclechain.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://blockexplorer.electroneum.com/"
+    ],
+    "description":"ETN全称Electroneum，是英国的第一个加密数字货币，Electroneum专注于发展一个加密的离线钱包，PC版和iOS、Android版都有，可以完美...",
+    "id":71,
+    "name":"electroneum",
+    "name_cn":"－",
+    "name_en":"Electroneum/ETN",
+    "time":"2017-11-03",
+    "website":[
+        "http://electroneum.com/"
+    ],
+    "whitepaper":"-"
+}

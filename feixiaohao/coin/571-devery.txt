@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c",
+        "https://ethplorer.io/address/0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c"
+    ],
+    "description":"Devery 是基于以太坊网络的认证服务的开源协议。",
+    "id":571,
+    "name":"devery",
+    "name_cn":"－",
+    "name_en":"Devery/EVE",
+    "time":"2018-01-25",
+    "website":[
+        "https://devery.io/"
+    ],
+    "whitepaper":"https://devery.io/whitepaper/Devery_Whitepaper_rev5.pdf"
+}

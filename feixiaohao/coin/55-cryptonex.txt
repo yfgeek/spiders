@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.cryptonex.org/"
+    ],
+    "description":"Cryptonex(CNX)是在其自身区块链平台上开发的一种全球化的去中心加密货币。主要目的是使世界上任何国家的货币与任何加密货币或代币能够兑换，通过手机和支付...",
+    "id":55,
+    "name":"cryptonex",
+    "name_cn":"－",
+    "name_en":"Cryptonex/CNX",
+    "time":"2017-10-08",
+    "website":[
+        "https://cryptonex.org/"
+    ],
+    "whitepaper":"-"
+}

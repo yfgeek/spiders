@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.ark.io/"
+    ],
+    "description":"ARK为用户提供创新性的使用案例，通过区块链领域的力量发展和整合科技，具有高度灵活和适应性强的特点，ARK是一个安全的平台被设计成大规模应用，并向消费者和开发人...",
+    "id":51,
+    "name":"ark",
+    "name_cn":"－",
+    "name_en":"Ark/ARK",
+    "time":"2017-05-24",
+    "website":[
+        "http://ark.io/"
+    ],
+    "whitepaper":"https://ark.io/whitepaper/"
+}

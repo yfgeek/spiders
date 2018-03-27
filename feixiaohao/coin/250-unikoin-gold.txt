@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b",
+        "https://ethplorer.io/address/0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b"
+    ],
+    "description":"Unikrn 成立于2014年，是游戏和电竞博彩行业的领先者，UnikoinGold 是 Unikrn 发行的一种去中心化的 ERC20 标准代币，主要用于在交...",
+    "id":250,
+    "name":"unikoin-gold",
+    "name_cn":"－",
+    "name_en":"Unikoin Gold/UKG",
+    "time":"2017-11-06",
+    "website":[
+        "https://unikrn.com/",
+        "https://unikoingold.com/"
+    ],
+    "whitepaper":"https://static.unikrn.com/4242/unikrn_bm/doc/whitepaper_cn.pdf"
+}

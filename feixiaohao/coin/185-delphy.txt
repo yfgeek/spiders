@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"delphy币是天算预测市场的ERC20代币，简称天算币或dpy币。天算（Delphy）作为国内第一款基于区块链的分布式预测市场，发布以后引起了社区的广泛关注和...",
+    "id":185,
+    "name":"delphy",
+    "name_cn":"天算",
+    "name_en":"Delphy/DPY",
+    "time":"2017-11-09",
+    "website":[
+        "https://delphy.org/"
+    ],
+    "whitepaper":"https://delphy.org/res/papers/Delphy_Whitepaper_CH.pdf"
+}

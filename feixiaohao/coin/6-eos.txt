@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/EOS",
+        "https://ethplorer.io/address/0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0"
+    ],
+    "description":"EOS 为区块链奇才 BM （Daniel Larimer）领导开发的类似操作系统的区块链架构平台，旨在实现分布式应用的性能扩展。EOS 提供帐户，身份验证，数...",
+    "id":6,
+    "name":"eos",
+    "name_cn":"柚子",
+    "name_en":"EOS/EOS",
+    "time":"2017-07-02",
+    "website":[
+        "https://eos.io/"
+    ],
+    "whitepaper":"https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md"
+}

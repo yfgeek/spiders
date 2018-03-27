@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa",
+        "https://ethplorer.io/address/0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa"
+    ],
+    "description":"Presearch是一个开放的、去中心化的搜索引擎，它会奖励社区成员使用前搜索令牌，以供他们使用、贡献和推广平台。",
+    "id":232,
+    "name":"presearch",
+    "name_cn":"－",
+    "name_en":"Presearch/PRE",
+    "time":"2017-12-06",
+    "website":[
+        "https://www.presearch.io/"
+    ],
+    "whitepaper":"https://www.presearch.io/uploads/WhitePaper.pdf"
+}

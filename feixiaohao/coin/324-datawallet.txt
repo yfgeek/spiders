@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x8db54ca569d3019a2ba126d03c37c44b5ef81ef6",
+        "https://ethplorer.io/address/0x8db54ca569d3019a2ba126d03c37c44b5ef81ef6"
+    ],
+    "description":"",
+    "id":324,
+    "name":"datawallet",
+    "name_cn":"－",
+    "name_en":"Datawallet/DXT",
+    "time":"2018-02-10",
+    "website":[
+        "https://datawallet.com"
+    ],
+    "whitepaper":"https://assets.datawallet.io/tokensale/datawallet_whitepaper.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5af2be193a6abca9c8817001f45744777db30756",
+        "https://ethplorer.io/address/0x5af2be193a6abca9c8817001f45744777db30756"
+    ],
+    "description":"Bitquence是一种针对区块链的人力驱动的加密服务。Bitquence的使命是让每个人都能获得参与到令人生畏的加密货币市场的机会，加速区块链技术的采用，并让...",
+    "id":60,
+    "name":"bitquence",
+    "name_cn":"－",
+    "name_en":"Bitquence/BQX",
+    "time":"2017-07-19",
+    "website":[
+        "https://www.ethos.io/"
+    ],
+    "whitepaper":"https://www.bitquence.com/wp-content/uploads/2017/05/BitquenceWhitePaper.pdf"
+}

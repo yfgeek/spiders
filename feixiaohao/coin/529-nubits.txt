@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://explorer.nubits.com",
+        "https://nuexplorer.ddns.net"
+    ],
+    "description":"NuBits是一种多功能的、安全、免费和稳定的加密货币。",
+    "id":529,
+    "name":"nubits",
+    "name_cn":"－",
+    "name_en":"NuBits/USNBT",
+    "time":"－",
+    "website":[
+        "https://www.nubits.com"
+    ],
+    "whitepaper":"-"
+}

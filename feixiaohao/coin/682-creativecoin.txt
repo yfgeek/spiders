@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://search.creativechain.net/",
+        "https://chainz.cryptoid.info/crea/"
+    ],
+    "description":"CREA是为满足所有创作和分布式数字内容的创意社区的需求，创造和设计的加密货币。",
+    "id":682,
+    "name":"creativecoin",
+    "name_cn":"－",
+    "name_en":"Creativecoin/CREA",
+    "time":"－",
+    "website":[
+        "https://www.creativechain.org/",
+        "https://creativechain.net/"
+    ],
+    "whitepaper":"https://creativechain.org/wp-content/uploads/2017/03/Whitepaper-Creativechain-1.2.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/"
+    ],
+    "description":"OpenChat主要定义基于区块链的聊天协议Bimp。在传统的Xmpp协议上增加了一种数字资产能在各个IM中传输的功能，暂时落地项目为BeeChat。BeeCh...",
+    "id":167,
+    "name":"chatcoin",
+    "name_cn":"－",
+    "name_en":"ChatCoin/CHAT",
+    "time":"2018-01-19",
+    "website":[
+        "http://beechat.com/"
+    ],
+    "whitepaper":"http://www.openchat.co/whitepaper/OpenChat_zh.pdf"
+}

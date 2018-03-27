@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://stellar.expert/explorer/asset/SLT-GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP"
+    ],
+    "description":"",
+    "id":587,
+    "name":"smartlands",
+    "name_cn":"－",
+    "name_en":"Smartlands/SLT",
+    "time":"2018-01-26",
+    "website":[
+        "https://smartlands.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.flashcoin.io/"
+    ],
+    "description":"Flash 是由区块链支持的为小额而快速交易设计的社区。",
+    "id":259,
+    "name":"flash",
+    "name_cn":"－",
+    "name_en":"Flash/FLASH",
+    "time":"2017-06-27",
+    "website":[
+        "https://flashcoin.io/"
+    ],
+    "whitepaper":"https://www.flashcoin.io/docs/FLASHWhitepaper.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/yash"
+    ],
+    "description":"",
+    "id":718,
+    "name":"yashcoin",
+    "name_cn":"－",
+    "name_en":"YashCoin/YASH",
+    "time":"－",
+    "website":[
+        "https://www.yashcoin.com/"
+    ],
+    "whitepaper":"-"
+}

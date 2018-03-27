@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x85e076361cc813a908ff672f9bad1541474402b2",
+        "https://ethplorer.io/address/0x85e076361cc813a908ff672f9bad1541474402b2"
+    ],
+    "description":"Telcoin是第一个在移动通信和区块链技术的快速、无边界特性之间发挥协同作用的加密货币。Telcoin是一种基于Ethereum区块链的新型加密货币，它将由你...",
+    "id":136,
+    "name":"telcoin",
+    "name_cn":"－",
+    "name_en":"Telcoin/TEL",
+    "time":"2018-01-14",
+    "website":[
+        "https://www.telco.in/"
+    ],
+    "whitepaper":"-"
+}

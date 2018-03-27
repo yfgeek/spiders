@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/btx",
+        "http://51.15.78.208:3001/"
+    ],
+    "description":"BTX是全球第一个比特币分叉币，分叉于2017年4月份，由德国团队（BitSend）开发，BTX技术特征如下：1，20 MB块大小（10 MB + 10 MB ...",
+    "id":123,
+    "name":"bitcore",
+    "name_cn":"－",
+    "name_en":"Bitcore/BTX",
+    "time":"2017-04-24",
+    "website":[
+        "http://bitcore.cc/"
+    ],
+    "whitepaper":"-"
+}

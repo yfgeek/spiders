@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://omnichest.info/"
+    ],
+    "description":"OMNI，原名万事达币（Mastercoin）发布于2013年6月24日，万事达币是建立在比特币协议之上的二代币，旨在帮助用户的创建和交易加密货币以及其他类型...",
+    "id":334,
+    "name":"omni",
+    "name_cn":"－",
+    "name_en":"Omni/OMNI",
+    "time":"2013-06-24",
+    "website":[
+        "http://www.omnilayer.org/"
+    ],
+    "whitepaper":"https://github.com/OmniLayer/spec"
+}

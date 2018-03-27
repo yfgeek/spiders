@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://blockchair.com/bitcoin-cash/blocks",
+        "http://blockdozer.com/insight/",
+        "https://www.blocktrail.com/BCC"
+    ],
+    "description":"2017年7月21日，比特币分叉方案BIP91已经获得全网算力支持，一致同意先进行隔离见证升级，并在之后的6个月内把底层区块链的区块大小升级至2M。然而“搅局者...",
+    "id":4,
+    "name":"bitcoin-cash",
+    "name_cn":"比特现金",
+    "name_en":"Bitcoin Cash(BCC)/BCH",
+    "time":"2017-07-24",
+    "website":[
+        "https://www.bitcoincash.org/"
+    ],
+    "whitepaper":"-"
+}

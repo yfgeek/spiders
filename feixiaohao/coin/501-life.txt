@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xff18dbc487b4c2e3222d115952babfda8ba52f5f",
+        "https://ethplorer.io/address/0xff18dbc487b4c2e3222d115952babfda8ba52f5f"
+    ],
+    "description":"LIFE 是一种加密数字货币，就像在线银行账户中的现金一样。它作为大企业，慈善机构，社区和创新项目的奖励系统。它可以像股份一样被买入，卖出和交易，或者可以用来从...",
+    "id":501,
+    "name":"life",
+    "name_cn":"－",
+    "name_en":"LIFE/LIFE",
+    "time":"2017-10-23",
+    "website":[
+        "https://token.lifelabs.io/"
+    ],
+    "whitepaper":"-"
+}

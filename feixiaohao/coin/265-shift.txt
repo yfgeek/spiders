@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.shiftnrg.org/"
+    ],
+    "description":"Shift 是一个可访问的、开源的区块链应用程序平台。网络最大的威胁之一就是网络本身。 企业可以单方面关闭与他们独立作家的数据。 Shift 和 Phantom...",
+    "id":265,
+    "name":"shift",
+    "name_cn":"－",
+    "name_en":"Shift/SHIFT",
+    "time":"－",
+    "website":[
+        "http://www.shiftnrg.org"
+    ],
+    "whitepaper":"https://www.shiftnrg.org/download/shift-introductory-paper.pdf"
+}

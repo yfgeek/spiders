@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://coindaddy.io/search?network=xcp&amp;q=triggers"
+    ],
+    "description":"Triggers是一种机器对机器的代币，主要为Blocksafe经济网络提供动力，即在参与Blocksafe网络的智能设备之间为每一个事件提供动力。Blocks...",
+    "id":220,
+    "name":"triggers",
+    "name_cn":"－",
+    "name_en":"Triggers/TRIG",
+    "time":"－",
+    "website":[
+        "https://www.blocksafefoundation.com/"
+    ],
+    "whitepaper":"https://www.blocksafefoundation.com/assets/blocksafe_whitepaper_v.1.pdf"
+}

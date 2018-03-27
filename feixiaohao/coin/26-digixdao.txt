@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/dgd"
+    ],
+    "description":"DigixDAO是一个智能合同套件，由去中心化自治机构（DAO）创建、由DigixGlobal部署在区块链上，目标是与社区一起治理并建立21世纪以太坊金本位金融...",
+    "id":26,
+    "name":"digixdao",
+    "name_cn":"黄金代币",
+    "name_en":"DigixDAO/DGD",
+    "time":"2016-03-01",
+    "website":[
+        "https://digix.io/"
+    ],
+    "whitepaper":"https://dgx.io/whitepaper.pdf"
+}

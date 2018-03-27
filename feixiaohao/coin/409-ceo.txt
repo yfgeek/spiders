@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://b.ceo.bi/block?qt=CEOcoinBlockchain"
+    ],
+    "description":"CEO币（CEOcoin），简称CEO，是CEO交易所推出的虚拟计算单位，初期由SIM和早期贡献者持有，总数为1000万个，官方锁定300万个。每一个CEO币等...",
+    "id":409,
+    "name":"ceo",
+    "name_cn":"CEO币",
+    "name_en":"CEOcoin/CEO",
+    "time":"－",
+    "website":[
+        "https://www.bite.ceo/"
+    ],
+    "whitepaper":"-"
+}

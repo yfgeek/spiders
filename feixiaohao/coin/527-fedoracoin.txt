@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/tips/"
+    ],
+    "description":"FedoraCoin (TIPS, 费多拉币, 又称帽子币、小费币、呢帽币) 是一个年轻的加密虚拟货币。显卡挖矿，1分钟每块，每10分钟调整难度。FedoraC...",
+    "id":527,
+    "name":"fedoracoin",
+    "name_cn":"帽子币",
+    "name_en":"FedoraCoin/TIPS",
+    "time":"－",
+    "website":[
+        "http://www.fedoracoin.top/"
+    ],
+    "whitepaper":"-"
+}

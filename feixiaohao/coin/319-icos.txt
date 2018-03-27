@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x014b50466590340d41307cc54dcee990c8d58aa8",
+        "https://ethplorer.io/address/0x014b50466590340d41307cc54dcee990c8d58aa8"
+    ],
+    "description":"ICOS 平台是一个能够使你轻松发现以及从即将到来的、正在进行的或已结束的众筹获得代币的众筹平台。",
+    "id":319,
+    "name":"icos",
+    "name_cn":"－",
+    "name_en":"ICOS/ICOS",
+    "time":"2017-10-24",
+    "website":[
+        "https://icos.icobox.io/",
+        "https://t.me/icobox_en"
+    ],
+    "whitepaper":"-"
+}

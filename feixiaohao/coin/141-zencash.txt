@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.zensystem.io/"
+    ],
+    "description":"ZenCash 是一个包含最先进技术的加密货币构成的多重平台，它还可以实现信息传送，文件发表服务，它独特的资金模式使项目可以靠自身资金不断开发持续发展。ZenC...",
+    "id":141,
+    "name":"zencash",
+    "name_cn":"－",
+    "name_en":"ZenCash/ZEN",
+    "time":"－",
+    "website":[
+        "https://zencash.com/zh/"
+    ],
+    "whitepaper":"https://zencash.com/assets/files/Zen-White-Paper-Chinese.pdf"
+}

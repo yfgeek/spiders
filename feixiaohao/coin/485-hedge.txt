@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xffe8196bc259e8dedc544d935786aa4709ec3e64",
+        "https://ethplorer.io/address/0xffe8196bc259e8dedc544d935786aa4709ec3e64"
+    ],
+    "description":"Hedge 开发了一个高端的带有投资工具、分析工具的投资管理平台，可以帮助投资者多样化的进行投资组合，投资管理、加密资产管理等。基于区块链基础，以提供完整的透明...",
+    "id":485,
+    "name":"hedge",
+    "name_cn":"－",
+    "name_en":"Hedge/HDG",
+    "time":"2017-10-23",
+    "website":[
+        "https://www.hedge-crypto.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/uni/"
+    ],
+    "description":"",
+    "id":739,
+    "name":"universe",
+    "name_cn":"－",
+    "name_en":"Universe/UNI",
+    "time":"－",
+    "website":[
+        "http://unicoin.pw/"
+    ],
+    "whitepaper":"-"
+}

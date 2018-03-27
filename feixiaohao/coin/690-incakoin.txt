@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/NKA/index.php"
+    ],
+    "description":"IncaKoin是2013年建立的安全区块链，是最早采用SAH-256的区块链之一，通过混合工作量证明和权益证明协议来处理交易和生成新的区块。",
+    "id":690,
+    "name":"incakoin",
+    "name_cn":"－",
+    "name_en":"IncaKoin/NKA",
+    "time":"－",
+    "website":[
+        "http://incakoin.info/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://explorer.particl.io/",
+        "https://chainz.cryptoid.info/part/"
+    ],
+    "description":"Particl是在比特币源码基础上，针对支付领域的特殊需求，而开发的一种新型匿名区块链。目前，在Particl区块链上已经完成的DApp有电子商务应用。Part...",
+    "id":97,
+    "name":"particl",
+    "name_cn":"－",
+    "name_en":"Particl/PART",
+    "time":"2017-07-21",
+    "website":[
+        "http://particl.io/"
+    ],
+    "whitepaper":"https://github.com/particl/whitepaper/blob/master/decentralized-private-marketplace-draft-0.1.pdf"
+}

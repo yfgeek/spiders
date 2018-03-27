@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://blockchain.info",
+        "https://blockexplorer.com/"
+    ],
+    "description":"比特币（BitCoin）的概念最初由中本聪在2009年提出，根据中本聪的思路设计发布的开源软件以及建构其上的P2P网络。比特币是一种P2P形式的数字货币。点对点...",
+    "id":1,
+    "name":"bitcoin",
+    "name_cn":"比特币",
+    "name_en":"Bitcoin/BTC",
+    "time":"2008-11-01",
+    "website":[
+        "https://bitcoin.org/",
+        "https://www.bitcoin.com/"
+    ],
+    "whitepaper":"http://www.bitcoin.org/bitcoin.pdf"
+}

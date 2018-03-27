@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xb2f7eb1f2c37645be61d73953035360e768d81e6",
+        "https://ethplorer.io/address/0xb2f7eb1f2c37645be61d73953035360e768d81e6"
+    ],
+    "description":"",
+    "id":235,
+    "name":"cobinhood",
+    "name_cn":"－",
+    "name_en":"Cobinhood/COB",
+    "time":"2017-10-02",
+    "website":[
+        "https://www.cobinhood.com/"
+    ],
+    "whitepaper":"-"
+}

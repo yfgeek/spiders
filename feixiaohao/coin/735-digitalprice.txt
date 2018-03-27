@@ -1,0 +1,18 @@
+{
+    "blockchain":[
+        "http://cryptoblock.xyz:30003/",
+        "https://scrypto.io/s/mns-dp/",
+        "https://dp.cstats.net/masternodes/stats/"
+    ],
+    "description":"",
+    "id":735,
+    "name":"digitalprice",
+    "name_cn":"－",
+    "name_en":"DigitalPrice/DP",
+    "time":"－",
+    "website":[
+        "http://digitalprice.org/",
+        "https://scrypto.io/"
+    ],
+    "whitepaper":"-"
+}

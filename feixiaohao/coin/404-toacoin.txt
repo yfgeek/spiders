@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/toa"
+    ],
+    "description":"TOA 货币是PoW / PoS的加密货币，旨在提供便捷与旅行消费相关的事宜。TOA提供其用户使用加密货币作为支付酒店住宿及其他旅游相关服务费用。 TOA货币通...",
+    "id":404,
+    "name":"toacoin",
+    "name_cn":"－",
+    "name_en":"ToaCoin/TOA",
+    "time":"2017-07-25",
+    "website":[
+        "http://www.toacoin.com/"
+    ],
+    "whitepaper":"-"
+}

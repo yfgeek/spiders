@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/neos/"
+    ],
+    "description":"Neos发布于2016年7月，主要是帮助你内容创造、分享内容，并通过内容赚钱，我们希望能为创意创造提供奖励，同时建立一个庞大的内容社区。通过Neos建立一个完...",
+    "id":437,
+    "name":"neoscoin",
+    "name_cn":"－",
+    "name_en":"NeosCoin/NEOS",
+    "time":"2016-07-25",
+    "website":[
+        "http://www.neoscoin.com"
+    ],
+    "whitepaper":"-"
+}

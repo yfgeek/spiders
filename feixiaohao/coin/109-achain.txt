@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://browser.achain.com/"
+    ],
+    "description":"Achain独有的RDPOS分布式共识机制，实现了拥有自主知识产权的图灵完备智能合约虚拟机，链上交易性能高达1000TPS，是一款简单、快速、安全的区块链平台，...",
+    "id":109,
+    "name":"achain",
+    "name_cn":"A链",
+    "name_en":"Achain/ACT",
+    "time":"2017-08-27",
+    "website":[
+        "https://www.achain.com/"
+    ],
+    "whitepaper":"https://www.achain.com/Achain%20Whitepaper%202.0_CHS.pdf"
+}

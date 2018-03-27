@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4470bb87d77b963a013db939be332f927f2b992e",
+        "https://ethplorer.io/address/0x4470bb87d77b963a013db939be332f927f2b992e"
+    ],
+    "description":"AdEx是一个基于区块链的广告交易平台，旨在革新现有的在线广告格局，解决其一些重大问题：广告欺诈、隐私和恶意展示赞助信息等。AdEx是完全公开透明并构建在以太坊...",
+    "id":154,
+    "name":"adx-net",
+    "name_cn":"－",
+    "name_en":"AdEx/ADX",
+    "time":"－",
+    "website":[
+        "https://www.adex.network/"
+    ],
+    "whitepaper":"https://www.adex.network/adex/AdEx-Whitepaper-v1.4.pdf"
+}

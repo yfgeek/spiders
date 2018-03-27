@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/vslice",
+        "https://ethplorer.io/address/0x5c543e7ae0a1104f78406c340e9c64fd9fce5170"
+    ],
+    "description":"vSlice的代币VSL是基于以太坊技术智能合约技术的，是一个游戏区块链平台。\n",
+    "id":590,
+    "name":"vslice",
+    "name_cn":"－",
+    "name_en":"vSlice/VSL",
+    "time":"2016-12-20",
+    "website":[
+        "http://www.vslice.io/"
+    ],
+    "whitepaper":"https://blog.vdice.io/wp-content/uploads/2016/10/vDice_ICO_Whitepaper_English.pdf"
+}

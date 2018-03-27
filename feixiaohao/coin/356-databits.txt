@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/DATABITS"
+    ],
+    "description":"Augmentors团队显然是受到了这些例子的启发，开始追随着他们的脚步，让区块链游戏行业成为趋势潮流。他们选择的游戏类型是增强现实——类似口袋妖怪（Poké...",
+    "id":356,
+    "name":"databits",
+    "name_cn":"－",
+    "name_en":"Databits/DTB",
+    "time":"2017-07-28",
+    "website":[
+        "http://www.augmentorsgame.com/"
+    ],
+    "whitepaper":"-"
+}

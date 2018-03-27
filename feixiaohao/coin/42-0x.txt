@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/ZRX",
+        "https://ethplorer.io/address/0xe41d2489571d322189246dafa5ebde1f4699f498"
+    ],
+    "description":"0x是一个点对点交易的开源协议，以促进以太坊区块链中ERC20代币的交易。该协议旨在作为开放标准和通用构建模块，推动包括交易所功能的去中心化应用（DApps）之...",
+    "id":42,
+    "name":"0x",
+    "name_cn":"0x协议",
+    "name_en":"0x/ZRX",
+    "time":"2017-08-17",
+    "website":[
+        "https://0xproject.com/"
+    ],
+    "whitepaper":"https://www.0xproject.com/pdfs/0x_white_paper.pdf"
+}

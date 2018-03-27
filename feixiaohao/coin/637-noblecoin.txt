@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/nobl/"
+    ],
+    "description":"NobleCoin是超过五十个区块链数字货币的国际移动支付、礼品和产品应用程序。NobleCoin旨在将区块链技术融入数字身份系统、国际数字货币AML/KYC安...",
+    "id":637,
+    "name":"noblecoin",
+    "name_cn":"－",
+    "name_en":"NobleCoin/NOBL",
+    "time":"－",
+    "website":[
+        "https://www.noblemovement.com"
+    ],
+    "whitepaper":"-"
+}

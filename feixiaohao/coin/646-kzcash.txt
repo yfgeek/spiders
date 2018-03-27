@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chain.kzcash.kz/"
+    ],
+    "description":"",
+    "id":646,
+    "name":"kzcash",
+    "name_cn":"－",
+    "name_en":"Kzcash/KZC",
+    "time":"2018-01-12",
+    "website":[
+        "https://kzcash.kz/"
+    ],
+    "whitepaper":"-"
+}

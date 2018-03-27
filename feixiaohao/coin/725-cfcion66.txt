@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.cfcoin66.com:8008/richlist"
+    ],
+    "description":"咖啡金链（英文全称：Coffee gold chain，简称CFC），是一种基于“点对点”（peer-to-peer）技术和区块链技术的去中心化的数字资产、虚拟...",
+    "id":725,
+    "name":"cfcion66",
+    "name_cn":"咖啡金链",
+    "name_en":"Coffee gold chain/CFC",
+    "time":"－",
+    "website":[
+        "http://www.cfcoin66.com"
+    ],
+    "whitepaper":"http://www.cfcoin66.com/Upload/Files/17/10/1011ad99a7e0f2053f29c9ae917ef39c.pdf"
+}

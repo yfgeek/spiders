@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/nav/"
+    ],
+    "description":"纳瓦霍币（NavajoCoin, NAV） 命名自二战时期的为加密信息传递作出杰出贡献的纳瓦霍族译码员，目标是建立不可破的匿名转账系统，目前正在开发双重加密匿名...",
+    "id":135,
+    "name":"nav-coin",
+    "name_cn":"纳瓦霍币",
+    "name_en":"NAV Coin/NAV",
+    "time":"2014-07-06",
+    "website":[
+        "http://www.navcoin.org/"
+    ],
+    "whitepaper":"https://www.navcoin.org/files/navtech-whitepaper-beta-v0.9.pdf"
+}

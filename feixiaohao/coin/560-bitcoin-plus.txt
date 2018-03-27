@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/xbc"
+    ],
+    "description":"bitcoinplus运行在一个P2P网络上，项目的公司和开发团队都没有能力改变这个网络，除非网络的所有参与者都同意改变，bitcoinplus不被商业控制，...",
+    "id":560,
+    "name":"bitcoin-plus",
+    "name_cn":"－",
+    "name_en":"Bitcoin Plus/XBC",
+    "time":"2017-05-26",
+    "website":[
+        "http://www.bitcoinplus.org"
+    ],
+    "whitepaper":"-"
+}

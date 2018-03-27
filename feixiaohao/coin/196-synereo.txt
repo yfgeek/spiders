@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=39"
+    ],
+    "description":"AMPs是Synereo系统目前的流动货币，用来扩大信息在网络上的流动。AMP会增加信息在节点间的流动，使之能够被更多的用户看到。这会赋予用户更多的内在市场...",
+    "id":196,
+    "name":"synereo",
+    "name_cn":"－",
+    "name_en":"Synereo/AMP",
+    "time":"2015-12-04",
+    "website":[
+        "http://www.synereo.com/",
+        "https://wildspark.me/"
+    ],
+    "whitepaper":"https://bravenewcoin.com/assets/Whitepapers/Synereo-Decentralised-and-Distributed-Social-Network.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5c743a35e903f6c584514ec617acee0611cf44f3",
+        "https://ethplorer.io/address/0x5c743a35e903f6c584514ec617acee0611cf44f3"
+    ],
+    "description":"Experty的任务是通过创建一种直观的、易于使用的、适合广泛使用的应用程序来鼓励在全球范围内采用加密货币。它预计在未来3年内将大量采用。任何需要通过专家应用程...",
+    "id":580,
+    "name":"experty",
+    "name_cn":"－",
+    "name_en":"Experty/EXY",
+    "time":"2018-02-27",
+    "website":[
+        "https://experty.io/en"
+    ],
+    "whitepaper":"https://www.experty.io/docs/Experty-whitepaper-v2.6.pdf"
+}

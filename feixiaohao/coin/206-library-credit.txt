@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.lbry.io/"
+    ],
+    "description":"LBRY是一个去中心化的内容共享平台，主要是共享艺术家、制片人、作家等人的作品，通过这个平台这些人不仅可以保持其艺术作品的艺术性，同时可以通过其作品获得一定的...",
+    "id":206,
+    "name":"library-credit",
+    "name_cn":"－",
+    "name_en":"LBRY Credits/LBC",
+    "time":"2016-07-04",
+    "website":[
+        "https://lbry.io/"
+    ],
+    "whitepaper":"-"
+}

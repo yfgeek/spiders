@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x29d75277ac7f0335b2165d0895e8725cbf658d73",
+        "https://ethplorer.io/address/0x29d75277ac7f0335b2165d0895e8725cbf658d73"
+    ],
+    "description":"",
+    "id":413,
+    "name":"bitdice",
+    "name_cn":"－",
+    "name_en":"BitDice/CSNO",
+    "time":"2017-09-26",
+    "website":[
+        "https://www.bitdice.me/"
+    ],
+    "whitepaper":"https://ico.bitdice.me/prospectus_en.pdf"
+}

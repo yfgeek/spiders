@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.syndicateltd.net/"
+    ],
+    "description":"Syndicate 通过 SYNX Masternodes 革新了企业和投资者原有的运营模式和成本、预算和收益方式。去中心化的加密货币与最先进的商业软件相结合，...",
+    "id":478,
+    "name":"syndicate",
+    "name_cn":"－",
+    "name_en":"Syndicate/SYNX",
+    "time":"－",
+    "website":[
+        "http://syndicateltd.net/"
+    ],
+    "whitepaper":"-"
+}

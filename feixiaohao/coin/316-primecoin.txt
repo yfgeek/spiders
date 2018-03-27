@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://bchain.info/XPM/"
+    ],
+    "description":"Primecoin简称XPM，中文名为质数币。该币发布以后，凭借其全新的创意和对数学学术界带来的贡献，引起了电子货币行业极大的关注，几日间，用户数量飙升，其货...",
+    "id":316,
+    "name":"primecoin",
+    "name_cn":"质数币",
+    "name_en":"Primecoin/XPM",
+    "time":"2013-07-12",
+    "website":[
+        "http://primecoin.io/"
+    ],
+    "whitepaper":"-"
+}

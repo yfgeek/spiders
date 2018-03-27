@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/BITCRYSTALS"
+    ],
+    "description":"BitCrystals在2015年6月2日由瑞士公司Everdream Soft发明。它是一种通过交易平台和比特币区块链联系在一起的代币。Everdream ...",
+    "id":491,
+    "name":"bitcrystals",
+    "name_cn":"－",
+    "name_en":"Bitcrystals/BCY",
+    "time":"2015-06-02",
+    "website":[
+        "http://bitcrystals.com/"
+    ],
+    "whitepaper":"-"
+}

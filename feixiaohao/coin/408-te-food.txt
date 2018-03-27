@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xe5f166c0d8872b68790061317bb6cca04582c912",
+        "https://ethplorer.io/address/0xe5f166c0d8872b68790061317bb6cca04582c912"
+    ],
+    "description":"",
+    "id":408,
+    "name":"te-food",
+    "name_cn":"－",
+    "name_en":"TE-FOOD/TFD",
+    "time":"2018-03-11",
+    "website":[
+        "https://ico.tefoodint.com/"
+    ],
+    "whitepaper":"https://ico.tefoodint.com/te-food-white-paper.pdf"
+}

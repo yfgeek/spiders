@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://intensecoin.com/explorer/"
+    ],
+    "description":"Intense基于CryptoNote技术并使用独有的CryptoNight算法。在将VPN功能开发并集成到钱包之后，Intense钱包将允许任何网络用户充当V...",
+    "id":712,
+    "name":"intensecoin",
+    "name_cn":"－",
+    "name_en":"IntenseCoin/ITNS",
+    "time":"2017-11-17",
+    "website":[
+        "https://intensecoin.com/"
+    ],
+    "whitepaper":"-"
+}

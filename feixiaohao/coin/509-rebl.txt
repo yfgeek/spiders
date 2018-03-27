@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf",
+        "https://ethplorer.io/address/0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf"
+    ],
+    "description":"",
+    "id":509,
+    "name":"rebl",
+    "name_cn":"－",
+    "name_en":"REBL/REBL",
+    "time":"－",
+    "website":[
+        "https://www.rebellious.io/"
+    ],
+    "whitepaper":"-"
+}

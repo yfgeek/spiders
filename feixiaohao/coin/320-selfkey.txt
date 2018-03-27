@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
+        "https://ethplorer.io/address/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7"
+    ],
+    "description":"SelfKey 是基于区块链（Blockchain）基础上的数字身份电子钱包和市场，其实现了个人和企业真正拥有、掌控和管理自己的数字身份，并能够即时获得包括投资...",
+    "id":320,
+    "name":"selfkey",
+    "name_cn":"－",
+    "name_en":"Selfkey/KEY",
+    "time":"2018-01-15",
+    "website":[
+        "https://selfkey.org/"
+    ],
+    "whitepaper":"https://selfkey.org/whitepaper/"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+        "https://ethplorer.io/address/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6"
+    ],
+    "description":"RCN（Ripio Credit Network）是基于区块链智能合约技术的协议，它有个很宏大的目标，就是通过RCN协议来连接世界上任何两个信用借贷人（借款人和...",
+    "id":164,
+    "name":"ripio-credit-network",
+    "name_cn":"－",
+    "name_en":"Ripio Credit Network/RCN",
+    "time":"2017-10-27",
+    "website":[
+        "https://ripiocredit.network/"
+    ],
+    "whitepaper":"https://ripiocredit.network/wp/RCN%20Whitepaper%20ENG.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.lisk.io/"
+    ],
+    "description":"Lisk是一个基于Node.js与Javascript，建立于区块链技术之上的区块链应用平台，开发者可以通过官方提供的SDK，使用JavaScript语言在Li...",
+    "id":22,
+    "name":"lisk",
+    "name_cn":"应用链",
+    "name_en":"Lisk/LSK",
+    "time":"2016-05-04",
+    "website":[
+        "https://lisk.io/"
+    ],
+    "whitepaper":"https://github.com/slasheks/lisk-whitepaper"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.ignitioncoin.org/"
+    ],
+    "description":"Ignition Coin是一种分散的、对等的数字资产。这意味着它不是物理的，但就像物理对象一样，并且它是稀缺的，不能被复制。 通过分布“区块链”，更准确地说，...",
+    "id":728,
+    "name":"ignition",
+    "name_cn":"－",
+    "name_en":"Ignition/IC",
+    "time":"2018-01-14",
+    "website":[
+        "https://www.ignitioncoin.org/"
+    ],
+    "whitepaper":"https://www.ignitioncoin.org/wp-content/uploads/2017/12/Ignition-Coin-White-Paper.pdf"
+}

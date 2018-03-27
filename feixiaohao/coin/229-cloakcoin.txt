@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://explorer.cloakcoin.com/",
+        "http://www.presstab.pw/phpexplorer/CLOAK/index.php",
+        "https://chainz.cryptoid.info/cloak/"
+    ],
+    "description":"披风币(Cloakcoin,CLOAK)采用新兴的X13核心算法，出块时间1分钟，每块包含496个币，货币总量450W+POS 6%，发布于2014年6月3日。...",
+    "id":229,
+    "name":"cloakcoin",
+    "name_cn":"披风币",
+    "name_en":"CloakCoin/CLOAK",
+    "time":"－",
+    "website":[
+        "https://www.cloakcoin.com/"
+    ],
+    "whitepaper":"-"
+}

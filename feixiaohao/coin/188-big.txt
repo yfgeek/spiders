@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"BIG是由BigONE平台发行的代币，发行总量恒定为2亿枚。它是基于以太坊智能合约ERC20标准的代币。BigONE平台将通过以下机制对BIG代币的持有人进行回...",
+    "id":188,
+    "name":"big",
+    "name_cn":"－",
+    "name_en":"BIG/BIG",
+    "time":"2017-12-25",
+    "website":[
+        "https://big.one/"
+    ],
+    "whitepaper":"-"
+}

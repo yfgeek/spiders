@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x38c6a68304cdefb9bec48bbfaaba5c5b47818bb2"
+    ],
+    "description":"HPB(High-performance Blockchain)是一种全新的区块链软硬件体系架构，其中包含芯片加速引擎和区块链底层平台，旨在实现分布式应用的性能...",
+    "id":169,
+    "name":"hpb",
+    "name_cn":"芯链",
+    "name_en":"HPB/HPB",
+    "time":"－",
+    "website":[
+        "http://www.gxn.io"
+    ],
+    "whitepaper":"http://www.gxn.io/files/hpb_white_paper.pdf"
+}

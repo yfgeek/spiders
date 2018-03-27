@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.namecoin.info"
+    ],
+    "description":"Namecoin简称NMC，中文名为域名币。Namecoin 是一个基于比特币技术的分布式域名系统，具有安全和不被审查的特性。Namecoin 的概念和比特币...",
+    "id":249,
+    "name":"namecoin",
+    "name_cn":"域名币",
+    "name_en":"Namecoin/NMC",
+    "time":"2011-04-18",
+    "website":[
+        "https://www.namecoin.org/"
+    ],
+    "whitepaper":"-"
+}

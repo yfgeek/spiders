@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/SLS"
+    ],
+    "description":"旨在利用 SLS 产品组合中的加密代币和服务来增加净资产价值（NAV），代币将被添加到 SLS 投资组合中，代表 SaluS 项目进行交易和持股以增加储备。 储...",
+    "id":159,
+    "name":"salus",
+    "name_cn":"－",
+    "name_en":"SaluS/SLS",
+    "time":"－",
+    "website":[
+        "http://saluscoin.info/"
+    ],
+    "whitepaper":"-"
+}

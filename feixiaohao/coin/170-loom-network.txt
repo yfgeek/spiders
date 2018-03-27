@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
+        "https://ethplorer.io/address/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0"
+    ],
+    "description":"Loom Network DAppChains， 为游戏和社交应用而生。基于代币的 Karma，基于以太坊的加密收藏品。这一切都建立在一个可分叉、去中心化、可读...",
+    "id":170,
+    "name":"loom-network",
+    "name_cn":"－",
+    "name_en":"Loom Network/LOOM",
+    "time":"2018-03-15",
+    "website":[
+        "https://loomx.io/"
+    ],
+    "whitepaper":"-"
+}

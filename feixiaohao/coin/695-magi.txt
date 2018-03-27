@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/xmg/"
+    ],
+    "description":"硬币Magi是一种数字支付解决方案。Magi分散运行、不停机、不受中介机构和审查机构的干扰。人们可以使用Magi向世界上任何人免费付款。同时，任何人都可以通过他...",
+    "id":695,
+    "name":"magi",
+    "name_cn":"－",
+    "name_en":"Magi/XMG",
+    "time":"－",
+    "website":[
+        "http://coinmagi.org/"
+    ],
+    "whitepaper":"-"
+}

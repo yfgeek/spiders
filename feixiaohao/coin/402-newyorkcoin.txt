@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://nyc-block.mypool.club/"
+    ],
+    "description":"发布于2014年3月6日，Scrypt算法，显卡挖矿，无预挖、无IPO，30秒每块，共计1000亿个。真正由美国纽约币基金团队打造，纯外国币。拥有windows...",
+    "id":402,
+    "name":"newyorkcoin",
+    "name_cn":"纽约币",
+    "name_en":"NewYorkCoin/NYC",
+    "time":"－",
+    "website":[
+        "http://nycoin.net/",
+        "http://www.nycoin.net/"
+    ],
+    "whitepaper":"-"
+}

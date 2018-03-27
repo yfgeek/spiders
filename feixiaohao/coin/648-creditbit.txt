@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xAef38fBFBF932D1AeF3B808Bc8fBd8Cd8E1f8BC5"
+    ],
+    "description":"信用币是一个相对年轻的加密货币，它基于独立的比特币块链模式而发展。尽管与比特币共享其大部分属性，信用币对于更快速交易和混合共识机制工作证明/权益证明提供了解决方...",
+    "id":648,
+    "name":"creditbit",
+    "name_cn":"信用币",
+    "name_en":"Creditbit/CRB",
+    "time":"－",
+    "website":[
+        "https://www.creditbit.org/"
+    ],
+    "whitepaper":"https://www.creditbit.org/downloads/WHITEPAPER-CREDIT2.0_2%20CHINA_FINAL.pdf"
+}

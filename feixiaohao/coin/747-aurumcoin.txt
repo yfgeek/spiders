@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://aurumblocks.cointech.net/chain/AurumCoin",
+        "http://italyiimp.com/explorer/AU"
+    ],
+    "description":"AurumCoin的诞生是为了让世界团结在一种硬币上，它结合了比特币的创新技术，美元的全球交易能力，以及AU的永恒价值（AU即拉丁语中的“Aurum”，是我们今...",
+    "id":747,
+    "name":"aurumcoin",
+    "name_cn":"－",
+    "name_en":"AurumCoin/AU",
+    "time":"－",
+    "website":[
+        "http://www.aurumcoin.com/",
+        "http://www.aurumcoin-au.com/"
+    ],
+    "whitepaper":"-"
+}

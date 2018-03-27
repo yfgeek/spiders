@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://block-explorer.biocoin.bio/"
+    ],
+    "description":"BioCoin是俄罗斯第一个合法的有机生态数字平台。BIO是第一款真正与实体经济相结合，真正融入人们生活的加密数字经济体系。作为一个交互结算系统，BioCoin...",
+    "id":517,
+    "name":"biocoin",
+    "name_cn":"－",
+    "name_en":"BioCoin/BIO",
+    "time":"2018-02-16",
+    "website":[
+        "https://biocoin.bio/"
+    ],
+    "whitepaper":"https://biocoin.bio/files/Whitepaper.pdf"
+}

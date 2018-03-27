@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80",
+        "https://ethplorer.io/address/0x64cdf819d3e75ac8ec217b3496d7ce167be42e80"
+    ],
+    "description":"InsurePal的目标是成为以社会证明保证为基础的第一个基于区块链的分散式保险平台。InsurePal是基于社交证明认可的下一代点对点保险，充分利用区块链创新...",
+    "id":336,
+    "name":"insurepal",
+    "name_cn":"－",
+    "name_en":"InsurePal/IPL",
+    "time":"2018-01-18",
+    "website":[
+        "https://insurepal.io/"
+    ],
+    "whitepaper":"https://insurepal.io/InsurePal_whitepaper.pdf"
+}

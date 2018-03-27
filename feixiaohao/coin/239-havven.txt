@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf244176246168f24e3187f7288edbca29267739b"
+    ],
+    "description":"",
+    "id":239,
+    "name":"havven",
+    "name_cn":"－",
+    "name_en":"Havven/HAV",
+    "time":"2018-03-15",
+    "website":[
+        "https://havven.io/"
+    ],
+    "whitepaper":"https://havven.io/uploads/havven_whitepaper.pdf"
+}

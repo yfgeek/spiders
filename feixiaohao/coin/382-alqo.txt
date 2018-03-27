@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://explorer.alqo.org/",
+        "https://orbit.alqo.org/"
+    ],
+    "description":"Alqo是提供即时和匿名交易的第三代加密货币。它被创建为一个多用途硬币，因此Alqo将在所谓的“Alqo行星系统”中用作连接工具。",
+    "id":382,
+    "name":"alqo",
+    "name_cn":"－",
+    "name_en":"ALQO/ALQO",
+    "time":"2017-11-20",
+    "website":[
+        "https://alqo.org/"
+    ],
+    "whitepaper":"-"
+}

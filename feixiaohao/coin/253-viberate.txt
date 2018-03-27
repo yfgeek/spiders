@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724",
+        "https://ethplorer.io/address/0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724"
+    ],
+    "description":"Viberate 是一个平台，其将整个现场音乐生态系统整合在一起。 目前，Viberate 扮演的角色是现场音乐的 “互联网电影数据库”，即根据歌手在网上的受欢...",
+    "id":253,
+    "name":"viberate",
+    "name_cn":"－",
+    "name_en":"Viberate/VIB",
+    "time":"2017-10-07",
+    "website":[
+        "https://www.viberate.com/"
+    ],
+    "whitepaper":"https://www.viberate.io/pdf/Viberate.io_Whitepaper.pdf"
+}

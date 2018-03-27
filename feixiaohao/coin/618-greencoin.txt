@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/gre/"
+    ],
+    "description":"",
+    "id":618,
+    "name":"greencoin",
+    "name_cn":"－",
+    "name_en":"Greencoin/GREV2",
+    "time":"－",
+    "website":[
+        "http://www.grcoin.com/"
+    ],
+    "whitepaper":"-"
+}

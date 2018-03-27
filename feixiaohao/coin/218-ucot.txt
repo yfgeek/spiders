@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Ubique Chain of Things是一个结构化的生态系统，结合了最新的区块链技术和5G芯片通讯方案，专为下一代智能物联网平台而设计，解决了供应链与物联...",
+    "id":218,
+    "name":"ucot",
+    "name_cn":"优物链",
+    "name_en":"Ubique Chain of Things/UCOT",
+    "time":"2018-02-11",
+    "website":[
+        "http://www.ucot.world/"
+    ],
+    "whitepaper":"http://www.ucot.world/wp-content/uploads/2018/02/UCOT-WP-CN.pdf"
+}

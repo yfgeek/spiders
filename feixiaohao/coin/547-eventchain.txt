@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f",
+        "https://ethplorer.io/address/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f"
+    ],
+    "description":"",
+    "id":547,
+    "name":"eventchain",
+    "name_cn":"－",
+    "name_en":"EventChain/EVC",
+    "time":"2017-11-30",
+    "website":[
+        "https://eventchain.io/"
+    ],
+    "whitepaper":"-"
+}

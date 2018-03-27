@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://neotracker.io/asset/132947096727c84c7f9e076c90f08fec3bc17f18"
+    ],
+    "description":"“不可抵赖”和“不可篡改”是区块链技术的核心和精髓，因此与之相对应的身份识别技术也必须具有“不可抵赖”和“不可篡改”的特性。否则，就不可能在互联网世界中建立起相...",
+    "id":160,
+    "name":"thekey",
+    "name_cn":"－",
+    "name_en":"THEKEY/TKY",
+    "time":"2018-02-08",
+    "website":[
+        "https://www.thekey.vip"
+    ],
+    "whitepaper":"https://www.thekey.vip/disclaimers"
+}

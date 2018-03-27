@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e"
+    ],
+    "description":"CFI 将作为 Cofound.it 全球市场平台的货币，把代币众筹项目与全球顶尖的专家、工具和服务联系起来。这个平台由区块链社区构建，并面向区块链社区，它将...",
+    "id":272,
+    "name":"cofound-it",
+    "name_cn":"－",
+    "name_en":"Cofound.it/CFI",
+    "time":"2017-06-20",
+    "website":[
+        "https://cofound.it/"
+    ],
+    "whitepaper":"https://cofounditmedia.s3-eu-west-1.amazonaws.com/documents/Cofound.it_business_plan_Na27itB.pdf"
+}

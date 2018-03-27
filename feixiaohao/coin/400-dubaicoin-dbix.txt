@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://dbixscan.io/",
+        "http://dbixchain.io/dbixSupply.html"
+    ],
+    "description":"ArabianChain技术是一个开源的、以社区为基础的项目,目的是建立一个分散的、共识驱动的,对等的,开源的,blockchain-based分布式应用程序...",
+    "id":400,
+    "name":"dubaicoin-dbix",
+    "name_cn":"迪拜币",
+    "name_en":"DubaiCoin/DBIX",
+    "time":"－",
+    "website":[
+        "http://www.arabianchain.org/"
+    ],
+    "whitepaper":"-"
+}

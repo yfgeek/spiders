@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://solaris.blockexplorer.pro/"
+    ],
+    "description":"Solaris XLR 于2017年3月18日发布。UTC时间2017年10月7日星期六，Solaris区块链重新启动。以前的 Nist5 算法被 XEVAN ...",
+    "id":441,
+    "name":"solaris",
+    "name_cn":"－",
+    "name_en":"Solaris/XLR",
+    "time":"－",
+    "website":[
+        "http://solariscoin.com/"
+    ],
+    "whitepaper":"-"
+}

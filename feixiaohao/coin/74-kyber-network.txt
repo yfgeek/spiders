@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/KyberNetwork",
+        "https://ethplorer.io/address/0xdd974d5c2e2928dea5f71b9825b8b646686bd200"
+    ],
+    "description":"KyberNetwork将打造一个支持多种数字资产即时交易和转换的新系统。为了实现所有用户在不同代币之间的无缝支付，我们将提供丰富的支付API以及新一代的合约钱...",
+    "id":74,
+    "name":"kyber-network",
+    "name_cn":"－",
+    "name_en":"Kyber Network/KNC",
+    "time":"2017-09-25",
+    "website":[
+        "https://kyber.network/"
+    ],
+    "whitepaper":"https://kyber.network/assets/KyberNetworkWhitepaper.pdf"
+}

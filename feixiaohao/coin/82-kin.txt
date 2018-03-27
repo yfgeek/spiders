@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Kin",
+        "https://ethplorer.io/address/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5"
+    ],
+    "description":"5月25日，加拿大即时通讯社交平台Kik宣布推出自己的数字货币Kin币，将允许用户通过它来购买一系列数字服务。这种名为Kin的数字货币，就像最著名的数字货币比特...",
+    "id":82,
+    "name":"kin",
+    "name_cn":"－",
+    "name_en":"Kin/KIN",
+    "time":"2017-09-28",
+    "website":[
+        "https://kin.kik.com"
+    ],
+    "whitepaper":"https://kin.kik.com/Kin%20Whitepaper%20v1.pdf"
+}

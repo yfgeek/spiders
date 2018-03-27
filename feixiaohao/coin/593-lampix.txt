@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x8eFFd494eB698cc399AF6231fCcd39E08fd20B15",
+        "https://ethplorer.io/address/0x8eFFd494eB698cc399AF6231fCcd39E08fd20B15"
+    ],
+    "description":"Lampix项目的代币PIX，主要可以用来购买使用图像识别大数据里的数据，也可以通过采集图像、鉴别图像的方式获得（贡献数据形式的挖矿操作）。另外对于使用Lamp...",
+    "id":593,
+    "name":"lampix",
+    "name_cn":"神灯",
+    "name_en":"Lampix/PIX",
+    "time":"2017-09-26",
+    "website":[
+        "https://www.lampix.co/"
+    ],
+    "whitepaper":"https://lampix.co/whitepaper.pdf"
+}

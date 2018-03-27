@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://emercoin.mintr.org/",
+        "https://emcblock.info/"
+    ],
+    "description":"崛起币EMC是一个2013年12月发布的老币，总量10亿，采用POW和POS双重挖矿的方式产生，经过两年多的挖矿，目前总产量将近4000万。EMC是一个非常低调...",
+    "id":85,
+    "name":"emercoin",
+    "name_cn":"崛起币",
+    "name_en":"Emercoin/EMC",
+    "time":"2013-12-08",
+    "website":[
+        "http://emercoin.com/"
+    ],
+    "whitepaper":"-"
+}

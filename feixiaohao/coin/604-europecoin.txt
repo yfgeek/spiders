@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/erc/"
+    ],
+    "description":"EuropeCoin是一种具有独特的社会、经济、政治和技术特点加密货币，其拥有独特的政策和持续的未来前景，旨在取代贸易协定。",
+    "id":604,
+    "name":"europecoin",
+    "name_cn":"－",
+    "name_en":"EuropeCoin/ERC",
+    "time":"－",
+    "website":[
+        "https://www.europecoin.eu.org"
+    ],
+    "whitepaper":"-"
+}

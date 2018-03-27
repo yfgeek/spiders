@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0abefb7611cb3a01ea3fad85f33c3c934f8e2cf4",
+        "https://ethplorer.io/address/0x0abefb7611cb3a01ea3fad85f33c3c934f8e2cf4"
+    ],
+    "description":"FARAD 数字代币是目前虚拟货币市场上前所未见的一种虚拟货币。FARAD 代币于其不同是在于它是根据真实经济活动所推动，而那就是在真实工厂规模里生产的超级电容...",
+    "id":530,
+    "name":"farad",
+    "name_cn":"－",
+    "name_en":"Farad/FRD",
+    "time":"2017-11-08",
+    "website":[
+        "https://farad.energy/"
+    ],
+    "whitepaper":"https://farad.energy/pub/FaradWhitepaperV2.pdf"
+}

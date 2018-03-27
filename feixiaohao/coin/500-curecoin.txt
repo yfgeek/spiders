@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/cure/"
+    ],
+    "description":"Curecoin于2013年5月发布。通过Folding@Home项目，它将SHA256工作量证明算法和蛋白质褶皱结构的研究结合了起来。蛋白质褶皱研究需要对蛋白...",
+    "id":500,
+    "name":"curecoin",
+    "name_cn":"－",
+    "name_en":"Curecoin/CURE",
+    "time":"－",
+    "website":[
+        "https://curecoin.net/",
+        "https://curecoin.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/ptc/"
+    ],
+    "description":"pesetacoin是比特币和莱特币开发出来的一种新型加密货币，但重点在西班牙国家，同时可以合并采矿。",
+    "id":556,
+    "name":"pesetacoin",
+    "name_cn":"极宝币",
+    "name_en":"Pesetacoin/PTC",
+    "time":"－",
+    "website":[
+        "http://pesetacoin.info/"
+    ],
+    "whitepaper":"-"
+}

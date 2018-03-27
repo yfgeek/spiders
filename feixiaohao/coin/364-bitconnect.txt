@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/bcc/",
+        "https://www.blockexperts.com/bcc"
+    ],
+    "description":"BitConnect(BCC)起源于2016年2月，2016年11月底完成ICO，2017年1月上线国际交易(瑞典)，总量恒定2800万枚 目前开采了680万枚...",
+    "id":364,
+    "name":"bitconnect",
+    "name_cn":"－",
+    "name_en":"BitConnect/BCC",
+    "time":"－",
+    "website":[
+        "https://bitconnectcoin.co/"
+    ],
+    "whitepaper":"-"
+}

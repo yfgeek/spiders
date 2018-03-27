@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://live.reddcoin.com/"
+    ],
+    "description":"蜗牛币(Reddcoin,RDD)采用Scrypt算法，GPU挖矿，于2014年2月2日发布，出块时间60秒，每一个块中包含10万个币，每50万块产量减半，共...",
+    "id":80,
+    "name":"reddcoin",
+    "name_cn":"蜗牛币",
+    "name_en":"ReddCoin/RDD",
+    "time":"2014-02-02",
+    "website":[
+        "http://www.reddcoin.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8",
+        "https://ethplorer.io/address/0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8"
+    ],
+    "description":"Social是一种社交币，简称SCL，社交币将被用于Nexus交易市场，用户可用其购买或出售商品或服务。平台上的广告空间将是自助式和半自动式的，而它们也可以用社...",
+    "id":568,
+    "name":"social",
+    "name_cn":"－",
+    "name_en":"Social/SCL",
+    "time":"2017-09-20",
+    "website":[
+        "https://ico.nexus.social/",
+        "https://nexus.social/"
+    ],
+    "whitepaper":"-"
+}

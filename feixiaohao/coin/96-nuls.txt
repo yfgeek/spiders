@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c"
+    ],
+    "description":"Nuls是一个高度可定制的区块链基础设施，通过智能合约、多链并行、可插拔、模块化、平行扩展技术、提供标准协议交互接口，解决现有区块链性能受限，不同链之间无法通信...",
+    "id":96,
+    "name":"nuls",
+    "name_cn":"－",
+    "name_en":"Nuls/NULS",
+    "time":"2017-10-26",
+    "website":[
+        "http://nuls.io/"
+    ],
+    "whitepaper":"-"
+}

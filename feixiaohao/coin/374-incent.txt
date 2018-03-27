@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/"
+    ],
+    "description":"激励是忠诚的未来，Incent利用区块链增加商人收入，以改变传统商业方式。区块链改变游戏规则，使用数字资产报酬激励，商家可以将基础设施成本和责任发布在区块链...",
+    "id":374,
+    "name":"incent",
+    "name_cn":"－",
+    "name_en":"Incent/INCNT",
+    "time":"2017-08-02",
+    "website":[
+        "https://www.incentloyalty.com/"
+    ],
+    "whitepaper":"https://www.incentloyalty.com/frontend_js_css/assets/whitepaper/UsingBlockchaintoBoostCommerce.pdf"
+}

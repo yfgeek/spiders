@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18",
+        "https://ethplorer.io/address/0x42d6622dece394b54999fbd73d108123806f6a18"
+    ],
+    "description":"SpankChain革命性地基于区块链技术为成人产业打造一个经济和技术基础设施。基于以太坊的智能合约，能够消除第三方中介及不公平的支付方式，同时提供更强的隐私性...",
+    "id":195,
+    "name":"spankchain",
+    "name_cn":"－",
+    "name_en":"SpankChain/SPANK",
+    "time":"2017-11-24",
+    "website":[
+        "https://spankchain.com/"
+    ],
+    "whitepaper":"https://spankchain.com/static/whitepaper.13abf6d4.pdf"
+}

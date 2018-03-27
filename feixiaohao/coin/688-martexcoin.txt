@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://martexcoin.org/explorer",
+        "http://martexcoin.org/be/"
+    ],
+    "description":"",
+    "id":688,
+    "name":"martexcoin",
+    "name_cn":"－",
+    "name_en":"MarteXcoin/MXT",
+    "time":"－",
+    "website":[
+        "http://martexcoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
+        "https://ethplorer.io/address/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec"
+    ],
+    "description":"Polymath平台开放了区块链，以符合法律法规的证券，并提供了一个服务网络，旨在降低相关交易成本。",
+    "id":101,
+    "name":"polymath-network",
+    "name_cn":"－",
+    "name_en":"Polymath Network/POLY",
+    "time":"2018-02-03",
+    "website":[
+        "https://www.polymath.network/"
+    ],
+    "whitepaper":"https://www.polymath.network/resources/whitepaper"
+}

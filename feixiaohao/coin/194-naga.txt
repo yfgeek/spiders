@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131",
+        "https://ethplorer.io/address/0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131"
+    ],
+    "description":"NAGA币（NGC）是世界上第一个由已经进行IPO的公司发行的加密货币。NAGA币由NAGA Group AG所支持，该公司于2017年7月在德意志交易所上市N...",
+    "id":194,
+    "name":"naga",
+    "name_cn":"－",
+    "name_en":"NAGA/NGC",
+    "time":"2017-12-24",
+    "website":[
+        "https://www.nagaico.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/zoi/",
+        "http://explorer.zoinofficial.com:3001/"
+    ],
+    "description":"ZOIN 是基于经过认证的 Zerocoin 协议的加密技术，在需要时为用户提供匿名性和隐私性。ZOIN 与许多其他完全由社区管理的代币相比，属于所有想参与塑造...",
+    "id":358,
+    "name":"zoin",
+    "name_cn":"－",
+    "name_en":"Zoin/ZOI",
+    "time":"－",
+    "website":[
+        "http://zoinofficial.com/"
+    ],
+    "whitepaper":"https://zoinofficial.com/docs/Zoin-Whitepaper.pdf"
+}

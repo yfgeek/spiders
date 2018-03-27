@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/zeit/"
+    ],
+    "description":"Zeitcoin运动的成员是来自世界各地的人士，他们致力于保护我们地球上的可持续资源。帮助那些需要帮助的人们，投资科技创新，最终达到保护地球上所有资源的目的。另...",
+    "id":535,
+    "name":"zeitcoin",
+    "name_cn":"泽塔币",
+    "name_en":"Zeitcoin/ZTC",
+    "time":"－",
+    "website":[
+        "http://www.zeit-coin.net"
+    ],
+    "whitepaper":"-"
+}

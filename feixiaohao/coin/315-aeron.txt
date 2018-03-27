@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
+        "https://ethplorer.io/address/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6"
+    ],
+    "description":"Aeron 的目标是创建“口袋中的航空公司”，一种基于智能区块链的解决方案。飞行员使用飞行员应用程序进行个人飞行日志录入。公司应用程序则手机和验证源自飞机运营商...",
+    "id":315,
+    "name":"aeron",
+    "name_cn":"－",
+    "name_en":"Aeron/ARN",
+    "time":"2017-11-08",
+    "website":[
+        "https://aeron.aero/"
+    ],
+    "whitepaper":"https://aeron.aero/AeronWhitepaper_cn.pdf"
+}

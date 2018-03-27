@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9",
+        "https://ethplorer.io/address/0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9"
+    ],
+    "description":"原来国外也有选举链！通过安装 ClearPoll app，你可以对本地，国家，乃至全球事件进行投票，这种投票方式简单，快速，并且安全——基于区块链技术意味着你的...",
+    "id":487,
+    "name":"clearpoll",
+    "name_cn":"－",
+    "name_en":"ClearPoll/POLL",
+    "time":"2017-10-26",
+    "website":[
+        "https://www.clearpoll.io/"
+    ],
+    "whitepaper":"-"
+}

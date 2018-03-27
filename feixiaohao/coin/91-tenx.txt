@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/TenXPay",
+        "https://ethplorer.io/address/0xb97048628db6b661d4c2aa833e95dbe1a905b280"
+    ],
+    "description":"TenX力求在最大程度上方便用户访问尽可能多的区块链资产，同时遵守生态系统中最高的安全标准。可以通过区块链来实现，利用COMIT标准，以完全去信任、实时和无成本...",
+    "id":91,
+    "name":"tenx",
+    "name_cn":"－",
+    "name_en":"TenX/PAY",
+    "time":"2017-07-27",
+    "website":[
+        "https://www.tenx.tech/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf3db7560e820834658b590c96234c333cd3d5e5e",
+        "https://ethplorer.io/address/0xf3db7560e820834658b590c96234c333cd3d5e5e"
+    ],
+    "description":"Coinpoker是基于区块链技术的扑克室，为玩家和币圈同时带来了巨大福利。我们引入了新币种CHP（ 即“chip”，意为“筹码”）。该币被应用于游戏当中，以确...",
+    "id":449,
+    "name":"coinpoker",
+    "name_cn":"－",
+    "name_en":"CoinPoker/CHP",
+    "time":"2018-03-09",
+    "website":[
+        "https://coinpoker.com/"
+    ],
+    "whitepaper":"https://coinpoker.com/downloads/coinpoker-whitepaper-zh.pdf?v180126"
+}

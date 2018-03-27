@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://moneroblocks.info/",
+        "http://chainradar.com/xmr/blocks"
+    ],
+    "description":"门罗币（Monero，代号XMR）是一个创建于2014年4月开源加密货币，它着重于隐私、分权和可扩展性。与自比特币衍生的许多加密货币不同，Monero基于Cry...",
+    "id":11,
+    "name":"monero",
+    "name_cn":"门罗币",
+    "name_en":"Monero/XMR",
+    "time":"2014-04-18",
+    "website":[
+        "http://www.monero.cc"
+    ],
+    "whitepaper":"-"
+}

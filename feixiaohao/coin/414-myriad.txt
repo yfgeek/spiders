@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://cryptap.us/myr/explorer/chain/Myriadcoin",
+        "http://insight-myr.cryptap.us/",
+        "https://chainz.cryptoid.info/xmy/"
+    ],
+    "description":"Myriad具有复合算法的特性 - 是第一个同时包含5种算法的加密货币。与比特币只能使用SHA256d的ASIC矿机挖矿不一样，Myriad兼容SHA256d ...",
+    "id":414,
+    "name":"myriad",
+    "name_cn":"多彩币",
+    "name_en":"Myriad/XMY",
+    "time":"－",
+    "website":[
+        "http://myriadcoin.org/"
+    ],
+    "whitepaper":"-"
+}

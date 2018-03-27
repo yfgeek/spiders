@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/assets.html?2Y8eFFXDTkxgCvXbMT5K4J38cpDYYbQdciJEZb48vTDj"
+    ],
+    "description":"",
+    "id":717,
+    "name":"darcrus",
+    "name_cn":"－",
+    "name_en":"Darcrus/DAR",
+    "time":"－",
+    "website":[
+        "https://darcr.us/"
+    ],
+    "whitepaper":"https://darcr.us/docs/Darcrus-Use-Cases.pdf"
+}

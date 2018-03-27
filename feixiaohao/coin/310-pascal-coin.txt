@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.pascalcoin.org/"
+    ],
+    "description":"PascalCoin是一种从头开始编写的新型加密货币。无需保存操作历史记录，无需担心双花，直接查看账户余额，通过“保险箱哈希”生成新的区块，每个区块5个账户。...",
+    "id":310,
+    "name":"pascal-coin",
+    "name_cn":"－",
+    "name_en":"Pascal Coin/PASC",
+    "time":"2017-05-26",
+    "website":[
+        "http://www.pascalcoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/FLDC"
+    ],
+    "description":"FoldingCoin利用区块链搞科学计算。FLDC 是一种基于比特币区块链和Counterparty协议的代币，可以在每个玩家之间流动。FLDC 主要根据算...",
+    "id":451,
+    "name":"foldingcoin",
+    "name_cn":"－",
+    "name_en":"FoldingCoin/FLDC",
+    "time":"2015-02-02",
+    "website":[
+        "http://www.foldingcoin.net/"
+    ],
+    "whitepaper":"-"
+}

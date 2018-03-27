@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://ubiqscan.io/"
+    ],
+    "description":"Ubiq是一个自动化的全球智能合同，Ubiq网络是一个分散的平台，使用智能合约实现创建和分散应用。建立在一个完善的智能合约的以太坊代码上的，作为一个大的全球分布...",
+    "id":134,
+    "name":"ubiq",
+    "name_cn":"－",
+    "name_en":"Ubiq/UBQ",
+    "time":"2016-08-13",
+    "website":[
+        "http://ubiqsmart.com/"
+    ],
+    "whitepaper":"-"
+}

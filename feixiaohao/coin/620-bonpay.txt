@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xcc34366e3842ca1bd36c1f324d15257960fcc801",
+        "https://ethplorer.io/address/0xcc34366e3842ca1bd36c1f324d15257960fcc801"
+    ],
+    "description":"Bonpay是一个完整的Blockchain服务。它包括从比特币存储到塑料或虚拟卡的各种解决方案，有助于在任何地方支付。享受无限可能地控制您世界的付款。理想的技...",
+    "id":620,
+    "name":"bonpay",
+    "name_cn":"－",
+    "name_en":"Bonpay/BON",
+    "time":"2017-12-07",
+    "website":[
+        "https://bonpay.com/"
+    ],
+    "whitepaper":"-"
+}

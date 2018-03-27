@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://148.153.36.26:3001/"
+    ],
+    "description":"Black Hole Coin(BHC)是一种通过使用零币协议(zerocoin protocol)来保障账务隐私的一种加密货币。它是第一种实现了零币协议的加密...",
+    "id":729,
+    "name":"blackholecoin",
+    "name_cn":"黑洞币",
+    "name_en":"Black Hole Coin/BHC",
+    "time":"－",
+    "website":[
+        "http://38.123.100.66/"
+    ],
+    "whitepaper":"-"
+}

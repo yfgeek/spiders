@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://xchain.io/",
+        "https://counterpartychain.io/"
+    ],
+    "description":"Counterparty是建立在比特币协议上的传输层，用来建立和使用去中心化的财务工具协议。简单来说，可以将XCP理解为很多“小的BTC”即XCP=“小的BT...",
+    "id":213,
+    "name":"counterparty",
+    "name_cn":"合约币",
+    "name_en":"Counterparty/XCP",
+    "time":"2014-01-02",
+    "website":[
+        "http://counterparty.io/"
+    ],
+    "whitepaper":"https://github.com/CounterpartyXCP/counterparty-lib"
+}

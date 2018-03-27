@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x2baac9330cf9ac479d819195794d79ad0c7616e3",
+        "https://ethplorer.io/address/0x2baac9330cf9ac479d819195794d79ad0c7616e3"
+    ],
+    "description":"Adbank对区块链技术的应用，专注申请反欺诈技术的专利。Adbank将创造一个透明的生态系统，这将有利于追踪从广告商到出版商的付款项目细则。",
+    "id":549,
+    "name":"adbank",
+    "name_cn":"－",
+    "name_en":"Adbank/ADB",
+    "time":"2018-02-04",
+    "website":[
+        "https://adbank.network/"
+    ],
+    "whitepaper":"-"
+}

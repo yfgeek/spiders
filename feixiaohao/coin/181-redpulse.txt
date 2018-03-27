@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://neotracker.io/asset/ecc6b20d3ccac1ee9ef109af5a7cdb85706b1df9"
+    ],
+    "description":"红色脉冲令牌（RPX）是由Red Pulse发布的NEO令牌，Red Pulse是一家事件驱动的研究公司，涵盖影响中国企业、部门和整体经济的市场事件。Red P...",
+    "id":181,
+    "name":"redpulse",
+    "name_cn":"红色脉冲",
+    "name_en":"RED PULSE/RPX",
+    "time":"2017-10-28",
+    "website":[
+        "https://www.red-pulse.com/landing"
+    ],
+    "whitepaper":"https://coin.red-pulse.com/wp-content/uploads/redpulse-whitepaper-en.pdf"
+}

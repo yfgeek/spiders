@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"BANKEX专注于去中心化的银行即服务（BaaS）业务，致力于缩短新兴区块链技术和传统金融机构之间的差距。运用智能合同以及资产代币化技术，BANKEX平台使得银...",
+    "id":285,
+    "name":"bankex",
+    "name_cn":"班凯克斯",
+    "name_en":"Bankex/BKX",
+    "time":"2018-01-13",
+    "website":[
+        "https://bankex.com"
+    ],
+    "whitepaper":"https://bankex.com/static/files/whitepaper/bankex-whitepaper-20171112-zh.pdf"
+}

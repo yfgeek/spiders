@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x881ef48211982d01e2cb7092c915e647cd40d85c",
+        "https://ethplorer.io/address/0x881ef48211982d01e2cb7092c915e647cd40d85c"
+    ],
+    "description":"开放交易网络（OTN） - 提供交叉链技术来统一所有块链网络和市场参与者的首家平台，并确保他们的最大化利益。",
+    "id":444,
+    "name":"open-trading-network",
+    "name_cn":"－",
+    "name_en":"Open Trading Network/OTN",
+    "time":"2017-10-26",
+    "website":[
+        "https://otn.org/"
+    ],
+    "whitepaper":"https://otn.org/assets/resources/Open-Trading-Network-white-paper_en.pdf?1519062630275"
+}

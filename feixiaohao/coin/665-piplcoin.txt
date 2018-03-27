@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4",
+        "https://ethplorer.io/address/0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4"
+    ],
+    "description":"PiplCoin的任务是为基于区块链的项目PiplShare提供高水准的流动性。PiplShare是一个类似职业板的经济系统，在这个系统里每一个用户的简介都是独...",
+    "id":665,
+    "name":"piplcoin",
+    "name_cn":"－",
+    "name_en":"PiplCoin/PIPL",
+    "time":"2017-10-17",
+    "website":[
+        "https://piplcoin.com/"
+    ],
+    "whitepaper":"-"
+}

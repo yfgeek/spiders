@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":721,
+    "name":"miners-reward-token",
+    "name_cn":"－",
+    "name_en":"Miners' Rewar.../MRT",
+    "time":"2017-06-25",
+    "website":[
+        "http://wavescommunity.com/miners-reward-token/"
+    ],
+    "whitepaper":"-"
+}

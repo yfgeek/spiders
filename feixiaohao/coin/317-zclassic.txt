@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://zclexplorer.org/"
+    ],
+    "description":"零知识证明方案是一种去中心化的开放的技术，提供隐私和选择透明的交易。ZClassic是Zcash的一个分支。",
+    "id":317,
+    "name":"zclassic",
+    "name_cn":"－",
+    "name_en":"ZClassic/ZCL",
+    "time":"－",
+    "website":[
+        "http://zclassic.org/"
+    ],
+    "whitepaper":"-"
+}

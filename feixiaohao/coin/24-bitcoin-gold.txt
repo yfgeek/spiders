@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://btgexp.com/",
+        "https://btgexplorer.com/",
+        "http://www.btgblocks.com/"
+    ],
+    "description":"比特币黄金在块491406（2017-10-24 01:17:35 UTC）之后按计划分叉比特币区块链。BTG是对比特币区块链进行硬分叉得到的一种新的数字货币，...",
+    "id":24,
+    "name":"bitcoin-gold",
+    "name_cn":"比特黄金",
+    "name_en":"Bitcoin Gold/BTG",
+    "time":"2017-10-24",
+    "website":[
+        "https://bitcoingold.org/"
+    ],
+    "whitepaper":"-"
+}

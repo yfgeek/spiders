@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xea097a2b1db00627b2fa17460ad260c016016977",
+        "https://ethplorer.io/address/0xea097a2b1db00627b2fa17460ad260c016016977"
+    ],
+    "description":"Upfiring是一个激励型的点对点文件分享桌面应用程序，它将文件加密，通过去中心化网络在节点间分发文件。Upfiring允许用户做种文件来获得UFR作为回报。...",
+    "id":619,
+    "name":"upfiring",
+    "name_cn":"－",
+    "name_en":"Upfiring/UFR",
+    "time":"2017-11-15",
+    "website":[
+        "https://www.upfiring.com/"
+    ],
+    "whitepaper":"https://www.upfiring.com/Upfiring_Whitepaper.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Gnosis"
+    ],
+    "description":"Gnosis是建立在以太坊协议上的去中心化预测市场。Gnosis为人们对任何事件的结果预测提供了一个开放平台，大大简化了定制预测市场应用的创建过程。同时，Gno...",
+    "id":126,
+    "name":"gnosis-gno",
+    "name_cn":"－",
+    "name_en":"Gnosis/GNO",
+    "time":"2017-04-24",
+    "website":[
+        "https://gnosis.pm/"
+    ],
+    "whitepaper":"https://gnosis.pm/resources/default/pdf/gnosis_whitepaper.pdf"
+}

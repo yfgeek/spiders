@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/klc"
+    ],
+    "description":"Kilocoin是一个点对点的加密货币以及开源软件项目。",
+    "id":368,
+    "name":"kilocoin",
+    "name_cn":"至高币",
+    "name_en":"KiloCoin/KLC",
+    "time":"－",
+    "website":[
+        "http://kilocoin.com/"
+    ],
+    "whitepaper":"-"
+}

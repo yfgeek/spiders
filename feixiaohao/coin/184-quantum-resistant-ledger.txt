@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x697beac28b09e122c4332d163985e8a73121b97f",
+        "https://ethplorer.io/address/0x697beac28b09e122c4332d163985e8a73121b97f"
+    ],
+    "description":"Quantum Resistant Ledger(QRL)是一种区块链技术，其主要功能是减轻量子计算攻击。日前，已招收了一批测试员来创建50节点，发布其开发人...",
+    "id":184,
+    "name":"quantum-resistant-ledger",
+    "name_cn":"－",
+    "name_en":"Quantum Resis.../QRL",
+    "time":"2017-03-21",
+    "website":[
+        "https://theqrl.org/"
+    ],
+    "whitepaper":"https://theqrl.org/whitepaper/QRL_whitepaper.pdf"
+}

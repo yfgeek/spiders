@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://dev.pywaves.org/assets/3QvxP6YFBKpWJSMAfYtL8Niv8KmmKsnpb9uQwQpg8QN2"
+    ],
+    "description":"",
+    "id":704,
+    "name":"tidex-token",
+    "name_cn":"－",
+    "name_en":"Tidex Token/TDX",
+    "time":"2018-02-24",
+    "website":[
+        "https://tidex.com/"
+    ],
+    "whitepaper":"-"
+}

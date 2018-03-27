@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x2fe6ab85ebbf7776fee46d191ee4cea322cecf51",
+        "https://ethplorer.io/address/0x2fe6ab85ebbf7776fee46d191ee4cea322cecf51"
+    ],
+    "description":"CoinDash是一个基于加密技术的社交交易平台，通过提供加密资产追踪查询的服务，以降低该领域的准入门槛，使任何人都能轻松简单地使用。CoinDash根据主流市...",
+    "id":228,
+    "name":"coindash",
+    "name_cn":"－",
+    "name_en":"Blox/CDT",
+    "time":"2017-08-08",
+    "website":[
+        "https://www.coindash.io/",
+        "https://blox.io/"
+    ],
+    "whitepaper":"https://www.coindash.io/wp-content/uploads/2017/05/CoinDashwhitepaper-v0.3-051317.pdf"
+}

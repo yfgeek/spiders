@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xba9d4199fab4f26efe3551d490e3821486f135ba",
+        "https://ethplorer.io/address/0xba9d4199fab4f26efe3551d490e3821486f135ba"
+    ],
+    "description":"SwissBorg项目的目标是通过以太和智能共享的以社区为中心的方式革新财富管理。SwissBorg将成为首家提供定制加密投资服务的瑞士网络银行。",
+    "id":299,
+    "name":"swissborg",
+    "name_cn":"－",
+    "name_en":"SwissBorg/CHSB",
+    "time":"2018-02-03",
+    "website":[
+        "https://swissborg.com/"
+    ],
+    "whitepaper":"https://swissborg.com/files/swissborg-technical-whitepaper.pdf"
+}

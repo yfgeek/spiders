@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0af44e2784637218dd1d32a322d44e603a8f0c6a",
+        "https://ethplorer.io/address/0x0af44e2784637218dd1d32a322d44e603a8f0c6a"
+    ],
+    "description":"Matryx可以构建智能虚拟现实界面，使科学家和工程师能够在纳米级精度下进行合作、设计和模拟。他们的软件可以利用云计算来整合身临其境的虚拟现实界面，进而帮助推动...",
+    "id":456,
+    "name":"matryx",
+    "name_cn":"－",
+    "name_en":"Matryx/MTX",
+    "time":"2017-12-31",
+    "website":[
+        "https://matryx.ai/"
+    ],
+    "whitepaper":"https://matryx.ai/matryx-whitepaper-ch.pdf"
+}

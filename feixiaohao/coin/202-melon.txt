@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Melon",
+        "https://ethplorer.io/address/0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1"
+    ],
+    "description":"Melon是一个由以太坊区块链驱动的数字资产管理平台。Melon的目标是帮助不同类型的资产管理者，不论是个人投资者还是机构投资经理，安全快捷高效的管理自己的投资...",
+    "id":202,
+    "name":"melon",
+    "name_cn":"－",
+    "name_en":"Melon/MLN",
+    "time":"2017-02-15",
+    "website":[
+        "https://melonport.com/"
+    ],
+    "whitepaper":"https://melonport.com/melonprotocol.pdf"
+}

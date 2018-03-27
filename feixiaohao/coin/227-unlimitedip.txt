@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"UnlimitedIP (UIP) 是基于EOS打造的一款文娱版权智能交易平台。藉由区块链的可溯源、分布式、难篡改等特性以及哈希算法、非对称加密和时间戳等技术，...",
+    "id":227,
+    "name":"unlimitedip",
+    "name_cn":"未来版权",
+    "name_en":"UnlimitedIP/UIP",
+    "time":"2018-01-25",
+    "website":[
+        "http://www.unlimitedip.io/"
+    ],
+    "whitepaper":"http://www.unlimitedip.io/UnlimitedIP_WhitePaper.pdf"
+}

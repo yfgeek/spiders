@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x3597bfd533a99c9aa083587b074434e61eb0a258",
+        "https://ethplorer.io/address/0x3597bfd533a99c9aa083587b074434e61eb0a258"
+    ],
+    "description":"DENT Wireless公司创立了全世界第一个移动数据交易平台。DENT平台是基于以太坊区块链技术的智能合约系统，用户在此平台内可以快速安心地进行交易，而其发...",
+    "id":90,
+    "name":"dent",
+    "name_cn":"－",
+    "name_en":"Dentcoin/DENT",
+    "time":"2017-08-13",
+    "website":[
+        "https://www.dentcoin.com/"
+    ],
+    "whitepaper":"https://drive.google.com/file/d/0BxFqoCUOdNTgWk5vSm9UQVotblk/view"
+}

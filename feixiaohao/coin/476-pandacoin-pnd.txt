@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/pnd/"
+    ],
+    "description":"Pandacoin 是一个加密货币，安全和易于使用。 PandaBank 支持以下功能：登录和转账， 跟踪个人账户余额和交易记录，使用快速转账快速发送 Pand...",
+    "id":476,
+    "name":"pandacoin-pnd",
+    "name_cn":"熊猫币",
+    "name_en":"Pandacoin/PND",
+    "time":"－",
+    "website":[
+        "http://digitalpandacoin.org/"
+    ],
+    "whitepaper":"-"
+}

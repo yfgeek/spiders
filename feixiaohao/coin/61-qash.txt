@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6",
+        "https://ethplorer.io/address/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6"
+    ],
+    "description":"QASH是基于LIQUID——一个全球化的交易平台（LIQUID平台是一个可以使整个加密经济受益的财务实用工具。代币发行者，代币持有人，创新者和下一代金融服务用...",
+    "id":61,
+    "name":"qash",
+    "name_cn":"－",
+    "name_en":"QASH/QASH",
+    "time":"2017-11-22",
+    "website":[
+        "https://liquid.plus/"
+    ],
+    "whitepaper":"-"
+}

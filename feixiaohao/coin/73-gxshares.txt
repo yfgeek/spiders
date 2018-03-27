@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://block.gxb.io/"
+    ],
+    "description":"公信链（GXChain）是公信宝团队打造的一条数据交换公有区块链，是公信宝数据交易所的底层链，不仅支撑着公信宝数据交易所高频的数据交易交换，还支持开发者开发应用...",
+    "id":73,
+    "name":"gxshares",
+    "name_cn":"公信宝",
+    "name_en":"GXChain/GXS",
+    "time":"2017-06-15",
+    "website":[
+        "https://gxs.gxb.io/"
+    ],
+    "whitepaper":"https://github.com/gxchain/whitepaper/blob/master/zh/whitepaper.md"
+}

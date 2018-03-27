@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://xft.dblocks.io/"
+    ],
+    "description":"Footy Cash作为一种加密货币，它的安全性极佳。你再也无需输入自己的信用卡号了，也就无需担心无良博彩网站或者黑客盗用你的信用卡了。其次，和所有电子货币一样...",
+    "id":708,
+    "name":"footy-cash",
+    "name_cn":"－",
+    "name_en":"Footy Cash/FOOT",
+    "time":"2017-09-26",
+    "website":[
+        "http://footycash.com/"
+    ],
+    "whitepaper":"-"
+}

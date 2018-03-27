@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://ubiqscan.io/"
+    ],
+    "description":"Qwark是Ubiq平台上的一种ERC20代币。",
+    "id":550,
+    "name":"qwark",
+    "name_cn":"－",
+    "name_en":"Qwark/QWARK",
+    "time":"－",
+    "website":[
+        "http://www.qwark.io/"
+    ],
+    "whitepaper":"-"
+}

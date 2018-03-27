@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23",
+        "https://ethplorer.io/address/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23"
+    ],
+    "description":"",
+    "id":609,
+    "name":"1world",
+    "name_cn":"－",
+    "name_en":"1World/1WO",
+    "time":"2018-03-22",
+    "website":[
+        "https://ico.1worldonline.com"
+    ],
+    "whitepaper":"http://reports.1worldonline.com.s3.amazonaws.com/docs/1WO_white_paper.pdf"
+}

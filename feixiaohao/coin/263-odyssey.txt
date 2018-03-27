@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4092678e4E78230F46A1534C0fbc8fA39780892B",
+        "https://ethplorer.io/address/0x4092678e4e78230f46a1534c0fbc8fa39780892b"
+    ],
+    "description":"OCOIN(OCN)是ODYSSEY项目的数字代币符号。ODYSSEY是东南亚和欧洲最大的共享单车公司OBIKE创始团队发起的基于共享经济的区块链项目。ODYS...",
+    "id":263,
+    "name":"odyssey",
+    "name_cn":"－",
+    "name_en":"Ocoin/OCN",
+    "time":"2018-01-25",
+    "website":[
+        "https://www.ocoin.sg"
+    ],
+    "whitepaper":"https://ocoin.sg/pdf/ODYSSEY+WHITEPAPER+V1.2+EN.pdf?v=2018011801"
+}

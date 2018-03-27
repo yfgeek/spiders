@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/address/0x4a536c1ce7ad7f6e8d2e59135e17aef5ef4dd4e6"
+    ],
+    "description":"游娱链是一个立足于游戏产业的去中心化的共享社区，主要针对中小型发行商、中小型 CP、所有游戏玩家、IP 生产者、渠道商、合作者等所共同打造的一个生态系统。其核心...",
+    "id":459,
+    "name":"gecoin",
+    "name_cn":"游娱链",
+    "name_en":"GECoin/GEC",
+    "time":"－",
+    "website":[
+        "http://www.yyb.money/"
+    ],
+    "whitepaper":"-"
+}

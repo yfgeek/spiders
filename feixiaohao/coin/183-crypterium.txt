@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x80a7e048f37a50500351c204cb407766fa3bae7f",
+        "https://ethplorer.io/address/0x80a7e048f37a50500351c204cb407766fa3bae7f"
+    ],
+    "description":"Crypterium 的目标不只是创建另一个加密货币钱包或加密货币银行。 团队关注未来技术和基础设施，使用非接触式支付技术，创建成熟的银行解决方案。Crypte...",
+    "id":183,
+    "name":"crypterium",
+    "name_cn":"－",
+    "name_en":"Crypterium/CRPT",
+    "time":"2018-01-23",
+    "website":[
+        "https://crypterium.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://poswallet.com/blockChain/posw/"
+    ],
+    "description":"poswallet 允许用户创建一个账户来管理多个钱包，我们为我们的客户会联合管理各自的币。每个月都会有大量的新币出现，他们会带来一些形式的权益奖励或者主节点功...",
+    "id":396,
+    "name":"posw-coin",
+    "name_cn":"－",
+    "name_en":"PoSW Coin/POSW",
+    "time":"－",
+    "website":[
+        "https://posw.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x43567eb78638A55bbE51E9f9FB5B2D7AD1F125aa",
+        "https://ethplorer.io/address/0x43567eb78638a55bbe51e9f9fb5b2d7ad1f125aa"
+    ],
+    "description":"Hackspace Capital是一个成立于2017年的基金。本基金为初创公司提供多层级支持，比如行政程序规整、法律支持、商业咨询、项目周期的协调与监管、借助...",
+    "id":406,
+    "name":"hackspace-capital",
+    "name_cn":"－",
+    "name_en":"Hackspace Capital/HAC",
+    "time":"2018-01-15",
+    "website":[
+        "https://hackspace.capital/"
+    ],
+    "whitepaper":"https://hackspace.capital/userfls/docs/whitepaper_eng.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/thc",
+        "http://thcblock.ga/"
+    ],
+    "description":"大麻币是2014年首先发展的30种数字货币之一，基于比特币的源码创建。大麻币针对农业以及大麻产业而被高度关注，使用于大麻诊治和农业贸易。",
+    "id":349,
+    "name":"hempcoin",
+    "name_cn":"泰合币",
+    "name_en":"HempCoin/THC",
+    "time":"－",
+    "website":[
+        "http://hempcoin.org/"
+    ],
+    "whitepaper":"http://hempcoin.org/whitepaper.pdf"
+}

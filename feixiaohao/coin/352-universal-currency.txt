@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.u-currency.com/"
+    ],
+    "description":"UNIT 是一个去中心化的，基于点对点技术的数字货币，在全球范围内实现安全和快速汇款。",
+    "id":352,
+    "name":"universal-currency",
+    "name_cn":"－",
+    "name_en":"Universal Cur.../UNIT",
+    "time":"－",
+    "website":[
+        "http://www.u-currency.com/"
+    ],
+    "whitepaper":"-"
+}

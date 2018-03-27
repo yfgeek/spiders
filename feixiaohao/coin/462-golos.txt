@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://golosd.com/",
+        "https://golosdb.com/"
+    ],
+    "description":"Golos 是以区块链为基础的社交网络，主要面向讲俄语的人。它是一个去中心化的分布式社交媒体。",
+    "id":462,
+    "name":"golos",
+    "name_cn":"－",
+    "name_en":"Golos/GOLOS",
+    "time":"－",
+    "website":[
+        "https://golos.io/"
+    ],
+    "whitepaper":"https://wiki.golos.io/1-introduction/golos_whitepaper.html"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/cann/"
+    ],
+    "description":"Cannabis Coin是大麻社区的点对点加密货币。",
+    "id":627,
+    "name":"cannabiscoin",
+    "name_cn":"－",
+    "name_en":"CannabisCoin/CANN",
+    "time":"－",
+    "website":[
+        "http://cannabiscoin.net"
+    ],
+    "whitepaper":"-"
+}

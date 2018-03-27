@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer_ybc.taiyilabs.com/"
+    ],
+    "description":"元宝币的创始人是一群比特币的爱好者和最早的支持者，在看到比特币的问题之后，我们决定尽自己的力量，用最新的技术，来开发一款适合中国人使用、人人都可以参与、公正公开...",
+    "id":583,
+    "name":"ybcoin",
+    "name_cn":"元宝币",
+    "name_en":"YbCoin/YBCT",
+    "time":"2013-06-28",
+    "website":[
+        "http://www.ybcoin.com/"
+    ],
+    "whitepaper":"-"
+}

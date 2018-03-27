@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/OmiseGo",
+        "https://ethplorer.io/address/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
+    ],
+    "description":"Omise成立于2013年，是一家总部位于泰国的金融科技初创公司，目前已经获得了有3轮的融资。Omise主要在泰国、日本、新加坡和印度尼西亚运营，并在亚太地区迅...",
+    "id":23,
+    "name":"omisego",
+    "name_cn":"嫩模币",
+    "name_en":"OmiseGo/OMG",
+    "time":"2017-06-27",
+    "website":[
+        "https://omg.omise.co/"
+    ],
+    "whitepaper":"https://cdn.omise.co/omg/whitepaper.pdf"
+}

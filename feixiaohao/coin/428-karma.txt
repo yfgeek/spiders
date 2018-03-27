@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://krm-db.com/"
+    ],
+    "description":"全球分散性区块链平台，在这里人们可以和公司直接进行借贷。在卡尔玛生态系统中，任何人都可以扮演任何角色：参与新成员、代管、交易运输、分析、评分、承销、保险、货币兑...",
+    "id":428,
+    "name":"karma",
+    "name_cn":"－",
+    "name_en":"Karma/KRM",
+    "time":"2018-01-12",
+    "website":[
+        "https://karma.red/"
+    ],
+    "whitepaper":"-"
+}

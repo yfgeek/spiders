@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.mynxt.info/asset/12422608354438203866"
+    ],
+    "description":"阿朵币由阿朵主链产生，是一个运行所有子链和运行所有交易的服务系统。 然而一些交易将在主链运行，像交易阿朵，但很多特性是在主链不可用的，是为了提高主链性能和减少区...",
+    "id":52,
+    "name":"ardor",
+    "name_cn":"阿朵币",
+    "name_en":"Ardor/ARDR",
+    "time":"－",
+    "website":[
+        "https://www.ardorplatform.org/"
+    ],
+    "whitepaper":"-"
+}

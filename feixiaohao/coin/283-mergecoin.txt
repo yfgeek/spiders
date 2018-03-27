@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.mergechain.com:3000/"
+    ],
+    "description":"众合币(MergeCoin, 简称MGC)是2017年3月29创世，MGC创新的采用了达世币的主节点计划，并改进了POW挖矿纳税给主节点机制，结合黑币的更加安...",
+    "id":283,
+    "name":"mergecoin",
+    "name_cn":"众合币",
+    "name_en":"MergeCoin/MGC",
+    "time":"2017-03-29",
+    "website":[
+        "http://www.mergecoin.com/"
+    ],
+    "whitepaper":"-"
+}

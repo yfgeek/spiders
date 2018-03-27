@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/sys/"
+    ],
+    "description":"系统币不仅仅是一种虚拟币，它区块链中附加了金融基础功能。能够为个人或者商业团队保障数据和市场的安全。系统币有如下特性：1，通过区块链来打造去中心化的市场；2，提...",
+    "id":69,
+    "name":"syscoin",
+    "name_cn":"系统币",
+    "name_en":"SysCoin/SYS",
+    "time":"2014-08-16",
+    "website":[
+        "http://syscoin.org"
+    ],
+    "whitepaper":"-"
+}

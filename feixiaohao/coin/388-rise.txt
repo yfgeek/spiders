@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.rise.vision/"
+    ],
+    "description":"R币(risecoin)，与比特币一样，完全去中心化，加密算法，总量1亿，限时20年开采完，在比特币原有的优点上，制定了更稳健的制度与合理的推广奖励。Risec...",
+    "id":388,
+    "name":"rise",
+    "name_cn":"R币",
+    "name_en":"Rise/RISE",
+    "time":"2017-06-01",
+    "website":[
+        "https://rise.vision/"
+    ],
+    "whitepaper":"-"
+}

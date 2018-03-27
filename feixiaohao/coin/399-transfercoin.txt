@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/tx/"
+    ],
+    "description":"传送币(TransferCoin,TFC)是一个来自澳洲的优质币种，墨尔本团队进一步优化算法，倡导纯净透明、极速交易。发布于2013年12月30日，Scrypt...",
+    "id":399,
+    "name":"transfercoin",
+    "name_cn":"传送币",
+    "name_en":"TransferCoin/TX",
+    "time":"－",
+    "website":[
+        "http://txproject.io/"
+    ],
+    "whitepaper":"-"
+}

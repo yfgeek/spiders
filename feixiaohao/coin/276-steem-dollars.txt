@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://steemd.com/",
+        "https://steemdb.com/"
+    ],
+    "description":"STEEM 是一个社交网络论坛, 该论坛使用的是区块链技术 。您参与的各项活动将以网络货币的形式得到奖励报酬。这里分为三种形式：Steem, Steem Pow...",
+    "id":276,
+    "name":"steem-dollars",
+    "name_cn":"－",
+    "name_en":"Steem Dollars/SBD",
+    "time":"－",
+    "website":[
+        "https://steem.io/"
+    ],
+    "whitepaper":"-"
+}

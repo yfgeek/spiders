@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/bsd",
+        "https://chainz.cryptoid.info/bsd/"
+    ],
+    "description":"Bitsend 是可以随身携带的数字现金，使用 Bitsend 可以在线或店内进行付款，通过使用我们全球有数千名用户的安全的开源平台。",
+    "id":391,
+    "name":"bitsend",
+    "name_cn":"－",
+    "name_en":"BitSend/BSD",
+    "time":"－",
+    "website":[
+        "http://www.bitsend.info/",
+        "http://www.mybitsend.com/"
+    ],
+    "whitepaper":"-"
+}

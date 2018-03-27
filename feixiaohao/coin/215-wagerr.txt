@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/assets.html?8t8DMJFQu5GEhvAetiA8aHa3yPjxLj54sBnZsjnJ5dsw"
+    ],
+    "description":"Wagerr使用分散式区块链技术执行下注合约，中介托管赌注，验证结果，和支付赢家筹码。终结中央集权， Wagerr解决了博彩产业大部分的有害问题。降低因贪污及风...",
+    "id":215,
+    "name":"wagerr",
+    "name_cn":"－",
+    "name_en":"Wagerr/WGR",
+    "time":"2017-07-06",
+    "website":[
+        "https://www.wagerr.com/"
+    ],
+    "whitepaper":"https://www.wagerr.com/wagerr_whitepaper_v1_chs%E4%B8%AD%E6%96%87%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf"
+}

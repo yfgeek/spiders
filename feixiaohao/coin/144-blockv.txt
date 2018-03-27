@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x340d2bde5eb28c1eed91b2f790723e3b160613b7",
+        "https://ethplorer.io/address/0x340d2bde5eb28c1eed91b2f790723e3b160613b7"
+    ],
+    "description":"BLOCKv是一个用于区块链开发者的共享协议。该公司旨在将自己定位为虚拟商品经济的基础。在更基本的术语中，BLOCKv计划建立一个平台，开发人员可以在区块链上创...",
+    "id":144,
+    "name":"blockv",
+    "name_cn":"－",
+    "name_en":"BLOCKv/VEE",
+    "time":"2017-11-29",
+    "website":[
+        "https://blockv.io/"
+    ],
+    "whitepaper":"https://blockv.io/documents/whitepaper.pdf"
+}

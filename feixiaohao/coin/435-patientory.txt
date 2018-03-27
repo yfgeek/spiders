@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06",
+        "https://ethplorer.io/address/0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06"
+    ],
+    "description":"Patientory是一款基于医疗区块链的应用程序，用户通过创建一个患者资料来跟踪健康史。这款免费的应用程序为患者提供了一个轻松访问医生、查询医疗费用、查看个...",
+    "id":435,
+    "name":"patientory",
+    "name_cn":"－",
+    "name_en":"Patientory/PTOY",
+    "time":"2017-08-02",
+    "website":[
+        "https://patientory.com/"
+    ],
+    "whitepaper":"http://www.patientory.com/patientory_whitepaper.pdf"
+}

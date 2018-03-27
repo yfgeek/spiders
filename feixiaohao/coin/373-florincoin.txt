@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://florincoin.info/",
+        "https://prohashing.com/explorer/Florincoin/",
+        "http://explorer.alexandria.io/"
+    ],
+    "description":"弗洛林币(FlorinCoin,FLO)采用GPU挖矿的Scrypt算法。出块时间40秒，每块包含100个币，80万块（约1年）减半，每90块调整难度。货币总...",
+    "id":373,
+    "name":"florincoin",
+    "name_cn":"弗洛林币",
+    "name_en":"FlorinCoin/FLO",
+    "time":"2013-06-17",
+    "website":[
+        "http://www.florincoin.org/"
+    ],
+    "whitepaper":"-"
+}

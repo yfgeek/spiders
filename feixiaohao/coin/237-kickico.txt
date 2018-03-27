@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x27695e09149adc738a978e9a678f99e4c39e9eb9",
+        "https://ethplorer.io/address/0x27695e09149adc738a978e9a678f99e4c39e9eb9"
+    ],
+    "description":"KickCoin 数字代币是一种虚拟货币，设计用于项目发起人在 KIСKIСO 内相互结算，以支付众筹项目的启动、购买众筹项目的服务，以及用于其他内部流程、KI...",
+    "id":237,
+    "name":"kickico",
+    "name_cn":"－",
+    "name_en":"KickCoin/KICK",
+    "time":"2017-10-05",
+    "website":[
+        "https://www.kickico.com/"
+    ],
+    "whitepaper":"https://www.kickico.com/zh/whitepaper"
+}

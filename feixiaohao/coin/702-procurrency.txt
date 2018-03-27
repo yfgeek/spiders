@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://cryptobe.com/chain/ProCurrency/"
+    ],
+    "description":"ProCurrency是为消费者创造的，使日常消费变得更简单。ProCurrency专注于消费者和日常交易，奖励他们在日常生活中使用加密货币。ProCurren...",
+    "id":702,
+    "name":"procurrency",
+    "name_cn":"－",
+    "name_en":"ProCurrency/PROC",
+    "time":"－",
+    "website":[
+        "https://www.procommerce.io/"
+    ],
+    "whitepaper":"-"
+}

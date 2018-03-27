@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750",
+        "https://ethplorer.io/address/0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750"
+    ],
+    "description":"Bytom Blockchain Protocol（简称比原链：Bytom）是一种多元比特资产的交互协议，运行在比原链区块链上的不同形态的、异构的比特资产（原生...",
+    "id":37,
+    "name":"bytom",
+    "name_cn":"比原链",
+    "name_en":"Bytom/BTM",
+    "time":"2017-08-09",
+    "website":[
+        "http://bytom.io/"
+    ],
+    "whitepaper":"http://bytom.io/BytomWhitePaperV1.0_Economic_en.pdf"
+}

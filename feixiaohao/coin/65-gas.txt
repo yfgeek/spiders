@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://neotracker.io/asset/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7",
+        "https://neoexplorer.co/assets/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7",
+        "https://antchain.xyz/asset/hash/602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7"
+    ],
+    "description":"NEO中内置两种原生代币，NEO（缩写符号NEO）和 NeoGas（缩写符号GAS）。NEO是管理代币，总量1亿份，用于实现对NEO 网络的管理权。管理权包括投...",
+    "id":65,
+    "name":"gas",
+    "name_cn":"－",
+    "name_en":"Gas/GAS",
+    "time":"－",
+    "website":[
+        "https://neo.org/"
+    ],
+    "whitepaper":"-"
+}

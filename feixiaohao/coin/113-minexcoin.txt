@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://minexexplorer.com/"
+    ],
+    "description":"MinexCoin（MNX）是一个基于Minex生态系统低活跃度的虚拟货币而打造的支付系统。由于它稳定的交易频率，MinexCoin是一种支付的手段，稳定的币价...",
+    "id":113,
+    "name":"minexcoin",
+    "name_cn":"－",
+    "name_en":"MinexCoin/MNX",
+    "time":"2017-11-03",
+    "website":[
+        "https://minexcoin.com/"
+    ],
+    "whitepaper":"https://minexcoin.com/html/download/wpeng.pdf"
+}

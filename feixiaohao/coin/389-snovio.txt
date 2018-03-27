@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xbdc5bac39dbe132b1e030e898ae3830017d7d969",
+        "https://ethplorer.io/address/0xbdc5bac39dbe132b1e030e898ae3830017d7d969"
+    ],
+    "description":"Snovio 是一个去中心化的潜在客户信息平台，运用 blockchain 技术和数据收集的方式来提供高质量的指导。Snovio 数据库将不断更新，而无需耗费在...",
+    "id":389,
+    "name":"snovio",
+    "name_cn":"－",
+    "name_en":"Snovio/SNOV",
+    "time":"2017-12-09",
+    "website":[
+        "https://tokensale.snov.io/"
+    ],
+    "whitepaper":"https://tokensale.snov.io/docs/WhitePaperEn.pdf"
+}

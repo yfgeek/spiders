@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://mona.chainsight.info/"
+    ],
+    "description":"萌奈币(Monacoin, MONA)受莱特币（LTC）启发，是一种基于P2P技术的网络加密货币，也是MIT/X11许可下的一个开源软件项目，它可以帮助用户即时...",
+    "id":62,
+    "name":"monacoin",
+    "name_cn":"萌奈币",
+    "name_en":"MonaCoin/MONA",
+    "time":"2013-12-01",
+    "website":[
+        "http://monacoin.org"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf05a9382A4C3F29E2784502754293D88b835109C",
+        "https://ethplorer.io/address/0xf05a9382a4c3f29e2784502754293d88b835109c"
+    ],
+    "description":"REX的使命是通过一个功能强大与信息公开的网络平台实现所有的卖家、买家与中介机构之间的信息互通，让各方获利。REX凭借三项革新技术 — 区块链，数据分布与数字货...",
+    "id":666,
+    "name":"real-estate-tokens",
+    "name_cn":"－",
+    "name_en":"Real Estate T.../REX",
+    "time":"2017-09-14",
+    "website":[
+        "http://rexmls.com/"
+    ],
+    "whitepaper":"-"
+}

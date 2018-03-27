@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
+        "https://ethplorer.io/address/0x103c3a209da59d3e7c4a89307e66521e081cfdf0"
+    ],
+    "description":"Genesis Vision是构建于区块链和智能合约之上的私人信托管理市场平台。我们把交易所、经纪人、交易者和投资者结合入该去中心化、开放、可靠的网络中，让金融...",
+    "id":107,
+    "name":"genesis-vision",
+    "name_cn":"－",
+    "name_en":"Genesis Vision/GVT",
+    "time":"2017-11-16",
+    "website":[
+        "https://genesis.vision/"
+    ],
+    "whitepaper":"https://genesis.vision/white-paper-chn.pdf"
+}

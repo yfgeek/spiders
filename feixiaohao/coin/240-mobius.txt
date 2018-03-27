@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://stellar.expert/explorer/asset/MOBI-GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH"
+    ],
+    "description":"MOBI是Mobius项目的区块链数字代币。Mobius项目由美国著名大学斯坦福、哈佛的开发者组成，是一个新的去中心化协议，该协议用于大众消费应用程序和基于区块...",
+    "id":240,
+    "name":"mobius",
+    "name_cn":"－",
+    "name_en":"Mobius/MOBI",
+    "time":"2018-01-19",
+    "website":[
+        "https://mobius.network/"
+    ],
+    "whitepaper":"https://docsend.com/view/gr63mgi"
+}

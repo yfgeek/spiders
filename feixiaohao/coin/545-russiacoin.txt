@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.russiacoin.info/"
+    ],
+    "description":"Russiacoin是一种新的加密货币，适用于世界各地的人，尤其是俄罗斯的altcoin社区。Russiacoin使用GDR算法，它与std类似。",
+    "id":545,
+    "name":"russiacoin",
+    "name_cn":"－",
+    "name_en":"RussiaCoin/RC",
+    "time":"－",
+    "website":[
+        "http://www.russiacoin.info/"
+    ],
+    "whitepaper":"-"
+}

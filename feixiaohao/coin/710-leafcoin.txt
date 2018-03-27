@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.leafco.in/"
+    ],
+    "description":"",
+    "id":710,
+    "name":"leafcoin",
+    "name_cn":"－",
+    "name_en":"LEAF/LEAF",
+    "time":"－",
+    "website":[
+        "http://leafco.in/"
+    ],
+    "whitepaper":"-"
+}

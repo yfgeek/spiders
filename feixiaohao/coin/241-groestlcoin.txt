@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/grs/",
+        "http://groestlsight.groestlcoin.org/"
+    ],
+    "description":"这是一个工作证明的加密货币，工作证明简称POW。当前不可能出现 Groestl的矿机 不太可能很快的开发出来。不过未来或许有可能。通过这些功能GroestlC...",
+    "id":241,
+    "name":"groestlcoin",
+    "name_cn":"－",
+    "name_en":"Groestlcoin/GRS",
+    "time":"2014-03-22",
+    "website":[
+        "http://www.groestlcoin.org/"
+    ],
+    "whitepaper":"-"
+}

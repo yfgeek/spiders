@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/smly/"
+    ],
+    "description":"Smileycoin , SMLY ，是用来奖励学生在 tutor - web 学习环境中的表现。这些文件描述了 SMLY 的基础。在文件的底部有一个提议的变更...",
+    "id":733,
+    "name":"smileycoin",
+    "name_cn":"－",
+    "name_en":"SmileyCoin/SMLY",
+    "time":"－",
+    "website":[
+        "http://tutor-web.info"
+    ],
+    "whitepaper":"-"
+}

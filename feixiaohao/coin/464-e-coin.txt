@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://ecnblockchain.com/",
+        "https://chainz.cryptoid.info/ecn/",
+        "https://www.blockexperts.com/ecn"
+    ],
+    "description":"E-coin强迫性和广泛的区块链项目,将获得一个更好的方法让未来的金融交易的人力资源/制造/招聘/金融等行业以类似的方式BTC如何进化。 创建一个平台企业和最终...",
+    "id":464,
+    "name":"e-coin",
+    "name_cn":"－",
+    "name_en":"E-coin/ECN",
+    "time":"－",
+    "website":[
+        "https://www.ecoinsource.com/"
+    ],
+    "whitepaper":"-"
+}

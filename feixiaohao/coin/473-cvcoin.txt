@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://openledger.io/asset/CVCOIN"
+    ],
+    "description":"CVCoin是一个独特的加密货币，专为新一代加密即时通讯网络而设计。CVCoin的主要目的是为了支付区块链的交易费用，以授权和识别用户的公共加密密钥，确保加密网...",
+    "id":473,
+    "name":"cvcoin",
+    "name_cn":"－",
+    "name_en":"CVCoin/CVCOIN",
+    "time":"2017-07-16",
+    "website":[
+        "https://crypviser.net"
+    ],
+    "whitepaper":"https://ico.crypviser.net/static/docs/CrypViserWhitepaper_en.pdf"
+}

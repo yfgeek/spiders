@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393",
+        "https://ethplorer.io/address/0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393"
+    ],
+    "description":"B2BX是针对边际交易加密货币流动资金的聚合器，通过实物交割和向经纪公司发放流动资金进行交易。我们正计划建立第一个官方的B2B加密货币交换聚合器或者市场，接至少...",
+    "id":436,
+    "name":"b2bx",
+    "name_cn":"－",
+    "name_en":"B2BX/B2B",
+    "time":"2017-11-21",
+    "website":[
+        "https://www.b2bx.pro/",
+        "https://b2broker.net/"
+    ],
+    "whitepaper":"https://www.b2bx.pro/docs/b2bx_white_paper-cn.pdf"
+}

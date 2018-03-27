@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://atlas.phoenixcoin.org:1080/chain/Orbitcoin/"
+    ],
+    "description":"轨道币与其他的加密货币一样，具有分散控制与分布式账本等特点,且不受任何机构或组织控制，是由独立的个人社区组成的。轨道币社区成员还可以自由构建任何类型的基于轨道币...",
+    "id":743,
+    "name":"orbitcoin",
+    "name_cn":"轨道币",
+    "name_en":"Orbitcoin/ORB",
+    "time":"－",
+    "website":[
+        "http://orbitcoin.org/"
+    ],
+    "whitepaper":"-"
+}

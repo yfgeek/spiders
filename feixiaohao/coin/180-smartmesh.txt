@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x55f93985431fc9304077687a35a1ba103dc1e081",
+        "https://ethplorer.io/address/0x55f93985431fc9304077687a35a1ba103dc1e081"
+    ],
+    "description":"SmartMesh项目是一个基于区块链的物联网底层协议，能让智能手机、智能设备等不通过互联网就可以相互连接的软件，SmartMesh内置区块链轻节点，扩展闪电与...",
+    "id":180,
+    "name":"smartmesh",
+    "name_cn":"－",
+    "name_en":"SmartMesh/SMT",
+    "time":"2017-12-14",
+    "website":[
+        "https://smartmesh.io"
+    ],
+    "whitepaper":"https://smartmesh.io/zh/white-paper-2/"
+}

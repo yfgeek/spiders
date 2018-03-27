@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Bread是一个能够帮助用户储存、发送和接收比特币的钱包APP。钱包的使用是免费的，Bread正快速的扩展到全球金融领域的各个方面，Bread由此推出了首个以B...",
+    "id":221,
+    "name":"bread",
+    "name_cn":"－",
+    "name_en":"Bread/BRD",
+    "time":"2017-12-25",
+    "website":[
+        "https://token.breadapp.com/en/"
+    ],
+    "whitepaper":"https://d2n2g5n187q8lu.cloudfront.net/static/docs/BRD-whitepaper-EN.pdf"
+}

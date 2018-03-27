@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://csc.blockexp.info/chain/CasinoCoin"
+    ],
+    "description":"发布于2013年7月18日，Scrypt算法，30秒/块，每块50个，共计3.36亿个，每720块调整难度。",
+    "id":209,
+    "name":"casinocoin",
+    "name_cn":"卡西诺币",
+    "name_en":"CasinoCoin/CSC",
+    "time":"－",
+    "website":[
+        "http://casinocoin.org/"
+    ],
+    "whitepaper":"-"
+}

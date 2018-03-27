@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://104.238.153.140:3001/",
+        "https://minkiz.co/acme/chc"
+    ],
+    "description":"发布于2014年1月19日，CPU挖矿，90秒每块，16个每块，共计2300万个。",
+    "id":671,
+    "name":"chaincoin",
+    "name_cn":"连锁币",
+    "name_en":"ChainCoin/CHC",
+    "time":"－",
+    "website":[
+        "http://www.chaincoin.org/"
+    ],
+    "whitepaper":"-"
+}

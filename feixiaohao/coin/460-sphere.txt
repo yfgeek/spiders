@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://sphere.iquidus.io/"
+    ],
+    "description":"SPHR将被置换成Ubiq 网络上的ERC20代币 。",
+    "id":460,
+    "name":"sphere",
+    "name_cn":"－",
+    "name_en":"Sphere/SPHR",
+    "time":"－",
+    "website":[
+        "https://sphrpay.io/"
+    ],
+    "whitepaper":"-"
+}

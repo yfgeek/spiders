@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.luxcoin.xyz/"
+    ],
+    "description":"Luxcore是一个区块链解决方案和服务生态系统，专注于设计和构建企业级安全和隐私产品。Luxcore平台依靠突破性的PHI1612算法推动区块链开发和实施其核...",
+    "id":463,
+    "name":"luxcoin",
+    "name_cn":"－",
+    "name_en":"LUXCoin/LUX",
+    "time":"2017-10-28",
+    "website":[
+        "https://www.luxcoin.tech/"
+    ],
+    "whitepaper":"-"
+}

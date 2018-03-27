@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Taas",
+        "http://explorer.ambisafe.co/",
+        "/asset/TAAS/2?_k=9wkwx8"
+    ],
+    "description":"TaaS致力于降低在区块链领域投资和虚拟货币交易中的各类风险和技术门槛。TaaS同时也在构建第一个声称类似彭博的虚拟货币投资组合平台。 Kepler致力于解决...",
+    "id":197,
+    "name":"taas",
+    "name_cn":"－",
+    "name_en":"TaaS/TAAS",
+    "time":"2017-03-27",
+    "website":[
+        "https://taas.fund/"
+    ],
+    "whitepaper":"http://taas.fund/media/whitepaper.pdf"
+}

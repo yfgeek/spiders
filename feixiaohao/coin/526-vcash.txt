@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://explorer.vcash.info/",
+        "http://explorer.vcashproject.org/"
+    ],
+    "description":"Vcash是目前交易速度最快的密码学货币，其开发进展也很快速，而且一直是自费开发。在过去的几个月中XVC一直在稳定快速的开发。Vcash引以为荣的是它是一种最...",
+    "id":526,
+    "name":"vcash",
+    "name_cn":"－",
+    "name_en":"Vcash/XVC",
+    "time":"2017-06-01",
+    "website":[
+        "http://vcash.info/"
+    ],
+    "whitepaper":"-"
+}

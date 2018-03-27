@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/geo/"
+    ],
+    "description":"GEO是一个真实的地图寻宝游戏，到达地图上指定的位置就可以获得相应的GEO奖励。",
+    "id":505,
+    "name":"geocoin",
+    "name_cn":"－",
+    "name_en":"GeoCoin/GEO",
+    "time":"－",
+    "website":[
+        "http://geocoin.cash/",
+        "http://geo.money/"
+    ],
+    "whitepaper":"-"
+}

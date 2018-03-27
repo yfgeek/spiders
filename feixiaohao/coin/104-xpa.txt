@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x90528aeb3a2b736b780fd1b6c478bb7e1d643170",
+        "https://ethplorer.io/address/0x90528aeb3a2b736b780fd1b6c478bb7e1d643170"
+    ],
+    "description":"全球首创将经济学理论实现于区块链智能合约, XPA为用户建构可流通抗通膨保增值的未来数字资产.",
+    "id":104,
+    "name":"xpa",
+    "name_cn":"－",
+    "name_en":"XPA/XPA",
+    "time":"－",
+    "website":[
+        "https://xpa.io/"
+    ],
+    "whitepaper":"https://xpa.io/asset/download/XPA2.0_Whitepaper_ch.pdf"
+}

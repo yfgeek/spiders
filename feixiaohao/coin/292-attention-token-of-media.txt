@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x9B11EFcAAA1890f6eE52C6bB7CF8153aC5d74139",
+        "https://ethplorer.io/address/0x9b11efcaaa1890f6ee52c6bb7cf8153ac5d74139"
+    ],
+    "description":"智媒链（AMTChain）是一个智能、可信、开放的数字传媒生态，是区块链技术在数字传媒领域的创新应用。智媒链使用ATM（Attention Token Medi...",
+    "id":292,
+    "name":"attention-token-of-media",
+    "name_cn":"智媒链",
+    "name_en":"ATMchain/ATM",
+    "time":"2017-10-05",
+    "website":[
+        "https://www.atmchain.io/"
+    ],
+    "whitepaper":"https://static.atmchain.io/static/chinese/智媒链白皮书（创世版）.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/FunFair",
+        "https://ethplorer.io/address/0x419d0d8bdd9af5e606ae2232ed285aff190e711b"
+    ],
+    "description":"总部位于美国纽约的FunFair 是一个由以太坊智能合约支持的去中心化游戏平台，也是以太坊技术第一次真正意义地应用在了线上博彩游戏利于，解决了“赌场”游戏高费用...",
+    "id":68,
+    "name":"funfair",
+    "name_cn":"－",
+    "name_en":"FunFair/FUN",
+    "time":"2017-06-28",
+    "website":[
+        "https://funfair.io/"
+    ],
+    "whitepaper":"https://funfair.io/white-papers-languages/"
+}

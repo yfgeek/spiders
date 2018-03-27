@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://regalcoin.info/"
+    ],
+    "description":"",
+    "id":625,
+    "name":"regalcoin",
+    "name_cn":"－",
+    "name_en":"Regalcoin/REC",
+    "time":"2017-10-02",
+    "website":[
+        "https://regalcoin.co/"
+    ],
+    "whitepaper":"-"
+}

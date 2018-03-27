@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1183f92a5624d68e85ffb9170f16bf0443b4c242",
+        "https://ethplorer.io/address/0x1183f92a5624d68e85ffb9170f16bf0443b4c242"
+    ],
+    "description":"Qvolta是一个全球性的P2P交易平台，允许用户快速、方便地将加密货币转换为法定货币，或者将法定货币转换为加密货币。",
+    "id":681,
+    "name":"qvolta",
+    "name_cn":"－",
+    "name_en":"Qvolta/QVT",
+    "time":"2017-11-01",
+    "website":[
+        "https://qvolta.com/"
+    ],
+    "whitepaper":"-"
+}

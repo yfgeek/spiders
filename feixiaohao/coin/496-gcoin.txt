@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.gcnchain.com/chain/GCoin"
+    ],
+    "description":"GCOIN 区块链协议致力于提供一套开放的数字金融基础建设，使用 GCOIN 可打造出支持兼顾安全性、效率性、低维护成本的交易平台。区块链上的数字化资产能够与真...",
+    "id":496,
+    "name":"gcoin",
+    "name_cn":"格罗币",
+    "name_en":"GCoin/GCN",
+    "time":"－",
+    "website":[
+        "https://gcn.zone"
+    ],
+    "whitepaper":"-"
+}

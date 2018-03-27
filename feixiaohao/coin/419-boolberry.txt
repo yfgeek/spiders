@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://explorer.mining.blue/en/",
+        "https://chainradar.com/bbr/blocks"
+    ],
+    "description":"布尔币(BoolBerry,BBR,HoneyPenny)采用Wild Keccak (Blockchain-Based PoW hash)算法，前期每块产出1...",
+    "id":419,
+    "name":"boolberry",
+    "name_cn":"布尔币",
+    "name_en":"Boolberry/BBR",
+    "time":"－",
+    "website":[
+        "http://boolberry.com/"
+    ],
+    "whitepaper":"-"
+}

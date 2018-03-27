@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/ebst"
+    ],
+    "description":"eBoost是一款游戏软件。eBoost旨在为自己的区块链提供快速和安全的保障，并为电子竞技行业服务。",
+    "id":667,
+    "name":"eboostcoin",
+    "name_cn":"－",
+    "name_en":"eBoost/EBST",
+    "time":"－",
+    "website":[
+        "http://www.eboost.info/"
+    ],
+    "whitepaper":"-"
+}

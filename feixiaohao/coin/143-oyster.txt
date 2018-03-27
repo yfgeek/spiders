@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1844b21593262668b7248d0f57a220caaba46ab9",
+        "https://ethplorer.io/address/0x1844b21593262668b7248d0f57a220caaba46ab9"
+    ],
+    "description":"Oyster 是建立在 IOTA Tangle 和 Ethereum 基础之上的，主要目的是解决网站广告的困扰。 网站访问者贡献其 CPU 和 GPU 功能的一...",
+    "id":143,
+    "name":"oyster",
+    "name_cn":"－",
+    "name_en":"Oyster/PRL",
+    "time":"－",
+    "website":[
+        "https://oysterprotocol.com/"
+    ],
+    "whitepaper":"https://oyster.ws/OysterWhitepaper.pdf"
+}

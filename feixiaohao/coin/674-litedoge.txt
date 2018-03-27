@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://ldoge.miningalts.com/",
+        "https://prohashing.com/explorer/LiteDogecoin/"
+    ],
+    "description":"",
+    "id":674,
+    "name":"litedoge",
+    "name_cn":"－",
+    "name_en":"LiteDoge/LDOGE",
+    "time":"－",
+    "website":[
+        "http://www.ldoge.tech/"
+    ],
+    "whitepaper":"http://ldoge.org/cn/bitcoin.pdf"
+}

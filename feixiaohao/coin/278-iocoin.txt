@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/ioc/"
+    ],
+    "description":"IOC 是区块链生态系统的集合平台，自2014年以来，I / O 数字开发团队一直在努力，使用 I / O 数字区块链作为基础，构建一个多层次的生态系统。该生态...",
+    "id":278,
+    "name":"iocoin",
+    "name_cn":"－",
+    "name_en":"I/O Coin/IOC",
+    "time":"－",
+    "website":[
+        "http://iocoin.io/"
+    ],
+    "whitepaper":"https://www.docdroid.net/0hq7LH9/io-whitepaper-v2-final.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://thetangle.org/",
+        "https://iotasear.ch/"
+    ],
+    "description":"IOTA是一种新型的数字加密货币，专注于解决机器与机器（M2M）之间的交易问题。通过实现机器与机器间无交易费的支付来构建未来机器经济（machine econo...",
+    "id":10,
+    "name":"iota",
+    "name_cn":"埃欧塔",
+    "name_en":"IOTA/MIOTA",
+    "time":"2017-07-23",
+    "website":[
+        "https://iota.org/"
+    ],
+    "whitepaper":"https://iota.org/IOTA_Whitepaper.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x82b0e50478eeafde392d45d1259ed1071b6fda81",
+        "https://etherscan.io/token/0x82b0e50478eeafde392d45d1259ed1071b6fda81"
+    ],
+    "description":"EncrypGen 提供基于区块链的新一代基因组数据软件。基因链是一个专门用于存储基因组数据的专用区块链数据库，基因链内的交易（希望分享信息的人）的唯一货币将是...",
+    "id":325,
+    "name":"encrypgen",
+    "name_cn":"－",
+    "name_en":"EncrypGen/DNA",
+    "time":"2017-11-21",
+    "website":[
+        "https://www.encrypgen.com/"
+    ],
+    "whitepaper":"-"
+}

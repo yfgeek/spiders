@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/COLX/index.php",
+        "https://masternodes.online/currencies/COLX"
+    ],
+    "description":"",
+    "id":344,
+    "name":"colossuscoinxt",
+    "name_cn":"－",
+    "name_en":"ColossusCoinXT/COLX",
+    "time":"2017-09-30",
+    "website":[
+        "http://colossuscoinxt.org/"
+    ],
+    "whitepaper":"-"
+}

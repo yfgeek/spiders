@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc",
+        "https://ethplorer.io/address/0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc"
+    ],
+    "description":"",
+    "id":572,
+    "name":"goldmint",
+    "name_cn":"－",
+    "name_en":"MNTP/MNTP",
+    "time":"2018-02-10",
+    "website":[
+        "https://www.goldmint.io/"
+    ],
+    "whitepaper":"-"
+}

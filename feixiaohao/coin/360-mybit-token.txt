@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x94298f1e0ab2dfad6eeffb1426846a3c29d98090",
+        "https://ethplorer.io/address/0x94298f1e0ab2dfad6eeffb1426846a3c29d98090"
+    ],
+    "description":"",
+    "id":360,
+    "name":"mybit-token",
+    "name_cn":"－",
+    "name_en":"MyBit Token/MYB",
+    "time":"2017-08-20",
+    "website":[
+        "https://mybit.io/"
+    ],
+    "whitepaper":"https://mybit.io/docs/MyBit_Whitepaper_v0.9.pdf"
+}

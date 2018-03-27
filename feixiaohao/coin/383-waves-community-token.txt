@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Waves社区代币（WCT）的目的是为社区提供一个工具来更好地评估Waves平台上的众筹项目，并通过为WAVES持有者提供额外的收入来源以激励长期持有，这些收入...",
+    "id":383,
+    "name":"waves-community-token",
+    "name_cn":"－",
+    "name_en":"Waves Communi.../WCT",
+    "time":"－",
+    "website":[
+        "https://wavesplatform.com/"
+    ],
+    "whitepaper":"-"
+}

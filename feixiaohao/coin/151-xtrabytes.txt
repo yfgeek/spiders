@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://www.xtrabytes.info/",
+        "http://xbyblockchain.borzalom.hu/"
+    ],
+    "description":"XTRABYTES（XBY）是一款模块化区块链平台，旨在通过当前区块链技术提高安全性、可扩展性和去中心化。利用新创建的算法（Zolt）和共识机制，签名证明（Po...",
+    "id":151,
+    "name":"xtrabytes",
+    "name_cn":"－",
+    "name_en":"XtraBYtes/XBY",
+    "time":"－",
+    "website":[
+        "https://www.xtrabytes.global/"
+    ],
+    "whitepaper":"https://xtrabytes.global/whitepaper.pdf"
+}

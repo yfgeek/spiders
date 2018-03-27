@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://blockexperts.com/dope"
+    ],
+    "description":"发布于2014年2月11日，Scrypt算法，60秒每块，10-100个每块，共计10亿个。",
+    "id":474,
+    "name":"dopecoin",
+    "name_cn":"麻叶币",
+    "name_en":"DopeCoin/DOPE",
+    "time":"－",
+    "website":[
+        "http://www.dopecoin.com/"
+    ],
+    "whitepaper":"-"
+}

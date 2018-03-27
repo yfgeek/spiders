@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://chain.sibcoin.net/"
+    ],
+    "description":"SibCoin，作为达世币的分支，起源于寒冷却富饶的西伯利亚，正从西伯利亚这片土地开始寻求更广阔的天地。在其闪电般地征服了西伯利亚之后，如今，这个被称为“西伯利...",
+    "id":289,
+    "name":"sibcoin",
+    "name_cn":"西伯利亚金币",
+    "name_en":"SIBCoin/SIB",
+    "time":"－",
+    "website":[
+        "https://sibcoin.money/",
+        "http://sibcoin.org"
+    ],
+    "whitepaper":"-"
+}

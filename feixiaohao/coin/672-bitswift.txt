@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://bitswift.network/"
+    ],
+    "description":"Bitswift于2014年9月30日诞生了它的第一个公共区块。Bitswift的理念是在创建一个更快的比特 币协议版本，在超低的网络费用基础上运用区块链技术为...",
+    "id":672,
+    "name":"bitswift",
+    "name_cn":"飞速币",
+    "name_en":"Bitswift/SWIFT",
+    "time":"－",
+    "website":[
+        "http://bitswift.io/"
+    ],
+    "whitepaper":"-"
+}

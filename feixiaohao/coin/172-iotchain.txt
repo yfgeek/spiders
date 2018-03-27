@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"ITC（万物链）是一种基于区块链的安全物联网轻操作系统。ITC（万物链）解决方案融合了区块链技术，结合密码学非对称加密技术，半同态加密密文计算技术，以及无数据中...",
+    "id":172,
+    "name":"iotchain",
+    "name_cn":"万物链",
+    "name_en":"IoT Chain/ITC",
+    "time":"2017-12-01",
+    "website":[
+        "https://iotchain.io/"
+    ],
+    "whitepaper":"https://iotchain.io/pdf/ITCWHITEPAPER.pdf"
+}

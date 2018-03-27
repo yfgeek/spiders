@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://www.mynxt.info/blockexplorer/",
+        "https://nxtportal.org/",
+        "http://www.peerexplorer.com/"
+    ],
+    "description":"NXT是一个开源的加密平台，具有分散的非公司结构。它与Linux操作系统有许多相似之处，特别是在支持开放源代码和组织结构方面。NXT核心代码由开发商BCNext...",
+    "id":81,
+    "name":"nxt",
+    "name_cn":"未来币",
+    "name_en":"Nxt/NXT",
+    "time":"2013-11-24",
+    "website":[
+        "https://nxt.org/"
+    ],
+    "whitepaper":"http://www.nxtcommunity.org/nxt-whitepaper"
+}

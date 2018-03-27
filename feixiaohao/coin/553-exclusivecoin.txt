@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://www.cryptobe.com/chain/ExclusiveCoin",
+        "https://masternodes.online/currencies/EXCL/"
+    ],
+    "description":"ExclusiveCoin是一种重视您的隐私也易于使用的加密货币。",
+    "id":553,
+    "name":"exclusivecoin",
+    "name_cn":"－",
+    "name_en":"ExclusiveCoin/EXCL",
+    "time":"－",
+    "website":[
+        "http://exclusivecoin.pw"
+    ],
+    "whitepaper":"-"
+}

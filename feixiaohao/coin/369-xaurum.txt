@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://etherscan.io/token/0x4DF812F6064def1e5e029f1ca858777CC98D2D81"
+    ],
+    "description":"Xaurum单位价值在黄金区块链,它代表了越来越多的黄金,可以兑换融化。 Xaurum黄金区块链是一个透明的分类帐帐户,占黄金属于Xaurum英联邦的分布,提供...",
+    "id":369,
+    "name":"xaurum",
+    "name_cn":"－",
+    "name_en":"Xaurum/XAUR",
+    "time":"－",
+    "website":[
+        "http://www.xaurum.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/FundYourselfNow",
+        "http://ethplorer.io/address/0x88FCFBc22C6d3dBaa25aF478C578978339BDe77a"
+    ],
+    "description":"FundYourself是一个筹资平台，允许项目创建者或发起人使用加密货币筹集资金，不需要相关的技术知识。",
+    "id":746,
+    "name":"fundyourselfnow",
+    "name_cn":"－",
+    "name_en":"FundYourselfN.../FYN",
+    "time":"2017-08-05",
+    "website":[
+        "https://www.fundyourselfnow.com/"
+    ],
+    "whitepaper":"https://www.fundyourselfnow.com/wp-content/uploads/2017/04/FYN-Business_Outline-2017.pdf"
+}

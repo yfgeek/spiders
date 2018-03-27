@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Pluton"
+    ],
+    "description":"Pluton是plutus代币，一款移动应用程序，将允许用户在非接触式支付终端上使用比特币支付。该技术基于以太坊平台，只要有 NFC支持的支付终端，即使在商家...",
+    "id":492,
+    "name":"pluton",
+    "name_cn":"－",
+    "name_en":"Pluton/PLU",
+    "time":"2016-01-04",
+    "website":[
+        "https://plutus.it/"
+    ],
+    "whitepaper":"https://plutus.it/assets/Plutus.it-White-Paper-v1.1.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/dot/"
+    ],
+    "description":"Dotcoin是Cryptopia交易所的平台币。Cryptopia交易所是一个数字货币交易平台。存款，交易和提取比特币，莱特币等超过400种其他加密货币。",
+    "id":494,
+    "name":"dotcoin",
+    "name_cn":"－",
+    "name_en":"Dotcoin/DOT",
+    "time":"－",
+    "website":[
+        "https://www.cryptopia.co.nz/"
+    ],
+    "whitepaper":"-"
+}

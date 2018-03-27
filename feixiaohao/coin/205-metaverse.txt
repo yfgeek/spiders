@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://explorer.mvs.org/",
+        "http://mymvs.info/"
+    ],
+    "description":"元界（Metaverse）是一个去中心化的公有区块链项目，元界生态的技术架构中包含了智能资产（Smart Property）、数字身份（Avatar）和价值中介...",
+    "id":205,
+    "name":"metaverse",
+    "name_cn":"元界",
+    "name_en":"Metaverse ETP/ETP",
+    "time":"－",
+    "website":[
+        "https://mvs.org/"
+    ],
+    "whitepaper":"http://newmetaverse.org/white-paper/Metaverse-white-paper-v2.1-CN.pdf"
+}

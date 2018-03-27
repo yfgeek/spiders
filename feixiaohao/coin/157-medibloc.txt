@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.qtum.org/token/QQvbcXesB5BbRF3niHcbsfgaJv85gbbuTs"
+    ],
+    "description":"MediBloc是为患者、医疗服务提供者和研究者服务的去中心化的医疗信息生态系统。MediBloc通过发行MED币，建立了患者、医疗服务提供者和研究者之间的信息...",
+    "id":157,
+    "name":"medibloc",
+    "name_cn":"－",
+    "name_en":"Medibloc/MED",
+    "time":"2017-12-23",
+    "website":[
+        "https://medibloc.org/en/"
+    ],
+    "whitepaper":"https://medibloc-homepage.oss-us-west-1.aliyuncs.com/whitepaper/medibloc_whitepaper_ch.pdf"
+}

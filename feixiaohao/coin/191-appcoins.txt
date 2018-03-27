@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"AppCoins是App Stores的开放的分布式协议，采用区块链技术和智能合同。AppCoins (APPC)代币拥有超过2亿的用户，是应用经济的新通用语言...",
+    "id":191,
+    "name":"appcoins",
+    "name_cn":"－",
+    "name_en":"AppCoins/APPC",
+    "time":"2018-01-08",
+    "website":[
+        "https://appcoins.io/"
+    ],
+    "whitepaper":"https://appcoins.io/pdf/appcoins_white_paper.pdf"
+}

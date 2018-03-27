@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.factom.org/"
+    ],
+    "description":"Factom利用比特币的区块链技术来革新商业社会和政府部门的数据管理和数据记录方式。利用区块链技术帮助各种各样应用程序的开发，包括审计系统，医疗信息记录，供应链...",
+    "id":59,
+    "name":"factom",
+    "name_cn":"公证通",
+    "name_en":"Factom/FCT",
+    "time":"2015-09-05",
+    "website":[
+        "http://factom.org/"
+    ],
+    "whitepaper":"-"
+}

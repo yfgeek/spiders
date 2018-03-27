@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockchain.elastos.org/"
+    ],
+    "description":"亦来云（Elastos）通过构建区块链驱动的智能万维网，实现大型去中心化应用运行和数字内容的安全、可信交易，打造开放、共享的亦来云智能经济生态。",
+    "id":64,
+    "name":"elastos",
+    "name_cn":"亦来云",
+    "name_en":"Elastos/ELA",
+    "time":"2018-02-01",
+    "website":[
+        "https://www.elastos.org/"
+    ],
+    "whitepaper":"https://www.elastos.org/static/file/elastos_whitepaper_v_0.2.pdf"
+}

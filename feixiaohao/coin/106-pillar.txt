@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xe3818504c1b32bf1557b16c238b2e01fd3149c17"
+    ],
+    "description":"Pillar项目将是持有用户资产的开源数字钱包，以加密货币开始，但是将拓展到用户的现金、资产、财务记录、医疗记录、简历等等很多。用户全部的所有权关系记录在不同的...",
+    "id":106,
+    "name":"pillar",
+    "name_cn":"－",
+    "name_en":"Pillar/PLR",
+    "time":"2017-07-25",
+    "website":[
+        "https://pillarproject.io/"
+    ],
+    "whitepaper":"https://pillarproject.io/wp-content/uploads/2017/07/PillarProjectGrayPaper.pdf"
+}

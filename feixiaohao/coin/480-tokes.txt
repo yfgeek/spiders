@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://wavesexplorer.com/tx/BDMRyZsmDZpgKhdM7fUTknKcUbVVkDpMcqEj31PUzjMy"
+    ],
+    "description":"Tokes平台提供了大麻行业的区块链解决方案。Tokes平台成立是为了通过加密货币支付解决合法大麻行业的银行问题,然而我们现在提供了软件解决方案用于支付处理和供...",
+    "id":480,
+    "name":"tokes",
+    "name_cn":"－",
+    "name_en":"Tokes/TKS",
+    "time":"－",
+    "website":[
+        "https://tokesplatform.org/"
+    ],
+    "whitepaper":"http://cannabisrevolution.us/CannabisRevolution_BusinessPlan_Whitepaper_v4_5.pdf"
+}

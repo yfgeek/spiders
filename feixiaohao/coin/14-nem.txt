@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://nembex.nem.ninja/",
+        "http://explorer.ournem.com"
+    ],
+    "description":"新经币（New Economy Movement，缩写 NEM），是一种点对点虚拟货币。2015年初发布，其源代码由Java编写并100%属于原创。NEM 广泛...",
+    "id":14,
+    "name":"nem",
+    "name_cn":"新经币",
+    "name_en":"NEM/XEM",
+    "time":"2015-04-01",
+    "website":[
+        "http://nem.io"
+    ],
+    "whitepaper":"-"
+}

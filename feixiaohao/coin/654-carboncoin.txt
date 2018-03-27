@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/carbon/"
+    ],
+    "description":"Carboncoin是比特币的节能安全版本，自2014年2月开始运行。简而言之，它是一种支付系统（用于通过互联网传输资金），用于资助对自然有益的事物。",
+    "id":654,
+    "name":"carboncoin",
+    "name_cn":"－",
+    "name_en":"Carboncoin/CARBON",
+    "time":"－",
+    "website":[
+        "http://carboncoin.cc"
+    ],
+    "whitepaper":"-"
+}

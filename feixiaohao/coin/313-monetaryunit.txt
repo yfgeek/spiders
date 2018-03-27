@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/mue/"
+    ],
+    "description":"Monetary Unit 创设于2014年7月，它是一个去中心化，可自我成长及 自我管理的加密货币项目，并具有长远的发展目标。 Monetary Unit 的...",
+    "id":313,
+    "name":"monetaryunit",
+    "name_cn":"－",
+    "name_en":"MonetaryUnit/MUE",
+    "time":"－",
+    "website":[
+        "http://www.monetaryunit.org"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"星云币（NAS）的总量为1亿个，在星云链发起团队主导下，依照项目开发计划和需求，将分批次通过售卖的形式把大部分星云币分配给社区。现已明确，首次面向社区影响力投资...",
+    "id":66,
+    "name":"nebulas",
+    "name_cn":"星云币",
+    "name_en":"Nebulas/NAS",
+    "time":"－",
+    "website":[
+        "https://nebulas.io/"
+    ],
+    "whitepaper":"https://nebulas.io/docs/NebulasTechnicalWhitepaperZh.pdf"
+}

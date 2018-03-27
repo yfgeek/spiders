@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0",
+        "https://ethplorer.io/address/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0"
+    ],
+    "description":"Ties.DB 致力于解决分布式应用程序的数据存储问题。是世界上第一个去中心化公共智能数据库。一个公共、分布式和去中心化的数据库有一个共同的主线:信任。它通过综...",
+    "id":381,
+    "name":"ties-network",
+    "name_cn":"－",
+    "name_en":"Ties.DB/TIE",
+    "time":"2017-11-10",
+    "website":[
+        "https://ties.network/",
+        "https://tiesdb.com/"
+    ],
+    "whitepaper":"-"
+}

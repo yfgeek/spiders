@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed",
+        "https://ethplorer.io/address/0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed"
+    ],
+    "description":"DCORP建立在区块链和一系列智能合约之上，旨在用一种自治，去中心化，民主的方案重构风险投资。DCORP管理他自己的代币(DRP)和ETH，每个DRP的持有者都...",
+    "id":523,
+    "name":"dcorp",
+    "name_cn":"－",
+    "name_en":"DCORP/DRP",
+    "time":"2017-11-10",
+    "website":[
+        "https://www.dcorp.it/"
+    ],
+    "whitepaper":"https://github.com/frankbonnet/DCORP-Whitepaper/blob/master/whitepaper%20v0.3.2_EN-revised.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://decent-db.com/"
+    ],
+    "description":"DECENT平台是一种基于区块链技术的数字内容发布开源协议，分散式自动运行组织，不受任何第三方干预。它由DECENT基金会发起设立，目标是为创意个人、作者、博主...",
+    "id":266,
+    "name":"decent",
+    "name_cn":"－",
+    "name_en":"DECENT/DCT",
+    "time":"2016-09-10",
+    "website":[
+        "https://decent.ch/"
+    ],
+    "whitepaper":"http://www.the-blockchain.com/docs/Decentralized%20Open-Source%20Content%20Distribution%20(DECENT)%20whitepaper.pdf"
+}

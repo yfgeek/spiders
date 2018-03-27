@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockexperts.com/blu"
+    ],
+    "description":"BlueCoin是一种点对点的虚拟货币，它允许用户通过加密的蓝牙网络进行审查。BlueCoin的特点是一种冷硬的算法，使持有者可以在他们的BlueCoin安全脱...",
+    "id":659,
+    "name":"bluecoin",
+    "name_cn":"－",
+    "name_en":"BlueCoin/BLU",
+    "time":"－",
+    "website":[
+        "http://www.bluecoin.io/"
+    ],
+    "whitepaper":"-"
+}

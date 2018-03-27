@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/gam/"
+    ],
+    "description":"Gambit 是一个为交易社区设计的实用代币。Gambit 最初是作为一个概念验证，由 CollinCrypto 在2015年3月发起,此后演变成最杰出加密货币...",
+    "id":447,
+    "name":"gambit",
+    "name_cn":"－",
+    "name_en":"Gambit/GAM",
+    "time":"－",
+    "website":[
+        "http://www.gambitcrypto.com"
+    ],
+    "whitepaper":"-"
+}

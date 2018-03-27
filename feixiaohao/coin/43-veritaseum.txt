@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+        "https://ethplorer.io/address/0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374"
+    ],
+    "description":"Veritaseum是一个聪明的合同,点对点的钱包接口(β),目前与比特币区块链(移植到Ethereum)。 它允许非技术快速创建个人和实体,直接输入和管理智能...",
+    "id":43,
+    "name":"veritaseum",
+    "name_cn":"－",
+    "name_en":"Veritaseum/VERI",
+    "time":"－",
+    "website":[
+        "http://veritas.veritaseum.com/"
+    ],
+    "whitepaper":"-"
+}

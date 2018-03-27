@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/crypt/"
+    ],
+    "description":"",
+    "id":640,
+    "name":"cryptcoin",
+    "name_cn":"－",
+    "name_en":"CryptCoin/CRYPT",
+    "time":"－",
+    "website":[
+        "http://cryptco.org/"
+    ],
+    "whitepaper":"-"
+}

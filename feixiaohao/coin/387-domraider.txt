@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab",
+        "https://ethplorer.io/address/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab"
+    ],
+    "description":"DomRaider网络是一个专门用于实时分散拍卖的开放源码区块链。它将是透明的，可靠的，适应性和互操作性，而不会影响速度。 DomRaider网络不仅旨在注册拍...",
+    "id":387,
+    "name":"domraider",
+    "name_cn":"－",
+    "name_en":"DomRaider/DRT",
+    "time":"2017-10-20",
+    "website":[
+        "https://www.domraider.io/"
+    ],
+    "whitepaper":"-"
+}

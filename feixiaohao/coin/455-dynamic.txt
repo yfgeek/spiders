@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://dyn.blocksandchain.com/"
+    ],
+    "description":"Duality 提供区块链即服务（BaaS）来帮助改造现有和新兴市场。可扩展的生态系统使企业能够通过降低数据管理的开销和复杂性来提高安全性，高效性和互操作性。",
+    "id":455,
+    "name":"dynamic",
+    "name_cn":"－",
+    "name_en":"Dynamic/DYN",
+    "time":"－",
+    "website":[
+        "https://duality.solutions/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/AdToken",
+        "https://ethplorer.io/address/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd"
+    ],
+    "description":"专注于构建一个第一的去中心化分散组织和效力于知名且有声誉的出版商。adtoken代币持有人将会一起建立数字广告行业新标准。\n",
+    "id":280,
+    "name":"adtoken",
+    "name_cn":"－",
+    "name_en":"adToken/ADT",
+    "time":"2017-07-03",
+    "website":[
+        "https://adtoken.com/"
+    ],
+    "whitepaper":"https://adtoken.com/white-paper/"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be",
+        "https://ethplorer.io/address/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be"
+    ],
+    "description":"Credo 是基于区块链的垃圾邮件过滤及邮件收发解决方案。试图建立一个电邮收发的新市场，在这里邮件发送者给不认识的接收者发邮件时支付一定的费用，以让这个邮件被接...",
+    "id":341,
+    "name":"credo",
+    "name_cn":"－",
+    "name_en":"Credo/CREDO",
+    "time":"2017-09-14",
+    "website":[
+        "https://bitbounce.com/credo"
+    ],
+    "whitepaper":"-"
+}

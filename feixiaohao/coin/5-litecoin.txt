@@ -1,0 +1,18 @@
+{
+    "blockchain":[
+        "http://explorer.litecoin.net/chain/Litecoin",
+        "https://chainz.cryptoid.info/ltc/",
+        "https://live.blockcypher.com/ltc/"
+    ],
+    "description":"莱特币Litecoin（简写：LTC，货币符号：Ł）是一种基于“点对点”(peer-to-peer)技术的网络货币，也是MIT/X11许可下的一个开源软件项目。...",
+    "id":5,
+    "name":"litecoin",
+    "name_cn":"莱特币",
+    "name_en":"Litecoin/LTC",
+    "time":"2011-11-09",
+    "website":[
+        "https://litecoin.com",
+        "https://litecoin.org/"
+    ],
+    "whitepaper":"-"
+}

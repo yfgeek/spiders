@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"ZrCoin是第一个用于投资供应短缺的工业材料生产的区块链期权。ZrCoin没有通胀和密码学货币的波动性。因此是保值和投资增长的可靠工具。早期阶段投资ZrCoi...",
+    "id":576,
+    "name":"zrcoin",
+    "name_cn":"－",
+    "name_en":"ZrCoin (Pre-L.../ZRC",
+    "time":"2017-06-17",
+    "website":[
+        "https://zrcoin.io/"
+    ],
+    "whitepaper":"https://zrcoin.io/files/Whitepaper_ENG.pdf"
+}

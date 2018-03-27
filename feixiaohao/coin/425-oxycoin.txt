@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.oxycoin.io/"
+    ],
+    "description":"OXYCOIN移动平台使投资者可以直接使用FIAT（即美元或欧元）直接购买加密货币，管理所有的钱包和密码，实现一个用户友好的全球通讯簿。\t\t\t\t",
+    "id":425,
+    "name":"oxycoin",
+    "name_cn":"－",
+    "name_en":"Oxycoin/OXY",
+    "time":"2017-11-11",
+    "website":[
+        "https://oxycoin.io/"
+    ],
+    "whitepaper":"https://oxycoin.io/whitepaper.pdf"
+}

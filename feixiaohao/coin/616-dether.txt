@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190",
+        "https://ethplorer.io/address/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190"
+    ],
+    "description":"",
+    "id":616,
+    "name":"dether",
+    "name_cn":"－",
+    "name_en":"Dether/DTH",
+    "time":"2018-02-16",
+    "website":[
+        "https://dether.io/"
+    ],
+    "whitepaper":"https://whitepaper.dether.io/zh/"
+}

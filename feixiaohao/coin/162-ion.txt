@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/ion/"
+    ],
+    "description":"Ionomy是为游戏开发者而建造的。 鼓励潜在的开发者在他们项目周期的早期阶段使用该平台。 ionomy.com 提供了一个社交和软件平台，可以从中启动一个项目...",
+    "id":162,
+    "name":"ion",
+    "name_cn":"－",
+    "name_en":"ION/ION",
+    "time":"－",
+    "website":[
+        "https://ionomy.com/"
+    ],
+    "whitepaper":"https://ionomy.com/about/whitepaper"
+}

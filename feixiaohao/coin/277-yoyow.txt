@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xcbeaec699431857fdb4d37addbbdc20e132d4903",
+        "https://ethplorer.io/address/0xcbeaec699431857fdb4d37addbbdc20e132d4903"
+    ],
+    "description":"YOYOW是一个基于区块链技术的内容创造和分享平台，名字来自\"You Own Your Own Words\"，通过奖励有价值的内容，建设优质...",
+    "id":277,
+    "name":"yoyow",
+    "name_cn":"－",
+    "name_en":"YOYOW/YOYOW",
+    "time":"2017-08-20",
+    "website":[
+        "https://yoyow.org/"
+    ],
+    "whitepaper":"https://yoyow.org/files/white-paper2.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://gravit.ws/"
+    ],
+    "description":"",
+    "id":724,
+    "name":"oceanlab",
+    "name_cn":"－",
+    "name_en":"Oceanlab/OCL",
+    "time":"2017-09-14",
+    "website":[
+        "https://www.oceanlab.eu/"
+    ],
+    "whitepaper":"https://docs.google.com/document/d/19dcdfQs40PTm3U57MK0mUCcWAHmoGroSJneJuKQFKo4"
+}

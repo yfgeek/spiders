@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://memetic.thecryptochat.net/",
+        "http://explorer.memetic.ai/"
+    ],
+    "description":"模因是一种开放源代码对等体的加密机制，Memetic将memecoin类型带入下一个级别，加上创新功能和真实应用程序，模因不仅是一种电子分散加密图像存储，也是其...",
+    "id":561,
+    "name":"memetic",
+    "name_cn":"模因",
+    "name_en":"Memetic/MEME",
+    "time":"－",
+    "website":[
+        "https://memetic.ai/"
+    ],
+    "whitepaper":"-"
+}

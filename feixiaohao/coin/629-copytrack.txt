@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf44745fbd41f6a1ba151df190db0564c5fcc4410",
+        "https://ethplorer.io/address/0xf44745fbd41f6a1ba151df190db0564c5fcc4410"
+    ],
+    "description":"COPYTRACK的核心是创建一个去中心化的数位创作版权注册系统，对数位作品的知识产权进行认证和链接。 这个注册管理系统将为著作权持有者创造一个独特的生态系统，...",
+    "id":629,
+    "name":"copytrack",
+    "name_cn":"－",
+    "name_en":"Copytrack/CPY",
+    "time":"2018-02-24",
+    "website":[
+        "https://copytrack.io/"
+    ],
+    "whitepaper":"-"
+}

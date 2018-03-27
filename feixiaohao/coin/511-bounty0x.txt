@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd2d6158683aee4cc838067727209a0aaf4359de3",
+        "https://ethplorer.io/address/0xd2d6158683aee4cc838067727209a0aaf4359de3"
+    ],
+    "description":"Bounty0x 是一个分布式架构的赏金管理平台，提供了一个基于staking和burning token 报酬概念的意见审查系统。在Bounty0x网络社群里...",
+    "id":511,
+    "name":"bounty0x",
+    "name_cn":"－",
+    "name_en":"Bounty0x/BNTY",
+    "time":"2017-12-27",
+    "website":[
+        "https://bounty0x.io/"
+    ],
+    "whitepaper":"https://bounty0x.io/whitepaper.pdf"
+}

@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://nexusoft.io/platform/Explorer",
+        "http://nxs.efficienthash.com/",
+        "http://nxsorbitalscan.com/"
+    ],
+    "description":"高效和可扩展建立和发展自己专属数据库，称为底层数据库（LLD）。它可以通过有机扩展来处理日益增长的交易，从而大大提高速度和处理能力。增强安全性Nexus采取了预...",
+    "id":105,
+    "name":"nexus",
+    "name_cn":"－",
+    "name_en":"Nexus/NXS",
+    "time":"－",
+    "website":[
+        "http://www.nexusearth.com/"
+    ],
+    "whitepaper":"-"
+}

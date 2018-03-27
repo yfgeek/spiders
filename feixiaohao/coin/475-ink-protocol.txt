@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xbc86727e770de68b1060c91f6bb6945c73e10388",
+        "https://ethplorer.io/address/0xbc86727e770de68b1060c91f6bb6945c73e10388"
+    ],
+    "description":"",
+    "id":475,
+    "name":"ink-protocol",
+    "name_cn":"－",
+    "name_en":"Ink Protocol/XNK",
+    "time":"2018-03-01",
+    "website":[
+        "https://paywithink.com"
+    ],
+    "whitepaper":"https://paywithink.com/wp-content/uploads/2018/02/Ink_Protocol_Whitepaper_V8_Listia_Inc.pdf"
+}

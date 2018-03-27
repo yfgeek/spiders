@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://boschain.org/",
+        "https://bosradar.com/"
+    ],
+    "description":"BOScoin是一个使用了数据区块链及其它多项新技术，能够规避去中心化系统弊端的加密货币。（1）Trust Contracts是一个基于Owlchain的，拥有...",
+    "id":142,
+    "name":"boscoin",
+    "name_cn":"－",
+    "name_en":"BOScoin/BOS",
+    "time":"2017-10-27",
+    "website":[
+        "https://boscoin.io/"
+    ],
+    "whitepaper":"https://boscoin.io/wp-content/themes/boscoin/src/pdf/BOScoinWhitePaper_CN.pdf"
+}

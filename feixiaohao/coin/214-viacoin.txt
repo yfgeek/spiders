@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/via/"
+    ],
+    "description":"维尔币总量有9200万。初始的1000万仅通过预售分发，不向开发人员分配预挖币。剩下的8200万VIA 将作为区块奖励在未来 24 年进行分发。维尔币当前正在接...",
+    "id":214,
+    "name":"viacoin",
+    "name_cn":"维尔币",
+    "name_en":"Viacoin/VIA",
+    "time":"2014-07-20",
+    "website":[
+        "http://viacoin.org"
+    ],
+    "whitepaper":"-"
+}

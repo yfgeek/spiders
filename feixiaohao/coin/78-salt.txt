@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4156D3342D5c385a87D264F90653733592000581",
+        "https://ethplorer.io/address/0x4156d3342d5c385a87d264f90653733592000581"
+    ],
+    "description":"SALT是一个基于会员的贷款和借款网络，允许用户利用其区块链资产来确保现金贷款。在SALT平台上，用户可以使用他们的数字货币作为抵押品获得贷款。使用SALT，用...",
+    "id":78,
+    "name":"salt",
+    "name_cn":"－",
+    "name_en":"SALT/SALT",
+    "time":"2017-09-30",
+    "website":[
+        "https://www.saltlending.com/"
+    ],
+    "whitepaper":"-"
+}

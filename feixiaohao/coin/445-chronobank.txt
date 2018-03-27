@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/TIME"
+    ],
+    "description":"ChronoBank.io是一个宏大而广泛的区块链项目，旨在颠覆人力资源/招聘/金融行业，就像优步颠覆出租车行业以及Upwork代表着自由职业革新一样。Chr...",
+    "id":445,
+    "name":"chronobank",
+    "name_cn":"－",
+    "name_en":"Chronobank/TIME",
+    "time":"2016-12-15",
+    "website":[
+        "https://chronobank.io/"
+    ],
+    "whitepaper":"https://chronobank.io/files/whitepaper.pdf"
+}

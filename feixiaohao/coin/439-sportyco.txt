@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef",
+        "https://ethplorer.io/address/0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef"
+    ],
+    "description":"当今的职业体育进入壁垒较高，既为运动员也为小投资者。特别是即将到来的运动员于职业生涯一开始就面临资助其训练和参与全球活动的许多问题。另外，许多体育俱乐部与其他体...",
+    "id":439,
+    "name":"sportyco",
+    "name_cn":"－",
+    "name_en":"Sportyco/SPF",
+    "time":"2017-12-14",
+    "website":[
+        "https://www.sportyco.io/"
+    ],
+    "whitepaper":"https://sportyco.io/SPORTYFI-Whitepaper.pdf"
+}

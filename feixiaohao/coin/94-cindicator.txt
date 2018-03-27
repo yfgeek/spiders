@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd4c435f5b09f855c3317c8524cb1f586e42795fa",
+        "https://ethplorer.io/address/0xd4c435f5b09f855c3317c8524cb1f586e42795fa"
+    ],
+    "description":"Cindicator在新型经济高度不确定的情况下创造社会-技术基础设施，做出有效决策。将大量的不同类别金融分析师和全套机器培训模型结合到统一体系，并为能有效管理...",
+    "id":94,
+    "name":"cindicator",
+    "name_cn":"－",
+    "name_en":"Cindicator/CND",
+    "time":"2017-10-14",
+    "website":[
+        "https://cindicator.com/"
+    ],
+    "whitepaper":"https://cindicator.com/Cindicator_WhitePaper_en.pdf"
+}

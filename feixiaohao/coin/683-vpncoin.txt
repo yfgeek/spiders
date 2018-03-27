@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockexperts.com/vpn"
+    ],
+    "description":"VPNCOIN，代理币，是一个采用scrypt加密技术的数字货币，它是第一款实用型商业化的虚拟货币，它集成了VPN代理上网功能，它集成了VPN代理与被代理上网功...",
+    "id":683,
+    "name":"vpncoin",
+    "name_cn":"代理币",
+    "name_en":"VPNCoin/VASH",
+    "time":"－",
+    "website":[
+        "http://www.bitnet.cc/"
+    ],
+    "whitepaper":"-"
+}

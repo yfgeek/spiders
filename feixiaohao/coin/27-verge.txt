@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://verge-blockchain.info/"
+    ],
+    "description":"Verge是基于比特币技术的开源加密货币。它最初是在2014年推出的。由于快速增长的社区，货币迅速流行。Verge提供了吸引世界各地用户的各个方面。多算法硬币。...",
+    "id":27,
+    "name":"verge",
+    "name_cn":"－",
+    "name_en":"Verge/XVG",
+    "time":"2014-10-09",
+    "website":[
+        "http://vergecurrency.com/"
+    ],
+    "whitepaper":"https://vergecurrency.com/assets/Verge-Anonymity-Centric-CryptoCurrency.pdf"
+}

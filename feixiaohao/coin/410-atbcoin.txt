@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.atbcoin.com/"
+    ],
+    "description":"",
+    "id":410,
+    "name":"atbcoin",
+    "name_cn":"－",
+    "name_en":"ATBCoin/ATB",
+    "time":"2017-09-20",
+    "website":[
+        "https://atbcoin.com/"
+    ],
+    "whitepaper":"https://atbcoin.com/whitepaper-en/"
+}

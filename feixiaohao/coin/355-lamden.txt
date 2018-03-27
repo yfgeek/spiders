@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xc27a2f05fa577a83ba0fdb4c38443c0718356501",
+        "https://ethplorer.io/address/0xc27a2f05fa577a83ba0fdb4c38443c0718356501"
+    ],
+    "description":"Lamden是一款包含数据区块链生成器、社区协作工具和创造大量数据区块链应用网络使其能在这些网络之间转移任何资产的独立区块链和区块链通信开发工具软件包。",
+    "id":355,
+    "name":"lamden",
+    "name_cn":"－",
+    "name_en":"Lamden/TAU",
+    "time":"2018-01-05",
+    "website":[
+        "https://lamden.io/"
+    ],
+    "whitepaper":"https://lamden.io/Whitepaper"
+}

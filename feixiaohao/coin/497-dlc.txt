@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://exprolrer.12lian.com/cn/"
+    ],
+    "description":"DLC是chaoex.com的平台币",
+    "id":497,
+    "name":"dlc",
+    "name_cn":"蝶链币",
+    "name_en":"DLC/DLC",
+    "time":"－",
+    "website":[
+        "https://www.chaoex.com/"
+    ],
+    "whitepaper":"-"
+}

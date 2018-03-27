@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/dnr/",
+        "http://denarius.name/",
+        "https://denariusexplorer.org/"
+    ],
+    "description":"Denarius是一种基于比特币核心代码的加密货币。",
+    "id":524,
+    "name":"denarius-dnr",
+    "name_cn":"－",
+    "name_en":"Denarius/DNR",
+    "time":"2017-07-03",
+    "website":[
+        "https://denarius.io/"
+    ],
+    "whitepaper":"-"
+}

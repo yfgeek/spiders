@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x286bda1413a2df81731d4930ce2f862a35a609fe",
+        "https://ethplorer.io/address/0x286bda1413a2df81731d4930ce2f862a35a609fe"
+    ],
+    "description":"WaBi项目是一个基于区块链技术，保护消费品不被假冒的防伪系统。这是一个相互作用的系统，生产者、消费者以及负责组织的中间人一起为每个产品的独特性和安全性提供保障...",
+    "id":203,
+    "name":"wabi",
+    "name_cn":"蛙币",
+    "name_en":"WaBi/WABI",
+    "time":"2017-12-13",
+    "website":[
+        "https://wacoin.io/"
+    ],
+    "whitepaper":"http://resources.wacoin.io/WaBI_Whitepaper_ENG.pdf"
+}

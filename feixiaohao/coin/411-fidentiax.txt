@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x52a7cb918c11a16958be40cba7e31e32a499a465",
+        "https://ethplorer.io/address/0x52a7cb918c11a16958be40cba7e31e32a499a465"
+    ],
+    "description":"利用区块链技术为大众创造一个可交易的保险市场。通过一个透明，公平和高效的平台，为现有保单持有人提供流动性替代方案，从而实现其现有保单的代币化。为买家提供安全的交...",
+    "id":411,
+    "name":"fidentiax",
+    "name_cn":"－",
+    "name_en":"FidentiaX/FDX",
+    "time":"2018-01-03",
+    "website":[
+        "https://www.fidentiax.com/"
+    ],
+    "whitepaper":"https://www.fidentiax.com/webfiles/1513527048626/pdf/web/viewer_cn.html"
+}

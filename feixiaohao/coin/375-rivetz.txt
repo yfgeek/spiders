@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244",
+        "https://ethplorer.io/address/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244"
+    ],
+    "description":"Rivetz生态系统——提供移动端隐私的解决方案Rivetz是利用可信执行环境（TEE）来保护秘密、财务和隐私的最先进的工具包。它就像一个隐藏的保险库（已经嵌入...",
+    "id":375,
+    "name":"rivetz",
+    "name_cn":"－",
+    "name_en":"Rivetz/RVT",
+    "time":"2017-09-26",
+    "website":[
+        "https://rivetzintl.com/"
+    ],
+    "whitepaper":"https://rivetzintl.com/rvt-white-paper-1.02.pdf"
+}

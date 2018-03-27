@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://193.70.109.114:6005/",
+        "http://lindaminingpool.ddns.net/explorer/",
+        "http://137.74.211.49/"
+    ],
+    "description":"Linda 是一个动态匿名加密货币，提供了70％的 PoS 区块奖励，是一个支持多币种钱包，跨链原子交易，即时交易等特性。",
+    "id":318,
+    "name":"linda",
+    "name_cn":"－",
+    "name_en":"Linda/LINDA",
+    "time":"2017-07-16",
+    "website":[
+        "http://lindacoin.com/"
+    ],
+    "whitepaper":"-"
+}

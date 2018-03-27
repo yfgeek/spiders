@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5102791ca02fc3595398400bfe0e33d7b6c82267",
+        "https://ethplorer.io/address/0x5102791ca02fc3595398400bfe0e33d7b6c82267"
+    ],
+    "description":"LeadCoin是一个分散化潜在客户共享网络，让各企业能够出售他们未使用的潜在客户，并从其他企业购买迫切的潜在客户。LeadCoin网络架构获得区块链技术和以太...",
+    "id":458,
+    "name":"leadcoin",
+    "name_cn":"－",
+    "name_en":"Leadcoin/LDC",
+    "time":"2018-03-13",
+    "website":[
+        "https://www.leadcoin.network/"
+    ],
+    "whitepaper":"-"
+}

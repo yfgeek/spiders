@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/SAN",
+        "https://ethplorer.io/address/0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098"
+    ],
+    "description":"Santiment是一个区块链和加密行业的数据交流平台。Santiment数据平台展示了加密货币市场的真实状态，提供了内容流和一个透明的数据库，这是第一个由Co...",
+    "id":128,
+    "name":"santiment",
+    "name_cn":"－",
+    "name_en":"Santiment Network Token/SAN",
+    "time":"2017-07-13",
+    "website":[
+        "https://santiment.net/"
+    ],
+    "whitepaper":"https://docs.google.com/document/d/1hHmJQWrPrObSgCA8kTbk-4LgqGbYzukQAjtg5b8jwc0/edit"
+}

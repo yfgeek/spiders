@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x6ec8a24cabdc339a06a172f8223ea557055adaa5",
+        "balances"
+    ],
+    "description":"Genaro Network 是首个结合去中心化存储网络的图灵完备公有链，它为区块链开发人员提供了一站式解决方案，在部署智慧合约的同时，可以存储用户资料。同时，...",
+    "id":116,
+    "name":"genaro",
+    "name_cn":"－",
+    "name_en":"Genaro Network/GNX",
+    "time":"2017-12-18",
+    "website":[
+        "https://genaro.network/hk"
+    ],
+    "whitepaper":"https://genaro.network/hk/documentation/whitepaper"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://chain.breakoutcoin.com/BlockCrawler/block_crawler.php"
+    ],
+    "description":"BreakoutCoin是世界首个支持多种货币的支付系统，包括三种货币Breakout Coin(BRK)、Breakout Stake(BRX)和Siste...",
+    "id":586,
+    "name":"breakout",
+    "name_cn":"－",
+    "name_en":"Breakout/BRK",
+    "time":"2016-07-08",
+    "website":[
+        "http://www.breakoutcoin.com/",
+        "http://breakoutenterprise.com/"
+    ],
+    "whitepaper":"-"
+}

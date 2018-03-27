@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.lomocoin.com/"
+    ],
+    "description":"LMC全称LoMoCoin，是内置于邻萌宝APP的一种全新的数字货币（其底层技术是区块链技术）。\nLMC的价值支撑将由几部分组成，一是玩家实实在在的体力和时间的...",
+    "id":384,
+    "name":"lomocoin",
+    "name_cn":"邻萌宝",
+    "name_en":"LoMoCoin/LMC",
+    "time":"－",
+    "website":[
+        "http://www.lomostar.com/"
+    ],
+    "whitepaper":"-"
+}

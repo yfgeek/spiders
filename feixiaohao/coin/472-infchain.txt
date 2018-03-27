@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Infchain加密货币是一款点对点的分布式网络货币系统。讯链运营团队希望通过全球通信服务这个跨国界的，全球性的刚性服务，为虚拟数字资产，提供一个应用背书，不仅...",
+    "id":472,
+    "name":"infchain",
+    "name_cn":"－",
+    "name_en":"InfChain/INF",
+    "time":"2017-08-13",
+    "website":[
+        "http://www.infchain.com/index-en.html"
+    ],
+    "whitepaper":"-"
+}

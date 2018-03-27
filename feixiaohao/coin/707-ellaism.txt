@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://explorer.ellaism.org"
+    ],
+    "description":"Ellaism是一个纯净的合约平台，没有premine、没有开发费用，它的目标是建立一个公平的、值得信赖的智能合约平台。",
+    "id":707,
+    "name":"ellaism",
+    "name_cn":"－",
+    "name_en":"Ellaism/ELLA",
+    "time":"2017-10-31",
+    "website":[
+        "https://ellaism.org/",
+        "https://ellaism.io/"
+    ],
+    "whitepaper":"-"
+}

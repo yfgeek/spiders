@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://monawatch.ml/bitzeny/block_crawler.php"
+    ],
+    "description":"BitZeny 是一种可以直接在普通 PC 上挖矿的数字货币。像比特币或其他虚拟货币需要用于货币挖掘的专用设备才能挖矿， 但 BitZeny 你可以直接用你的电...",
+    "id":692,
+    "name":"bitzeny",
+    "name_cn":"－",
+    "name_en":"Bitzeny/ZNY",
+    "time":"－",
+    "website":[
+        "http://bitzeny.org/",
+        "https://bitzeny.info/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://dashboard.stellar.org/"
+    ],
+    "description":"恒星币（Stellar），一个由前瑞波币（Ripple）创始人Jed McCaleb发起的数字货币项目，用于搭建一个数字货币与法定货币之间传输的去中心化网关。将...",
+    "id":8,
+    "name":"stellar",
+    "name_cn":"恒星币",
+    "name_en":"Stellar/XLM",
+    "time":"2014-08-01",
+    "website":[
+        "https://www.stellar.org"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/SwarmCity"
+    ],
+    "description":"Swarm City 是一个基于区块链的共享 Dapp (分散应用)的平台。Swarm City 使人们能够以一种完全分散的点对点的方式进行交流和交易——没有中...",
+    "id":401,
+    "name":"swarm-city",
+    "name_cn":"－",
+    "name_en":"Swarm City/SWT",
+    "time":"－",
+    "website":[
+        "http://swarm.city/"
+    ],
+    "whitepaper":"-"
+}

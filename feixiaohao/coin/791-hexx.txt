@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/hxx/"
+    ],
+    "description":"",
+    "id":791,
+    "name":"hexx",
+    "name_cn":"－",
+    "name_en":"Hexx/HXX",
+    "time":"－",
+    "website":[
+        "http://hexxcoin.cash/"
+    ],
+    "whitepaper":"-"
+}

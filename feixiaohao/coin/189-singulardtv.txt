@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/SNGLS"
+    ],
+    "description":"SingularDTV是区块链智能合约技术支持的影视娱乐综合直销平台, 最终目标是建立并维护一个可靠的去中心化影视娱乐工业体系 。SingularDTV是全球性...",
+    "id":189,
+    "name":"singulardtv",
+    "name_cn":"－",
+    "name_en":"SingularDTV/SNGLS",
+    "time":"－",
+    "website":[
+        "https://singulardtv.com/",
+        "https://medium.com/@SingularDTV"
+    ],
+    "whitepaper":"https://coss.io/documents/white-papers/singulardtv.pdf"
+}

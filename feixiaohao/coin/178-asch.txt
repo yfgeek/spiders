@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.asch.io/"
+    ],
+    "description":"Asch是一个去中心化的应用平台，其设计初衷是为了降低开发者的门槛，比如使用javascript作为应用编程语言，支持关系数据库来存储交易数据，使得开发一个da...",
+    "id":178,
+    "name":"asch",
+    "name_cn":"阿希币",
+    "name_en":"Asch/XAS",
+    "time":"2016-08-16",
+    "website":[
+        "https://www.asch.io/"
+    ],
+    "whitepaper":"http://asch-public.oss-cn-beijing.aliyuncs.com/asch.io/Asch-whitepaper-zh.pdf"
+}

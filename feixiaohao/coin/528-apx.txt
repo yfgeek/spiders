@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"APX 将成为 Ubiq 网络上发布的ERC20。 Ubiq 号称是以太坊的替代品，具有较低的通货膨胀率和一些技术改进。在 Ethereum Classic之后...",
+    "id":528,
+    "name":"apx",
+    "name_cn":"－",
+    "name_en":"APX/APX",
+    "time":"－",
+    "website":[
+        "https://apxv.org/"
+    ],
+    "whitepaper":"-"
+}

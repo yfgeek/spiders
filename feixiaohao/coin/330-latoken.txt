@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf",
+        "https://ethplorer.io/address/0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf"
+    ],
+    "description":"LAToken改变虚拟货币市场，让虚拟货币持有者更加容易地得到与真实资产价格相连的虚拟代币。",
+    "id":330,
+    "name":"latoken",
+    "name_cn":"－",
+    "name_en":"LAToken/LA",
+    "time":"2017-10-26",
+    "website":[
+        "https://sale.latoken.com/"
+    ],
+    "whitepaper":"-"
+}

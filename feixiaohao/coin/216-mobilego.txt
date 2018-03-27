@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x40395044Ac3c0C57051906dA938B54BD6557F212",
+        "http://www.wavesgo.com/assets.html?2Y8eFFXDTkxgCvXbMT5K4J38cpDYYbQdciJEZb48vTDj"
+    ],
+    "description":"GameCredits Inc.是一家拥有多元文化的国际公司，汇集了区块链与游戏方面的专家。该公司旨在改善玩家体验，并且完善整个游戏行业。Gamecredits...",
+    "id":216,
+    "name":"mobilego",
+    "name_cn":"－",
+    "name_en":"MobileGo/MGO",
+    "time":"2017-04-25",
+    "website":[
+        "https://mobilego.io/"
+    ],
+    "whitepaper":"https://mobilego.io/pdf/MobileGo-Whitepaper.pdf"
+}

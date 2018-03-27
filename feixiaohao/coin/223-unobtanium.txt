@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/uno/"
+    ],
+    "description":"Uno是一种独特的低通胀，稀缺，公平发布以及分配SHA256算法的工作量证明加密货币。仅有25万Uno将在接下来的300年被挖出。Uno和比特币混合挖矿，能够...",
+    "id":223,
+    "name":"unobtanium",
+    "name_cn":"超导币",
+    "name_en":"Unobtanium/UNO",
+    "time":"－",
+    "website":[
+        "http://unobtanium.uno"
+    ],
+    "whitepaper":"-"
+}

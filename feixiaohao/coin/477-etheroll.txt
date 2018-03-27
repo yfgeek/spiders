@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x2e071D2966Aa7D8dECB1005885bA1977D6038A65"
+    ],
+    "description":"Etheroll 是一个以太坊智能合约，用于在没有存款或注册的情况下使用 Ether 投注我们公平的骰子游戏。",
+    "id":477,
+    "name":"etheroll",
+    "name_cn":"－",
+    "name_en":"Etheroll/DICE",
+    "time":"－",
+    "website":[
+        "https://etheroll.com/",
+        "https://etheroll.wordpress.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x106aa49295b525fcf959aa75ec3f7dcbf5352f1c",
+        "https://ethplorer.io/address/0x106aa49295b525fcf959aa75ec3f7dcbf5352f1c"
+    ],
+    "description":"",
+    "id":210,
+    "name":"rock",
+    "name_cn":"－",
+    "name_en":"Rock/RKT",
+    "time":"2018-03-01",
+    "website":[
+        "https://gbx.gi/"
+    ],
+    "whitepaper":"-"
+}

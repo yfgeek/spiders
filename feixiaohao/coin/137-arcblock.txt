@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/address/0xb98d4c97425d9908e66e53a6fdf673acca0be986"
+    ],
+    "description":"区块基石（ArcBlock）是一个专门用于开发和部署去中心化区块链应用的服务平台和一个多方参与形成的生态系统，旨在解决目前区块链应用领域的几个普遍存在的、阻碍区...",
+    "id":137,
+    "name":"arcblock",
+    "name_cn":"区块基石",
+    "name_en":"ArcBlock/ABT",
+    "time":"2018-02-27",
+    "website":[
+        "https://www.arcblock.io/"
+    ],
+    "whitepaper":"https://www.arcblock.io/file/whitepaper/WhitePaperEnV2_en-US.pdf?v=4"
+}

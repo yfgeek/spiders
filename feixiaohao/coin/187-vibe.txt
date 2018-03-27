@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xe8ff5c9c75deb346acac493c463c8950be03dfba",
+        "https://ethplorer.io/address/0xe8ff5c9c75deb346acac493c463c8950be03dfba"
+    ],
+    "description":"VIBEHub是一个能够创建虚拟现实（VR）市场的技术平台，用户买卖体验远超传统技术。所有事务都可以在hubs上通过VIBE代币实现。VIBEHub与传统虚拟现...",
+    "id":187,
+    "name":"vibe",
+    "name_cn":"－",
+    "name_en":"VIBEHub/VIBE",
+    "time":"2017-09-26",
+    "website":[
+        "https://www.vibehub.io/"
+    ],
+    "whitepaper":"https://www.vibehub.io/VibeHubWhitepaper2017.pdf"
+}

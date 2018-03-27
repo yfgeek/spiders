@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/tes/"
+    ],
+    "description":"Teslacoin中文名特斯拉币，显卡挖矿，总量7.34亿，采用国际最流行的SCRYPT算法，每60秒产生一个确认块，每块含800TES，30天后产量减少50%...",
+    "id":649,
+    "name":"teslacoin",
+    "name_cn":"特斯拉币",
+    "name_en":"TeslaCoin/TES",
+    "time":"－",
+    "website":[
+        "http://tesla-coin.com/"
+    ],
+    "whitepaper":"-"
+}

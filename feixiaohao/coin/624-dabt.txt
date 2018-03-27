@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/tokens"
+    ],
+    "description":"大数据智能币是大数据智链上的应用流通代币，以下简称DABT。DABT可用于支付大数据智能链的所有产品及服务费用。大数据智能币，在募集周期内投资获得，在募集结束后...",
+    "id":624,
+    "name":"dabt",
+    "name_cn":"大数据智能币",
+    "name_en":"DABT/DABT",
+    "time":"2017-12-01",
+    "website":[
+        "http://www.goetcc.com/"
+    ],
+    "whitepaper":"http://www.goetcc.com/files/DABICO_WhitePaper.pdf"
+}

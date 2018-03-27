@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/StatusNetwork"
+    ],
+    "description":"SNT(Status) Status是一个开源的聊天平台和支持以太坊上面的去中心化应用（dApp）的移动浏览器。在2017年6月22日开始的ICO因热度太高造成...",
+    "id":46,
+    "name":"status",
+    "name_cn":"－",
+    "name_en":"Status/SNT",
+    "time":"2017-06-29",
+    "website":[
+        "http://status.im/"
+    ],
+    "whitepaper":"https://status.im/whitepaper.pdf"
+}

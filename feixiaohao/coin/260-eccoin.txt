@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/ecc/",
+        "https://cryptobe.com/chain/E-CurrencyCoin"
+    ],
+    "description":"ECC 是一个开源，创新的多链平台。我们的网络运作着一个财务核心，它不仅可以作为货币转移平台，而且还可以作为未来商业技术的坚实基础设施。所有的多链式服务都是以对...",
+    "id":260,
+    "name":"eccoin",
+    "name_cn":"－",
+    "name_en":"E-Currency Coin/ECC",
+    "time":"－",
+    "website":[
+        "https://ecc.network/"
+    ],
+    "whitepaper":"https://ecc.network/downloads/documents/ecc-whitepaper.pdf"
+}

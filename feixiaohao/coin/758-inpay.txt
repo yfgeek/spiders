@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.inpay.tech/"
+    ],
+    "description":"",
+    "id":758,
+    "name":"inpay",
+    "name_cn":"－",
+    "name_en":"Inpay/INPAY",
+    "time":"－",
+    "website":[
+        "https://inpay.tech/"
+    ],
+    "whitepaper":"-"
+}

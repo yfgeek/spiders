@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/slr/"
+    ],
+    "description":"SolarCoin是一种用来刺激太阳能生产的生态加密货币。该货币于2014年发布，并有望刺激生产97500太瓦并能够使用将近40年的太阳能。最初是用于概念验证系...",
+    "id":363,
+    "name":"solarcoin",
+    "name_cn":"－",
+    "name_en":"SolarCoin/SLR",
+    "time":"－",
+    "website":[
+        "http://solarcoin.org/"
+    ],
+    "whitepaper":"-"
+}

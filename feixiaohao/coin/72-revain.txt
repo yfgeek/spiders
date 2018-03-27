@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x48f775efbe4f5ece6e0df2f7b5932df56823b990",
+        "https://ethplorer.io/address/0x48f775efbe4f5ece6e0df2f7b5932df56823b990"
+    ],
+    "description":"Revain是基于块链接技术的新代评论平台。本技术不容许把评论编辑或删除. 评论的作者能取到报酬。",
+    "id":72,
+    "name":"revain",
+    "name_cn":"－",
+    "name_en":"Revain/R",
+    "time":"2017-11-02",
+    "website":[
+        "https://revain.org/"
+    ],
+    "whitepaper":"http://revain.org/pdf/wp/en-wp.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee",
+        "https://ethplorer.io/address/0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee"
+    ],
+    "description":"EchoLink - EKO 是以区块链技术为基础的教育，技能，与职业经历信息平台。基于区块链技术的不可篡改性和时间戳功能，EchoLink - EKO 为用人...",
+    "id":440,
+    "name":"echolink",
+    "name_cn":"－",
+    "name_en":"EchoLink/EKO",
+    "time":"2018-01-15",
+    "website":[
+        "https://echolink.info/"
+    ],
+    "whitepaper":"https://echolink.info/public/docs/EchoLink-EKO_CNJan2018.pdf"
+}

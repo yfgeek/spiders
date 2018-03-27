@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0",
+        "https://ethplorer.io/address/0x4355fc160f74328f9b383df2ec589bb3dfd82ba0"
+    ],
+    "description":"世界上第一个基于Etherum和IPFS的去中心化音乐平台。Opus平台的逻辑层基于以太坊区块链，并使用IPFS文件系统——一个分布式文件存储对等网络作为存储层...",
+    "id":534,
+    "name":"opus",
+    "name_cn":"－",
+    "name_en":"Opus/OPT",
+    "time":"2017-08-30",
+    "website":[
+        "http://opus-foundation.org/"
+    ],
+    "whitepaper":"http://opus-foundation.com/whitepaper.pdf"
+}

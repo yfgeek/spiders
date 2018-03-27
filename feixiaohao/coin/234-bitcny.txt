@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/a/CNY"
+    ],
+    "description":"比特元（BitCNY） 是BitShares平台上的一个资产，可以通过BitShares钱包转账和交易，也可以通过比特儿交易平台转账和交易。",
+    "id":234,
+    "name":"bitcny",
+    "name_cn":"比特元",
+    "name_en":"bitCNY/BITCNY",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

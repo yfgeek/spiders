@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/blk/"
+    ],
+    "description":"BlackCoin黑币是采用POW+POS方式发行的币种，初期采用POW发行黑币，POW过后采用POS 1%/年发行黑币。以往谈机枪池色变，从黑币开始，机枪池...",
+    "id":282,
+    "name":"blackcoin",
+    "name_cn":"黑币",
+    "name_en":"BlackCoin/BLK",
+    "time":"2014-02-24",
+    "website":[
+        "http://www.blackcoin.co/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"RefToken是一个分散式营销平台，其通过将各种规模的企业与全球各地的营销人员以按绩效计薪的基准联系起来，消除了中间商（谷歌、FB）及其所带来的效率低下问题，...",
+    "id":532,
+    "name":"reftoken",
+    "name_cn":"引荐令牌",
+    "name_en":"RefToken/REF",
+    "time":"2018-01-20",
+    "website":[
+        "https://reftoken.io/"
+    ],
+    "whitepaper":"https://reftoken.io/uploads/reftoken-whitepaper-5.6.pdf"
+}

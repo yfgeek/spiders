@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1500205f50bf3fd976466d0662905c9ff254fc9c",
+        "https://ethplorer.io/address/0x1500205f50bf3fd976466d0662905c9ff254fc9c"
+    ],
+    "description":"区块链软件公司BitBoost的形成是为了开发一个去中心化的市场。 BitBoost正在推出其应用程序 “The Block”，这是一个基于以太坊区块链智能合约...",
+    "id":715,
+    "name":"bitboost",
+    "name_cn":"－",
+    "name_en":"BitBoost/BBT",
+    "time":"2017-11-20",
+    "website":[
+        "http://www.bitboost.net/"
+    ],
+    "whitepaper":"https://www.bitboost.net/wp-content/uploads/2017/07/The-Block-Whitepaper-v0.pdf"
+}

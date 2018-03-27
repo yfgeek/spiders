@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Golem",
+        "https://ethplorer.io/address/0xa74476443119A942dE498590Fe1f2454d7D4aC0d"
+    ],
+    "description":"Golem 是建立在以太坊平台上的去中心化计算机算力租赁平台。通过 Golem 平台，任何用户都可以成为算力的发售方和租用者。无论用户提供的是一台闲置的家用电脑...",
+    "id":63,
+    "name":"golem-network-tokens",
+    "name_cn":"－",
+    "name_en":"Golem/GNT",
+    "time":"2016-11-11",
+    "website":[
+        "https://golem.network/"
+    ],
+    "whitepaper":"https://golem.network/doc/Golemwhitepaper.pdf"
+}

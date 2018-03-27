@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"CoinFi提供众包及专业策划研究、分折、交易信号、交易算法及市场动态的消息，让加密货币操盘手得到实时市场智慧去占尽优势。CoinFi平台的技术部分不仅将华尔街...",
+    "id":412,
+    "name":"coinfi",
+    "name_cn":"－",
+    "name_en":"CoinFi/COFI",
+    "time":"2018-01-30",
+    "website":[
+        "https://sale.coinfi.com/cn"
+    ],
+    "whitepaper":"https://docs.google.com/document/d/1p6xaFl4nPv1CuJv6F2fkZ6qBq2lBS6ePyFna8QZt1KM/edit"
+}

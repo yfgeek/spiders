@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x519475b31653e46d20cd09f9fdcf3b12bdacb4f5",
+        "https://ethplorer.io/address/0x519475b31653e46d20cd09f9fdcf3b12bdacb4f5"
+    ],
+    "description":"VIULY代币(VIU) 基于Ethereum智能合约，分散式存储视频内容并建立在IPFS协议智商。是广告主、内容创建者及用户之间传递价值的主要工具。作者出售他...",
+    "id":448,
+    "name":"viuly",
+    "name_cn":"－",
+    "name_en":"Viuly/VIU",
+    "time":"2017-11-20",
+    "website":[
+        "https://viuly.io/",
+        "https://viuly.com/"
+    ],
+    "whitepaper":"-"
+}

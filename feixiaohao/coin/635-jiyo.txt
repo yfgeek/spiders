@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chain.jiyo.io/"
+    ],
+    "description":"",
+    "id":635,
+    "name":"jiyo",
+    "name_cn":"－",
+    "name_en":"Jiyo/JIYO",
+    "time":"2017-12-06",
+    "website":[
+        "https://www.jiyo.io/"
+    ],
+    "whitepaper":"-"
+}

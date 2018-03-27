@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.artbyte.me/"
+    ],
+    "description":"ArtByte（旧称AppleByte）是点对点的数字货币。艺术爱好者现在可以用ABY直接支持他们喜爱的艺术家。当一个粉丝欣赏到艺术家的作品，可以给他们ABY进...",
+    "id":558,
+    "name":"applebyte",
+    "name_cn":"－",
+    "name_en":"ArtByte/ABY",
+    "time":"－",
+    "website":[
+        "https://www.artbyte.me/"
+    ],
+    "whitepaper":"https://www.slideshare.net/MikeCabaniss/artbyte-white-paper-track-record"
+}

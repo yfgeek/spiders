@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/NimiqNetwork"
+    ],
+    "description":"作为第一个为Web平台原生构建的区块链，Nimiq想要降低区块链技术的门槛，并使其便于主流使用。一个供目前体验的测试网络（Betanet）已经上线，用户可以去感...",
+    "id":254,
+    "name":"nimiq",
+    "name_cn":"网络币",
+    "name_en":"Nimiq/NET",
+    "time":"2017-06-11",
+    "website":[
+        "https://nimiq.com/"
+    ],
+    "whitepaper":"-"
+}

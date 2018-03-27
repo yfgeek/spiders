@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x55648de19836338549130b1af587f16bea46f66b",
+        "https://ethplorer.io/address/0x55648de19836338549130b1af587f16bea46f66b"
+    ],
+    "description":"Publica希望把区块链技术革命带到出版业。Publica的平台将提供图书众筹、在线市场(电子商务)、应用程序，数字钱包将拥有电子书阅读器和电子写作器作为双重...",
+    "id":544,
+    "name":"publica",
+    "name_cn":"－",
+    "name_en":"Publica/PBL",
+    "time":"2017-11-24",
+    "website":[
+        "https://publica.io/"
+    ],
+    "whitepaper":"https://publica.com/whitepaper.pdf"
+}

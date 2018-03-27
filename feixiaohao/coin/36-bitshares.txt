@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/"
+    ],
+    "description":"比特股(BitsharesX,BTSX)由invictus研发，构思宏伟、公司开发、知名度高、分发相对公平，采用DPoS核心算法，出块时间10秒，货币的总量是2...",
+    "id":36,
+    "name":"bitshares",
+    "name_cn":"比特股",
+    "name_en":"BitShares/BTS",
+    "time":"2014-07-19",
+    "website":[
+        "https://bitshares.org"
+    ],
+    "whitepaper":"http://docs.bitshares.eu/bitshares/papers/index.html"
+}

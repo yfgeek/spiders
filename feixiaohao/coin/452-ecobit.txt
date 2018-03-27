@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"EcoBit是以森林保护、废物回收和创意环保科技形式面向大众的最新加密货币项目，它是基于全球顶尖的区块链资产系统，为了减少我们星球的碳排放而生。EcoBit 使...",
+    "id":452,
+    "name":"ecobit",
+    "name_cn":"－",
+    "name_en":"Ecobit/ECOB",
+    "time":"2017-07-06",
+    "website":[
+        "http://www.ecobit.io/"
+    ],
+    "whitepaper":"-"
+}

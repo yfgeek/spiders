@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Lunyr"
+    ],
+    "description":"Lunyr是一个基于以太坊的去中心化众包百科全书知识库，用户通过同行评议和贡献知识而获得奖励。它旨在为互联网提供可靠、准确的信息。Lunyr围绕维基百科的理念...",
+    "id":257,
+    "name":"lunyr",
+    "name_cn":"－",
+    "name_en":"Lunyr/LUN",
+    "time":"2017-03-29",
+    "website":[
+        "https://lunyr.com/"
+    ],
+    "whitepaper":"https://github.com/Lunyr/Lunyr/blob/master/Lunyr_White_Paper_ENG.pdf"
+}

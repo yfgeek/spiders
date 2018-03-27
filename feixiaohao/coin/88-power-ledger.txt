@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x595832f8fc6bf59c85c527fec3740a1b7a361269",
+        "https://ethplorer.io/address/0x595832f8fc6bf59c85c527fec3740a1b7a361269"
+    ],
+    "description":"Platform Ledger Platform 是一个无信任、透明和可互操作的能源交易平台。平台通过可交易的和无摩擦成本的能量交易代币 Sparkz，支持不断...",
+    "id":88,
+    "name":"power-ledger",
+    "name_cn":"－",
+    "name_en":"Power Ledger/POWR",
+    "time":"2017-11-02",
+    "website":[
+        "https://powerledger.io/"
+    ],
+    "whitepaper":"https://powerledger.io/media/Power-Ledger-Whitepaper-Chinese.pdf"
+}

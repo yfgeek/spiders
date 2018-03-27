@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+        "https://ethplorer.io/address/0x8f8221afbb33998d8584a2b05749ba73c37a938a"
+    ],
+    "description":"Request是一个建立在以太坊网络上的去中心化网络，允许任何人在任何地方发起支付请求，并向接收者提供安全支付方法。所有的数据都存储在一个去中心化的真实分类账里...",
+    "id":77,
+    "name":"request-network",
+    "name_cn":"－",
+    "name_en":"Request Network/REQ",
+    "time":"2017-10-21",
+    "website":[
+        "https://request.network/"
+    ],
+    "whitepaper":"https://request.network/assets/pdf/request_whitepaper.pdf"
+}

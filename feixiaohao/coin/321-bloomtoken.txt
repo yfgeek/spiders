@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x107c4504cd79c5d2696ea0030a8dd4e92601b82e",
+        "https://ethplorer.io/address/0x107c4504cd79c5d2696ea0030a8dd4e92601b82e"
+    ],
+    "description":"宝兰是一个完全基于以太坊区块链的端对端模式体系（Bloom Protocol ），用于身份验证、风险评估和信用评分。宝兰能够运用去中心化技术平台体系，改善个人信...",
+    "id":321,
+    "name":"bloomtoken",
+    "name_cn":"宝兰",
+    "name_en":"Bloom/BLT",
+    "time":"2018-01-05",
+    "website":[
+        "https://hellobloom.io/"
+    ],
+    "whitepaper":"https://hellobloom.io/whitepaper.pdf"
+}

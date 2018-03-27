@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://shortyexplorer.sytes.net/"
+    ],
+    "description":"",
+    "id":778,
+    "name":"shorty",
+    "name_cn":"－",
+    "name_en":"Shorty/SHORTY",
+    "time":"－",
+    "website":[
+        "http://shortycool.site/"
+    ],
+    "whitepaper":"-"
+}

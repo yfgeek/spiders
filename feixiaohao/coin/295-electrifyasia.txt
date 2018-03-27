@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9",
+        "https://ethplorer.io/address/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9"
+    ],
+    "description":"",
+    "id":295,
+    "name":"electrifyasia",
+    "name_cn":"－",
+    "name_en":"Electrify.Asia/ELEC",
+    "time":"2018-03-10",
+    "website":[
+        "https://electrify.asia/"
+    ],
+    "whitepaper":"https://electrify.asia/whitepaper-cn/"
+}

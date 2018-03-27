@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+        "https://ethplorer.io/address/0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+    ],
+    "description":"截止目前，币安币（BNB）全球数字资产排名十五，市值一亿八千九百万美金。Binance Coin是由币安平台发行的代币，简称“BNB”。其发行总量恒定为2亿个，...",
+    "id":20,
+    "name":"binance-coin",
+    "name_cn":"币安币",
+    "name_en":"Binance Coin/BNB",
+    "time":"2017-07-26",
+    "website":[
+        "https://www.binance.com/"
+    ],
+    "whitepaper":"-"
+}

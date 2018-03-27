@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/civic"
+    ],
+    "description":"CVC公民的生态系统，Civic的模型允许通过块链接进行身份验证的按需，安全和低成本访问。每次新的机构或应用程序需要时，背景和个人信息验证检查可能不再需要从头...",
+    "id":118,
+    "name":"civic",
+    "name_cn":"－",
+    "name_en":"Civic/CVC",
+    "time":"2017-07-18",
+    "website":[
+        "https://www.civic.com/"
+    ],
+    "whitepaper":"https://tokensale.civic.com/CivicTokenSaleWhitePaper.pdf"
+}

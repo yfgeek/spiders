@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/note/"
+    ],
+    "description":"NOTE是一个平台的代币，只是用于平台系统的结算需求，在这个网站注册后，你可以用信用卡购买发行自己的代币的权利，而你的代币，可以直接用来众筹和卖给你的粉丝，你...",
+    "id":638,
+    "name":"dnotes",
+    "name_cn":"－",
+    "name_en":"DNotes/NOTE",
+    "time":"2014-02-16",
+    "website":[
+        "http://dnotescoin.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"LLT 是流量矿石项目的以太坊代币。流量矿石是云帆团队深耕四年，首家基于区块链的共享CDN平台。代币总量10亿枚，ICO发行价格为0.578CNY，请务必注意投...",
+    "id":362,
+    "name":"lltoken",
+    "name_cn":"流量矿石",
+    "name_en":"LLToken/LLT",
+    "time":"2017-08-30",
+    "website":[
+        "https://jiaoyi.yunfan.com"
+    ],
+    "whitepaper":"-"
+}

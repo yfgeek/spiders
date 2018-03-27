@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/ric/"
+    ],
+    "description":"黎曼币是一种新的质数币。开发者表示它使用了了币XPM更好更有效的数学算法。最初的 576 blocks没有币奖励，并且接下来的576块将线性增加，并在经过四次...",
+    "id":598,
+    "name":"riecoin",
+    "name_cn":"黎曼币",
+    "name_en":"Riecoin/RIC",
+    "time":"2014-02-09",
+    "website":[
+        "http://riecoin.org/"
+    ],
+    "whitepaper":"-"
+}

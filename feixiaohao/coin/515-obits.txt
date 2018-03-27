@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/a/OBITS"
+    ],
+    "description":"OBITS能让个人用户不需要深入研究市场的多空博弈，甚至不需要懂太多后台区块链知识就能从剧烈波动的加密货币市场中获利。持有的OBITS是可以随时在区块链上审计、...",
+    "id":515,
+    "name":"obits",
+    "name_cn":"－",
+    "name_en":"OBITS/OBITS",
+    "time":"－",
+    "website":[
+        "http://www.obits.io/"
+    ],
+    "whitepaper":"-"
+}

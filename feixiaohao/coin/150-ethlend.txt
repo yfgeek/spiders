@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+        "https://ethplorer.io/address/0x80fb784b7ed66730e8b1dbd9820afd29931aab03"
+    ],
+    "description":"ETHLend希望能透过提供空降奖赏计划给活跃借贷者来提供有强劲支援的代币市场。ETHLend会从手续费里的一部分用作回购代币市场里的LEND代币后，奖赏给活跃...",
+    "id":150,
+    "name":"ethlend",
+    "name_cn":"－",
+    "name_en":"EthLend/LEND",
+    "time":"2017-12-01",
+    "website":[
+        "https://ethlend.io/"
+    ],
+    "whitepaper":"-"
+}

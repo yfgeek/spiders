@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xfb2f26f266fb2805a387230f2aa0a331b4d96fba",
+        "https://ethplorer.io/address/0xfb2f26f266fb2805a387230f2aa0a331b4d96fba"
+    ],
+    "description":"DADI是DADI项目的以太坊代币。DADI是一个全球化的去中心化云平台，目标是为所有人提供可伸缩的基于区块链的分布式云Web服务。DADI提供全球计算能力和高...",
+    "id":331,
+    "name":"dadi",
+    "name_cn":"－",
+    "name_en":"DADI/DADI",
+    "time":"2018-02-20",
+    "website":[
+        "https://dadi.cloud/en"
+    ],
+    "whitepaper":"https://dadi.cloud/public/files/dadi.white-paper.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0d88ed6e74bbfd96b831231638b66c05571e824f",
+        "https://ethplorer.io/address/0x0d88ed6e74bbfd96b831231638b66c05571e824f"
+    ],
+    "description":"",
+    "id":479,
+    "name":"aventus",
+    "name_cn":"－",
+    "name_en":"Aventus/AVT",
+    "time":"2017-09-07",
+    "website":[
+        "https://aventus.io/"
+    ],
+    "whitepaper":"https://aventus.io/doc/whitepaper.pdf"
+}

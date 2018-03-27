@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/assets.html?HzfaJp8YQWLvQG4FkUxq2Q7iYWMYQ2k8UF89vVJAjWPj"
+    ],
+    "description":"Darcrus 项目将通过 Jupiter（木星） 区块链与去中心化的应用程序完全改变当前的业务方式。Darcrus 可以根据客户的具体需求量身定制应用程序，如...",
+    "id":298,
+    "name":"mercury",
+    "name_cn":"－",
+    "name_en":"Mercury/MER",
+    "time":"－",
+    "website":[
+        "https://www.darcr.us/"
+    ],
+    "whitepaper":"https://darcr.us/wp-content/uploads/2017/09/Darcrus-Use-Cases.pdf"
+}

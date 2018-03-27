@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
+        "https://ethplorer.io/address/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74"
+    ],
+    "description":"沃尔顿链独特地将区块链技术与RFID技术结合，致力于推进区块链技术由互联网向物联网贯通，实现价值物联网的概念。沃尔顿链的目的是搭建一条底层的商业生态公有链，在此...",
+    "id":45,
+    "name":"walton",
+    "name_cn":"沃尔顿链",
+    "name_en":"Walton/WTC",
+    "time":"2017-08-28",
+    "website":[
+        "http://www.waltonchain.org/"
+    ],
+    "whitepaper":"-"
+}

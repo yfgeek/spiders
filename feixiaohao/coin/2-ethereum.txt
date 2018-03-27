@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://etherscan.io/",
+        "https://ethplorer.io/",
+        "https://etherchain.org/"
+    ],
+    "description":"Ethereum（以太坊）是一个平台和一种编程语言，使开发人员能够建立和发布下一代分布式应用。 Ethereum可以用来编程，分散，担保和交易任何事物：投票，域...",
+    "id":2,
+    "name":"ethereum",
+    "name_cn":"以太坊",
+    "name_en":"Ethereum/ETH",
+    "time":"2014-07-24",
+    "website":[
+        "https://www.ethereum.org/"
+    ],
+    "whitepaper":"https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper"
+}

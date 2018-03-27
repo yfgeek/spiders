@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.innovacoin.info"
+    ],
+    "description":"Innova是一个去中心化的加密货币，由用户网络运营的安全数字货币，运用Masternodes完整节点，就像在比特币网络中一样，它们提供了一个网络服务，并需要抵...",
+    "id":650,
+    "name":"innova",
+    "name_cn":"－",
+    "name_en":"Innova/INN",
+    "time":"2017-11-09",
+    "website":[
+        "http://innovacoin.info/"
+    ],
+    "whitepaper":"-"
+}

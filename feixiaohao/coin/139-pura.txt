@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/pura/"
+    ],
+    "description":"",
+    "id":139,
+    "name":"pura",
+    "name_cn":"－",
+    "name_en":"Pura/PURA",
+    "time":"－",
+    "website":[
+        "http://www.pura.one/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/a/USD"
+    ],
+    "description":"BITUSD 是 BitShares 平台上的一种合约，可以通过 BitShares 钱包转账和交易。1 BITUSD = 1 美元，因此，BITUSD 具备像...",
+    "id":333,
+    "name":"bitusd",
+    "name_cn":"－",
+    "name_en":"bitUSD/BITUSD",
+    "time":"－",
+    "website":[
+        "http://bit.ly/BitShares_USD"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.btcdraft.com/"
+    ],
+    "description":"",
+    "id":714,
+    "name":"draftcoin",
+    "name_cn":"－",
+    "name_en":"DraftCoin/DFT",
+    "time":"－",
+    "website":[
+        "http://btcdraft.com/"
+    ],
+    "whitepaper":"-"
+}

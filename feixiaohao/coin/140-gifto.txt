@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xc5bbae50781be1669306b9e001eff57a2957b09d",
+        "https://ethplorer.io/address/0xc5bbae50781be1669306b9e001eff57a2957b09d"
+    ],
+    "description":"GIFTO是全球第一个去中心化通用虚拟礼物协议，由直播平台Uplive推出，自2016年6月上线以来，Uplive已经在海外拥有2千多万用户，2017年收入已超...",
+    "id":140,
+    "name":"gifto",
+    "name_cn":"－",
+    "name_en":"Gifto/GTO",
+    "time":"2017-12-19",
+    "website":[
+        "https://gifto.io/"
+    ],
+    "whitepaper":"https://gifto.io/GIFTO_Whitepaper_V2.0_20171204.pdf"
+}

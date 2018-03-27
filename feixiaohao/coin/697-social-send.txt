@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.socialsend.io/"
+    ],
+    "description":"Social Send是一个区块链项目，推动加密货币进入社交网络。SEND创建了一个简单而通用的集成系统，并考虑到最终用户体验。在任何社交网络上发送和接收资金现...",
+    "id":697,
+    "name":"social-send",
+    "name_cn":"－",
+    "name_en":"Social Send/SEND",
+    "time":"2017-12-07",
+    "website":[
+        "http://socialsend.io/"
+    ],
+    "whitepaper":"-"
+}

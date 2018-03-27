@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.unitus.online"
+    ],
+    "description":"UIS币原名Unitus币，即高级块链技术。自上线国内平台后，外国人就给它起了一个中国名，叫英联币，听起来像不像英国联邦？其实是寓意为英雄联盟。Unitus是基...",
+    "id":745,
+    "name":"unitus",
+    "name_cn":"英联币",
+    "name_en":"Unitus/UIS",
+    "time":"－",
+    "website":[
+        "http://unitus.online"
+    ],
+    "whitepaper":"-"
+}

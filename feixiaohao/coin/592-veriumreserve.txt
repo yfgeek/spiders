@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/vrm/",
+        "http://explorer.vrm.vericoin.info/"
+    ],
+    "description":"VeriumReserve是世界上第一个二进制区块链协议。VeriCoin和Verium是第一个双区块链协议技术，将数字货币与数字储备配对。这意味着更快的交易、...",
+    "id":592,
+    "name":"veriumreserve",
+    "name_cn":"－",
+    "name_en":"VeriumReserve/VRM",
+    "time":"－",
+    "website":[
+        "http://www.vericoin.info/veriumlaunch.html"
+    ],
+    "whitepaper":"-"
+}

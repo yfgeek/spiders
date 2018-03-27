@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x358d12436080a01a16f711014610f8a4c2c2d233",
+        "https://ethplorer.io/address/0x358d12436080a01a16f711014610f8a4c2c2d233"
+    ],
+    "description":"",
+    "id":149,
+    "name":"pundi-x-old",
+    "name_cn":"－",
+    "name_en":"Pundi X [OLD]/PXS",
+    "time":"－",
+    "website":[
+        "https://pundix.com/"
+    ],
+    "whitepaper":"-"
+}

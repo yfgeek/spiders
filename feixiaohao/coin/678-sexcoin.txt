@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockexplorer.lavajumper.com/chain/Sexcoin"
+    ],
+    "description":"发布于2013年5月28日，Scrypt算法，60秒每块，每块100个，8小时调整难度，共计2.5亿个。6次交易确认。",
+    "id":678,
+    "name":"sexcoin",
+    "name_cn":"性币",
+    "name_en":"Sexcoin/SXC",
+    "time":"－",
+    "website":[
+        "http://www.sexcoin.info/"
+    ],
+    "whitepaper":"-"
+}

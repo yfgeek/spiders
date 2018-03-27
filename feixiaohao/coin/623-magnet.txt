@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.magnetwork.io/"
+    ],
+    "description":"Magnet是一种基于采矿、高透明度、人人可及的、强烈的社区关注和公原则的加密货币。整个网络已经建立起来，充分利用区块链技术的力量，推动新的创新理念。Magne...",
+    "id":623,
+    "name":"magnet",
+    "name_cn":"－",
+    "name_en":"Magnet/MAG",
+    "time":"2017-11-24",
+    "website":[
+        "http://magnetwork.io/"
+    ],
+    "whitepaper":"http://magnetwork.io/wp-content/uploads/2017/12/MAGNETWORK_WHITEPAPER_1_0.pdf"
+}

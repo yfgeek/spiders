@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/assets.html?Bi4w2UuGRt2jAJFfRb8b3SwDUV5x8krCzX2zZHcRfPNc"
+    ],
+    "description":"CryptoPing是提醒支付变动的服务代币，它是一种Waves资产。",
+    "id":628,
+    "name":"cryptoping",
+    "name_cn":"－",
+    "name_en":"CryptoPing/PING",
+    "time":"2017-07-04",
+    "website":[
+        "https://cryptoping.tech/"
+    ],
+    "whitepaper":"https://cryptoping.tech/cp_whitepaper_en.pdf"
+}

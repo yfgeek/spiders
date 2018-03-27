@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://ripple.com/graph",
+        "https://bithomp.com/explorer/"
+    ],
+    "description":"瑞波币是Ripple网络的基础货币，它可以在整个ripple网络中流通，总数量为1000亿，并且随着交易的增多而逐渐减少，瑞波币的运营公司为Ripple Lab...",
+    "id":3,
+    "name":"ripple",
+    "name_cn":"瑞波币",
+    "name_en":"Ripple/XRP",
+    "time":"2011-04-18",
+    "website":[
+        "https://ripple.com/"
+    ],
+    "whitepaper":"https://ripple.com/files/ripple_consensus_whitepaper.pdf"
+}

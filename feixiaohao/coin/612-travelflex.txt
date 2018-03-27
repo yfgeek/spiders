@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.travelflex.org/ext/getmoneysupply"
+    ],
+    "description":"Travelflex是一种新型加密货币，旨在解决比特币等其他代币目前面临的可扩展性问题。Travelflex使用全新的基于DAG的算法，它不仅仅是一个简单的克隆...",
+    "id":612,
+    "name":"travelflex",
+    "name_cn":"－",
+    "name_en":"Travelflex/TRF",
+    "time":"2018-02-01",
+    "website":[
+        "https://travelflex.org/"
+    ],
+    "whitepaper":"https://travelflex.org/wp-content/uploads/2017/12/Travelflex-WhitePapersZH.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/TokenCard"
+    ],
+    "description":"TokenCard的核心要素是：代币合约钱包(Token Contract Wallet)，用于保护用户的资产安全，并执行用户所设置的支付及安全参数。Token...",
+    "id":251,
+    "name":"tokencard",
+    "name_cn":"－",
+    "name_en":"TokenCard/TKN",
+    "time":"2017-05-02",
+    "website":[
+        "http://tokencard.io/"
+    ],
+    "whitepaper":"http://tokencard.io/tokencard_whitepaper.pdf"
+}

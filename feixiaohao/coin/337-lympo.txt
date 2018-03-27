@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec",
+        "https://ethplorer.io/address/0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec"
+    ],
+    "description":"Lympo生态系统解决了健康数据互联互通的问题。由用户生成和用户控制的运动和健康数据支持，Lympo将允许通过交易 LYM公共代币，来实现价值的交换。 Lymp...",
+    "id":337,
+    "name":"lympo",
+    "name_cn":"－",
+    "name_en":"Lympo/LYM",
+    "time":"2018-03-02",
+    "website":[
+        "https://lympo.io/"
+    ],
+    "whitepaper":"https://lympo.io/wp-content/uploads/2017/12/whitepaper.pdf?v5"
+}

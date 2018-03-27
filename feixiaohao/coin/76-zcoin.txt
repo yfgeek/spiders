@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://explorer.zcoin.io",
+        "https://chainz.cryptoid.info/xzc/"
+    ],
+    "description":"小零币(XZC)是一种通过使用零币协议(zerocoin protocol)来保障账务隐私的一种加密货币。它是第一种实现了零币协议的加密货币，通过使用零知识证明...",
+    "id":76,
+    "name":"zcoin",
+    "name_cn":"小零币",
+    "name_en":"ZCoin/XZC",
+    "time":"2016-09-01",
+    "website":[
+        "https://zcoin.io"
+    ],
+    "whitepaper":"-"
+}

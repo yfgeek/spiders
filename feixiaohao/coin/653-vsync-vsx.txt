@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.vsync.pw/"
+    ],
+    "description":"",
+    "id":653,
+    "name":"vsync-vsx",
+    "name_cn":"－",
+    "name_en":"Vsync/VSX",
+    "time":"2017-09-11",
+    "website":[
+        "https://vsync.pw/"
+    ],
+    "whitepaper":"-"
+}

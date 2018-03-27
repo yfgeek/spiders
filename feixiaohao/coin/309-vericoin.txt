@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/vrc/"
+    ],
+    "description":"维理币（VRC, VeriCoin）初始采用PoW PoS的混合挖矿方式，PoW两周结束转入纯PoS期。PoS采用独特的动态年利率，股权证明挖矿越多，利率越高...",
+    "id":309,
+    "name":"vericoin",
+    "name_cn":"维理币",
+    "name_en":"VeriCoin/VRC",
+    "time":"2014-05-10",
+    "website":[
+        "http://www.vericoin.info/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://zeroexplorer.forgetop.com/"
+    ],
+    "description":"Zero项目是由一位名叫zerocurrency的未知创造者于2017年2月初作为一个实验项目来解决以前加密货币的许多固有弱点。一个真正演变的项目，具有多种功能...",
+    "id":660,
+    "name":"zero",
+    "name_cn":"－",
+    "name_en":"Zero/ZER",
+    "time":"－",
+    "website":[
+        "http://zero.finance/"
+    ],
+    "whitepaper":"-"
+}

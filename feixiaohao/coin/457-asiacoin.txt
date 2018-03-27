@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/ac/"
+    ],
+    "description":"采用与ltc相同的Scrypt显卡挖矿算法，出块时间60秒，每块包含10000个币，采用PoW+PoS的混合挖矿方式，发布两周后变为纯股权证明（PoS），首年利...",
+    "id":457,
+    "name":"asiacoin",
+    "name_cn":"亚洲币",
+    "name_en":"AsiaCoin/AC",
+    "time":"－",
+    "website":[
+        "http://www.thecoin.asia/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Hyper Pay是全球化的电子货币与加密数字货币支付聚合解决方案，支持包括BTC（比特币）ETH（以太坊）Hcash（超级现金）在内的多种主流数字货币与电子化...",
+    "id":261,
+    "name":"hyperpay",
+    "name_cn":"－",
+    "name_en":"Hyperpay/HPY",
+    "time":"－",
+    "website":[
+        "http://hyperpay.tech/"
+    ],
+    "whitepaper":"-"
+}

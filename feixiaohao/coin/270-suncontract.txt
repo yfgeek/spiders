@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404"
+    ],
+    "description":"SunContract是一个能源交易平台，该平台利用区块链技术创造了一个新的商业模式用于购买和售出电力。该平台将使用现有的电网，以及优化现有的昂贵和低效的电网运...",
+    "id":270,
+    "name":"suncontract",
+    "name_cn":"－",
+    "name_en":"SunContract/SNC",
+    "time":"2017-07-07",
+    "website":[
+        "https://suncontract.org/tokensale/index.html"
+    ],
+    "whitepaper":"https://suncontract.org/res/whitepaper.pdf"
+}

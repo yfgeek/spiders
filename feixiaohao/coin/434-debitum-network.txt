@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x151202c9c18e495656f372281f493eb7698961d5",
+        "https://ethplorer.io/address/0x151202c9c18e495656f372281f493eb7698961d5"
+    ],
+    "description":"Debitum Network是利用区块链技术来保障和分配流入中小型企业领域的法定货币投资，旨在将借款人与帮助他们申请的人、投资者（出借人）、风险评估员、文件验...",
+    "id":434,
+    "name":"debitum-network",
+    "name_cn":"－",
+    "name_en":"Debitum Network/DEB",
+    "time":"2018-03-14",
+    "website":[
+        "https://debitum.network/"
+    ],
+    "whitepaper":"https://debitum.network/whitepaper"
+}

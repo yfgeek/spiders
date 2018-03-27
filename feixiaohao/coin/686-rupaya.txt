@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://node2.rupayacoin.org/"
+    ],
+    "description":"",
+    "id":686,
+    "name":"rupaya",
+    "name_cn":"－",
+    "name_en":"Rupaya/RUPX",
+    "time":"2017-08-12",
+    "website":[
+        "http://www.rupayacoin.org/"
+    ],
+    "whitepaper":"-"
+}

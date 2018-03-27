@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://bunnycoin.thecryptochat.net/"
+    ],
+    "description":"",
+    "id":676,
+    "name":"bunnycoin",
+    "name_cn":"－",
+    "name_en":"BunnyCoin/BUN",
+    "time":"－",
+    "website":[
+        "http://bunnycoin.org/"
+    ],
+    "whitepaper":"-"
+}

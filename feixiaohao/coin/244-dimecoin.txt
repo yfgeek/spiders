@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/dime/"
+    ],
+    "description":"发布于2013年12月23日，基于Quark，CPU挖矿，64秒每块，1024个每块，1024块调整难度，共计4600亿个，6次交易确认。",
+    "id":244,
+    "name":"dimecoin",
+    "name_cn":"帝米币",
+    "name_en":"Dimecoin/DIME",
+    "time":"－",
+    "website":[
+        "http://www.dimecoin.rocks/"
+    ],
+    "whitepaper":"-"
+}

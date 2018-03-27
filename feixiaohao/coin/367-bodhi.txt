@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"菩提（Bodhi）作为一个全新的基于区块链的去中心化预测市场，致力于打造一个透明，可信，自治和可拓展的全球性预测市场，通过群体的智慧让预测的信息成为真正对社会有...",
+    "id":367,
+    "name":"bodhi",
+    "name_cn":"菩提",
+    "name_en":"Bodhi/BOT",
+    "time":"2017-11-21",
+    "website":[
+        "https://www.bodhi.network"
+    ],
+    "whitepaper":"-"
+}

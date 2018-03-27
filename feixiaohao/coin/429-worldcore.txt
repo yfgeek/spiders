@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x72adadb447784dd7ab1f472467750fc485e4cb2d",
+        "https://ethplorer.io/address/0x72adadb447784dd7ab1f472467750fc485e4cb2d"
+    ],
+    "description":"Worldcore是一家由欧盟监管的支付机构，成立于2014年。公司总部设在捷克共和国的首都布拉格。该品牌由EUPSProvider s.r.o.(该公司已获得...",
+    "id":429,
+    "name":"worldcore",
+    "name_cn":"－",
+    "name_en":"Worldcore/WRC",
+    "time":"2017-12-18",
+    "website":[
+        "https://worldcore.com/"
+    ],
+    "whitepaper":"https://worldcore.com/template/files/Ch.WRC_Whitepaper.pdf"
+}

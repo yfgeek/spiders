@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/blitz/"
+    ],
+    "description":"Blizcash是一种去中心化加密货币，它的目标是通过Blitz提供的工具和平台为真实世界应用程序提供区块链技术。Blitzcash代表了Blitz项目的核心，...",
+    "id":663,
+    "name":"blitzcash",
+    "name_cn":"－",
+    "name_en":"Blitzcash/BLITZ",
+    "time":"－",
+    "website":[
+        "http://blitz.cash"
+    ],
+    "whitepaper":"-"
+}

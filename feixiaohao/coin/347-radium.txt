@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/rads/"
+    ],
+    "description":"Radium在2015年5月发布，是基于POS权益证明的，Radium利用分布式区块链网络链接全世界，可在Windows，MacOS和Linux系统运行，Ra...",
+    "id":347,
+    "name":"radium",
+    "name_cn":"－",
+    "name_en":"Radium/RADS",
+    "time":"2015-05-25",
+    "website":[
+        "https://radiumcore.org/"
+    ],
+    "whitepaper":"-"
+}

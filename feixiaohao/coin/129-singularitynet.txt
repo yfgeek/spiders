@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x8eb24319393716668d768dcec29356ae9cffe285",
+        "https://ethplorer.io/address/0x8eb24319393716668d768dcec29356ae9cffe285"
+    ],
+    "description":"SingularityNET是一个针对AI的去中心化平台。旨在构建基于区块链的基础设施，以实现从图像识别到自然语言处理的各种AI算法，实时灵活的进行交互。该系统...",
+    "id":129,
+    "name":"singularitynet",
+    "name_cn":"－",
+    "name_en":"SingularityNET/AGI",
+    "time":"2018-01-18",
+    "website":[
+        "https://singularitynet.io/"
+    ],
+    "whitepaper":"https://public.singularitynet.io/whitepaper.pdf"
+}

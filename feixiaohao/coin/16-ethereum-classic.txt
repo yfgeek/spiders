@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://gastracker.io/"
+    ],
+    "description":"2016.6以太坊最热项目TheDAO被黑客利用智能合约的漏洞，转移了市值五千万美元的以太币。为了挽回投资者资产，以太坊社区最终做出投票表决，大部分参与者同意更...",
+    "id":16,
+    "name":"ethereum-classic",
+    "name_cn":"以太经典",
+    "name_en":"Ethereum Classic/ETC",
+    "time":"2015-11-01",
+    "website":[
+        "https://ethereumclassic.github.io/"
+    ],
+    "whitepaper":"https://ethereumclassic.github.io/assets/etc-thesis.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=31"
+    ],
+    "description":"2014年11月下旬，注册地为马恩岛和香港的公司Realcoin改名为Tether。2015年2月发布时就抱上了一条粗腿，当时比特币期货交易量最大交易平台：bi...",
+    "id":15,
+    "name":"tether",
+    "name_cn":"泰达币",
+    "name_en":"Tether/USDT",
+    "time":"2014-11-26",
+    "website":[
+        "https://tether.to"
+    ],
+    "whitepaper":"-"
+}

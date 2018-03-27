@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://blockexplorer.revolutionvr.live/"
+    ],
+    "description":"作为游戏中的加密货币，Voxels是一切销售和电子商务进行的基础，并被称为“革命性的区块链产品”。Voxels结合了比特币背后的“工作量证明”（proof of...",
+    "id":238,
+    "name":"voxels",
+    "name_cn":"－",
+    "name_en":"RevolutionVR/RVR",
+    "time":"2015-12-02",
+    "website":[
+        "http://revolutionvr.live/",
+        "https://thevoxel.com/"
+    ],
+    "whitepaper":"-"
+}

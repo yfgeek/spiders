@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.yocoin.org"
+    ],
+    "description":"Yocoin是分散的，开放的，对等的加密数字货币，创建于2015年12月，使用scrypt工作协议或算法。",
+    "id":677,
+    "name":"yocoin",
+    "name_cn":"优币",
+    "name_en":"Yocoin/YOC",
+    "time":"－",
+    "website":[
+        "http://www.yocoin.org/"
+    ],
+    "whitepaper":"-"
+}

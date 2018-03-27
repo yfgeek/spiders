@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/HYP/index.php"
+    ],
+    "description":"HyperStake的目标是成为具有长期存储价值的最佳加密货币。钱包内的高级管理工具使用户能够完全控制其组合策略和最大化投资回报。HyperStake拥有最先进...",
+    "id":565,
+    "name":"hyperstake",
+    "name_cn":"－",
+    "name_en":"HyperStake/HYP",
+    "time":"－",
+    "website":[
+        "http://hyperstake.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/emc2/",
+        "http://emc3.cryptocloudhosting.org/"
+    ],
+    "description":"Einsteinium使命是为了促进慈善，锿币直接关系到Einsteinium基金，这是一个基于比特币基础的针对慈善方面的项目，用以资助科研和尖端IT科技、加...",
+    "id":193,
+    "name":"einsteinium",
+    "name_cn":"锿币",
+    "name_en":"Einsteinium/EMC2",
+    "time":"2014-03-01",
+    "website":[
+        "https://www.emc2.foundation/"
+    ],
+    "whitepaper":"-"
+}

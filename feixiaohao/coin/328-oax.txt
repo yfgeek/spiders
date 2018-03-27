@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x701c244b988a513c945973defa05de933b23fe1d"
+    ],
+    "description":"OAX 是一种ERC20代币，以支持去中心化交易平台”openANX”，平台提供聚合买卖薄以增加流动性；保留资产网关抵押以降低信用风险；兼设有由去中心化自治组织...",
+    "id":328,
+    "name":"oax",
+    "name_cn":"－",
+    "name_en":"OAX/OAX",
+    "time":"－",
+    "website":[
+        "https://oax.org/"
+    ],
+    "whitepaper":"-"
+}

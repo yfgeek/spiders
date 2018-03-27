@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=56"
+    ],
+    "description":"Safex 是一个去中心化的市场，史上第一次将贸易范式转向加密商务。",
+    "id":284,
+    "name":"safe-exchange-coin",
+    "name_cn":"－",
+    "name_en":"Safe Exchange Coin/SAFEX",
+    "time":"－",
+    "website":[
+        "http://safex.io/"
+    ],
+    "whitepaper":"-"
+}

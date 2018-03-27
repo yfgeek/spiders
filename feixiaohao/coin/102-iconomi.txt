@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/ICONOMI"
+    ],
+    "description":"ICONOMI被冠以区块链基金管理中的优步，筹集了600万美元，成为目前第三大的众筹项目。该项目创始人必须证明公司的“优步化”(uberization，引入...",
+    "id":102,
+    "name":"iconomi",
+    "name_cn":"－",
+    "name_en":"Iconomi/ICN",
+    "time":"2016-12-21",
+    "website":[
+        "https://www.iconomi.net/"
+    ],
+    "whitepaper":"https://coss.io/documents/white-papers/iconomi.pdf"
+}

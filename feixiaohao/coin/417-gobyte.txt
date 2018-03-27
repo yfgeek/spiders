@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://explorer.gobyte.network:5001/",
+        "http://gobyte.ezmine.io/"
+    ],
+    "description":"GoByte（GBX）是一种创新的基于 Dash的加密货币。 GoByte 是数字货币的一种形式，通过密码保护，并通过去中心化和先进的挖矿市场发行。这是一个加强...",
+    "id":417,
+    "name":"gobyte",
+    "name_cn":"－",
+    "name_en":"GoByte/GBX",
+    "time":"2017-11-21",
+    "website":[
+        "https://gobyte.network/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.firstcoinproject.com/"
+    ],
+    "description":"FirstCoin是一个高效的工作证明/股权证明的加密证书，它使用Scrypt算法。FirstCoin可以用来连接、协调和显示有潜力的创业公司。加入FirstC...",
+    "id":361,
+    "name":"firstcoin",
+    "name_cn":"－",
+    "name_en":"FirstCoin/FRST",
+    "time":"－",
+    "website":[
+        "http://firstcoinproject.com/"
+    ],
+    "whitepaper":"-"
+}

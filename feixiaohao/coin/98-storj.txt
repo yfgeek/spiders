@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Storj",
+        "http://ethplorer.io/address/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac"
+    ],
+    "description":"STORJ 是Storj项目的以太坊代币，Storj是一个去中心化的基于区块链的分布式云存储系统，功能与中心化的Dropbox，oneDrive类似。Storj...",
+    "id":98,
+    "name":"storj",
+    "name_cn":"－",
+    "name_en":"Storj/STORJ",
+    "time":"2017-07-03",
+    "website":[
+        "https://storj.io/"
+    ],
+    "whitepaper":"https://storj.io/storj.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/rby/"
+    ],
+    "description":"红宝石币(Rubycoin，RUBY)发布于2014年2月17日，Scrypt算法，150秒每块，500~50个每块，共计6000万个。Rubycoin将数字...",
+    "id":392,
+    "name":"rubycoin",
+    "name_cn":"红宝石币",
+    "name_en":"Rubycoin/RBY",
+    "time":"2014-02-17",
+    "website":[
+        "http://www.rubycoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://mazacoin.thecoin.pw/",
+        "https://explorer.coinpayments.net/index.php?chain=11"
+    ],
+    "description":"MazaCoin是为自治治理组织所应用的加密货币网络，可以让现有的比特币挖掘设备有更稳定长久的运用并提高您的收入。创建智能应用程序和合同在MAZA上运行，贡献和...",
+    "id":738,
+    "name":"mazacoin",
+    "name_cn":"民族币",
+    "name_en":"MazaCoin/MZC",
+    "time":"－",
+    "website":[
+        "http://www.mazacoin.org/"
+    ],
+    "whitepaper":"-"
+}

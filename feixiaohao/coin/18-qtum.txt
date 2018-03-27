@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://qtum.info/",
+        "https://qtumexplorer.io/"
+    ],
+    "description":"量子链Qtum是首个基于UTXO模型的POS智能合约平台，可以实现和比特币生态和以太坊生态的兼容性，并通过移动端的战略，促进区块链技术的产品化和提高区块链行业的...",
+    "id":18,
+    "name":"qtum",
+    "name_cn":"量子链",
+    "name_en":"Qtum/QTUM",
+    "time":"2017-03-16",
+    "website":[
+        "https://qtum.org/"
+    ],
+    "whitepaper":"https://qtum.org/en/white-papers"
+}

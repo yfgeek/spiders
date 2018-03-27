@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/strat/",
+        "http://cryptobe.com/chain/Stratis"
+    ],
+    "description":"Stratis是提供区块链即服务（Baas）解决方案的新平台，Stratis可以让任何人在几分钟内创建并管理区块链，同时可以定制用户自己的侧链，小型公司可以用区...",
+    "id":30,
+    "name":"stratis",
+    "name_cn":"－",
+    "name_en":"Stratis/STRAT",
+    "time":"2016-08-06",
+    "website":[
+        "http://stratisplatform.com/"
+    ],
+    "whitepaper":"https://stratisplatform.com/files/Stratis_Whitepaper.pdf"
+}

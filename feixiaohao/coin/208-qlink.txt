@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://neotracker.io/asset/0d821bd7b6d53f5c2b40e217c6defc8bbe896cf5"
+    ],
+    "description":"Qlink将基于Qtum量子链构建一个全球统一的去中心化流量计费平台，为移动通信行业带来更多的内容增值，实现物联网跨场景计费。Qlink，是一个基于移动通信计费...",
+    "id":208,
+    "name":"qlink",
+    "name_cn":"－",
+    "name_en":"Qlink/QLC",
+    "time":"2017-12-30",
+    "website":[
+        "http://qlink.mobi/"
+    ],
+    "whitepaper":"https://qlink.mobi/qlink2/res/WhitePaper_cn.pdf"
+}

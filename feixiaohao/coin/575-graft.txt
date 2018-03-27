@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://blockexplorer.graft.network/"
+    ],
+    "description":"Graft是一个基于区块链的支付平台，将所有支付技术的最佳部分组合在一起，以便提供更好的体验。",
+    "id":575,
+    "name":"graft",
+    "name_cn":"－",
+    "name_en":"Graft/GRFT",
+    "time":"2018-03-09",
+    "website":[
+        "https://www.graft.network/"
+    ],
+    "whitepaper":"https://www.graft.network/wp-content/uploads/2018/02/Graft-White-Paper-1.2.pdf"
+}

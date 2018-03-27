@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x35a69642857083ba2f30bfab735dacc7f0bac969",
+        "https://ethplorer.io/address/0x35a69642857083ba2f30bfab735dacc7f0bac969"
+    ],
+    "description":"榕树网络（Banyan Network） 是一个融合大数据与区块链技术的数据融合价值链网络（Data Fusion Value Chain Network ，D...",
+    "id":303,
+    "name":"banyan-network",
+    "name_cn":"榕树网络",
+    "name_en":"Banyan Network/BBN",
+    "time":"2018-03-22",
+    "website":[
+        "http://www.banyanbbt.org"
+    ],
+    "whitepaper":"https://www.banyanbbt.org/assets/downloads/BanyanNetwork_whitepaper_english_v92.pdf"
+}

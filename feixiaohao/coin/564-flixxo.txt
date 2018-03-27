@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf04a8ac553fcedb5ba99a64799155826c136b0be",
+        "https://ethplorer.io/address/0xf04a8ac553fcedb5ba99a64799155826c136b0be"
+    ],
+    "description":"Flixxo的开放社区给用户和创作者提供了一种消费和生产视频内容的新途径。短视频甶于极低的创作门槛激励了创作者的产出，正变成最举足轻重的一种视频形式，Flixx...",
+    "id":564,
+    "name":"flixxo",
+    "name_cn":"－",
+    "name_en":"Flixxo/FLIXX",
+    "time":"2017-11-26",
+    "website":[
+        "https://www.flixxo.com/"
+    ],
+    "whitepaper":"https://www.flixxo.com/assets/docs/flixxo-white-paper_v0.3_ch.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xe25b0bba01dc5630312b6a21927e578061a13f55",
+        "https://ethplorer.io/address/0xe25b0bba01dc5630312b6a21927e578061a13f55"
+    ],
+    "description":"",
+    "id":338,
+    "name":"shipchain",
+    "name_cn":"－",
+    "name_en":"ShipChain/SHIP",
+    "time":"2018-03-11",
+    "website":[
+        "https://www.shipchain.io/"
+    ],
+    "whitepaper":"-"
+}

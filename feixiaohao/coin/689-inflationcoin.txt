@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://inflationcoin.thecryptochat.net/",
+        "http://www.presstab.pw/phpexplorer/IFLT/"
+    ],
+    "description":"",
+    "id":689,
+    "name":"inflationcoin",
+    "name_cn":"－",
+    "name_en":"InflationCoin/IFLT",
+    "time":"－",
+    "website":[
+        "http://inflationcoin.org/"
+    ],
+    "whitepaper":"-"
+}

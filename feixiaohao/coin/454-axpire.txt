@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x9af2c6b1a28d3d6bc084bd267f70e90d49741d5b",
+        "https://ethplorer.io/address/0x9af2c6b1a28d3d6bc084bd267f70e90d49741d5b"
+    ],
+    "description":"aXpire将其最新的技术创新投入到基金管理服务领域。aXpire最初将帮助银行、对冲基金、私人资本公司等资产和基金管理人员以及为管理人员处理资源和时间成本的分...",
+    "id":454,
+    "name":"axpire",
+    "name_cn":"－",
+    "name_en":"aXpire/AXP",
+    "time":"2018-01-26",
+    "website":[
+        "http://axpire.io"
+    ],
+    "whitepaper":"https://www.axpire.io/downloads/aXpire_Whitepaper_v1.1.0.pdf"
+}

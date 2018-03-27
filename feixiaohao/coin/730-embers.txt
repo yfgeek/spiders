@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x386467f1f3ddbe832448650418311a479eecfc57",
+        "https://ethplorer.io/address/0x386467f1f3ddbe832448650418311a479eecfc57"
+    ],
+    "description":"Embermine是一个富有创意的商业平台，可简化创意人员和企业家的协作和分配，为他们的工作提供机构、效率和可持续性。",
+    "id":730,
+    "name":"embers",
+    "name_cn":"－",
+    "name_en":"Embers/MBRS",
+    "time":"2017-07-16",
+    "website":[
+        "https://embermine.com/"
+    ],
+    "whitepaper":"-"
+}

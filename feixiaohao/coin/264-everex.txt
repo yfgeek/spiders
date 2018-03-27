@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
+        "https://ethplorer.io/address/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8"
+    ],
+    "description":"Everex可以使用户能够在任何地方转移，借入和交易任何法定货币，而不需要银行账户，处理时间低于30秒，交易成本几分钱，全球支持。",
+    "id":264,
+    "name":"everex",
+    "name_cn":"－",
+    "name_en":"Everex/EVX",
+    "time":"2017-10-11",
+    "website":[
+        "https://www.everex.io/"
+    ],
+    "whitepaper":"-"
+}

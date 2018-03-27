@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://cardanoexplorer.com/"
+    ],
+    "description":"卡尔达诺是Ada加密货币的归宿，可用于发送和接收数字资金。这种数字现金代表了未来的货币，通过使用加密技术，可以快速，直接的转帐，保证其安全性。卡尔达诺不仅是一个...",
+    "id":7,
+    "name":"cardano",
+    "name_cn":"艾达币",
+    "name_en":"Cardano/ADA",
+    "time":"2017-10-02",
+    "website":[
+        "https://www.cardanohub.org/"
+    ],
+    "whitepaper":"https://www.cardanohub.org/zh/academic-papers-3/"
+}

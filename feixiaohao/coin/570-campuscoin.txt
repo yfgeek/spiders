@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://block.campuscoin.net:8000/",
+        "http://block.campuscoin.net/"
+    ],
+    "description":"CampusCoin是一种分散型的加密式货币，其意在允许全球范围的大学生们能在学校之间互相进行各种及时交易。与大学所提供的各种形式的货币不同，CampusCoi...",
+    "id":570,
+    "name":"campuscoin",
+    "name_cn":"－",
+    "name_en":"CampusCoin/CMPCO",
+    "time":"2017-07-28",
+    "website":[
+        "https://campuscoin.net/"
+    ],
+    "whitepaper":"-"
+}

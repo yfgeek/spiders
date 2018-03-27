@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25",
+        "https://ethplorer.io/address/0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25"
+    ],
+    "description":"SIRIN LABS是超安全手机SOLARIN的开发商，目前正在开发FINNEY™，第一款开源的区块链智能手机和一体机。凭借在新技术前沿的一些最受尊敬的参与者的...",
+    "id":133,
+    "name":"sirin-labs-token",
+    "name_cn":"－",
+    "name_en":"Sirin Labs/SRN",
+    "time":"2017-12-29",
+    "website":[
+        "http://www.sirinlabs.com/"
+    ],
+    "whitepaper":"https://sirinlabs.com/media/SIRINLABS_-_White_Paper.pdf"
+}

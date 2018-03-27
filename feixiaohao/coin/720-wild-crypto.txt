@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd3c00772b24d997a812249ca637a921e81357701",
+        "https://ethplorer.io/address/0xd3c00772b24d997a812249ca637a921e81357701"
+    ],
+    "description":"",
+    "id":720,
+    "name":"wild-crypto",
+    "name_cn":"－",
+    "name_en":"Wild Crypto/WILD",
+    "time":"2017-10-09",
+    "website":[
+        "https://wildcrypto.com/"
+    ],
+    "whitepaper":"-"
+}

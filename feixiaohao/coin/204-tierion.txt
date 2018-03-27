@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
+        "https://ethplorer.io/address/0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8"
+    ],
+    "description":"Tierion成立于2015年，总部设在硅谷，利用块链来锚定数据，以证明任何数据，文件或过程的完整性。Tierion推出了Chainpoint协议，这是锚定数据...",
+    "id":204,
+    "name":"tierion",
+    "name_cn":"－",
+    "name_en":"Tierion/TNT",
+    "time":"2017-08-28",
+    "website":[
+        "https://tierion.com/"
+    ],
+    "whitepaper":"https://tokensale.tierion.com/TierionTokenSaleWhitePaper.pdf"
+}

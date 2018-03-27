@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Humaniq",
+        "https://ethplorer.io/address/0xcbcc0f036ed4788f63fc0fee32873d6a7487b908"
+    ],
+    "description":"humaniq-基于区块链技术作为平台的下一代无银行账户的金融服务。该项目旨在解决实际和客观问题，这些是一个很大的优势，也有明确定义的目标受众。 传统金融机构和...",
+    "id":243,
+    "name":"humaniq",
+    "name_cn":"－",
+    "name_en":"Humaniq/HMQ",
+    "time":"2017-03-06",
+    "website":[
+        "https://humaniq.co/"
+    ],
+    "whitepaper":"https://humaniq.co/assets/downloads/humaniq_wp_english.pdf"
+}

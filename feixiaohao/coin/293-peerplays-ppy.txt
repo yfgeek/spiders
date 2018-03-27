@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://peerplaysdb.com/"
+    ],
+    "description":"Peerplays是世界上第一个完全对等投注平台建立的居住区块链",
+    "id":293,
+    "name":"peerplays-ppy",
+    "name_cn":"－",
+    "name_en":"Peerplays/PPY",
+    "time":"－",
+    "website":[
+        "http://www.peerplays.com/"
+    ],
+    "whitepaper":"https://www.peerplays.com/docs/Peerplays_Whitepaper.pdf"
+}

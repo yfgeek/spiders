@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/aur/",
+        "http://insight.auroracoin.is/"
+    ],
+    "description":"极光币（AUR）是虚拟币社区为冰岛居民推出虚拟币，作者承诺将50%预挖的AUR以“空投”等方式分发给冰岛的每一位公民，因其创意而在国外大受欢迎。总量2100万个...",
+    "id":395,
+    "name":"auroracoin",
+    "name_cn":"极光币",
+    "name_en":"Auroracoin/AUR",
+    "time":"－",
+    "website":[
+        "http://auroracoin.is/"
+    ],
+    "whitepaper":"-"
+}

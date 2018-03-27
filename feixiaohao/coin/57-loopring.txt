@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xEF68e7C694F40c8202821eDF525dE3782458639f",
+        "https://ethplorer.io/address/0xef68e7c694f40c8202821edf525de3782458639f"
+    ],
+    "description":"路印协议新一代区块链资产交易协议和交易所。它采用去中心化技术，提供零风险的代币交易所模式，并允许多家交易所通过竞争，对同样的订单进行链外撮合及链上清结算。路印协...",
+    "id":57,
+    "name":"loopring",
+    "name_cn":"路印协议",
+    "name_en":"Loopring/LRC",
+    "time":"2017-08-31",
+    "website":[
+        "https://loopring.org"
+    ],
+    "whitepaper":"-"
+}

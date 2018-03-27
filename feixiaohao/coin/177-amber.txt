@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",
+        "https://ethplorer.io/address/0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce"
+    ],
+    "description":"Ambrosus网络是为供应链设计的基于区块链的生态系统，追踪并确保网络中物品的起源、品质、规范性和恰当的处理。Ambrosus主要着眼于生活必需品供应链的改进...",
+    "id":177,
+    "name":"amber",
+    "name_cn":"－",
+    "name_en":"Ambrosus/AMB",
+    "time":"2017-10-24",
+    "website":[
+        "http://ambrosus.com/"
+    ],
+    "whitepaper":"https://ambrosus.com/assets/Ambrosus-White-Paper-Chinese.pdf"
+}

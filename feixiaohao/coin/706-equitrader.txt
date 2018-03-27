@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/eqt/"
+    ],
+    "description":"EquiTrader是一个分散的金融市场分析平台，可以为交易者提供应用代币，并提供有价值的市场分析和交易预测。",
+    "id":706,
+    "name":"equitrader",
+    "name_cn":"－",
+    "name_en":"EquiTrader/EQT",
+    "time":"－",
+    "website":[
+        "http://www.equitrader.co/"
+    ],
+    "whitepaper":"-"
+}

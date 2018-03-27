@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9",
+        "http://ethplorer.io/address/0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9"
+    ],
+    "description":"",
+    "id":484,
+    "name":"lala-world",
+    "name_cn":"－",
+    "name_en":"LALA World/LALA",
+    "time":"2018-03-13",
+    "website":[
+        "https://lalaworld.io/"
+    ],
+    "whitepaper":"-"
+}

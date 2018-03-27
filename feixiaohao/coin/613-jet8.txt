@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0d262e5dc4a06a0f1c90ce79c7a60c09dfc884e4",
+        "https://ethplorer.io/address/0x0d262e5dc4a06a0f1c90ce79c7a60c09dfc884e4"
+    ],
+    "description":"JET8 是一个通过社交货币价值连接意见领袖、消费者和品牌商的去中心化移动交互网络。",
+    "id":613,
+    "name":"jet8",
+    "name_cn":"－",
+    "name_en":"JET8/J8T",
+    "time":"2018-03-09",
+    "website":[
+        "https://jet8.io/"
+    ],
+    "whitepaper":"-"
+}

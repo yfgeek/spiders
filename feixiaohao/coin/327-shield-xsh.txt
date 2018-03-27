@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://188.226.178.216:3001/",
+        "https://altmix.org/coins/2-SHIELD"
+    ],
+    "description":"SHIELD 是一种基于中本聪（他在2009年发布了白皮书[1]）提出的区块链技术的加密数字币，这种技术自从发布以后一直在不断的发展和改进。这几年里，区块链技术...",
+    "id":327,
+    "name":"shield-xsh",
+    "name_cn":"神盾",
+    "name_en":"SHIELD/XSH",
+    "time":"2017-11-04",
+    "website":[
+        "https://shieldcurrency.com/"
+    ],
+    "whitepaper":"http://www.shieldx.sh/XSHWP-CN.pdf"
+}

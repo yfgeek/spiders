@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://coloredcoins.org/explorer/asset/La4aGUPuNKZyC393pS2Nb4RJdk2WvmoaAdrRLZ/7f40b086dd6e3759370b877a9218df3226ca43002b9f4c2df9ce2b8a7137b675/1"
+    ],
+    "description":"RMC虚拟币是一种数字系统资产，它以Colored coins形式被记录在具有开放源代码的Bitcoin区块链数据库中。RMC虚拟币是系统内部交际的主要工具，也...",
+    "id":380,
+    "name":"russian-mining-coin",
+    "name_cn":"－",
+    "name_en":"Russian Mining Coin/RMC",
+    "time":"2017-11-01",
+    "website":[
+        "https://rmc.one/"
+    ],
+    "whitepaper":"-"
+}

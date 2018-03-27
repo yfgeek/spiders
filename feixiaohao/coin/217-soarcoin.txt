@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://explorer.soarlabs.org/",
+        "https://etherscan.io/token/0xD65960FAcb8E4a2dFcb2C2212cb2e44a02e2a57E",
+        "https://ethplorer.io/address/0xD65960FAcb8E4a2dFcb2C2212cb2e44a02e2a57E"
+    ],
+    "description":"SoarCoin飙升币是以太坊区块链平台的通用数字资产，总量为50亿枚，本币可以通过第三方交易平台交换比特币、以太币等其他数字货币或变现法币。SoarCoin飙...",
+    "id":217,
+    "name":"soarcoin",
+    "name_cn":"飙升币",
+    "name_en":"Soarcoin/SOAR",
+    "time":"－",
+    "website":[
+        "http://soarlabs.org/"
+    ],
+    "whitepaper":"-"
+}

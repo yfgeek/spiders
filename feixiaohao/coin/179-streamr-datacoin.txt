@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+        "https://ethplorer.io/address/0x0cf0ee63788a0849fe5297f3407f701e122cc023"
+    ],
+    "description":"Streamr（DATA）是一个去中心的p2p网络。数据源可以与整个网络中任意节点连接，然后发布数据，网络将立即发送给订阅者。通过分片模式实现水平可扩展性。网络...",
+    "id":179,
+    "name":"streamr-datacoin",
+    "name_cn":"－",
+    "name_en":"Streamr/DATA",
+    "time":"2017-11-04",
+    "website":[
+        "https://www.streamr.com/"
+    ],
+    "whitepaper":"https://s3.amazonaws.com/streamr-public/streamr-datacoin-whitepaper-2017-07-25-v1_0.pdf"
+}

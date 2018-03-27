@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"MDS 是 MediShares项目的以太坊ERC20代币。MediShares是世界上第一个相互保障合约市场，基于区块链技术提供相互保障智能合约创建和使用平台...",
+    "id":103,
+    "name":"medishares",
+    "name_cn":"－",
+    "name_en":"MediShares/MDS",
+    "time":"2017-12-14",
+    "website":[
+        "http://www.medishares.org"
+    ],
+    "whitepaper":"http://doc.medishares.org/whitepaper/MediShares.Whitepaper.CN.pdf"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"ugChain—打造去中心化的游戏生态ugChain是垂直于游戏行业的区块链项目，致力于推动虚拟资产的标准化及交易。首创的双链交互模式，解决了区块链应用中易用性...",
+    "id":287,
+    "name":"ugchain",
+    "name_cn":"－",
+    "name_en":"UgChain/UGC",
+    "time":"2018-01-13",
+    "website":[
+        "http://www.ugchain.org/"
+    ],
+    "whitepaper":"-"
+}

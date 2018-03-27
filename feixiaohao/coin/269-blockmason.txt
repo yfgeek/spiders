@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
+        "https://ethplorer.io/address/0x1c4481750daa5ff521a2a7490d9981ed46465dbd"
+    ],
+    "description":"BlockMason 是一种信用协议（Credit Protocol）。比特币完成了金钱在转移和存储方面的去中心化，以太坊则建立和存储智能合约的去中心化，而基于...",
+    "id":269,
+    "name":"blockmason",
+    "name_cn":"－",
+    "name_en":"Blockmason/BCPT",
+    "time":"2017-10-18",
+    "website":[
+        "https://blockmason.io/"
+    ],
+    "whitepaper":"-"
+}

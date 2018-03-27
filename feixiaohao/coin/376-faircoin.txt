@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chain.fair.to/"
+    ],
+    "description":"FairCoin 是一种分散化的虚拟货币，在2014年3月6日和8日期间通过一个巨大的空投过程进行分配。大约49750个地址获得赠币。公平币的运作是以社区所有成...",
+    "id":376,
+    "name":"faircoin",
+    "name_cn":"公平币",
+    "name_en":"FairCoin/FAIR",
+    "time":"－",
+    "website":[
+        "http://fair-coin.org/"
+    ],
+    "whitepaper":"https://fair-coin.org/en/node/173"
+}

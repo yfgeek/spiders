@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"UCX币是一家注册在澳大利亚并且面向全球客户的区块链资产交易平台UCX的平台币。平台每月1-3号会结算上一个月全站手续费总额，其中50%用来奖励给持有UCX币的...",
+    "id":789,
+    "name":"u_cx",
+    "name_cn":"UCX币",
+    "name_en":"UCX/UCX",
+    "time":"2017-09-21",
+    "website":[
+        "http://www.u.cx"
+    ],
+    "whitepaper":"-"
+}

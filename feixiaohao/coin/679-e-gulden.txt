@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/efl/"
+    ],
+    "description":"EFL的电子盾牌是一种用于荷兰市场的支付、计算和储蓄装置。电子盾牌的价值取决于免费获得的奖学金。e-Gulden由荷兰电子基金会监督，是完全公共的领域。",
+    "id":679,
+    "name":"e-gulden",
+    "name_cn":"－",
+    "name_en":"e-Gulden/EFL",
+    "time":"－",
+    "website":[
+        "http://www.e-gulden.org"
+    ],
+    "whitepaper":"-"
+}

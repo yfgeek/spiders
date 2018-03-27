@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/gld/"
+    ],
+    "description":"GoldCoin，中文名金币，简称GLD，是一个建立在比特币基础上进行二次开发而成的电子货币。发布于2013年12月17日。GLD看上去是以比特币的基础开发而成...",
+    "id":610,
+    "name":"goldcoin",
+    "name_cn":"金币",
+    "name_en":"GoldCoin/GLD",
+    "time":"－",
+    "website":[
+        "https://www.goldcoin.org/"
+    ],
+    "whitepaper":"-"
+}

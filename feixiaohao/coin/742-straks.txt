@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://straks.info/"
+    ],
+    "description":"",
+    "id":742,
+    "name":"straks",
+    "name_cn":"－",
+    "name_en":"STRAKS/STAK",
+    "time":"2018-01-02",
+    "website":[
+        "https://www.straks.io/"
+    ],
+    "whitepaper":"-"
+}

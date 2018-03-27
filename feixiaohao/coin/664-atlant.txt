@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05",
+        "https://ethplorer.io/address/0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05"
+    ],
+    "description":"ATLANT 是一个可定制的去中心化系统，建立在以太坊DAO协议基础上。代币是这个平台的核心，简称“ATL”。ATL 代币本质上是ATLANT平台的会员凭证，它...",
+    "id":664,
+    "name":"atlant",
+    "name_cn":"－",
+    "name_en":"ATLANT/ATL",
+    "time":"2017-11-02",
+    "website":[
+        "https://atlant.io/"
+    ],
+    "whitepaper":"https://atlant.io/assets/documents/cn/Atlant_WP_publish.pdf"
+}

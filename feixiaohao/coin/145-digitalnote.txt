@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainradar.com/xdn/blocks"
+    ],
+    "description":"DigitalNote XDN cryptocurrency,一种分散的数字的钱,像比特币。 它是基于CryptoNote匿名技术和更新具有独特的难以捉摸的加密...",
+    "id":145,
+    "name":"digitalnote",
+    "name_cn":"－",
+    "name_en":"DigitalNote/XDN",
+    "time":"－",
+    "website":[
+        "http://digitalnote.org/"
+    ],
+    "whitepaper":"-"
+}

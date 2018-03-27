@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://www.gander.tech/",
+        "http://www.expanse.tech/explorer"
+    ],
+    "description":"Expanse是一个基于新一代区块链的，公平去中心化的、集直观信息、存储等应用 及智能合约于一体的自治平台。团队成员实力不俗，均为hero member，且发展...",
+    "id":335,
+    "name":"expanse",
+    "name_cn":"－",
+    "name_en":"Expanse/EXP",
+    "time":"2015-09-04",
+    "website":[
+        "http://www.expanse.tech/"
+    ],
+    "whitepaper":"-"
+}

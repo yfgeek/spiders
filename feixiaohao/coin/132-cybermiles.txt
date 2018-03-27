@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"CyberMiles (\"CM\") 是由区块链开发研究室 5xlab 所开发的区块鍊和智能合约平台。 5xlab 的合作伙 5miles，是...",
+    "id":132,
+    "name":"cybermiles",
+    "name_cn":"草莓糖",
+    "name_en":"CyberMiles/CMT",
+    "time":"2017-12-07",
+    "website":[
+        "https://cm.5miles.com/zh-tw/"
+    ],
+    "whitepaper":"https://cm.5miles.com/file/technical/Technical%20Whitepaper_zh-tw.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/ok/"
+    ],
+    "description":"数字货币新一代，OK是开源的，任何人可以参与设计，没有人能拥有和控制OKCash。OKCash是采用Scrypt算法，POW POS模式。\n",
+    "id":421,
+    "name":"okcash",
+    "name_cn":"－",
+    "name_en":"OKCash/OK",
+    "time":"2014-11-24",
+    "website":[
+        "http://okcash.co"
+    ],
+    "whitepaper":"-"
+}

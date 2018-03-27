@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xfec0cf7fe078a500abf15f1284958f22049c2c7e",
+        "https://ethplorer.io/address/0xfec0cf7fe078a500abf15f1284958f22049c2c7e"
+    ],
+    "description":"Maecenas是一家艺术投资平台，旨在利用区块链技术把资本市场高效、流通的特点带入艺术品市场。平台提供实时市场反馈，也提供初级市场及次级市场，让投资者能够部分...",
+    "id":371,
+    "name":"maecenas",
+    "name_cn":"－",
+    "name_en":"Maecenas/ART",
+    "time":"2017-10-19",
+    "website":[
+        "http://www.maecenas.co/"
+    ],
+    "whitepaper":"https://www.maecenas.co/Maecenas-WhitePaper.pdf"
+}

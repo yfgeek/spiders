@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://chain.stealthcoin.com/",
+        "https://chainz.cryptoid.info/xst/",
+        "http://www.presstab.pw/phpexplorer/XST/index.php"
+    ],
+    "description":"Stealthcoin为加密货币提供完整的匿名解决方案。Stealthcoin公平分配，并有近四个小时的低分奖励、1%的小预期，以及长期的能效证明。",
+    "id":483,
+    "name":"stealthcoin",
+    "name_cn":"－",
+    "name_en":"Stealthcoin/XST",
+    "time":"－",
+    "website":[
+        "https://www.stealthcoin.com/"
+    ],
+    "whitepaper":"-"
+}

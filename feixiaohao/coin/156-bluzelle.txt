@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5732046a883704404f284ce41ffadd5b007fd668",
+        "https://ethplorer.io/address/0x5732046a883704404f284ce41ffadd5b007fd668"
+    ],
+    "description":"Bluzelle正是为去中心化应⽤开发的去中⼼化的、基于客户需求、可扩展的数据服务。为了确保在性能、可靠性和可扩展性方面达到最高水平，Bluzelle应用了集群...",
+    "id":156,
+    "name":"bluzelle",
+    "name_cn":"－",
+    "name_en":"Bluzelle/BLZ",
+    "time":"2018-02-07",
+    "website":[
+        "https://bluzelle.com/"
+    ],
+    "whitepaper":"https://bluzelle.com/wp-content/uploads/2017/11/Bluzelle-White-Paper-v-1.2-Simplified-Chinese.pdf"
+}

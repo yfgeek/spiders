@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd234bf2410a0009df9c3c63b610c09738f18ccd7",
+        "https://ethplorer.io/address/0xd234bf2410a0009df9c3c63b610c09738f18ccd7"
+    ],
+    "description":"Tokens 正在建立加密数字货币交易平台，引入动态交易权（DTR），为当前交易环境带来革命性变革，提供可信，透明，安全和可靠的地方，以交易 ERC-20 令牌...",
+    "id":119,
+    "name":"dynamic-trading-rights",
+    "name_cn":"－",
+    "name_en":"Dynamic Trading Rights/DTR",
+    "time":"2017-12-21",
+    "website":[
+        "http://www.tokens.net/"
+    ],
+    "whitepaper":"https://www.tokens.net/pdf/whitepaper.pdf"
+}

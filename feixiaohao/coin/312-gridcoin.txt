@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.gridresearchcorp.com/gridcoin/"
+    ],
+    "description":"格雷德币创立于2014年10月16日上线。是基于莱特币和伯克利开放网络计算平台（BONIC）的数字货币。受益于BONIC的学科包括生命医学、天文、材料科学等几...",
+    "id":312,
+    "name":"gridcoin",
+    "name_cn":"格雷德币",
+    "name_en":"GridCoin/GRC",
+    "time":"2014-10-16",
+    "website":[
+        "http://www.gridcoin.us/"
+    ],
+    "whitepaper":"-"
+}

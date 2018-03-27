@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e",
+        "https://ethplorer.io/address/0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e"
+    ],
+    "description":"Cryptopay自2013年开始运营，是欧洲最早的数字货币服务提供商之一。它广泛地服务于数字货币世界-为商家提供比特币交易服务，并在此基础上创建纯数字资产钱包...",
+    "id":588,
+    "name":"cryptopay",
+    "name_cn":"－",
+    "name_en":"Cryptopay/CPAY",
+    "time":"2017-12-29",
+    "website":[
+        "https://cryptopay.me/",
+        "https://ico.cryptopay.me/"
+    ],
+    "whitepaper":"https://ico.cryptopay.me/ico_cpay_wp.pdf"
+}

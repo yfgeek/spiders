@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1a986F1659e11E2AE7CC6543F307bAE5cDe1C761"
+    ],
+    "description":"Unity Ingot与其他数字货币不同，它们由实体黄金和比特币支撑，是有价值的存储货币。这是通过挖掘其他加密货币实现的，例如以太坊，ZCash，莱特币和其他可...",
+    "id":538,
+    "name":"unity-ingot",
+    "name_cn":"－",
+    "name_en":"Unity Ingot/UNY",
+    "time":"－",
+    "website":[
+        "https://unityingot.com/"
+    ],
+    "whitepaper":"-"
+}

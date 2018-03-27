@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/ADC/index.php"
+    ],
+    "description":"AudioCoin是一种适用于不稳定行业的稳定货币，助力音乐生态系统。音乐产业充斥着堆积如山的问题和政治影响，在公平分享收入和透明度方面造成非常不平衡的情况。A...",
+    "id":639,
+    "name":"audiocoin",
+    "name_cn":"－",
+    "name_en":"AudioCoin/ADC",
+    "time":"－",
+    "website":[
+        "http://www.audiocoin.eu/"
+    ],
+    "whitepaper":"-"
+}

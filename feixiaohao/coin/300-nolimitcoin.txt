@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://nolimitcoin.info/"
+    ],
+    "description":"加密数字货币影响了很多行业。梦幻体育以每年100亿美金的速度快速增长，是由区块链技术建立的一个最新市场。这种影响是由无极梦幻体育发行No Limit Coin(...",
+    "id":300,
+    "name":"nolimitcoin",
+    "name_cn":"－",
+    "name_en":"NoLimitCoin/NLC2",
+    "time":"－",
+    "website":[
+        "http://www.nolimitcoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://purexplorer.dynu.net/"
+    ],
+    "description":"",
+    "id":751,
+    "name":"pure",
+    "name_cn":"－",
+    "name_en":"PURE/PURE",
+    "time":"2017-11-05",
+    "website":[
+        "https://purealt.org/"
+    ],
+    "whitepaper":"-"
+}

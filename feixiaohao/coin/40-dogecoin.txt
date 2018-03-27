@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://dogechain.info/chain/Dogecoin"
+    ],
+    "description":"狗币自有一套策略，它并不走比特币的赚钱路线，而是很好地利用了美国的“小费文化”。这种被视作是对服务者的捐赠或跪拜的谦卑姿态，也在互联网上广泛使用。比起昂贵的比特...",
+    "id":40,
+    "name":"dogecoin",
+    "name_cn":"狗狗币",
+    "name_en":"Dogecoin/DOGE",
+    "time":"2013-12-12",
+    "website":[
+        "http://dogecoin.com/"
+    ],
+    "whitepaper":"-"
+}

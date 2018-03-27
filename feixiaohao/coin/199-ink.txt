@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Ink，是面向世界不同文化圈原创内容产业，涉及主权联盟链、可信公链，以及跨链互联的去中心化解决方案。Ink的蓝图是：面向特定文化圈提供主权联盟链，搭建内容产业的...",
+    "id":199,
+    "name":"ink",
+    "name_cn":"墨链",
+    "name_en":"Ink/INK",
+    "time":"2017-11-21",
+    "website":[
+        "https://ink.plus/"
+    ],
+    "whitepaper":"-"
+}

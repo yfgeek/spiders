@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://steemd.com/",
+        "https://steemdb.com/"
+    ],
+    "description":"Steem是新型社交媒体网站Steemit的数字货币。数字货币领域的新手们如果想获得Steem，可以在社交媒体平台Steemit发帖。平台会计算发帖好评数量，给...",
+    "id":31,
+    "name":"steem",
+    "name_cn":"斯蒂姆币",
+    "name_en":"Steem/STEEM",
+    "time":"2016-03-24",
+    "website":[
+        "https://steem.io/",
+        "https://steemit.com/"
+    ],
+    "whitepaper":"https://smt.steem.io/smt-whitepaper.pdf"
+}

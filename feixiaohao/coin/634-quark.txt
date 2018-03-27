@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/qrk/"
+    ],
+    "description":"夸克币(Quark,QRK)发布于2013年7月21日，基于基于6种加密算法（blake, bmw, groestl, jh, keccak, skein）9轮...",
+    "id":634,
+    "name":"quark",
+    "name_cn":"夸克币",
+    "name_en":"Quark/QRK",
+    "time":"－",
+    "website":[
+        "http://www.qrknet.info/"
+    ],
+    "whitepaper":"-"
+}

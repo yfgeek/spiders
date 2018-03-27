@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.smartcash.cc/"
+    ],
+    "description":"SmartCash 是一个以区块链为基础的去中心化的分散社区治理、合作与增长的经济平台。为了创建和维护一个分散的治理结构，引入了两个概念 SmartHive 和...",
+    "id":121,
+    "name":"smartcash",
+    "name_cn":"－",
+    "name_en":"SmartCash/SMART",
+    "time":"2017-07-22",
+    "website":[
+        "https://smartcash.cc/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockchain.prizm.space/"
+    ],
+    "description":"第一个公平的加密货币，去中心化、便利、安全。平均出块时间为59秒，跟交易数量无关。利用全球的点对点系统，免费转账，并且采用POS挖矿。",
+    "id":326,
+    "name":"prizm",
+    "name_cn":"－",
+    "name_en":"PRIZM/PZM",
+    "time":"－",
+    "website":[
+        "http://en.prizm.club/"
+    ],
+    "whitepaper":"-"
+}

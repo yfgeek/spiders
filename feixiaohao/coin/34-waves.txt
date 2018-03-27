@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://wavesgo.com/",
+        "http://wavesexplorer.com/"
+    ],
+    "description":"WAVES,用于资产/自定义代币发行、转账和交易的终极密码学货币平台。项目名字受到了最近重力引力波的发现的启发，WAVES代表着将社区连接在一起的引力波。WAV...",
+    "id":34,
+    "name":"waves",
+    "name_cn":"波币",
+    "name_en":"Waves/WAVES",
+    "time":"2016-05-31",
+    "website":[
+        "https://wavesplatform.com/"
+    ],
+    "whitepaper":"https://wavesplatform.com/files/whitepaper_v0.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://wavesexplorer.com/tx/HfFHZaPzGMSdHvaaZ7S8mrZrPWEyGzfA6VDuSRzb8uY6"
+    ],
+    "description":"",
+    "id":647,
+    "name":"bowhead",
+    "name_cn":"－",
+    "name_en":"Bowhead/AHT",
+    "time":"2017-09-17",
+    "website":[
+        "https://bowheadhealth.com"
+    ],
+    "whitepaper":"https://drive.google.com/file/d/0Bz8GOnrPq_i-SGk5a1Jxbld2TGs/view?usp=sharing"
+}

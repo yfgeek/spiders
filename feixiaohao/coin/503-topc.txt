@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"拓扑链是区块链游戏全球领军品牌，以去中心化理念重塑游戏行业体系结构，通过拓扑链玩家社区、拓扑共识、拓扑挖矿三大共识方案解决当前游戏行业巨头垄断、渠道积弊，构建多...",
+    "id":503,
+    "name":"topc",
+    "name_cn":"拓扑链",
+    "name_en":"TOPCHAIN/TOPC",
+    "time":"2018-01-09",
+    "website":[
+        "http://www.topc.io/"
+    ],
+    "whitepaper":"http://cdn.topchain.cc/topchain.pdf"
+}

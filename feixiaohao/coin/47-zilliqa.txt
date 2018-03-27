@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Zilliqa(ZIL)作为一个新的公有区块链，着重为高吞吐量的应用程序提供运行平台。它将分片技术从理论变为实践，运用创新的密码技术和共识协议，提供随着网络增容...",
+    "id":47,
+    "name":"zilliqa",
+    "name_cn":"－",
+    "name_en":"Zilliqa/ZIL",
+    "time":"2018-01-26",
+    "website":[
+        "https://www.zilliqa.com/"
+    ],
+    "whitepaper":"https://docs.zilliqa.com/whitepaper.pdf"
+}

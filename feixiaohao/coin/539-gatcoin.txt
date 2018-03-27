@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x687174f8c49ceb7729d925c3a961507ea4ac7b28",
+        "https://ethplorer.io/address/0x687174f8c49ceb7729d925c3a961507ea4ac7b28"
+    ],
+    "description":"Gatcoin是一种新式加密货币，会在以太坊主网络上发布。各商户能部署自己的商户代币，并利用盖特币通过GAT Exchange交换其他商户代币。",
+    "id":539,
+    "name":"gatcoin",
+    "name_cn":"－",
+    "name_en":"Gatcoin/GAT",
+    "time":"2018-01-19",
+    "website":[
+        "https://www.gatcoin.io/"
+    ],
+    "whitepaper":"https://www.gatcoin.io/wp-content/uploads/2018/01/180105-Whitepaper-Chinese.pdf"
+}

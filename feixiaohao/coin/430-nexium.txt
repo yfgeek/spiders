@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x45e42D659D9f9466cD5DF622506033145a9b89Bc",
+        "https://ethplorer.io/address/0x45e42d659d9f9466cd5df622506033145a9b89bc"
+    ],
+    "description":"Beyond The Void在2016年12月进行一轮ICO，发行Nexium是基于以太坊智能合约区块链的代币，它的创造是为了服务Beyond The V...",
+    "id":430,
+    "name":"nexium",
+    "name_cn":"－",
+    "name_en":"Nexium/NXC",
+    "time":"2016-12-19",
+    "website":[
+        "https://beyond-the-void.net/"
+    ],
+    "whitepaper":"-"
+}

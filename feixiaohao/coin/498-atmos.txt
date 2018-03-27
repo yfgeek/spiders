@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/atms/"
+    ],
+    "description":"AFIX 高级文件索引结合了 IPFS 和 Novusphere 区块链数据库的优点，使用 IPFS p2p 网络中内容内容的数据库层。这个数据库允许 Novu...",
+    "id":498,
+    "name":"atmos",
+    "name_cn":"－",
+    "name_en":"Atmos/ATMS",
+    "time":"－",
+    "website":[
+        "https://novusphere.io/"
+    ],
+    "whitepaper":"-"
+}

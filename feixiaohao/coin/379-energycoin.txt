@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/enrg/"
+    ],
+    "description":"ENRG是加密的货币像比特币2014年被克隆的PeerCoin第一Proof-of-stake货币。\n\n货币是为了为社区提供一个平台,企业和个人建立能源应用程...",
+    "id":379,
+    "name":"energycoin",
+    "name_cn":"能源币",
+    "name_en":"Energycoin/ENRG",
+    "time":"－",
+    "website":[
+        "https://energycoin.eu/"
+    ],
+    "whitepaper":"-"
+}

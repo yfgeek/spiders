@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xa823e6722006afe99e91c30ff5295052fe6b8e32",
+        "https://ethplorer.io/address/0xa823e6722006afe99e91c30ff5295052fe6b8e32"
+    ],
+    "description":"Neufund是一个社区拥有的筹款（ICO）平台， 作为全世界投资和区块链之间的桥梁，通过Neufund参与全球创新。 通过使用Neufund的法律和技术基础设...",
+    "id":394,
+    "name":"neumark",
+    "name_cn":"－",
+    "name_en":"Neumark/NEU",
+    "time":"2017-12-29",
+    "website":[
+        "https://commit.neufund.org/",
+        "https://blog.neufund.org/"
+    ],
+    "whitepaper":"https://neufund.org/docs/whitepaper"
+}

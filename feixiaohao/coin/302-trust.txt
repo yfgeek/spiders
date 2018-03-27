@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/Trustcoin"
+    ],
+    "description":"WeTrust搭建存款与保险信任平台，其团队致力于通过利用现有的社会资本、人际信任网、以及创新的区块链技术带来全新的金融产品服务。第一个产品的灵感是来自于全球超...",
+    "id":302,
+    "name":"trust",
+    "name_cn":"－",
+    "name_en":"WeTrust/TRST",
+    "time":"2017-02-28",
+    "website":[
+        "https://www.wetrust.io/"
+    ],
+    "whitepaper":"https://github.com/WeTrustPlatform/documents/blob/master/WeTrustWhitePaper.pdf"
+}

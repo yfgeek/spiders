@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x13f11c9905a08ca76e3e853be63d4f0944326c72",
+        "https://ethplorer.io/address/0x13f11c9905a08ca76e3e853be63d4f0944326c72"
+    ],
+    "description":"Divi Project 提供了一个新颖的方案来解决加密货币世界最大和最有利可图的问题:普通人“大规模采用”。我们致力于将区块链的力量带给那些回避它,觉得它太技...",
+    "id":393,
+    "name":"divi",
+    "name_cn":"－",
+    "name_en":"Divi/DIVX",
+    "time":"2017-11-26",
+    "website":[
+        "https://www.diviproject.org/"
+    ],
+    "whitepaper":"-"
+}

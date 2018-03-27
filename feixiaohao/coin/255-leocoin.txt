@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://insight.leocoin.org/"
+    ],
+    "description":"LEOcoin是一个确定的数字货币,允许个人使快速和安全事务通过分散的点对点网络。 这是数字现金,不需要银行工作或转让费用。 由一个大型社区的建立和有抱负的企...",
+    "id":255,
+    "name":"leocoin",
+    "name_cn":"－",
+    "name_en":"LEOcoin/LEO",
+    "time":"－",
+    "website":[
+        "http://www.leocoin.org/",
+        "http://leocoinfoundation.org/"
+    ],
+    "whitepaper":"-"
+}

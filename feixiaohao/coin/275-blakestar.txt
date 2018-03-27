@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blakestar.thecryptochat.net/"
+    ],
+    "description":"BlakeStar是在全球免费提供的新加密货币。它基于对等网络协议，允许人们存储、放置交易，并获得投资(PoS)利益。这意味着持有BlakeStar的任何用户都...",
+    "id":275,
+    "name":"blakestar",
+    "name_cn":"－",
+    "name_en":"BlakeStar/BLAS",
+    "time":"2017-08-01",
+    "website":[
+        "http://www.blakestar.io/"
+    ],
+    "whitepaper":"-"
+}

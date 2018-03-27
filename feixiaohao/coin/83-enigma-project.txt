@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
+        "https://ethplorer.io/address/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4"
+    ],
+    "description":"ENG币是区块链enigma项目代币的简称；Enigma是具有隐私保证的分布式计算平台。借助安全的多方计算技术，不同方能够对分布式存储的数据运行计算程序并得到正...",
+    "id":83,
+    "name":"enigma-project",
+    "name_cn":"－",
+    "name_en":"Enigma/ENG",
+    "time":"2017-10-14",
+    "website":[
+        "https://enigma.co/"
+    ],
+    "whitepaper":"https://enigma.co/enigma_catalyst.pdf"
+}

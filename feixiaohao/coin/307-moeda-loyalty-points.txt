@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
+        "https://ethplorer.io/address/0x51db5ad35c671a87207d88fc11d593ac0c8415bd"
+    ],
+    "description":"Moeda是一家合作性银行系统，由区块链驱动，服务每一个人。Moeda提供简单便捷的端对端支付和端对端汇款网络，帮助企业家实现他们的宏大目标。从微型商户贷款到大...",
+    "id":307,
+    "name":"moeda-loyalty-points",
+    "name_cn":"－",
+    "name_en":"Moeda Loyalty/MDA",
+    "time":"2017-09-12",
+    "website":[
+        "https://moeda.in/"
+    ],
+    "whitepaper":"-"
+}

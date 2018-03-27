@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xe3fedaecd47aa8eab6b23227b0ee56f092c967a9",
+        "https://ethplorer.io/address/0xe3fedaecd47aa8eab6b23227b0ee56f092c967a9"
+    ],
+    "description":"Primas是一个开放的内容发布、推荐和交易生态圈。Primas致力于使用区块链和其他技术手段改变现有内容市场格局，解决优质内容难以识别、传播和变现的问题。通过...",
+    "id":443,
+    "name":"primas",
+    "name_cn":"－",
+    "name_en":"Primas/PST",
+    "time":"2017-08-29",
+    "website":[
+        "https://primas.io/"
+    ],
+    "whitepaper":"https://primas.io/pdf/primas-1.3.1-zh.pdf"
+}

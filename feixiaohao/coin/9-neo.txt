@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://neotracker.io",
+        "http://antcha.in",
+        "https://neoexplorer.co/"
+    ],
+    "description":"NEO，原名小蚁，2014年正式立项，2015年6月于Github实时开源。成立以来，NEO团队亲历了区块链行业的高潮与低谷，数字货币市场的狂热与冷却，各国监管...",
+    "id":9,
+    "name":"neo",
+    "name_cn":"小蚁",
+    "name_en":"NEO/NEO",
+    "time":"2014-06-01",
+    "website":[
+        "https://neo.org/"
+    ],
+    "whitepaper":"https://github.com/AntShares/AntShares/wiki/Whitepaper-1.1"
+}

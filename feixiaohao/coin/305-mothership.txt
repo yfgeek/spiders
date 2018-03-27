@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x68aa3f232da9bdc2343465545794ef3eea5209bd",
+        "http://ethplorer.io/address/0x68aa3f232da9bdc2343465545794ef3eea5209bd"
+    ],
+    "description":"MSP 将在 Ethereum 平台上作为 ERC20 令牌构建。总供应量为200,000,000 MSP。MSP 作为 Mothership 的核心部分，并用...",
+    "id":305,
+    "name":"mothership",
+    "name_cn":"－",
+    "name_en":"Mothership/MSP",
+    "time":"2017-07-28",
+    "website":[
+        "https://mothership.cx/"
+    ],
+    "whitepaper":"https://mothership.cx/documents/whitepaper.pdf"
+}

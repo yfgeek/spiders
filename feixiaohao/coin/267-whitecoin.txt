@@ -1,0 +1,18 @@
+{
+    "blockchain":[
+        "http://explorer2.whitecoin.info/",
+        "http://explorer.whitecoin.info/chain/Whitecoin",
+        "http://explorer.whitecoin.club/"
+    ],
+    "description":"WhiteCoin，中文名白币（简称XWC）是一个拥有四年历史的去中心化全球区块链。白币由一个专门的支持者团体驱动，没有一个人能独自控制。这种有吸引力的组合将有...",
+    "id":267,
+    "name":"whitecoin",
+    "name_cn":"白币",
+    "name_en":"WhiteCoin/XWC",
+    "time":"2014-04-18",
+    "website":[
+        "http://whitecoin.info/",
+        "http://www.whitecoin.club"
+    ],
+    "whitepaper":"http://www.whitecoin.club/download_document.php"
+}

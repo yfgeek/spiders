@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xea1f346faf023f974eb5adaf088bbcdf02d761f4",
+        "https://ethplorer.io/address/0xea1f346faf023f974eb5adaf088bbcdf02d761f4"
+    ],
+    "description":"Blocktix是由7位美国本土的区块链专家和信息技术专家组成的团队，致力于为传统的活动发起、票务托管等提供服务。Blocktix区块链将部署在以太坊(Ethe...",
+    "id":366,
+    "name":"blocktix",
+    "name_cn":"－",
+    "name_en":"Blocktix/TIX",
+    "time":"2017-08-10",
+    "website":[
+        "https://blocktix.io/"
+    ],
+    "whitepaper":"https://blocktix.io/public/doc/blocktix-wp-draft.pdf"
+}
