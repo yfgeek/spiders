@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://39.106.36.203/index.php"
+    ],
+    "description":"ZZM是基于区块链技术开发的加密数字码，依托文化娱乐行业以点带面进行辐射，最终将ZZM打造成为文化娱乐行业新的风向标。ZZM的使命是将区块链技术运用到文化娱乐行...",
+    "id":1270,
+    "name":"zzm",
+    "name_cn":"ZZM",
+    "name_en":"ZZM/ZZM",
+    "time":"2017-11-27",
+    "website":[],
+    "whitepaper":"-"
+}

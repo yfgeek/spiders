@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://boat.cryptophi.net/"
+    ],
+    "description":"达布隆币(Doubloons,DBL)采用ltc的Scrypt算法。每块包含6.77个币，每天调整两次难度,货币总量800万个或挖够5年，达到这两者之一即停产，...",
+    "id":1215,
+    "name":"doubloon",
+    "name_cn":"达布隆币",
+    "name_en":"Doubloon/BOAT",
+    "time":"－",
+    "website":[
+        "http://doubloonboat.com/"
+    ],
+    "whitepaper":"-"
+}

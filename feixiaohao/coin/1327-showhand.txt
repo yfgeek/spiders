@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://ethplorer.io/address/0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7",
+        "tab=tab-holder"
+    ],
+    "description":"ShowHand (HAND) 币利用ERC20以太坊底层协议致力成为全球通用的娱乐游戏用代币，免除可信任第三方作为支付网关。我们的平台由社区驱动开发去中心化的...",
+    "id":1327,
+    "name":"showhand",
+    "name_cn":"梭哈",
+    "name_en":"ShowHand/HAND",
+    "time":"2018-01-20",
+    "website":[
+        "http://www.showhand.io/"
+    ],
+    "whitepaper":"http://www.showhand.io/ShowHand%20Whitepaper_Eng%20v1.1%201.26.2018.pdf"
+}

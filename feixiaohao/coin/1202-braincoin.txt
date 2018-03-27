@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "http://78.153.4.77:3001/",
+        "https://masternodes.pro/stats/brain"
+    ],
+    "description":"",
+    "id":1202,
+    "name":"braincoin",
+    "name_cn":"－",
+    "name_en":"Braincoin/BRAIN",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

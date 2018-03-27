@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.interzone.space/"
+    ],
+    "description":"",
+    "id":1618,
+    "name":"interzone",
+    "name_cn":"－",
+    "name_en":"Interzone/ITZ",
+    "time":"2017-09-29",
+    "website":[
+        "https://interzone.space/"
+    ],
+    "whitepaper":"-"
+}

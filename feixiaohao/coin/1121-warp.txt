@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://explorer.warpcoin.com/",
+        "https://chainz.cryptoid.info/warp/"
+    ],
+    "description":"",
+    "id":1121,
+    "name":"warp",
+    "name_cn":"－",
+    "name_en":"WARP/WARP",
+    "time":"－",
+    "website":[
+        "http://www.warpcoin.com/"
+    ],
+    "whitepaper":"-"
+}

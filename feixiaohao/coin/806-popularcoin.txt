@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://popularcoin.info/chain/PopCoin/"
+    ],
+    "description":"",
+    "id":806,
+    "name":"popularcoin",
+    "name_cn":"人气币",
+    "name_en":"PopularCoin/POP",
+    "time":"－",
+    "website":[
+        "http://popularcoin.org/"
+    ],
+    "whitepaper":"https://www.popularcoin.com/popular-coin-popology-app-white-paper"
+}

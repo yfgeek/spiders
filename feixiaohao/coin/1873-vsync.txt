@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1873,
+    "name":"vsync",
+    "name_cn":"－",
+    "name_en":"Vsync/XVS",
+    "time":"－",
+    "website":[
+        "https://vsync.pw"
+    ],
+    "whitepaper":"-"
+}

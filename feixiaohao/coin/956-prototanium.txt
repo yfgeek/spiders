@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/pr/",
+        "http://cryptobe.com/chain/Prototanium%20%28UNO%20Testnet%29"
+    ],
+    "description":"",
+    "id":956,
+    "name":"prototanium",
+    "name_cn":"－",
+    "name_en":"Prototanium/PR",
+    "time":"－",
+    "website":[
+        "http://prototanium.uno/"
+    ],
+    "whitepaper":"-"
+}

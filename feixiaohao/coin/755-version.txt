@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://explorer.version2.org/chain/Version/",
+        "http://cryptoguru.tk/Blocks/index.php?Currency=V"
+    ],
+    "description":"",
+    "id":755,
+    "name":"version",
+    "name_cn":"－",
+    "name_en":"Version/V",
+    "time":"－",
+    "website":[
+        "http://version2.org/"
+    ],
+    "whitepaper":"-"
+}

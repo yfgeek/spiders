@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.qbic.io:3001"
+    ],
+    "description":"",
+    "id":923,
+    "name":"qbic",
+    "name_cn":"－",
+    "name_en":"Qbic/QBIC",
+    "time":"2018-01-25",
+    "website":[
+        "http://qbic.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1472,
+    "name":"comsa-xem",
+    "name_cn":"－",
+    "name_en":"COMSA-XEM/CMS",
+    "time":"2017-12-14",
+    "website":[
+        "https://comsa.io/en/"
+    ],
+    "whitepaper":"-"
+}

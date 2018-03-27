@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://125.128.182.102:8000/",
+        "/"
+    ],
+    "description":"WA Space是以国际简便汇款及金融支付的革新为目的而诞生的新加密数字货币。Ethereum为基础而开发的 WA Space加密数字货币，采用与比特币的 Bl...",
+    "id":1877,
+    "name":"wa-space",
+    "name_cn":"－",
+    "name_en":"WA Space/WA",
+    "time":"－",
+    "website":[
+        "http://www.wa3529.com/"
+    ],
+    "whitepaper":"-"
+}

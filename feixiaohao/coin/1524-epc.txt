@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Electronic PK Chain，中文名为电竞链，其目的是利用区块链技术并结合区块链技术特性，建设一个公平、公开的综合性电子竞技网络。解决电子竞技行业目前...",
+    "id":1524,
+    "name":"epc",
+    "name_cn":"电竞链",
+    "name_en":"Electronic PK Chain/EPC",
+    "time":"2018-01-22",
+    "website":[
+        "http://epc.im/"
+    ],
+    "whitepaper":"http://epc.im/epc.pdf"
+}

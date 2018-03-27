@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/miu"
+    ],
+    "description":"",
+    "id":1674,
+    "name":"miyucoin",
+    "name_cn":"－",
+    "name_en":"MIYUCoin/MIYU",
+    "time":"2017-06-25",
+    "website":[
+        "https://miyucoin.com/"
+    ],
+    "whitepaper":"-"
+}

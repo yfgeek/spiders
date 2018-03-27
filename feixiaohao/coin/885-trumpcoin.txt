@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/trump/"
+    ],
+    "description":"TrumpCoin是基于比特币的数字货币。它创建于2016年2月20日，以表彰唐纳德·J·特朗普并帮助他获得美国总统职位。",
+    "id":885,
+    "name":"trumpcoin",
+    "name_cn":"－",
+    "name_en":"TrumpCoin/TRUMP",
+    "time":"－",
+    "website":[
+        "http://www.trumpcoin.com"
+    ],
+    "whitepaper":"-"
+}

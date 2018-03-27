@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://minemanic.com/bgr/"
+    ],
+    "description":"",
+    "id":1432,
+    "name":"bongger",
+    "name_cn":"－",
+    "name_en":"Bongger/BGR",
+    "time":"－",
+    "website":[
+        "http://bongger.com"
+    ],
+    "whitepaper":"-"
+}

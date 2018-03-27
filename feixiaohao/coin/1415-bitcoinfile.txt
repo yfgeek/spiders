@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Bitcoin File是基于区块链技术的点对点分布式文件系统协议，其宗旨是基于IPFS星际文件系统及Bitcoin结算网络，创建一个对世界更绿色、更环保，对矿...",
+    "id":1415,
+    "name":"bitcoinfile",
+    "name_cn":"－",
+    "name_en":"Bitcoin File/BIFI",
+    "time":"2017-12-27",
+    "website":[
+        "https://www.Bitcoinfile.org"
+    ],
+    "whitepaper":"-"
+}

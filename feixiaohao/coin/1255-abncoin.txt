@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://93.95.97.96:3001/"
+    ],
+    "description":"",
+    "id":1255,
+    "name":"abncoin",
+    "name_cn":"－",
+    "name_en":"Abncoin/ABN",
+    "time":"－",
+    "website":[
+        "https://aviabitcoin.com/"
+    ],
+    "whitepaper":"-"
+}

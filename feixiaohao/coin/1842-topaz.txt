@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://topazcoin.thecryptochat.net"
+    ],
+    "description":"",
+    "id":1842,
+    "name":"topaz",
+    "name_cn":"－",
+    "name_en":"Topaz Coin/TOPAZ",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

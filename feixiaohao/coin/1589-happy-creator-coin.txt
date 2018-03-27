@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/hcc"
+    ],
+    "description":"",
+    "id":1589,
+    "name":"happy-creator-coin",
+    "name_cn":"－",
+    "name_en":"Happy Creator/HCC",
+    "time":"－",
+    "website":[
+        "http://www.hccunited.net/"
+    ],
+    "whitepaper":"-"
+}

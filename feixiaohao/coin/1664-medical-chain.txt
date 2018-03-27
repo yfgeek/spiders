@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3",
+        "https://ethplorer.io/address/0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3"
+    ],
+    "description":"Medicalchain使用区块链技术来安全地存储健康记录，并保持单一版本的真相。 医生，医院，实验室，药剂师和保险公司等不同的组织可以要求获得病人记录，以便实...",
+    "id":1664,
+    "name":"medical-chain",
+    "name_cn":"－",
+    "name_en":"Medicalchain/MTN",
+    "time":"2018-02-08",
+    "website":[
+        "https://medicalchain.com/en/"
+    ],
+    "whitepaper":"https://medicalchain.com/Medicalchain-Whitepaper-EN.pdf"
+}

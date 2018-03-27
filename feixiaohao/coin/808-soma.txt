@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x63b992e6246d88f07fc35a056d2c365e6d441a3d",
+        "https://ethplorer.io/address/0x63b992e6246d88f07fc35a056d2c365e6d441a3d"
+    ],
+    "description":"Soma是一个革命性的分布式平台，它通过奖励制度使社区成员进行有益的合作，以此来促进Soma社区内的交易。它鼓励用户执行对社区内其他成员有益的行为，并以Soma...",
+    "id":808,
+    "name":"soma",
+    "name_cn":"－",
+    "name_en":"Soma/SCT",
+    "time":"2017-12-14",
+    "website":[
+        "https://soma.co/"
+    ],
+    "whitepaper":"https://soma.co/wp-content/uploads/2017/07/Whitepaper-Chinese-compressed.pdf"
+}

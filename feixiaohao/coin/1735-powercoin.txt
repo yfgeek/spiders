@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://pwr.explorer.cryptoally.net/"
+    ],
+    "description":"开始于2013年5月10日。Scrypt算法，30秒每块，每12小时调整一次难度，每块40个，每两年减半，总共1亿6千6百万个。",
+    "id":1735,
+    "name":"powercoin",
+    "name_cn":"力量币",
+    "name_en":"Powercoin/PWR",
+    "time":"－",
+    "website":[
+        "http://powercoin.us/"
+    ],
+    "whitepaper":"-"
+}

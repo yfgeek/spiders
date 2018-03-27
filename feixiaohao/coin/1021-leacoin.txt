@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "https://explorer.leacoin.org/"
+    ],
+    "description":"",
+    "id":1021,
+    "name":"leacoin",
+    "name_cn":"－",
+    "name_en":"LeaCoin/LEA",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

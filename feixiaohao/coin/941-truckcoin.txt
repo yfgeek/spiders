@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.truckcoin.net/chain/TruckCoin"
+    ],
+    "description":"",
+    "id":941,
+    "name":"truckcoin",
+    "name_cn":"－",
+    "name_en":"Truckcoin/TRK",
+    "time":"－",
+    "website":[
+        "http://truckcoin.net"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://bccschain.com/"
+    ],
+    "description":"",
+    "id":1413,
+    "name":"bitcoincashscrypt",
+    "name_cn":"－",
+    "name_en":"BitcoinCashScrypt/BCCS",
+    "time":"2017-10-21",
+    "website":[
+        "http://bitcoincashscrypt.com/"
+    ],
+    "whitepaper":"-"
+}

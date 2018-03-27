@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x2dAEE1AA61D60A252DC80564499A69802853583A",
+        "https://ethplorer.io/address/0x2daee1aa61d60a252dc80564499a69802853583a"
+    ],
+    "description":"ATS是一个平台，利用以太坊区块链为图书行业提供新的运营模式。寻求缩小作者、读者、出版商和翻译人员之间的差距，创造一个平台让所有参与的人能够分享他们的内容。 A...",
+    "id":817,
+    "name":"authorship",
+    "name_cn":"－",
+    "name_en":"Authorship/ATS",
+    "time":"2017-10-15",
+    "website":[
+        "http://authorship.com/"
+    ],
+    "whitepaper":"-"
+}

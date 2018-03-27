@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xcc4ef9eeaf656ac1a2ab886743e98e97e090ed38",
+        "https://ethplorer.io/address/0xcc4ef9eeaf656ac1a2ab886743e98e97e090ed38"
+    ],
+    "description":"DDF开始于2010年，当时DDF是开曼群岛的注册公司“域名开发基金（Domain Developers Fund）”。DDF拥有1350多个优质域名，比如Sw...",
+    "id":963,
+    "name":"digital-developers-fund",
+    "name_cn":"－",
+    "name_en":"Digital Developers Fund/DDF",
+    "time":"2017-08-13",
+    "website":[
+        "https://www.digitaldevelopersfund.com/"
+    ],
+    "whitepaper":"https://www.digitaldevelopersfund.com/wp-content/uploads/2017/06/DDF.pdf"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://royalcoin-explorer.ml/"
+    ],
+    "description":"",
+    "id":1767,
+    "name":"royalcoin",
+    "name_cn":"王室币",
+    "name_en":"RoyalCoin/ROYAL",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

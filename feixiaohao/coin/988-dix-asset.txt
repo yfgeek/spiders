@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.mynxt.info/asset/3300333279580786000"
+    ],
+    "description":"",
+    "id":988,
+    "name":"dix-asset",
+    "name_cn":"－",
+    "name_en":"Dix Asset/DIX",
+    "time":"－",
+    "website":[
+        "http://dixasset.wixsite.com/dixasset"
+    ],
+    "whitepaper":"-"
+}

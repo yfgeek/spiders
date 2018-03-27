@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.dynamiccoin.net/"
+    ],
+    "description":"发布于2014年3月5日,Scrypt算法,显卡挖矿,30秒每块。",
+    "id":1509,
+    "name":"dynamiccoin",
+    "name_cn":"动力币",
+    "name_en":"DynamicCoin/DMC",
+    "time":"－",
+    "website":[
+        "http://dynamiccoin.org/"
+    ],
+    "whitepaper":"-"
+}

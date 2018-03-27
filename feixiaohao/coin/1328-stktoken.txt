@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"STK全球支付旨在创造一个全球通用并且可以代替传统银行的业务。通过使用STK代币，让用户可以安全的存储资金，并随时随用任何货币进行交易，包括加密货币。所有的操作...",
+    "id":1328,
+    "name":"stktoken",
+    "name_cn":"－",
+    "name_en":"STK Token/STK",
+    "time":"2018-01-31",
+    "website":[
+        "https://stktoken.com/"
+    ],
+    "whitepaper":"https://stktoken.com/STK_whitepaper_zh.pdf"
+}

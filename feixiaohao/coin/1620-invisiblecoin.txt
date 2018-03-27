@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1620,
+    "name":"invisiblecoin",
+    "name_cn":"－",
+    "name_en":"InvisibleCoin/IVZ",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

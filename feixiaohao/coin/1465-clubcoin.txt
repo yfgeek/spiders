@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/club/"
+    ],
+    "description":"Clubcoin 是一个基于点对点技术，去中心化的数字货币系统，所有的交易可以在一个公开的账簿中查询，这意味没有人能够暗箱操作，所有的交易信息对全网开放。",
+    "id":1465,
+    "name":"clubcoin",
+    "name_cn":"－",
+    "name_en":"ClubCoin/CLUB",
+    "time":"－",
+    "website":[
+        "http://clubcoin.co/"
+    ],
+    "whitepaper":"-"
+}

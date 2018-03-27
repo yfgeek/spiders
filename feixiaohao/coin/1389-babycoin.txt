@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"中文名称：币宝英文名称：babycoin缩写代码：BC（BC）性质：加密数字资产总量：100,000,000 枚。币宝团队持有： 10%（10，000，000 ...",
+    "id":1389,
+    "name":"babycoin",
+    "name_cn":"币宝",
+    "name_en":"BabyCoin/BC",
+    "time":"－",
+    "website":[
+        "http://bibaocoin.com/"
+    ],
+    "whitepaper":"-"
+}

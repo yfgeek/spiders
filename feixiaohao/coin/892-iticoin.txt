@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.iticoin.com/"
+    ],
+    "description":"iTicoin是一种以人们培训、互相帮助、发展加密货币技术为目的的交易系统。世界上最优秀的加密货币我们所创建的货币不能挖矿。iTicoin会作废（像纸币一样会变...",
+    "id":892,
+    "name":"iticoin",
+    "name_cn":"－",
+    "name_en":"iTicoin/ITI",
+    "time":"－",
+    "website":[
+        "http://iticoin.com/"
+    ],
+    "whitepaper":"-"
+}

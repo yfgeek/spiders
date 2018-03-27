@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"BCX是比特币在块498888高度分叉诞生的新链。BCX将使用新的特性，成就比特币网络的更大价值。零知识证明、智能合约、DPOS等机制的增加，会使得BCX网络更...",
+    "id":1395,
+    "name":"bcx",
+    "name_cn":"比特无限",
+    "name_en":"BitcoinX/BCX",
+    "time":"－",
+    "website":[
+        "https://bcx.org/"
+    ],
+    "whitepaper":"-"
+}

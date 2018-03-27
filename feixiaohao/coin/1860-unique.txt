@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"U链，英文名Unique Credit Chain，简称UCC，是基于Ethereum（以太坊）母链技术发行的去中心化的区块链数字资产，它是基于以太坊区块链的技...",
+    "id":1860,
+    "name":"unique",
+    "name_cn":"U链",
+    "name_en":"Unique Credit Chain/UCC",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"基于以太坊公链、Raiden 侧链与IPFS分布式存储技术，建立一个基于大数据的精准广告分发系统ProChain（般若）。广告主通过智能合约建立投放任务，对于触...",
+    "id":1325,
+    "name":"prochain",
+    "name_cn":"般若",
+    "name_en":"ProChain/PRA",
+    "time":"2017-12-14",
+    "website":[
+        "https://chain.pro"
+    ],
+    "whitepaper":"http://oucxb2pew.bkt.clouddn.com/ProChain_CN.pdf"
+}

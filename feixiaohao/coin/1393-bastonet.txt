@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1393,
+    "name":"bastonet",
+    "name_cn":"－",
+    "name_en":"Bastonet/BSN",
+    "time":"2017-10-14",
+    "website":[
+        "http://www.bastonet.com/"
+    ],
+    "whitepaper":"-"
+}

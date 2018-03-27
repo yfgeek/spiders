@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xA0aa85b54F8A7b09C845F13a09172B08925f3d54",
+        "https://ethplorer.io/address/0xA0aa85b54F8A7b09C845F13a09172B08925f3d54"
+    ],
+    "description":"SISA是一个战略投资平台，建立在独特的商业模式上，它使每一个投资者能够将资金汇集到一处，对多样化领域的有趣新项目进行战略投资。",
+    "id":1795,
+    "name":"sisa",
+    "name_cn":"－",
+    "name_en":"SISA/SISA",
+    "time":"2017-11-17",
+    "website":[
+        "https://sisa.fund/"
+    ],
+    "whitepaper":"https://sisa.fund/SISA%20White%20Paper.pdf"
+}

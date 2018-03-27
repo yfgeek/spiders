@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x28c8d01ff633ea9cd8fc6a451d7457889e698de6",
+        "https://ethplorer.io/address/0x28c8d01ff633ea9cd8fc6a451d7457889e698de6"
+    ],
+    "description":"Ethereum Gold是新的 Ethereum 智能合同管理生态系统。它是个非盈利组织，将给人们提供低成本的金融服务。Ethereum Gold是一种以太复...",
+    "id":909,
+    "name":"ethereum-gold",
+    "name_cn":"－",
+    "name_en":"Ethereum Gold/ETG",
+    "time":"2017-10-22",
+    "website":[
+        "https://www.ethereumgold.info/"
+    ],
+    "whitepaper":"https://ethereumgold.info/Golden-Paper-ETG.pdf"
+}

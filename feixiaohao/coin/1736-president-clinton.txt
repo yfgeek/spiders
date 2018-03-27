@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=67"
+    ],
+    "description":"",
+    "id":1736,
+    "name":"president-clinton",
+    "name_cn":"－",
+    "name_en":"President Cli.../HILL",
+    "time":"－",
+    "website":[
+        "http://2016coin.org/"
+    ],
+    "whitepaper":"-"
+}

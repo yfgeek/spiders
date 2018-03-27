@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1122b6a0e00dce0563082b6e2953f3a943855c1f",
+        "https://ethplorer.io/address/0x1122b6a0e00dce0563082b6e2953f3a943855c1f"
+    ],
+    "description":"Centrality是一间新创公司，我们和各领域的前瞻创新者合作，致力于打造一个拥有多种应用程式的平台，这些应用程式可以让消费者仅透过一次性登入及区块链技术管理...",
+    "id":1455,
+    "name":"centrality",
+    "name_cn":"－",
+    "name_en":"Centrality/CENNZ",
+    "time":"2018-03-14",
+    "website":[
+        "https://www.centrality.ai/"
+    ],
+    "whitepaper":"https://www.centrality.ai/wp-content/uploads/2018/01/Centrality-Whitepaper-2018.01.09.pdf"
+}

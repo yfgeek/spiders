@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://mynxt.info/asset/4348103880042995903"
+    ],
+    "description":"Janus项目是关于创建平台，它的目标是精选市场，并利用互联网的社会结构来吸引观众和捕捉市场份额，产生业务，可以提供大量的利润给它的投资者.",
+    "id":1625,
+    "name":"janus",
+    "name_cn":"－",
+    "name_en":"Janus/JNS",
+    "time":"－",
+    "website":[
+        "https://janustoken.com/"
+    ],
+    "whitepaper":"-"
+}

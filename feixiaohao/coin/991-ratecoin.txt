@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/XRA/"
+    ],
+    "description":"RateCoin（XRA）专为长期定向策略而设计。XRA使用股权证明来确保其区块链，并将长期可持续性作为其主要焦点。RateCoin股权奖励慷慨，激励长期持有者...",
+    "id":991,
+    "name":"ratecoin",
+    "name_cn":"－",
+    "name_en":"Ratecoin/XRA",
+    "time":"－",
+    "website":[
+        "https://stakeminers.com/ratecoin/ratecoin.html"
+    ],
+    "whitepaper":"-"
+}

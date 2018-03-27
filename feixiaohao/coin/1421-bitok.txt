@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://bitok.steeppool.com/"
+    ],
+    "description":"",
+    "id":1421,
+    "name":"bitok",
+    "name_cn":"－",
+    "name_en":"Bitok/BITOK",
+    "time":"2017-06-25",
+    "website":[
+        "http://bitok.online/"
+    ],
+    "whitepaper":"-"
+}

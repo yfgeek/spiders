@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://insight.parkbyte.com"
+    ],
+    "description":"PKB是一个定位于解决停车市场支付问题的加密货币，他们看到了比特币对于世界经济体系的变革，相信许多其他的产业也能够从这项技术中获益。PKB基于SHA256算法并...",
+    "id":854,
+    "name":"parkbyte",
+    "name_cn":"－",
+    "name_en":"ParkByte/PKB",
+    "time":"－",
+    "website":[
+        "http://www.parkbyte.com/"
+    ],
+    "whitepaper":"-"
+}

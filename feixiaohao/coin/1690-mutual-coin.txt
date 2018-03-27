@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://mutualcoin.dynu.net/"
+    ],
+    "description":"",
+    "id":1690,
+    "name":"mutual-coin",
+    "name_cn":"－",
+    "name_en":"Mutual Coin/MUT",
+    "time":"2017-11-24",
+    "website":[
+        "http://www.mutualcoin.info/"
+    ],
+    "whitepaper":"-"
+}

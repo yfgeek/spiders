@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"鲨鱼币 SAK SharkCoin，发布于2014年4月25日。Quark算法，最高区块奖励8192，总量4亿。",
+    "id":1787,
+    "name":"sharkcoin",
+    "name_cn":"鲨鱼币",
+    "name_en":"Sharkcoin/SAK",
+    "time":"－",
+    "website":[
+        "http://www.sharkcoin.org"
+    ],
+    "whitepaper":"-"
+}

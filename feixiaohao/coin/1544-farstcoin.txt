@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1544,
+    "name":"farstcoin",
+    "name_cn":"－",
+    "name_en":"FRCT/FRCT",
+    "time":"－",
+    "website":[
+        "https://farstcoin.co/"
+    ],
+    "whitepaper":"-"
+}

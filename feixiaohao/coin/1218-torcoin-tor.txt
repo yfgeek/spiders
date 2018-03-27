@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/tor/"
+    ],
+    "description":"",
+    "id":1218,
+    "name":"torcoin-tor",
+    "name_cn":"－",
+    "name_en":"Torcoin/TOR",
+    "time":"－",
+    "website":[
+        "http://torcoin.org/"
+    ],
+    "whitepaper":"-"
+}

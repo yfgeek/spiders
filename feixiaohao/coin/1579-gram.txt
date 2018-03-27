@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Gram是基于区块链的Telegram加密社区，是一款专注于速度和安全性的通讯应用程序。它快速，简单和自由。基于Telegram的基础，Gram中端对端加密确保...",
+    "id":1579,
+    "name":"gram",
+    "name_cn":"－",
+    "name_en":"Gram/GRAM",
+    "time":"2018-02-10",
+    "website":[
+        "https://gramplus.io/"
+    ],
+    "whitepaper":"-"
+}

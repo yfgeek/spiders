@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptoguru.tk/CurrencyInfo/index.php?Currency=VTY"
+    ],
+    "description":"",
+    "id":1871,
+    "name":"victoriouscoin",
+    "name_cn":"－",
+    "name_en":"Victoriouscoin/VTY",
+    "time":"－",
+    "website":[
+        "https://www.victoriouscoin.com/"
+    ],
+    "whitepaper":"-"
+}

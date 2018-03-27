@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://c2chain.info/"
+    ],
+    "description":"C2币（Coin2.1）推崇绿色环保发行机制，升级到2.1以后过度到完全POS（股权证明）挖矿方式，主推游戏概念，总量约8000万。",
+    "id":1070,
+    "name":"coin2-1",
+    "name_cn":"C2币",
+    "name_en":"Coin2.1/C2",
+    "time":"－",
+    "website":[
+        "http://www.coin2.us"
+    ],
+    "whitepaper":"-"
+}

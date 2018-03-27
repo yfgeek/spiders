@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"ElectrumLtc，是一款拥有智能合约账户功能的莱特坊原技术核心代码的数字货币，通过类似ETH“加工付款证明”（PoPP）的方式分配代币。同时还可作为一种可...",
+    "id":1149,
+    "name":"electrumltc",
+    "name_cn":"莱特坊",
+    "name_en":"ElectrumLtc/LTE",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

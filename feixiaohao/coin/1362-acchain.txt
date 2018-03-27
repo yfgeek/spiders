@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"ACChain是为实物资产提供数字化服务的全球开源公链。它将区块链技术、AI、大数据、物联网结合，为资产数字化提供生产、流通、结算的全生命周期服务；它是一个严谨...",
+    "id":1362,
+    "name":"acchain",
+    "name_cn":"－",
+    "name_en":"ACChain/ACC",
+    "time":"2018-02-11",
+    "website":[
+        "https://www.acchain.org/"
+    ],
+    "whitepaper":"-"
+}

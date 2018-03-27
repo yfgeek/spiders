@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.rawcoin.co/explorer/"
+    ],
+    "description":"",
+    "id":1229,
+    "name":"rawcoin2",
+    "name_cn":"－",
+    "name_en":"Rawcoin/XRC",
+    "time":"－",
+    "website":[
+        "http://rawcoin.co/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://unblock.valorbit.com/"
+    ],
+    "description":"",
+    "id":879,
+    "name":"valorbit",
+    "name_cn":"－",
+    "name_en":"Valorbit/VAL",
+    "time":"－",
+    "website":[
+        "https://valorbit.com/"
+    ],
+    "whitepaper":"-"
+}

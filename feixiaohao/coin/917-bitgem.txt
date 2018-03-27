@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://abe.alfter.us/chain/Bitgem"
+    ],
+    "description":"Bitgem采用了 PoW 和 PoS 两种联合挖矿机制，是特有的彩色币。Bitgem 钱包让你可以创造出不同颜色的宝石，可以转换成钻石(DMD)、红宝石(RB...",
+    "id":917,
+    "name":"bitgem",
+    "name_cn":"比基币",
+    "name_en":"Bitgem/BTG",
+    "time":"－",
+    "website":[
+        "http://www.bitgem.pw/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.treasurelandcoin.com"
+    ],
+    "description":"【藏宝大陆】 世界上第一款基于移动GPS开发的区块链加密地图导航3D寻宝游戏【TL游戏介绍】TL游戏是一款虚拟游戏，玩家的主要任务为探索、旅行，以及开采含有TL...",
+    "id":987,
+    "name":"treasurelandcoin",
+    "name_cn":"藏宝币",
+    "name_en":"Treasure Land Coin/TLC",
+    "time":"－",
+    "website":[
+        "https://treasurelandcoin.com"
+    ],
+    "whitepaper":"-"
+}

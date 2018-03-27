@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://minemanic.com/mtlmcv3/"
+    ],
+    "description":"Metal Music Coin是一种金属音乐加密货币，其作用是支持地下金属音乐场所。Metal Music Coin基于scrypt算法。",
+    "id":1138,
+    "name":"metal-music-coin",
+    "name_cn":"－",
+    "name_en":"Metal Music Coin/MTLMC3",
+    "time":"－",
+    "website":[
+        "http://metalmusiccoin.pw/"
+    ],
+    "whitepaper":"-"
+}

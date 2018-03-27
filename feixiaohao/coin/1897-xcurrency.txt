@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/xc/"
+    ],
+    "description":"X11coin（XC）采用自己开发的xnode技术，致力于创建匿名的转账方式。采用PoW+PoS的混合挖矿方式。其PoW挖矿方式采用X11算法，PoS年利率3....",
+    "id":1897,
+    "name":"xcurrency",
+    "name_cn":"－",
+    "name_en":"XCurrency/XC",
+    "time":"－",
+    "website":[
+        "http://xcurrency.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/acoin"
+    ],
+    "description":"",
+    "id":1130,
+    "name":"acoin",
+    "name_cn":"－",
+    "name_en":"Acoin/ACOIN",
+    "time":"－",
+    "website":[
+        "https://acoin.info/"
+    ],
+    "whitepaper":"-"
+}

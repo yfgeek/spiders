@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3",
+        "https://ethplorer.io/address/0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3"
+    ],
+    "description":"All Sports公有链平台以SOC（All Sports Coin）为媒介，利用区块链技术，结合体育产业和体育生态链上的应用和商业场景，基于智慧合约和Tok...",
+    "id":1353,
+    "name":"allsportschain",
+    "name_cn":"－",
+    "name_en":"All Sports Coin/SOC",
+    "time":"2018-01-25",
+    "website":[
+        "https://www.allsportschain.com/"
+    ],
+    "whitepaper":"https://www.allsportschain.com/paper/all_sports_blockchain_open_platform_white_paper.pdf"
+}

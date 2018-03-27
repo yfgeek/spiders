@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.crtcoin.com/explorer/"
+    ],
+    "description":"",
+    "id":1207,
+    "name":"crtcoin",
+    "name_cn":"－",
+    "name_en":"CRTCoin/CRT",
+    "time":"－",
+    "website":[
+        "http://crtcoin.com/"
+    ],
+    "whitepaper":"-"
+}

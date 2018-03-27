@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1158,
+    "name":"uro",
+    "name_cn":"尿素币",
+    "name_en":"Uro/URO",
+    "time":"－",
+    "website":[
+        "http://uro.io"
+    ],
+    "whitepaper":"-"
+}

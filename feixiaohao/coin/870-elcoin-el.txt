@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.elcoin.space/"
+    ],
+    "description":"",
+    "id":870,
+    "name":"elcoin-el",
+    "name_cn":"－",
+    "name_en":"Elcoin/EL",
+    "time":"－",
+    "website":[
+        "https://elcoin.space/"
+    ],
+    "whitepaper":"-"
+}

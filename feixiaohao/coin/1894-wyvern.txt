@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/wyv/"
+    ],
+    "description":"",
+    "id":1894,
+    "name":"wyvern",
+    "name_cn":"－",
+    "name_en":"Wyvern/WYV",
+    "time":"－",
+    "website":[
+        "https://www.projectwyvern.com/"
+    ],
+    "whitepaper":"-"
+}

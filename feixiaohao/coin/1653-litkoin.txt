@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://litkoin.me/"
+    ],
+    "description":"莱特币现金（LTK）整合了莱特币的闪电交易，并且所有转账都是匿名的，这两点是优秀区块链货币的特质，除此之外还会基于莱特币现金网络做应用，目前正在开发：线上博彩，...",
+    "id":1653,
+    "name":"litkoin",
+    "name_cn":"－",
+    "name_en":"Litkoin/LTK",
+    "time":"－",
+    "website":[
+        "https://www.litko.in/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/zur"
+    ],
+    "description":"",
+    "id":1034,
+    "name":"zurcoin",
+    "name_cn":"－",
+    "name_en":"Zurcoin/ZUR",
+    "time":"－",
+    "website":[
+        "http://shai102.wix.com/zurcoin"
+    ],
+    "whitepaper":"-"
+}

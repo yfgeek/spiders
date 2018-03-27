@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Value Chain（中文名：价值链）是一个利用基础设施让物理和虚拟平台之间互联互通，并产生激励的产品。VALUE努力为用户提供最大程度的便利性， 通过连接区...",
+    "id":1868,
+    "name":"valuechain",
+    "name_cn":"价值链",
+    "name_en":"Value Chain/VLC",
+    "time":"2018-01-31",
+    "website":[
+        "http://valuechain.biz/index_pc.html"
+    ],
+    "whitepaper":"http://valuechain.biz/ValueChain_Whitebook_v.02.pdf"
+}

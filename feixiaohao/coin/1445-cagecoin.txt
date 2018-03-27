@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cagechain.info/chain/Cagecoin"
+    ],
+    "description":"发布于2014年1月1日，Scrypt算法，60秒每块，共计1000亿个。",
+    "id":1445,
+    "name":"cagecoin",
+    "name_cn":"凯奇币",
+    "name_en":"CageCoin/CAGE",
+    "time":"－",
+    "website":[
+        "http://cagecoin.net"
+    ],
+    "whitepaper":"-"
+}

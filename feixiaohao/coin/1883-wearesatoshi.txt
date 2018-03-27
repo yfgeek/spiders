@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.wsx.co.in"
+    ],
+    "description":"",
+    "id":1883,
+    "name":"wearesatoshi",
+    "name_cn":"－",
+    "name_en":"WeAreSatoshi/WSX",
+    "time":"－",
+    "website":[
+        "http://www.wsx.co.in"
+    ],
+    "whitepaper":"-"
+}

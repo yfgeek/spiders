@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/ery"
+    ],
+    "description":"",
+    "id":1115,
+    "name":"eryllium",
+    "name_cn":"－",
+    "name_en":"Eryllium/ERY",
+    "time":"－",
+    "website":[
+        "https://eryllium.com/"
+    ],
+    "whitepaper":"-"
+}

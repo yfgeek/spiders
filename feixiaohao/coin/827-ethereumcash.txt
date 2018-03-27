@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5d21ef5f25a985380b65c8e943a0082feda0db84",
+        "https://ethplorer.io/address/0x5d21ef5f25a985380b65c8e943a0082feda0db84"
+    ],
+    "description":"Ethereumcash希望使一切都公平和均匀分配; 这是诚实的风气和简单的目标，它填补了“市场的空白”，并抓住了以太坊所提供的技术，以便成为一个普通用户很容易...",
+    "id":827,
+    "name":"ethereumcash",
+    "name_cn":"－",
+    "name_en":"Ethereumcash/ECASH",
+    "time":"2017-10-14",
+    "website":[
+        "https://www.ethereumcash.technology/"
+    ],
+    "whitepaper":"-"
+}

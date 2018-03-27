@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://104.238.173.4:3001/"
+    ],
+    "description":"",
+    "id":1719,
+    "name":"opescoin",
+    "name_cn":"－",
+    "name_en":"Opescoin/OPES",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

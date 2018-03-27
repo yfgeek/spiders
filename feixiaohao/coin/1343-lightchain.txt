@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"LIGHT (光链) 是世界上第一个双层区块链（父链与子链）。其中，LIGHT 父链与传统的公链类似，有且仅有一个，保证记录完整、透明、不可被篡改或销毁。LIG...",
+    "id":1343,
+    "name":"lightchain",
+    "name_cn":"光链",
+    "name_en":"Lightcoin/LIGHT",
+    "time":"2018-01-20",
+    "website":[
+        "http://www.lightchain.one/"
+    ],
+    "whitepaper":"http://s.iappease.com.cn/pdf/%E5%85%89%E9%93%BE.pdf"
+}

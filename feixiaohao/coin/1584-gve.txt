@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"GVE基金会认为新时代背景下的乡村经济转型和发展或将影响全球经济振兴，在通过对全球涉农互联网企业进行调研和分析后，GVE基金会组建了一支成员来自美国，中国、新加...",
+    "id":1584,
+    "name":"gve",
+    "name_cn":"－",
+    "name_en":"GV Eco/GVE",
+    "time":"－",
+    "website":[
+        "http://gve.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"比特币支付（BTP）在比特币区块高度达到499345时执行分叉，比特币支付链产生后，矿工将开始执行新的算法，并将在比特币原有的特征上，持续保护数据迁移和提高隐私...",
+    "id":1437,
+    "name":"btceasypay",
+    "name_cn":"比特支付",
+    "name_en":"Bitcoin Pay/BTP",
+    "time":"－",
+    "website":[
+        "http://www.btceasypay.com/"
+    ],
+    "whitepaper":"-"
+}

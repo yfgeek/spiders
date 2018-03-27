@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"CFun是一款搭建在全球公有链量子链（Qtum Blockchain）上的去中心化的移动应用，旨在成为全球创作者聚集的创作辅助平台，通过自组织的协同创作，依靠区...",
+    "id":1456,
+    "name":"cfun",
+    "name_cn":"－",
+    "name_en":"CFun/CFUN",
+    "time":"2018-01-10",
+    "website":[
+        "https://www.cfunproject.com/"
+    ],
+    "whitepaper":"https://www.cfunproject.com/whitepaper/download/CFunWHITEPAPER_EN.pdf"
+}

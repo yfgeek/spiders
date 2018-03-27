@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x2a05d22db079bc40c2f77a1d1ff703a56e631cc1",
+        "https://ethplorer.io/address/0x2a05d22db079bc40c2f77a1d1ff703a56e631cc1"
+    ],
+    "description":"",
+    "id":1117,
+    "name":"bitasean",
+    "name_cn":"－",
+    "name_en":"BitAsean/BAS",
+    "time":"2017-08-13",
+    "website":[
+        "https://www.bitasean.org/"
+    ],
+    "whitepaper":"-"
+}

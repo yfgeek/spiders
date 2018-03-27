@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x168296bb09e24a88805cb9c33356536b980d3fc5",
+        "https://ethplorer.io/address/0x168296bb09e24a88805cb9c33356536b980d3fc5"
+    ],
+    "description":"Rchain是商业级区块链解决方案.该项目由Greg Meredith在2016年发起, 著名的VLAD ZAMFIR为董事会成员, Casper共识协议将会在...",
+    "id":1303,
+    "name":"rchain",
+    "name_cn":"－",
+    "name_en":"RChain/RHOC",
+    "time":"2017-10-07",
+    "website":[
+        "https://www.rchain.coop/"
+    ],
+    "whitepaper":"-"
+}

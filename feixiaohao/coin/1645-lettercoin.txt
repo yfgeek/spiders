@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"letter coin（LEC）：是全球首个基于哈希算法进行空投的令牌。letter coin（LEC）：暂时废除了挖矿机制，让挖矿收益为零，而是用哈希算法对持...",
+    "id":1645,
+    "name":"lettercoin",
+    "name_cn":"信币",
+    "name_en":"letter coin/LEC",
+    "time":"2017-08-01",
+    "website":[
+        "http://www.lettercoin.pro/"
+    ],
+    "whitepaper":"-"
+}

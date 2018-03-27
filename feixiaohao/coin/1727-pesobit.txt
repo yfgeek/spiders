@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/psb/"
+    ],
+    "description":"",
+    "id":1727,
+    "name":"pesobit",
+    "name_cn":"－",
+    "name_en":"Pesobit/PSB",
+    "time":"－",
+    "website":[
+        "http://www.pesobit.net/"
+    ],
+    "whitepaper":"https://www.pesobit.net/whitepaper/"
+}

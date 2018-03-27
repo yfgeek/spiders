@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/rsgp/"
+    ],
+    "description":"",
+    "id":1201,
+    "name":"rsgpcoin",
+    "name_cn":"－",
+    "name_en":"RSGPcoin/RSGP",
+    "time":"2017-07-20",
+    "website":[
+        "http://rsgpcoin.com/"
+    ],
+    "whitepaper":"-"
+}

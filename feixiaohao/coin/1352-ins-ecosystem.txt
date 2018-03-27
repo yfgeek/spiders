@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5b2e4a700dfbc560061e957edec8f6eeeb74a320",
+        "https://ethplorer.io/address/0x5b2e4a700dfbc560061e957edec8f6eeeb74a320"
+    ],
+    "description":"INS 生态系统 （ins.world）成立于2017年，是第一个直接联系杂货制造商与消费者的全球性去中心化消费者生态系统。 INS生态系统在代币销售中筹集了超...",
+    "id":1352,
+    "name":"ins-ecosystem",
+    "name_cn":"－",
+    "name_en":"INS Ecosystem/INS",
+    "time":"2018-01-11",
+    "website":[
+        "https://ins.world/"
+    ],
+    "whitepaper":"https://ins.world/zh-CN/INS-ICO-Whitepaper.pdf"
+}

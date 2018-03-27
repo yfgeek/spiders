@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://wavesgo.com/tokens/9LtCucReNfi5PZ2Gnb6GqMr1DPLV4s2VPCPKbYmgTFfd"
+    ],
+    "description":"",
+    "id":1559,
+    "name":"frankywillcoin",
+    "name_cn":"－",
+    "name_en":"FrankyWillCoin/FRWC",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

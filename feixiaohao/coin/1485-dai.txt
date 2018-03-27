@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"DAI是一个按照市场机制稳定的一个以太坊数字代表，来自MakerDAO项目。MakerDAO (MKR)是一个以太坊上面的自治组织，寻求最小代价实现一个对法币稳...",
+    "id":1485,
+    "name":"dai",
+    "name_cn":"－",
+    "name_en":"DAI/DAI",
+    "time":"2017-12-25",
+    "website":[
+        "https://makerdao.com/"
+    ],
+    "whitepaper":"https://makerdao.com/whitepaper/DaiDec17WP.pdf"
+}

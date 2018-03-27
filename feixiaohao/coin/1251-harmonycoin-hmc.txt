@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://138.197.18.171/"
+    ],
+    "description":"",
+    "id":1251,
+    "name":"harmonycoin-hmc",
+    "name_cn":"－",
+    "name_en":"HarmonyCoin/HMC",
+    "time":"2017-07-25",
+    "website":[
+        "https://www.hmc21.co/"
+    ],
+    "whitepaper":"-"
+}

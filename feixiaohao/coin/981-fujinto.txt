@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x8a99ed8a1b204903ee46e733f2c1286f6d20b177",
+        "https://ethplorer.io/address/0x8a99ed8a1b204903ee46e733f2c1286f6d20b177"
+    ],
+    "description":"",
+    "id":981,
+    "name":"fujinto",
+    "name_cn":"－",
+    "name_en":"Fujinto/NTO",
+    "time":"2017-09-03",
+    "website":[
+        "https://fujinto.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"摩羯币，英文名Capricorncoin，简称CCC。其总量为2000万个，永不增发，最初主要以兑换，赠送的形式免费发放给KEX平台用户，是KEX平台奖励机制的...",
+    "id":1449,
+    "name":"capricorncoin",
+    "name_cn":"摩羯币",
+    "name_en":"Capricorncoin/CCC",
+    "time":"2017-12-28",
+    "website":[],
+    "whitepaper":"-"
+}

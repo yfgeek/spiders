@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"国产虎币(Tigercoin,TGC)发布于2013年12月8日,采用了Scrypt算法，货币总量为2600万个， 每一分钟产生一个区块，前期每个块产生60币，...",
+    "id":973,
+    "name":"tigercoin",
+    "name_cn":"国产虎币",
+    "name_en":"Tigercoin/TGC",
+    "time":"－",
+    "website":[
+        "http://tigercoin.wordpress.com"
+    ],
+    "whitepaper":"-"
+}

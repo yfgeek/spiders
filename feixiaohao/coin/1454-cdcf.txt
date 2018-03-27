@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"CDC是一个去中心化的全球消费数据资产交易的公共区块链生态平台，用于解决消费者和商家消费数据的账单价值动态评估、交易、使用、价值转换以及广告营销推广等问题。CD...",
+    "id":1454,
+    "name":"cdcf",
+    "name_cn":"消费链",
+    "name_en":"CDC Foundation/CDC",
+    "time":"－",
+    "website":[
+        "http://www.cdcf.io/"
+    ],
+    "whitepaper":"http://cdcf.io/whitePaper.html"
+}

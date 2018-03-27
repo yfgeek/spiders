@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/mec/"
+    ],
+    "description":"MegaCoin，中文名为美卡币，简称MEC，是一个在比特币基础上进行二次开发而成的电子货币。发布于2013年5月。MEC虽然以比特币的客户端为基础架构进行开...",
+    "id":847,
+    "name":"megacoin",
+    "name_cn":"美卡币",
+    "name_en":"Megacoin/MEC",
+    "time":"2013-05-13",
+    "website":[
+        "https://www.megacoin.eu/"
+    ],
+    "whitepaper":"-"
+}

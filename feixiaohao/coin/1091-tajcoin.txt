@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/taj/"
+    ],
+    "description":"",
+    "id":1091,
+    "name":"tajcoin",
+    "name_cn":"－",
+    "name_en":"TajCoin/TAJ",
+    "time":"－",
+    "website":[
+        "http://tajcoin.tech/"
+    ],
+    "whitepaper":"-"
+}

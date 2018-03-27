@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/"
+    ],
+    "description":"BQC 宝权链（ benefit qualified chain ），恒量发行1亿枚 。起始发行价为0.15usd即1元人民币。围绕康健养生行业进行区块链技术研...",
+    "id":1435,
+    "name":"bqcts",
+    "name_cn":"宝权链",
+    "name_en":"Benefit Qualified Chain/BQC",
+    "time":"－",
+    "website":[
+        "http://www.bqcts.com/"
+    ],
+    "whitepaper":"http://www.bqcts.com/col.jsp?id=107"
+}

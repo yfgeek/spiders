@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://47.89.14.72/index.php"
+    ],
+    "description":"区链币是基于区块链技术打造的完全去中心化的虚拟币，这是一种不需要信用中介的点对点电子支付系统，通过区块链技术的分散性，全球性，实现全民持有，希望通过区链币的即时...",
+    "id":1749,
+    "name":"qlcoin",
+    "name_cn":"区链币",
+    "name_en":"qlcoin/QLB",
+    "time":"－",
+    "website":[
+        "http://47.89.14.72/"
+    ],
+    "whitepaper":"http://47.89.14.72/upload/bps.pdf"
+}

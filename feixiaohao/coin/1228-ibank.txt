@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1228,
+    "name":"ibank",
+    "name_cn":"－",
+    "name_en":"iBank/IBANK",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

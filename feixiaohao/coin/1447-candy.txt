@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Candy Token（CANDY）是一种糖果代币的总和。CANDY是不同的项目方将各自的糖果锁定到同一地址，并联合发行的一种空投代币。CANDY总量一万亿个，...",
+    "id":1447,
+    "name":"candy",
+    "name_cn":"－",
+    "name_en":"Candy Token/CANDY",
+    "time":"2018-01-31",
+    "website":[
+        "https://candy.one/"
+    ],
+    "whitepaper":"-"
+}

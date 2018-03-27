@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.goflap.io"
+    ],
+    "description":"发布于2014年2月16日，Scrypt算法，60秒每块，共计1000亿个。",
+    "id":1553,
+    "name":"flappycoin",
+    "name_cn":"象素鸟币",
+    "name_en":"FlappyCoin/FLAP",
+    "time":"－",
+    "website":[
+        "https://flappycoins.wordpress.com/"
+    ],
+    "whitepaper":"-"
+}

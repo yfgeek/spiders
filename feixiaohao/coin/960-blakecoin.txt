@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://blc.blakecoin.com",
+        "https://blakecoin.org/blakecoin-explorer/"
+    ],
+    "description":"",
+    "id":960,
+    "name":"blakecoin",
+    "name_cn":"－",
+    "name_en":"Blakecoin/BLC",
+    "time":"－",
+    "website":[
+        "http://www.blakecoin.org/"
+    ],
+    "whitepaper":"-"
+}

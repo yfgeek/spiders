@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.multifaucet.tk/index.php?blockexplorer=GMX"
+    ],
+    "description":"",
+    "id":1576,
+    "name":"goldmaxcoin",
+    "name_cn":"－",
+    "name_en":"GoldMaxCoin/GMX",
+    "time":"－",
+    "website":[
+        "http://gmxcoin.org/"
+    ],
+    "whitepaper":"-"
+}

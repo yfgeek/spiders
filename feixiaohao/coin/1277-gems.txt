@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xc7bba5b765581efb2cdd2679db5bea9ee79b201f",
+        "https://ethplorer.io/address/0xc7bba5b765581efb2cdd2679db5bea9ee79b201f"
+    ],
+    "description":"GEM是Gems协议的以太坊代币。Gems协议是一个基于以太坊的分布式的、开源的、人工众包智能合约协议。基于这个协议任何人都能可以在不需要担心任务确认、信任或者...",
+    "id":1277,
+    "name":"gems",
+    "name_cn":"－",
+    "name_en":"Gems/GEM",
+    "time":"2018-02-20",
+    "website":[
+        "https://gems.org/"
+    ],
+    "whitepaper":"https://gems.org/whitepaper.pdf"
+}

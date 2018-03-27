@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://139.59.163.156:3001/"
+    ],
+    "description":"",
+    "id":1224,
+    "name":"bitvolt",
+    "name_cn":"－",
+    "name_en":"Bitvolt/VOLT",
+    "time":"－",
+    "website":[
+        "http://bitvolt.co/"
+    ],
+    "whitepaper":"-"
+}

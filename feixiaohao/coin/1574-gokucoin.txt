@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://gokucoin.ddns.net/"
+    ],
+    "description":"",
+    "id":1574,
+    "name":"gokucoin",
+    "name_cn":"－",
+    "name_en":"Gokucoin/GOKU",
+    "time":"2017-09-28",
+    "website":[],
+    "whitepaper":"-"
+}

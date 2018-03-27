@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.weminebtq.com:2750/"
+    ],
+    "description":"",
+    "id":1154,
+    "name":"bitquark",
+    "name_cn":"－",
+    "name_en":"BitQuark/BTQ",
+    "time":"－",
+    "website":[
+        "http://www.bitquark.info/"
+    ],
+    "whitepaper":"-"
+}

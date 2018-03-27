@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"BPTN链是基于现有数字货币交易和已经成功运行的去中心化分布式数字货币交易的平台，它是以DPoS技术为基础用来实现个人商誉资产数字化的公链，代表着区块链技术的进...",
+    "id":1273,
+    "name":"bptn",
+    "name_cn":"名人链",
+    "name_en":"BPTN/BPTN",
+    "time":"2018-02-19",
+    "website":[
+        "http://www.bptn.io/"
+    ],
+    "whitepaper":"http://www.bptn.io/whitepaper_cn"
+}

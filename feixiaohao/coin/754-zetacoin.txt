@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/zet/"
+    ],
+    "description":"基于SHA-256算法的快速确认币，每30秒一个确认，适合矿机挖矿，总量1.60亿。泽塔币发布于2013年8月3日，每30秒一个确认，交易确认速度非常快，Ze...",
+    "id":754,
+    "name":"zetacoin",
+    "name_cn":"泽塔币",
+    "name_en":"Zetacoin/ZET",
+    "time":"2013-08-03",
+    "website":[
+        "http://www.zetac.org/"
+    ],
+    "whitepaper":"-"
+}

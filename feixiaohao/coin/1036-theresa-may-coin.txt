@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/may/"
+    ],
+    "description":"Theresa May Coin是一个数字加密货币支付系统，系统是P2P的。它在2017年作为开源软件发布，交易时直接在用户之间进行，没有中间人。由于该系统没有...",
+    "id":1036,
+    "name":"theresa-may-coin",
+    "name_cn":"－",
+    "name_en":"Theresa May Coin/MAY",
+    "time":"－",
+    "website":[
+        "http://www.theresamaycoin.com/"
+    ],
+    "whitepaper":"-"
+}

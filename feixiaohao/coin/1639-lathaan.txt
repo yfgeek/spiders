@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1639,
+    "name":"lathaan",
+    "name_cn":"－",
+    "name_en":"LAthaan/LTH",
+    "time":"－",
+    "website":[
+        "https://lathaan.com/"
+    ],
+    "whitepaper":"-"
+}

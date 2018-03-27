@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1624,
+    "name":"ivugeocoin",
+    "name_cn":"－",
+    "name_en":"IvugeoCoin/IEC",
+    "time":"－",
+    "website":[
+        "http://ivugeocoin.com/"
+    ],
+    "whitepaper":"-"
+}

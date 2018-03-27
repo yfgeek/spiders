@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.fibocoinsico.net/"
+    ],
+    "description":"费博钛FBC采用了与比特币类似的区块链技术，基于6种加密运算，9轮SHA256超级安全哈希运算的虚拟货币，3轮应用随机哈希函数，采取CPU快速挖取，大大缩短了确...",
+    "id":1548,
+    "name":"fibocoins",
+    "name_cn":"费博钛",
+    "name_en":"FiboCoins/FBC",
+    "time":"2017-08-05",
+    "website":[
+        "http://www.fibocoinsico.org/"
+    ],
+    "whitepaper":"-"
+}

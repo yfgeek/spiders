@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://litebitcoins.thecryptochat.net/"
+    ],
+    "description":"",
+    "id":1087,
+    "name":"litebitcoin",
+    "name_cn":"－",
+    "name_en":"LiteBitcoin/LBTC",
+    "time":"2017-07-21",
+    "website":[
+        "http://www.lbtc.info/"
+    ],
+    "whitepaper":"https://docs.google.com/document/d/13kXDzpbeHr2IFgVMKqaqwzCeN2s4HJY_a098Wo5n2Q0"
+}

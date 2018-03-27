@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xad6714bd97cbbd29788f8838bc865ee71b843eb8",
+        "https://ethplorer.io/address/0xad6714bd97cbbd29788f8838bc865ee71b843eb8"
+    ],
+    "description":"",
+    "id":1598,
+    "name":"hodl-bucks",
+    "name_cn":"－",
+    "name_en":"HODL Bucks/HDLB",
+    "time":"2017-09-30",
+    "website":[
+        "http://www.hodlbucks.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1453,
+    "name":"cbd-crystals",
+    "name_cn":"－",
+    "name_en":"CBD Crystals/CBD",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

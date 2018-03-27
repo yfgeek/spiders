@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://omniexplorer.info/lookupsp.aspx?sp=118"
+    ],
+    "description":"",
+    "id":1431,
+    "name":"bond",
+    "name_cn":"－",
+    "name_en":"Bond/BOND",
+    "time":"－",
+    "website":[
+        "http://bondonblockchain.com/"
+    ],
+    "whitepaper":"https://bondonblockchain.com/wp-content/uploads/2017/11/bond-whitepaper.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://digitalmoneybits.thecryptochat.net/"
+    ],
+    "description":"",
+    "id":1257,
+    "name":"digital-money-bits",
+    "name_cn":"－",
+    "name_en":"Digital Money.../DMB",
+    "time":"－",
+    "website":[
+        "http://dmb.cryptoinfo.net/"
+    ],
+    "whitepaper":"-"
+}

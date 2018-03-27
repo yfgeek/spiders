@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.dtfqukuai.com/"
+    ],
+    "description":"",
+    "id":1498,
+    "name":"digitalfund",
+    "name_cn":"数字金",
+    "name_en":"Digitalfund/DTF",
+    "time":"－",
+    "website":[
+        "https://digitalfundcoin.com"
+    ],
+    "whitepaper":"-"
+}

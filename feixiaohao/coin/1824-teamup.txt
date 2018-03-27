@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1824,
+    "name":"teamup",
+    "name_cn":"－",
+    "name_en":"TeamUp/TEAM",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4d8fc1453a0f359e99c9675954e656d80d996fbf",
+        "https://ethplorer.io/address/0x4d8fc1453a0f359e99c9675954e656d80d996fbf"
+    ],
+    "description":"Beenest是一个 个人房屋共享平台，列出屋主的“房屋”，为“客人”找到住宿。在确保最大程度的安全性和可信度的基础上，Beenest通过网络激励机制、无佣金交...",
+    "id":1397,
+    "name":"bee-token",
+    "name_cn":"－",
+    "name_en":"Bee Token/BEE",
+    "time":"2018-03-03",
+    "website":[
+        "https://www.beetoken.com/"
+    ],
+    "whitepaper":"https://s3-us-west-2.amazonaws.com/beenest-public/whitepaper/bee_whitepaper_v3.pdf"
+}

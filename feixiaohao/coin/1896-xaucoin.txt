@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://cryptoplorer.com:3003/"
+    ],
+    "description":"",
+    "id":1896,
+    "name":"xaucoin",
+    "name_cn":"－",
+    "name_en":"Xaucoin/XAU",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://nxtreporting.com/?as=5562590132594876791"
+    ],
+    "description":"",
+    "id":1477,
+    "name":"cryptofund",
+    "name_cn":"－",
+    "name_en":"Cryptofund/FUND",
+    "time":"－",
+    "website":[
+        "http://cryptoasset.fund/"
+    ],
+    "whitepaper":"-"
+}

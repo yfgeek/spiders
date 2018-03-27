@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://prohashing.com/explorer/Grandcoin/"
+    ],
+    "description":"",
+    "id":1580,
+    "name":"grandcoin",
+    "name_cn":"－",
+    "name_en":"GDC/GDC",
+    "time":"－",
+    "website":[
+        "http://grandcoin.info"
+    ],
+    "whitepaper":"-"
+}

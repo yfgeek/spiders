@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.galactrum.org"
+    ],
+    "description":"",
+    "id":913,
+    "name":"galactrum",
+    "name_cn":"－",
+    "name_en":"Galactrum/ORE",
+    "time":"2018-01-16",
+    "website":[
+        "https://galactrum.org/"
+    ],
+    "whitepaper":"-"
+}

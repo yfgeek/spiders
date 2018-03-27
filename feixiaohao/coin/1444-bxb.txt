@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"币兴股为原币兴网自有代币。",
+    "id":1444,
+    "name":"bxb",
+    "name_cn":"币兴股",
+    "name_en":"BXB/BXB",
+    "time":"2017-06-26",
+    "website":[
+        "http://www.coin78.com/"
+    ],
+    "whitepaper":"-"
+}

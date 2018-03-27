@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://121.40.166.228/",
+        "http://116.62.211.174/chain/NCShares"
+    ],
+    "description":"资产股简称NCS（英文名NCShares），其开发团队于2016年2月正式发布资产股，是在老资产币已经失去维护的基础上重新翻新的一款数字货币。老资产币的总量为1...",
+    "id":793,
+    "name":"ncshares",
+    "name_cn":"资产股",
+    "name_en":"NCShares/NCS",
+    "time":"－",
+    "website":[
+        "http://ncshares.help/"
+    ],
+    "whitepaper":"-"
+}

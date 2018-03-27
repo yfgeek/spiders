@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2",
+        "https://ethplorer.io/address/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2"
+    ],
+    "description":"Accelerator Network是在以太坊上运行的一个计算平台，可帮助用户执行区块链特定的任务，它基于ERC20的智能合约。Accelerator Net...",
+    "id":779,
+    "name":"accelerator-network",
+    "name_cn":"－",
+    "name_en":"Accelerator Network/ACC",
+    "time":"2017-11-25",
+    "website":[
+        "https://accelerator.network/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://cryptobe.com/chain/HiroCoin"
+    ],
+    "description":"",
+    "id":1597,
+    "name":"hirocoin",
+    "name_cn":"－",
+    "name_en":"Hirocoin/HIRO",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

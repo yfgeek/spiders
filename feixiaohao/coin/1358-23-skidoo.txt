@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/chao/"
+    ],
+    "description":"",
+    "id":1358,
+    "name":"23-skidoo",
+    "name_cn":"－",
+    "name_en":"23 Skidoo/CHAO",
+    "time":"－",
+    "website":[
+        "http://thegreatoldone.github.io/skidoo.html"
+    ],
+    "whitepaper":"-"
+}

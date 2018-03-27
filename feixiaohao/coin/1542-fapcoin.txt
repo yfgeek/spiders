@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x6467882316dc6e206feef05fba6deaa69277f155",
+        "https://ethplorer.io/address/0x6467882316dc6e206feef05fba6deaa69277f155"
+    ],
+    "description":"",
+    "id":1542,
+    "name":"fapcoin",
+    "name_cn":"－",
+    "name_en":"FAPcoin/FAP",
+    "time":"2017-10-30",
+    "website":[
+        "http://fapcoin.io/"
+    ],
+    "whitepaper":"-"
+}

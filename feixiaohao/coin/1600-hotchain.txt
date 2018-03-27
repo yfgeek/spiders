@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"HOTC，也称热度链。发行总量：10亿个，是一个基于区块链技术的全球文体娱乐数字资产交易平台和全球泛娱乐产业区块链服务商，服务于全球的文化、体育、娱乐等相关产业...",
+    "id":1600,
+    "name":"hotchain",
+    "name_cn":"热度链",
+    "name_en":"HOTchain/HOTC",
+    "time":"－",
+    "website":[
+        "http://www.hotchain.vip/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/bitz/"
+    ],
+    "description":"",
+    "id":948,
+    "name":"bitz",
+    "name_cn":"－",
+    "name_en":"Bitz/BITZ",
+    "time":"－",
+    "website":[
+        "https://bitz.biz/"
+    ],
+    "whitepaper":"-"
+}

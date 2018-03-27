@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://nxtportal.org/assets/4207789768563155290",
+        "https://etherscan.io/token/0x814964b1bceaf24e26296d031eadf134a2ca4105"
+    ],
+    "description":"",
+    "id":1022,
+    "name":"newbium",
+    "name_cn":"－",
+    "name_en":"Newbium/NEWB",
+    "time":"－",
+    "website":[
+        "http://www.newbium.com/"
+    ],
+    "whitepaper":"-"
+}

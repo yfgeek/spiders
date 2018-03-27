@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/swing/",
+        "http://cryptobe.com/chain/Swing"
+    ],
+    "description":"",
+    "id":1066,
+    "name":"swing",
+    "name_cn":"－",
+    "name_en":"Swing/SWING",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

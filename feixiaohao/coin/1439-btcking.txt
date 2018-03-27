@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://status.btcking.org/"
+    ],
+    "description":"比特币王者（BCK）是在比特币在499999区块高度产生的分叉币。比特币王者将引用不同的共识机制来创建新的区块。原来的比特币区块保持不变， 新分叉的区块将脱离原...",
+    "id":1439,
+    "name":"btcking",
+    "name_cn":"比特币王者",
+    "name_en":"Bitcoin King/BCK",
+    "time":"2017-12-25",
+    "website":[
+        "https://btcking.org/"
+    ],
+    "whitepaper":"-"
+}

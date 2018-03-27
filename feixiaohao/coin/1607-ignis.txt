@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://ardor.tools/"
+    ],
+    "description":"Ignis是Ardor的第一条子链，使用Ignis代币运作。Ardor的独特设计允许同时存在多条链（称为子链），这些子链具有许多功能,并且由其母链Ardor在全...",
+    "id":1607,
+    "name":"ignis",
+    "name_cn":"火链",
+    "name_en":"Ignis/IGNIS",
+    "time":"2017-12-14",
+    "website":[
+        "https://www.jelurida.com/ico",
+        "https://www.jelurida.com"
+    ],
+    "whitepaper":"-"
+}

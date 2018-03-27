@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"OEX是什么?OEX币是新加坡数字货币交易平台OEX的分红币，OEX糖果是平台占有30%股份的分红币，每周享有平台收益分红。总量为3000W枚且永不增发。",
+    "id":1711,
+    "name":"oex",
+    "name_cn":"－",
+    "name_en":"OEX/OEX",
+    "time":"－",
+    "website":[
+        "https://oex.com/"
+    ],
+    "whitepaper":"-"
+}

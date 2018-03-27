@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd0352a019e9ab9d757776f532377aaebd36fd541",
+        "http://ethplorer.io/address/0xd0352a019e9ab9d757776f532377aaebd36fd541"
+    ],
+    "description":"FUSION是一个公开的区块链，通过提供跨链、跨组织和跨数据源的智能合同，致力于创建一个包容性的隐式金融平台。FUSION通过其lock-in和lock-out...",
+    "id":1562,
+    "name":"fusion",
+    "name_cn":"－",
+    "name_en":"Fusion/FSN",
+    "time":"2018-02-17",
+    "website":[
+        "https://fusion.org/"
+    ],
+    "whitepaper":"http://fusion-main.oss-ap-southeast-1.aliyuncs.com/FUSION%20Whitepaper.pdf"
+}

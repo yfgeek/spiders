@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://45.55.144.43/chain2/"
+    ],
+    "description":"",
+    "id":1404,
+    "name":"bitbase",
+    "name_cn":"－",
+    "name_en":"BTBc/BTBC",
+    "time":"2017-11-02",
+    "website":[
+        "https://bitbase.io"
+    ],
+    "whitepaper":"-"
+}

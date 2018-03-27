@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"海洋链Ocean Chain是一个面向公海领域衣、食、住、行、游、购、娱的基于联盟链以及弱中心化的流通经济体系，是专注于海洋渔业的监管、结算、溯源、消费，完成海...",
+    "id":1345,
+    "name":"oceanchain",
+    "name_cn":"海洋币",
+    "name_en":"Ocash/OC",
+    "time":"2018-01-31",
+    "website":[
+        "https://oceanchain.club"
+    ],
+    "whitepaper":"https://oceanchain.club/static/pdf/OceanChain-白皮书.pdf"
+}

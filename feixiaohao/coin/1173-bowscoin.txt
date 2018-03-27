@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://cryptobe.com/chain/BowsCoin"
+    ],
+    "description":"",
+    "id":1173,
+    "name":"bowscoin",
+    "name_cn":"－",
+    "name_en":"BowsCoin/BSC",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

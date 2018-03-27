@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"行云币是行云链的唯一内置资产，同时也是行云链协议的一部分，采用POE共识机制产出的发行模式，总量恒定，不可增发。",
+    "id":1685,
+    "name":"moving-cloud-coin",
+    "name_cn":"行云币",
+    "name_en":"Moving Cloud .../MCC",
+    "time":"2017-09-06",
+    "website":[
+        "http://mcc.mcstore.cn/"
+    ],
+    "whitepaper":"-"
+}

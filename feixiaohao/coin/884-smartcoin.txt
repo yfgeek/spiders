@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://smartchain.cc"
+    ],
+    "description":"",
+    "id":884,
+    "name":"smartcoin",
+    "name_cn":"－",
+    "name_en":"SmartCoin/SMC",
+    "time":"－",
+    "website":[
+        "http://smartcoin.cc/"
+    ],
+    "whitepaper":"-"
+}

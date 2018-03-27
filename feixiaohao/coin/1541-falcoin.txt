@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.falcoin.info/"
+    ],
+    "description":"方格币是方格艾特集团旗下的方格艾特科技有限公司研发的加密货币。使用区块链技术创造，负有八位小数点（例如，0.12345678方格币）。方格币会继续的提升功能与用...",
+    "id":1541,
+    "name":"falcoin",
+    "name_cn":"方格币",
+    "name_en":"Falcoin/FAL",
+    "time":"2017-07-12",
+    "website":[
+        "http://falcoin.info/"
+    ],
+    "whitepaper":"-"
+}

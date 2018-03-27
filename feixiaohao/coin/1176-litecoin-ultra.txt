@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://litecoinultra-explorer.dyndns.org/"
+    ],
+    "description":"",
+    "id":1176,
+    "name":"litecoin-ultra",
+    "name_cn":"－",
+    "name_en":"LiteCoin Ultra/LTCU",
+    "time":"2017-08-31",
+    "website":[
+        "http://www.litecoinultra.com/"
+    ],
+    "whitepaper":"-"
+}

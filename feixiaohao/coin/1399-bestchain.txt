@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/best"
+    ],
+    "description":"",
+    "id":1399,
+    "name":"bestchain",
+    "name_cn":"－",
+    "name_en":"BestChain/BEST",
+    "time":"－",
+    "website":[
+        "http://bestchain.hol.es/"
+    ],
+    "whitepaper":"-"
+}

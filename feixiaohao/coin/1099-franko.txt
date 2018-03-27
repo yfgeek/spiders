@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://cryptobe.com/chain/FrankoCoin"
+    ],
+    "description":"弗兰克币(Franko,FRK)是一种基于加密运算的神奇货币. 它可以实现快速全球转账，并只需少量甚至完全不需要手续费. 一个弗兰克币被表示为 1 FRK.出块...",
+    "id":1099,
+    "name":"franko",
+    "name_cn":"弗兰克币",
+    "name_en":"Franko/FRK",
+    "time":"－",
+    "website":[
+        "http://frankos.org"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://api.blockchain.mn:3001/",
+        "https://cryptogods.net/explorer/edrcoin/"
+    ],
+    "description":"",
+    "id":1513,
+    "name":"edrcoin",
+    "name_cn":"－",
+    "name_en":"EDRCoin/EDRC",
+    "time":"－",
+    "website":[
+        "https://edrcoin.com/"
+    ],
+    "whitepaper":"-"
+}

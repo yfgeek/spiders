@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://chain.altcoinsteps.com/"
+    ],
+    "description":"",
+    "id":1182,
+    "name":"steps",
+    "name_cn":"－",
+    "name_en":"Steps/STEPS",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

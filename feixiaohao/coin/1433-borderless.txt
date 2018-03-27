@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Borderless（无界），是基于高性能区块链去中心化技术开发， 一个去中心化的多功能数字资产交易系统。BDS（无界币）是Borderless的源生数字货币，...",
+    "id":1433,
+    "name":"borderless",
+    "name_cn":"无界币",
+    "name_en":"Borderless/BDS",
+    "time":"2018-02-07",
+    "website":[
+        "http://www.borderless.vip/"
+    ],
+    "whitepaper":"https://www.borderless.vip/wp-content/uploads/2017/10/Whitepaper_EN.pdf"
+}

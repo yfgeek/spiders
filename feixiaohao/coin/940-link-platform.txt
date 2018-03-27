@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xe2e6d4be086c6938b53b22144855eef674281639"
+    ],
+    "description":"Ethereum.link是一个将传统市场和企业与加密货币、智能合约、以太坊平台连接起来的平台。 Link Platform旨在以指数方式将以太坊整合到中小型企...",
+    "id":940,
+    "name":"link-platform",
+    "name_cn":"－",
+    "name_en":"Link Platform/LNK",
+    "time":"2017-07-19",
+    "website":[
+        "https://ethereum.link/"
+    ],
+    "whitepaper":"-"
+}

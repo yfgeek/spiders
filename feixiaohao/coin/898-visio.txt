@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/visio/"
+    ],
+    "description":"Visio是一个分布式的CMS系统，在这个系统中，数据库使用存储在bchain中的数据进行镜像，而单个CRUD函数则通过节点服务器添加。数据被输入到事务中，并存...",
+    "id":898,
+    "name":"visio",
+    "name_cn":"－",
+    "name_en":"Visio/VISIO",
+    "time":"－",
+    "website":[
+        "http://www.visioplatform.com/"
+    ],
+    "whitepaper":"http://visioplatform.com/files/whitepaper_visio.pdf"
+}

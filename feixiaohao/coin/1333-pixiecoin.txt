@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xc27c95350ecd634c80df89db0f10cd5c24b7b11f"
+    ],
+    "description":"作为全球首款UGC创意与虚拟物品交易平台，PixieCoin旨在全球范围内建立一个服务于内容创作者的去中心化的平台，来帮助广大设计师创作、社交和变现，实现了全世...",
+    "id":1333,
+    "name":"pixiecoin",
+    "name_cn":"妖精币",
+    "name_en":"PixieCoin/PXC",
+    "time":"－",
+    "website":[
+        "http://www.pixiecoin.io"
+    ],
+    "whitepaper":"http://www.pixiecoin.io/PixieCoinWhitePaper_EN.pdf"
+}

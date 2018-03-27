@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"以特币 Vtcoin(简写：VTC，货币符号：V)是一种基于“点对点”(peer-to-peer)技术的网络货币，Vtcoin通过复杂算法生成，到2047年之前...",
+    "id":1874,
+    "name":"vtcoin",
+    "name_cn":"以特币",
+    "name_en":"VTCoin/VTC",
+    "time":"－",
+    "website":[
+        "https://www.vtcoin.co"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blocktube.net/bitalphablockchain"
+    ],
+    "description":"",
+    "id":1403,
+    "name":"bitalphacoin",
+    "name_cn":"－",
+    "name_en":"BitAlphaCoin/BAC",
+    "time":"－",
+    "website":[
+        "http://bitalphacoin.com/"
+    ],
+    "whitepaper":"-"
+}

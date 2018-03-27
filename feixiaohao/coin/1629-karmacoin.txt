@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/karm/"
+    ],
+    "description":"发布于2014年2月3日，Scrypt算法，1分钟每块，10000个每块，共计920亿。",
+    "id":1629,
+    "name":"karmacoin",
+    "name_cn":"大象币",
+    "name_en":"Karmacoin/KARMA",
+    "time":"－",
+    "website":[
+        "http://www.givekarma.net/"
+    ],
+    "whitepaper":"-"
+}

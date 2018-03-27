@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"YEX是YEX平台的代币",
+    "id":1906,
+    "name":"yex",
+    "name_cn":"－",
+    "name_en":"YEX/YEX",
+    "time":"－",
+    "website":[
+        "http://yex.com/"
+    ],
+    "whitepaper":"-"
+}

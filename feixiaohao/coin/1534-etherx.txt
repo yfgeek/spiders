@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x11025bAcDbF00e033880c95262bF501a62235F2E"
+    ],
+    "description":"",
+    "id":1534,
+    "name":"etherx",
+    "name_cn":"－",
+    "name_en":"Etherx/ETX",
+    "time":"2017-08-06",
+    "website":[
+        "http://www.etherexx.org/"
+    ],
+    "whitepaper":"-"
+}

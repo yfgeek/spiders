@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"该项目引入Theta区块链，旨在解决今天视频流媒体产业面临的挑战。首先，项目用Theta代币作为奖励机制，可以鼓励用户分享闲置的电脑内存和带宽资源，成为视频流媒...",
+    "id":1834,
+    "name":"thetatoken",
+    "name_cn":"－",
+    "name_en":"Theta/THETA",
+    "time":"2018-01-16",
+    "website":[
+        "https://www.thetatoken.org/"
+    ],
+    "whitepaper":"https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-latest.pdf"
+}

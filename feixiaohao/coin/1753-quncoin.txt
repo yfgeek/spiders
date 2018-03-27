@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"群币股(QBG)是恒立网络科技有限公司通过活动赠送给用户的平台分红股中文名：群币股简 称：Q B G总量: 500万总量流通量：3563224.357812已销...",
+    "id":1753,
+    "name":"quncoin",
+    "name_cn":"群币股",
+    "name_en":"QunCoin/YTC",
+    "time":"2017-11-01",
+    "website":[
+        "http://www.yuntaola.com"
+    ],
+    "whitepaper":"-"
+}

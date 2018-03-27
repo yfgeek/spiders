@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1fe70be734e473e5721ea57c8b5b01e6caa52686",
+        "https://ethplorer.io/token/0x1fe70be734e473e5721ea57c8b5b01e6caa52686"
+    ],
+    "description":"",
+    "id":1422,
+    "name":"bitrent",
+    "name_cn":"－",
+    "name_en":"BitRent/RNTB",
+    "time":"2018-03-26",
+    "website":[
+        "https://bitrent.io/"
+    ],
+    "whitepaper":"https://bitrent.io/wp-content/uploads/2018/01/Whitepaper_cn-16.01.18.pdf"
+}

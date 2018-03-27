@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://eotcoin.info/"
+    ],
+    "description":"",
+    "id":1090,
+    "name":"eot-token",
+    "name_cn":"－",
+    "name_en":"EOT Token/EOT",
+    "time":"2017-08-28",
+    "website":[
+        "http://eottoken.com/"
+    ],
+    "whitepaper":"-"
+}

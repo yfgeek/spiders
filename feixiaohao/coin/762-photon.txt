@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/pho/"
+    ],
+    "description":"光子币简称\"PHO\"，是一种P2P形式的数字代码，它的创作想法来源自比特币，却又是数字货币出现形式的一种革新。他在原有QRK算法的基础上，进...",
+    "id":762,
+    "name":"photon",
+    "name_cn":"光子币",
+    "name_en":"Photon/PHO",
+    "time":"－",
+    "website":[
+        "http://www.photoncc.com/"
+    ],
+    "whitepaper":"-"
+}

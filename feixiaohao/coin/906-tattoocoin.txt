@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://chains.sye.host/ttc/",
+        "http://tattoocoin.thecryptochat.net/"
+    ],
+    "description":"",
+    "id":906,
+    "name":"tattoocoin",
+    "name_cn":"－",
+    "name_en":"Tattoocoin (S.../TSE",
+    "time":"－",
+    "website":[
+        "http://tattoocoin.net/"
+    ],
+    "whitepaper":"-"
+}

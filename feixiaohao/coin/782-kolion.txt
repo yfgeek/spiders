@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://wavesgo.com/tokens/EYz8Zvs62D4d7F5ZgXHCWuzuFaZg63FYnfVQrTWQoLSK"
+    ],
+    "description":"",
+    "id":782,
+    "name":"kolion",
+    "name_cn":"－",
+    "name_en":"Kolion/KLN",
+    "time":"2017-09-30",
+    "website":[
+        "http://kolionovo.org/"
+    ],
+    "whitepaper":"-"
+}

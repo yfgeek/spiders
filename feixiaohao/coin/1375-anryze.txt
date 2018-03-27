@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://wavesexplorer.com/tx/HXdFUiw5yLLWhkorsRy1E5GttG2QZfzEYAVgEgjBNh8t"
+    ],
+    "description":"Anryze是一家为语音识别和分析设计的区块链平台，RYZ为其平台的代币，RYZ代币作为一种内部“货币”，该公司的客户可以使用它在限定的音频时间内购买语音转文本...",
+    "id":1375,
+    "name":"anryze",
+    "name_cn":"－",
+    "name_en":"ANRYZE/RYZ",
+    "time":"2017-11-28",
+    "website":[
+        "https://anryze.com/"
+    ],
+    "whitepaper":"-"
+}

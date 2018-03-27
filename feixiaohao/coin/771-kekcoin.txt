@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.kekcoin.co/"
+    ],
+    "description":"",
+    "id":771,
+    "name":"kekcoin",
+    "name_cn":"－",
+    "name_en":"KekCoin/KEK",
+    "time":"－",
+    "website":[
+        "http://kekcoin.co/"
+    ],
+    "whitepaper":"-"
+}

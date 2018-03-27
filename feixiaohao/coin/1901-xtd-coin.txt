@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1901,
+    "name":"xtd-coin",
+    "name_cn":"－",
+    "name_en":"XTD Coin/XTD",
+    "time":"2017-08-24",
+    "website":[],
+    "whitepaper":"-"
+}

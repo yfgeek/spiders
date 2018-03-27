@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4b35e0AB998Ebe8414871c13cf778F9D0Bbdf609",
+        "https://ethplorer.io/address/0x4b35e0ab998ebe8414871c13cf778f9d0bbdf609"
+    ],
+    "description":"",
+    "id":1819,
+    "name":"swapcoin",
+    "name_cn":"－",
+    "name_en":"Swapcoin/SWP",
+    "time":"2017-10-20",
+    "website":[
+        "https://swapity.io/"
+    ],
+    "whitepaper":"-"
+}

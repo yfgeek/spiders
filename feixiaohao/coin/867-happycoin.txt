@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/hpc",
+        "https://cryptobe.com/chain/HappyCoin"
+    ],
+    "description":"快乐币Happycoin,简称HPC，快乐币为显卡币（GPU），采用scrypt算法，总量为806亿个，每一分钟产生一个区块，前4个区块每块16.12亿，共64...",
+    "id":867,
+    "name":"happycoin",
+    "name_cn":"快乐币",
+    "name_en":"Happycoin/HPC",
+    "time":"－",
+    "website":[
+        "http://happycointech.org/"
+    ],
+    "whitepaper":"-"
+}

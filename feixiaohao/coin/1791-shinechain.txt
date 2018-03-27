@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"ShineChain是使用区块链技术来改变全球平安健康保障行业的商业模式，打造全球区块链平安健康互助生态体系。当今社会平安健康保障，是全人类的刚需。在人身保险中...",
+    "id":1791,
+    "name":"shinechain",
+    "name_cn":"闪链",
+    "name_en":"ShineChain/SHE",
+    "time":"－",
+    "website":[
+        "http://www.shinechain.org"
+    ],
+    "whitepaper":"http://www.shinechain.org/shinechain_white_pager.pdf"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/TROPTIONS"
+    ],
+    "description":"",
+    "id":1849,
+    "name":"troptions",
+    "name_cn":"－",
+    "name_en":"TROPTIONS/TROPTIONS",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

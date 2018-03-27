@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://www.infinity-economics.org/block/",
+        "/blocks"
+    ],
+    "description":"",
+    "id":1612,
+    "name":"infinity-economics",
+    "name_cn":"－",
+    "name_en":"Infinity Economics/XIN",
+    "time":"2017-10-03",
+    "website":[
+        "http://www.infinity-economics.org/"
+    ],
+    "whitepaper":"-"
+}

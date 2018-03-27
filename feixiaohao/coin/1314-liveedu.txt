@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765",
+        "http://ethplorer.io/address/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765"
+    ],
+    "description":"LEDU 是 Education Ecosystem (LiveEdu) 发行的代币，在其生态系统中发挥不可或缺的作用：支付方式、奖励机制等，并且LEDU持有者...",
+    "id":1314,
+    "name":"liveedu",
+    "name_cn":"－",
+    "name_en":"LiveEdu/LEDU",
+    "time":"2018-03-05",
+    "website":[
+        "https://tokensale.liveedu.tv/",
+        "https://www.liveedu.tv/"
+    ],
+    "whitepaper":"https://tokensale.liveedu.tv/static/docs/LiveEdu-white-paper-zh.pdf"
+}

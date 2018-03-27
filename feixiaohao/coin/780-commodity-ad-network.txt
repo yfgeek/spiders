@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x6fff3806bbac52a20e0d79bc538d527f6a22c96b",
+        "https://ethplorer.io/address/0x6fff3806bbac52a20e0d79bc538d527f6a22c96b"
+    ],
+    "description":"",
+    "id":780,
+    "name":"commodity-ad-network",
+    "name_cn":"－",
+    "name_en":"Commodity Ad Network/CDX",
+    "time":"2018-01-11",
+    "website":[
+        "https://commodityadnetwork.com/"
+    ],
+    "whitepaper":"https://commodityadnetwork.com/whitepaper/"
+}

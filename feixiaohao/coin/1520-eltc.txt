@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x7e9d62e1ff4e34096f91ee0153222ab81f7184f0",
+        "https://ethplorer.io/address/0x7e9d62e1ff4e34096f91ee0153222ab81f7184f0"
+    ],
+    "description":"",
+    "id":1520,
+    "name":"eltc",
+    "name_cn":"－",
+    "name_en":"eLTC/ELTC2",
+    "time":"2017-10-11",
+    "website":[
+        "http://www.eltc.io/"
+    ],
+    "whitepaper":"-"
+}

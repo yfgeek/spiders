@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "https://www.cryptopia.co.nz/BlockExplorer?coin=CGN"
+    ],
+    "description":"",
+    "id":1635,
+    "name":"kolschcoin",
+    "name_cn":"－",
+    "name_en":"KolschCoin/TP1",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

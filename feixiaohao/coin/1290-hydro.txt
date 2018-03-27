@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"高效去中心化交易所生态联盟，打通全球所有去中心化交易所。Hydro重新定义去中心化交易所订单执行规则， 提供共享订单的撮合机制。Hydro 开创‘Federat...",
+    "id":1290,
+    "name":"hydro",
+    "name_cn":"－",
+    "name_en":"Hydro/HOT",
+    "time":"2018-01-19",
+    "website":[
+        "https://thehydrofoundation.com/"
+    ],
+    "whitepaper":"-"
+}

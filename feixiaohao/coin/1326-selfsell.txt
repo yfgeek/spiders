@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"SelfSell平台的诞生源于对人力资本投资理论，通过SelfSell平台低成本的完成个人募资并将融资应用于自身的教育、培训、身心健康等领域。SelfSell会...",
+    "id":1326,
+    "name":"selfsell",
+    "name_cn":"－",
+    "name_en":"SelfSell/SSC",
+    "time":"2018-01-20",
+    "website":[
+        "https://www.selfsell.com/"
+    ],
+    "whitepaper":"https://www.selfsell.com/SelfSellWhitePaperV1.0.pdf"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"发布于2013年10月30日，SHA-256算法，4分钟每块，每块总共128个，126000个块后减半，共计3200万个。",
+    "id":1400,
+    "name":"betacoin",
+    "name_cn":"贝塔币",
+    "name_en":"BetaCoin/BET",
+    "time":"－",
+    "website":[
+        "https://betacoin.info/"
+    ],
+    "whitepaper":"-"
+}

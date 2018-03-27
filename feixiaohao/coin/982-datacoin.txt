@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/dtc/"
+    ],
+    "description":"",
+    "id":982,
+    "name":"datacoin",
+    "name_cn":"－",
+    "name_en":"DTC/DTC",
+    "time":"－",
+    "website":[
+        "http://datacoin.info/"
+    ],
+    "whitepaper":"-"
+}

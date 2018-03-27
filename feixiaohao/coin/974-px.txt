@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/px/"
+    ],
+    "description":"",
+    "id":974,
+    "name":"px",
+    "name_cn":"－",
+    "name_en":"PX/PX",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

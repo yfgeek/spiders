@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5a84969bb663fb64F6d015DcF9F622Aedc796750"
+    ],
+    "description":"",
+    "id":1133,
+    "name":"idice",
+    "name_cn":"－",
+    "name_en":"iDice/ICE",
+    "time":"2017-06-24",
+    "website":[
+        "https://idice.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://rainz.xyz:3006/"
+    ],
+    "description":"",
+    "id":1486,
+    "name":"darklisk",
+    "name_cn":"－",
+    "name_en":"DarkLisk/DISK",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/omc/"
+    ],
+    "description":"",
+    "id":1716,
+    "name":"omicron",
+    "name_cn":"－",
+    "name_en":"Omicron/OMC",
+    "time":"－",
+    "website":[
+        "http://delta.investments/"
+    ],
+    "whitepaper":"-"
+}

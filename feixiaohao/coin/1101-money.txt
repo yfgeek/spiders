@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://money.explorer.bitnodes.net/"
+    ],
+    "description":"",
+    "id":1101,
+    "name":"money",
+    "name_cn":"－",
+    "name_en":"Money/$$$",
+    "time":"－",
+    "website":[
+        "http://moneyfoundation.github.io/moneypage/index.html"
+    ],
+    "whitepaper":"-"
+}

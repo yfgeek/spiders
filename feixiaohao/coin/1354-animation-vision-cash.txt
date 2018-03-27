@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd7cddd45629934c2f6ed3b63217bd8085d7c14a8",
+        "https://ethplorer.io/address/0xd7cddd45629934c2f6ed3b63217bd8085d7c14a8"
+    ],
+    "description":"AVH（Animation Vision Cash）是一个分布式内容发布和版权交易平台，以及通过该平台整合形成的成人产业区块链网络体系，也是世界上首个成人产业区...",
+    "id":1354,
+    "name":"animation-vision-cash",
+    "name_cn":"－",
+    "name_en":"AVH/AVH",
+    "time":"2018-02-11",
+    "website":[
+        "http://av.cash/"
+    ],
+    "whitepaper":"http://avcashimg.s3-accelerate.amazonaws.com/pdf/AVH_WP_EnglishV1.pdf"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1213,
+    "name":"plncoin",
+    "name_cn":"－",
+    "name_en":"PLNcoin/PLNC",
+    "time":"－",
+    "website":[
+        "http://www.plncoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1747,
+    "name":"putincoin-putin",
+    "name_cn":"－",
+    "name_en":"PutinCoin/PUTIN",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

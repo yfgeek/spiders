@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/shld/"
+    ],
+    "description":"",
+    "id":1790,
+    "name":"shield",
+    "name_cn":"－",
+    "name_en":"SHLD/SHLD",
+    "time":"－",
+    "website":[
+        "https://bitcointalk.org/index.php?topic=681570.0"
+    ],
+    "whitepaper":"-"
+}

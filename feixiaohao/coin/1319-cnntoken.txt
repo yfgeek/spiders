@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/address/0x8713d26637cf49e1b6b4a7ce57106aabc9325343"
+    ],
+    "description":"CNN（Content Neutrality Network）致力于构建基于区块链技术的更加开放、高效、互信的内容生态系统。CNN由来自清华、北大、普林斯顿、伦...",
+    "id":1319,
+    "name":"cnntoken",
+    "name_cn":"－",
+    "name_en":"Content Neutrality Network/CNN",
+    "time":"－",
+    "website":[
+        "http://cnntoken.io/"
+    ],
+    "whitepaper":"http://cnntoken.io/files/CNN_Whitepaper_en.pdf?v=1"
+}

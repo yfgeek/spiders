@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://prohashing.com/explorer/Sakuracoin/"
+    ],
+    "description":"",
+    "id":1775,
+    "name":"sakuracoin",
+    "name_cn":"樱花币",
+    "name_en":"Sakuracoin/SKR",
+    "time":"－",
+    "website":[
+        "http://sakuracoin.com/"
+    ],
+    "whitepaper":"https://tokensale.skrilla.com/skr-token-whitepaper-v0.5.pdf"
+}

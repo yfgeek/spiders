@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.bost.link/"
+    ],
+    "description":"增长币(Boostcoin,BOST)采用POS/POW的X13的币，出块时间60秒，每个区块包含515个货币，货币总是POW 1170W+POS 10%/年，...",
+    "id":1049,
+    "name":"boostcoin",
+    "name_cn":"增长币",
+    "name_en":"BoostCoin/BOST",
+    "time":"2014-05-09",
+    "website":[
+        "https://bitcointalk.org/index.php?topic=601965.0"
+    ],
+    "whitepaper":"-"
+}

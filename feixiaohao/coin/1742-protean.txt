@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1742,
+    "name":"protean",
+    "name_cn":"－",
+    "name_en":"Protean/PRN",
+    "time":"2017-08-25",
+    "website":[
+        "http://www.proteania.com/"
+    ],
+    "whitepaper":"-"
+}

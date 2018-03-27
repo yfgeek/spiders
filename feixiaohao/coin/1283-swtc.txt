@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://state.jingtum.com/",
+        "!/"
+    ],
+    "description":"SWTC，System Working Token China是斯微特区块链原生的数字资产，作用类似于比特币系统中的Bitcoin或以太坊中的ETH，是斯微特系...",
+    "id":1283,
+    "name":"swtc",
+    "name_cn":"斯微特",
+    "name_en":"System Working Token China/SWTC",
+    "time":"2015-04-01",
+    "website":[
+        "https://www.jingtum.com/"
+    ],
+    "whitepaper":"-"
+}

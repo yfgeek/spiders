@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1153,
+    "name":"dappster",
+    "name_cn":"－",
+    "name_en":"DAPPSTER/DLISK",
+    "time":"－",
+    "website":[
+        "https://dlisk.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x336f646f87d9f6bc6ed42dd46e8b3fd9dbd15c22",
+        "https://ethplorer.io/address/0x336f646f87d9f6bc6ed42dd46e8b3fd9dbd15c22"
+    ],
+    "description":"CRYSTAL CLEAR SERVICES(CCS)希望利用区块链技术重新定义服务业，掀起了服务行业的革命。目前服务业面临着很多问题，比如缺少组织和缺乏透明度...",
+    "id":966,
+    "name":"crystal-clear",
+    "name_cn":"－",
+    "name_en":"Crystal Clear/CCT",
+    "time":"2017-10-10",
+    "website":[
+        "http://crystal-clear.io/"
+    ],
+    "whitepaper":"http://crystal-clear.io/Whitepaper_english.pdf"
+}

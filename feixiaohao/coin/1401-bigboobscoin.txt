@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1401,
+    "name":"bigboobscoin",
+    "name_cn":"－",
+    "name_en":"BigBoobsCoin/BBC",
+    "time":"2017-10-24",
+    "website":[
+        "https://www.bigboobscoin.info/"
+    ],
+    "whitepaper":"-"
+}

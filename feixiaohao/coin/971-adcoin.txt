@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.getadcoin.com:5000/"
+    ],
+    "description":"",
+    "id":971,
+    "name":"adcoin",
+    "name_cn":"－",
+    "name_en":"AdCoin/ACC",
+    "time":"2017-08-26",
+    "website":[
+        "https://www.getadcoin.com/"
+    ],
+    "whitepaper":"-"
+}

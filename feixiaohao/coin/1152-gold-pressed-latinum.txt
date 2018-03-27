@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptoguru.tk/index.php?Currency=GPL"
+    ],
+    "description":"GPL是基于PoW PoS的混合式加密货币。使用Scrypt-jane算法（scrypt N，1，1）。",
+    "id":1152,
+    "name":"gold-pressed-latinum",
+    "name_cn":"－",
+    "name_en":"Gold Pressed .../GPL",
+    "time":"－",
+    "website":[
+        "http://www.scificrypto.info/gpl/index.htm"
+    ],
+    "whitepaper":"-"
+}

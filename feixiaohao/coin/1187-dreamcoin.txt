@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://188.166.38.209/"
+    ],
+    "description":"",
+    "id":1187,
+    "name":"dreamcoin",
+    "name_cn":"梦想币",
+    "name_en":"Dreamcoin/DRM",
+    "time":"－",
+    "website":[
+        "http://dreamcoin.fi/"
+    ],
+    "whitepaper":"-"
+}

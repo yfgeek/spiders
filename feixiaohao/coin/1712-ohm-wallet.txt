@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockexplorer.ohmwallet.com/"
+    ],
+    "description":"",
+    "id":1712,
+    "name":"ohm-wallet",
+    "name_cn":"－",
+    "name_en":"OHM Wallet/OHM",
+    "time":"－",
+    "website":[
+        "https://ohmwallet.com/"
+    ],
+    "whitepaper":"-"
+}

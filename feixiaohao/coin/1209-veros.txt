@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://www.verosexplorer.org/",
+        "https://etherscan.io/token/0xedbaf3c5100302dcdda53269322f3730b1f0416d",
+        "https://ethplorer.io/address/0xedbaf3c5100302dcdda53269322f3730b1f0416d"
+    ],
+    "description":"所有交易都通过VEROS网站进行，网站由以太坊数据区块链执行的智能合同进行自动管理。智能合同是不可改变的，并且它们的规则也不能被任何实体改变。你可以在GIThu...",
+    "id":1209,
+    "name":"veros",
+    "name_cn":"－",
+    "name_en":"Veros/VRS",
+    "time":"－",
+    "website":[
+        "https://veros.org/"
+    ],
+    "whitepaper":"-"
+}

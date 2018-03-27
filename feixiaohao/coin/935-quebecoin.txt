@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorateur-qbc.circonference.ca/"
+    ],
+    "description":"",
+    "id":935,
+    "name":"quebecoin",
+    "name_cn":"－",
+    "name_en":"Quebecoin/QBC",
+    "time":"－",
+    "website":[
+        "http://quebeco.in"
+    ],
+    "whitepaper":"-"
+}

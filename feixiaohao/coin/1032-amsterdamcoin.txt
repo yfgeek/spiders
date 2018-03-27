@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.amsterdamblockchain.info/"
+    ],
+    "description":"",
+    "id":1032,
+    "name":"amsterdamcoin",
+    "name_cn":"－",
+    "name_en":"AmsterdamCoin/AMS",
+    "time":"－",
+    "website":[
+        "http://amsterdamcoin.com/"
+    ],
+    "whitepaper":"-"
+}

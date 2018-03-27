@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://malcexplorer.info/"
+    ],
+    "description":"",
+    "id":1659,
+    "name":"malcoin",
+    "name_cn":"－",
+    "name_en":"Malcoin/MALC",
+    "time":"－",
+    "website":[
+        "http://www.malcoin.net/"
+    ],
+    "whitepaper":"-"
+}

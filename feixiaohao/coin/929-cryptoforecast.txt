@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=158"
+    ],
+    "description":"Cryptoforecast是一个基于PILLAR算法的应用程序，能够预测BTC，ETH，XMR，XRP，DASH或其他加密货币的未来变化，为用户提供了一种简单...",
+    "id":929,
+    "name":"cryptoforecast",
+    "name_cn":"－",
+    "name_en":"CryptoForecast/CFT",
+    "time":"－",
+    "website":[
+        "https://cryptoforecast.com/"
+    ],
+    "whitepaper":"https://cryptoforecast.com/static/static/WhitePaper_V1.0.pdf"
+}

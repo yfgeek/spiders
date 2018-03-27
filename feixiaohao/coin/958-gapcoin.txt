@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/gap/"
+    ],
+    "description":"Gapcoin是一个新的基于p2p的加密货币，它试图消除Primecoin或Riecoin等其他科学货币的粘附点。Gapcoin是一个独立于银行、政府和其他集中...",
+    "id":958,
+    "name":"gapcoin",
+    "name_cn":"－",
+    "name_en":"Gapcoin/GAP",
+    "time":"－",
+    "website":[
+        "http://gapcoin.org"
+    ],
+    "whitepaper":"-"
+}

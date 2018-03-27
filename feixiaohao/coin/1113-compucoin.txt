@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptobe.com/chain/CompuCoin"
+    ],
+    "description":"",
+    "id":1113,
+    "name":"compucoin",
+    "name_cn":"－",
+    "name_en":"CompuCoin/CPN",
+    "time":"－",
+    "website":[
+        "http://compucoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://golosd.com/"
+    ],
+    "description":"",
+    "id":1578,
+    "name":"golos-gold",
+    "name_cn":"－",
+    "name_en":"Golos Gold/GBG",
+    "time":"－",
+    "website":[
+        "https://golos.io/"
+    ],
+    "whitepaper":"-"
+}

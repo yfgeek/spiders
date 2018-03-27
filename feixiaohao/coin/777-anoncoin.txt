@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://abe.darkgamex.ch:2751/chain/Anoncoin"
+    ],
+    "description":"阿侬币诞生于2013年6月6日，英文是AnonCoin，简称ANC，是由德国人研发并发布的一款山寨币。ANC的主要特色之一是完美支持I2P协议(I2P是匿名网络...",
+    "id":777,
+    "name":"anoncoin",
+    "name_cn":"阿侬币",
+    "name_en":"Anoncoin/ANC",
+    "time":"－",
+    "website":[
+        "https://anoncoin.net/"
+    ],
+    "whitepaper":"-"
+}

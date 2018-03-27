@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.mvs.live/"
+    ],
+    "description":"云链是基于元界区块链的智能新传媒体系。云链在元界公链上，应用元界的数字身份体系和智能合约体系，结合区块链技术对云 链平台所有“活动”进行实名确权，以及用元界区块...",
+    "id":1691,
+    "name":"mvscmc",
+    "name_cn":"云宝",
+    "name_en":"CloudMediaCoin/CMC",
+    "time":"2017-08-31",
+    "website":[
+        "http://www.cloudchain123.com/"
+    ],
+    "whitepaper":"-"
+}

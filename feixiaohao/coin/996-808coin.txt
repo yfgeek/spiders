@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.808bass.space"
+    ],
+    "description":"",
+    "id":996,
+    "name":"808coin",
+    "name_cn":"－",
+    "name_en":"808Coin/808",
+    "time":"－",
+    "website":[
+        "http://808bass.space/"
+    ],
+    "whitepaper":"-"
+}

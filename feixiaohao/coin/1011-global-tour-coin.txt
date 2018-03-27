@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://162.243.101.66:3001/"
+    ],
+    "description":"全球旅行币（GTC）是一种新型的分散货币。GTC被设计成具有创新性和前瞻性，它可以即时网络交易，同时具备防止窃听、审查、促进分散等特性。",
+    "id":1011,
+    "name":"global-tour-coin",
+    "name_cn":"－",
+    "name_en":"Global Tour Coin/GTC",
+    "time":"2017-07-12",
+    "website":[
+        "http://www.gtccoinclub.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0fa9198bb9ca66260fa9a182f27ebbaab55430ff"
+    ],
+    "description":"飞特币作为大师链的价值媒介，快速驱动社交网络体系形成，保证用户社交信息的价值传递与快速支付，同时作为跨链桥梁，实现超级智能的投顾体系。",
+    "id":838,
+    "name":"feitebi",
+    "name_cn":"飞特币",
+    "name_en":"Feitebi/FTB",
+    "time":"2017-11-30",
+    "website":[
+        "https://feitebi.com/"
+    ],
+    "whitepaper":"-"
+}

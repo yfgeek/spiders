@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockexp.com:8081/"
+    ],
+    "description":"",
+    "id":1188,
+    "name":"milocoin",
+    "name_cn":"－",
+    "name_en":"MiloCoin/MILO",
+    "time":"－",
+    "website":[
+        "http://www.milocoin.info/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://block-explorer.coin-miners.info:3007"
+    ],
+    "description":"",
+    "id":1241,
+    "name":"selfiecoin",
+    "name_cn":"－",
+    "name_en":"Selfiecoin/SLFI",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

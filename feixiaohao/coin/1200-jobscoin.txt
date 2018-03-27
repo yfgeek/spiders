@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://5.9.158.101:3001/"
+    ],
+    "description":"",
+    "id":1200,
+    "name":"jobscoin",
+    "name_cn":"－",
+    "name_en":"JobsCoin/JOBS",
+    "time":"－",
+    "website":[
+        "http://jobscoin.us/"
+    ],
+    "whitepaper":"-"
+}

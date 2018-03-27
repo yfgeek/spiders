@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"CTEChain全称Career Trust Ecosystem Chain，中文名称“职业信用生态链”，是基于社交网络的去中心化招聘协议，致力于打造成“人人都...",
+    "id":1263,
+    "name":"cte",
+    "name_cn":"职业链",
+    "name_en":"CTEChain/CTE",
+    "time":"2018-02-01",
+    "website":[
+        "https://cte.work/"
+    ],
+    "whitepaper":"https://cte.work/pdf/White%20Papers%20of%20CTEChain.pdf?v=2018"
+}

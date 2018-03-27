@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://www.fuzzbawls.pw/explore/ZetaMicron/"
+    ],
+    "description":"",
+    "id":1169,
+    "name":"zetamicron",
+    "name_cn":"－",
+    "name_en":"ZetaMicron/ZMC",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

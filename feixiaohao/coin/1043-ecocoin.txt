@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://blockexp.com:9003/",
+        "http://173.212.234.93:3002"
+    ],
+    "description":"",
+    "id":1043,
+    "name":"ecocoin",
+    "name_cn":"生态币",
+    "name_en":"EcoCoin/ECO",
+    "time":"－",
+    "website":[
+        "http://www.ecocoin.us/"
+    ],
+    "whitepaper":"-"
+}

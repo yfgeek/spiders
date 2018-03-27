@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"HYPER PLAY 游戏生态平台由 TC Gaming Group 旗下 Hyperplay TechnologyInc. 出品，并由持牌的运营公司Wishl...",
+    "id":1604,
+    "name":"hyperplay",
+    "name_cn":"－",
+    "name_en":"HYPER PLAY/HPS",
+    "time":"－",
+    "website":[
+        "https://play.top"
+    ],
+    "whitepaper":"-"
+}

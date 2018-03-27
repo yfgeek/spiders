@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Internet of Services是一个创新、安全的区块链技术，致力于为线上虚拟服务以及数字货品交换提供一个高可扩容、高吞吐的生态环境。此外，Intern...",
+    "id":1278,
+    "name":"iost",
+    "name_cn":"－",
+    "name_en":"Internet of Services/IOST",
+    "time":"2018-01-11",
+    "website":[
+        "http://iost.io/"
+    ],
+    "whitepaper":"https://docsend.com/view/ihwqcdg"
+}

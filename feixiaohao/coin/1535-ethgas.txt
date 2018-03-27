@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xb53A96bcBdD9CF78dfF20BAB6C2be7bAec8f00f8",
+        "https://ethplorer.io/address/0xb53A96bcBdD9CF78dfF20BAB6C2be7bAec8f00f8"
+    ],
+    "description":"",
+    "id":1535,
+    "name":"ethgas",
+    "name_cn":"－",
+    "name_en":"Ethgas/EGAS",
+    "time":"2017-11-01",
+    "website":[
+        "http://www.ethgas.stream/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1382,
+    "name":"aureus",
+    "name_cn":"－",
+    "name_en":"Aureus/AURS",
+    "time":"2017-08-28",
+    "website":[
+        "http://aureus.cc/"
+    ],
+    "whitepaper":"-"
+}

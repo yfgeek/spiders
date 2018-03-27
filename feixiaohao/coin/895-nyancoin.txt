@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://nyan.space/chain/Nyancoin"
+    ],
+    "description":"",
+    "id":895,
+    "name":"nyancoin",
+    "name_cn":"－",
+    "name_en":"Nyancoin/NYAN",
+    "time":"－",
+    "website":[
+        "https://www.nyancoin.info/"
+    ],
+    "whitepaper":"-"
+}

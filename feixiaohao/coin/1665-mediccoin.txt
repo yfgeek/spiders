@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "https://explorer.mediccoin.com/ext/getmoneysupply"
+    ],
+    "description":"",
+    "id":1665,
+    "name":"mediccoin",
+    "name_cn":"－",
+    "name_en":"MedicCoin/MEDIC",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://space.midnightminer.net/"
+    ],
+    "description":"",
+    "id":1019,
+    "name":"spacecoin",
+    "name_cn":"－",
+    "name_en":"SpaceCoin/SPACE",
+    "time":"－",
+    "website":[
+        "http://spacecoin.info/"
+    ],
+    "whitepaper":"-"
+}

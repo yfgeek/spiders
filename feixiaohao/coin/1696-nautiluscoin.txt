@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://nxtportal.org/currencies/18154834130337484019"
+    ],
+    "description":"Nautiluscoin最早出现还是在CNBC上，是一篇发表于2014年的文章。在该文章中，布莱恩?凯利讲述了他创建Nautiluscoin的经过，是使用一种...",
+    "id":1696,
+    "name":"nautiluscoin",
+    "name_cn":"－",
+    "name_en":"NautilusCoin/NAUT",
+    "time":"2014-05-27",
+    "website":[
+        "http://www.nautiluscoin.com"
+    ],
+    "whitepaper":"-"
+}

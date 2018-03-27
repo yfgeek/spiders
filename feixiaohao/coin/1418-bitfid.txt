@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://qukuai.bitfid.com/index/index/qktongji"
+    ],
+    "description":"币飞是一个基于区块链的数字资产智能投顾系统。前端主要分为四大模块，包括极速交易、数据分析、智能交易、投顾大师四大模块。后端飞链（FIDCHAIN）通过智能合约确...",
+    "id":1418,
+    "name":"bitfid",
+    "name_cn":"币飞",
+    "name_en":"BITFID/FID",
+    "time":"2017-08-28",
+    "website":[
+        "https://www.bitfid.com/"
+    ],
+    "whitepaper":"-"
+}

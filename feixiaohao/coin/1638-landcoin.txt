@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/ldc"
+    ],
+    "description":"",
+    "id":1638,
+    "name":"landcoin",
+    "name_cn":"地产币",
+    "name_en":"LandCoin/LDCN",
+    "time":"－",
+    "website":[
+        "http://landcoin.co/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.rcoinusa.com:3001/"
+    ],
+    "description":"",
+    "id":1759,
+    "name":"rcoin",
+    "name_cn":"－",
+    "name_en":"Rcoin/RCN",
+    "time":"－",
+    "website":[
+        "http://www.rcoineu.com/"
+    ],
+    "whitepaper":"https://ripiocredit.network/wp/RCN%20Whitepaper%20ENG.pdf"
+}

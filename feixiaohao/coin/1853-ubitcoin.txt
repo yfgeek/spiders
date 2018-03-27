@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.ubitcoin.cc"
+    ],
+    "description":"小比特币是基于区块链科技开发的共享智能合约应用空间，由比特币社区资深专家、密码学研究者、专业编程人士共同组建的专业化加密数字货币研发团队倾力打造。应用空间设定小...",
+    "id":1853,
+    "name":"ubitcoin",
+    "name_cn":"小比特币",
+    "name_en":"uBitcoin/UBC",
+    "time":"2017-09-01",
+    "website":[
+        "http://www.ubitcoin.cc"
+    ],
+    "whitepaper":"-"
+}

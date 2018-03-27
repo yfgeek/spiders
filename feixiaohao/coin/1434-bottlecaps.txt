@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/CAP/index.php"
+    ],
+    "description":"",
+    "id":1434,
+    "name":"bottlecaps",
+    "name_cn":"瓶盖币",
+    "name_en":"Bottlecaps/CAP",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

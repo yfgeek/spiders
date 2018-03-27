@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://nxtportal.org/assets/4110498475301476439"
+    ],
+    "description":"STEX是一个加密货币交易所，这里汇集其他所有交易所，通过这样做提供最好的利率，它是所有交易所流动性最高的一个“智能交易平台”。",
+    "id":1811,
+    "name":"stex",
+    "name_cn":"－",
+    "name_en":"STEX/STEX",
+    "time":"－",
+    "website":[
+        "https://stocks.exchange/ico"
+    ],
+    "whitepaper":"https://stex.exchange/media/pdf/whitepaper.pdf"
+}

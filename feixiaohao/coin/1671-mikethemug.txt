@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://asset.burstnation.com/asset/15997595685586248102"
+    ],
+    "description":"",
+    "id":1671,
+    "name":"mikethemug",
+    "name_cn":"－",
+    "name_en":"MikeTheMug/MUG",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://minemanic.com/red/"
+    ],
+    "description":"红币(Redcoin,RED)基于Scrypt算法,GPU挖矿，每区块产币50-150，每500区块有500-1000币奖励，一分钟确认，总量3.29亿，发布于...",
+    "id":1004,
+    "name":"redcoin",
+    "name_cn":"红币",
+    "name_en":"RedCoin/RED",
+    "time":"－",
+    "website":[
+        "http://redcoin.pw/"
+    ],
+    "whitepaper":"-"
+}

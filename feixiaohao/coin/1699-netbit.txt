@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1699,
+    "name":"netbit",
+    "name_cn":"－",
+    "name_en":"netBit/NBIT",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

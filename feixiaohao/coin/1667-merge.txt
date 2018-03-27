@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Merge是建立在以太坊平臺上，充分利用了它创建完全去中心化的应用程序的可能性。Merge引擎内部发生的所有进程都是在以太坊平臺上编写和执行的，每个人都可以看到...",
+    "id":1667,
+    "name":"merge",
+    "name_cn":"－",
+    "name_en":"Merge/MGE",
+    "time":"－",
+    "website":[
+        "https://mergex.io/"
+    ],
+    "whitepaper":"-"
+}

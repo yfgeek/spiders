@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://poswallet.com/blockChain/xstc/"
+    ],
+    "description":"",
+    "id":1773,
+    "name":"safe-trade-coin",
+    "name_cn":"－",
+    "name_en":"Safe Trade Coin/XSTC",
+    "time":"－",
+    "website":[
+        "http://safetrade.co.in/"
+    ],
+    "whitepaper":"-"
+}

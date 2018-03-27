@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://198.211.107.12:3001/"
+    ],
+    "description":"",
+    "id":1891,
+    "name":"wmcoin",
+    "name_cn":"微盟币",
+    "name_en":"WMCoin/WMC",
+    "time":"－",
+    "website":[
+        "http://www.wemcoin.com/"
+    ],
+    "whitepaper":"-"
+}

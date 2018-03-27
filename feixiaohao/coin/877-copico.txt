@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.copico.io:3001/"
+    ],
+    "description":"Copico希望进一步拉近加密货币和现实世界的关系，他们将启动一个新的在线市场，帮助用户通过copico代币来购买和交换商品。Copico基于POS机制，注重保...",
+    "id":877,
+    "name":"copico",
+    "name_cn":"－",
+    "name_en":"Copico/XCPO",
+    "time":"2017-11-21",
+    "website":[
+        "http://www.copico.io/"
+    ],
+    "whitepaper":"https://www.copico.io/assets/documents/Whitepaper.pdf"
+}

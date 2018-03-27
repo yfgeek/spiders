@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x2233799ee2683d75dfefacbcd2a26c78d34b470d",
+        "https://ethplorer.io/address/0x2233799ee2683d75dfefacbcd2a26c78d34b470d"
+    ],
+    "description":"Network Token一个旨在为大众带来加密货币适应性的电子学习平台。通过互动式学习平台，包括指南、指导和视频课程，迅速掌握和了解加密货币。",
+    "id":1172,
+    "name":"network-token",
+    "name_cn":"－",
+    "name_en":"Network Token/NTWK",
+    "time":"2017-10-28",
+    "website":[
+        "http://www.networktoken.io/"
+    ],
+    "whitepaper":"-"
+}

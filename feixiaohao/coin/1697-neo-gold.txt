@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x449574c69f3a658794829ed81639a7a9ece041e1",
+        "https://ethplorer.io/address/0x449574c69f3a658794829ed81639a7a9ece041e1"
+    ],
+    "description":"NEO GOLD 是一种创新的智能合同支付平台，以先进的区块链技术为基础，NeoGold 将通过引入新 NeoGold 移动钱包实现这一目标。用户可以在这个任何...",
+    "id":1697,
+    "name":"neo-gold",
+    "name_cn":"－",
+    "name_en":"NEO GOLD/NEOG",
+    "time":"2017-11-12",
+    "website":[
+        "https://neo-gold.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/sync/"
+    ],
+    "description":"同步币(SyncCoin)是由sync团队采用X11核心算法，在BTT上人气高，出块时间一分钟，每个区块奖励0.14个币，POW 1000+POS 100% 以...",
+    "id":1821,
+    "name":"sync",
+    "name_cn":"同步币",
+    "name_en":"Sync/SYNC",
+    "time":"－",
+    "website":[
+        "http://syncfund.com/index.html"
+    ],
+    "whitepaper":"-"
+}

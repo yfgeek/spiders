@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/neva/"
+    ],
+    "description":"",
+    "id":954,
+    "name":"nevacoin",
+    "name_cn":"－",
+    "name_en":"NevaCoin/NEVA",
+    "time":"－",
+    "website":[
+        "https://nevacoin.net/"
+    ],
+    "whitepaper":"-"
+}

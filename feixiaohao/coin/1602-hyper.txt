@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://prohashing.com/explorer/Hypercoin/"
+    ],
+    "description":"HyperCoin (HYPER)是一种从PoW切换到PoS的数字货币。PoW阶段持续两周，之后的PoS有三个不同的阶段：首先是5年内5%的PoS月费率；第二个...",
+    "id":1602,
+    "name":"hyper",
+    "name_cn":"－",
+    "name_en":"Hyper/HYPER",
+    "time":"－",
+    "website":[
+        "http://hypercrypto.com/"
+    ],
+    "whitepaper":"-"
+}

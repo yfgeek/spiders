@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://mad.blockpioneers.pw/"
+    ],
+    "description":"",
+    "id":946,
+    "name":"satoshimadness",
+    "name_cn":"－",
+    "name_en":"SatoshiMadness/MAD",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

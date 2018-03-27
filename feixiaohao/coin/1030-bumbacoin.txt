@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockchain.bumbacoin.com/"
+    ],
+    "description":"Bumbacoin是一种专注于密码安全的电子代币 ，它来源于比特币。Bumbacoin使用x11算法。",
+    "id":1030,
+    "name":"bumbacoin",
+    "name_cn":"－",
+    "name_en":"BumbaCoin/BUMBA",
+    "time":"－",
+    "website":[
+        "http://bumbacoin.com/"
+    ],
+    "whitepaper":"-"
+}

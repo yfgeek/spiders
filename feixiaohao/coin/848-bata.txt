@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/bta/",
+        "http://bata.midnightminer.net/"
+    ],
+    "description":"巴塔（BTA）是一种货币，已被开发用于替代传统易货系统的贸易货币。随着“分享经济”的增长，分散市场也在增长。巴塔旨在改变我们的交易方式，通过在Blockchai...",
+    "id":848,
+    "name":"bata",
+    "name_cn":"－",
+    "name_en":"Bata/BTA",
+    "time":"－",
+    "website":[
+        "http://www.bata.io/"
+    ],
+    "whitepaper":"-"
+}

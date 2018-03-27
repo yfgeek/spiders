@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://coinplorer.com/YAC"
+    ],
+    "description":"雅币诞生于2013年5月8日，英文是YACoin，简称YAC，是由pocopoco研发的一种新型P2P虚拟货币，并在bitcointalk论坛上首发，发布时，并...",
+    "id":1060,
+    "name":"yacoin",
+    "name_cn":"雅币",
+    "name_en":"Yacoin/YAC",
+    "time":"－",
+    "website":[
+        "http://www.yacoin.org"
+    ],
+    "whitepaper":"-"
+}

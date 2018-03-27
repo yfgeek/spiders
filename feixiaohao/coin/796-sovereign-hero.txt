@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://cryptofresh.com/a/HERO"
+    ],
+    "description":"",
+    "id":796,
+    "name":"sovereign-hero",
+    "name_cn":"－",
+    "name_en":"Sovereign Hero/HERO",
+    "time":"2017-07-12",
+    "website":[
+        "http://www.sovereignhero.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1556,
+    "name":"FNC",
+    "name_cn":"－",
+    "name_en":"FinCoin/FINCOIN",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

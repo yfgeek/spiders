@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/bigup/"
+    ],
+    "description":"",
+    "id":1010,
+    "name":"bigup",
+    "name_cn":"－",
+    "name_en":"BigUp/BIGUP",
+    "time":"－",
+    "website":[
+        "http://bigup.club/"
+    ],
+    "whitepaper":"-"
+}

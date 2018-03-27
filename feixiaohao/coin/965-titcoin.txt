@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockexperts.com/tit"
+    ],
+    "description":"Titcoin是一种类似于比特币的数字加密货币，它使用对等网络来安全地处理以及验证电子交易。不过与比特币不同的是，Titcoin专门为成人娱乐行业开发。",
+    "id":965,
+    "name":"titcoin",
+    "name_cn":"－",
+    "name_en":"Titcoin/TIT",
+    "time":"－",
+    "website":[
+        "http://www.joy-toilet.com/titcoin/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://microcoin.alcurex.info/block-explorer"
+    ],
+    "description":"发布于2014年1月10日，Scrypt算法，32秒每块，共计1000亿个。",
+    "id":1669,
+    "name":"microcoin",
+    "name_cn":"－",
+    "name_en":"microCoin/MRC",
+    "time":"－",
+    "website":[
+        "http://microcoin.alcurex.info/"
+    ],
+    "whitepaper":"-"
+}

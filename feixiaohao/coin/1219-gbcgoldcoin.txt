@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptobe.com/chain/GBCGoldCoin"
+    ],
+    "description":"",
+    "id":1219,
+    "name":"gbcgoldcoin",
+    "name_cn":"－",
+    "name_en":"GBCGoldCoin/GBC",
+    "time":"－",
+    "website":[
+        "http://gbcgoldcoin.org/"
+    ],
+    "whitepaper":"-"
+}

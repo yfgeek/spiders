@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Fair.Game基于以太坊，采用分散技术和智能合约来确保游戏的公平性。Fair.Game将在全球范围内以不同的语言和多终端版本，如WEB，手机APP（IOS，...",
+    "id":1321,
+    "name":"fairgame",
+    "name_cn":"－",
+    "name_en":"Fair.Game/FAIR",
+    "time":"2018-01-11",
+    "website":[
+        "https://www.fair.game"
+    ],
+    "whitepaper":"-"
+}

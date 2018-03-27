@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"星际文件系统IPFS（InterPlanetary File System）是一个面向全球的、点对点的分布式版本文件系统，目标是为了补充（甚至是取代）目前统治互...",
+    "id":1622,
+    "name":"ipfs",
+    "name_cn":"星际文件系统",
+    "name_en":"IPFS/IPFS",
+    "time":"－",
+    "website":[
+        "https://ipfs.io/"
+    ],
+    "whitepaper":"-"
+}

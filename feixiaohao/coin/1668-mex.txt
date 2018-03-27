@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"全球首家贵金属数字化交易所及黄金钻石商品上链服务基础设施，提供完整黄金、白银等商品Token交易市场，为稳定货币和商品交易需求搭建区块链解决方案和金融衍生品方案",
+    "id":1668,
+    "name":"mex",
+    "name_cn":"－",
+    "name_en":"MEX/MEX",
+    "time":"－",
+    "website":[
+        "http://introduce.mex.link/"
+    ],
+    "whitepaper":"http://introduce.mex.link/whitepaper/mex_whitepaper_final.pdf"
+}

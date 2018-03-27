@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptoguru.tk/CurrencyInfo/index.php?Currency=BEATS"
+    ],
+    "description":"",
+    "id":1078,
+    "name":"beatcoin",
+    "name_cn":"－",
+    "name_en":"Beatcoin/XBTS",
+    "time":"－",
+    "website":[
+        "http://beatcoin.info/"
+    ],
+    "whitepaper":"-"
+}

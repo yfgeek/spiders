@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"什币股(SBG)是成都赛锐信息技术有限公司发行的唯一一款分红虚拟币总量为：500万中文名：什币股英文简称：SBG总量:500万总量(已经销毁30099.11)单...",
+    "id":1779,
+    "name":"sbgcoin",
+    "name_cn":"什币股",
+    "name_en":"SBG/SBG",
+    "time":"－",
+    "website":[
+        "https://www.asdbi.com/"
+    ],
+    "whitepaper":"-"
+}

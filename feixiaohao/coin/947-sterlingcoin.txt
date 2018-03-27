@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://transactions.sterlingcoin.org/"
+    ],
+    "description":"",
+    "id":947,
+    "name":"sterlingcoin",
+    "name_cn":"－",
+    "name_en":"Sterlingcoin/SLG",
+    "time":"－",
+    "website":[
+        "http://sterlingcoin.org/"
+    ],
+    "whitepaper":"-"
+}

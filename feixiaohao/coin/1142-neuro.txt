@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/nro/"
+    ],
+    "description":"",
+    "id":1142,
+    "name":"neuro",
+    "name_cn":"－",
+    "name_en":"Neuro/NRO",
+    "time":"－",
+    "website":[
+        "http://neurocoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/cash"
+    ],
+    "description":"Cashcoin发布于2014年01月20日，GPU显卡挖矿，每块时间1分钟，理论每块奖励30个币，理论最大币数4743W。名称 - CashCoin股票代码 ...",
+    "id":1062,
+    "name":"cashcoin",
+    "name_cn":"现金币",
+    "name_en":"Cashcoin/CASH",
+    "time":"2014-01-10",
+    "website":[
+        "https://cashcoin.cash/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/xqn/"
+    ],
+    "description":"",
+    "id":1755,
+    "name":"quotient",
+    "name_cn":"－",
+    "name_en":"Quotient/XQN",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

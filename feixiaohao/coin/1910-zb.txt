@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"ZB是由ZB Blockchain基金会基于区块链发行的生态币，可以在ZB生态众多场景下使用并流通，让用户可以在ZB生态体系中享有更多的权益，打通ZB生态全产业...",
+    "id":1910,
+    "name":"zb",
+    "name_cn":"ZB生态",
+    "name_en":"ZB Blockchain/ZB",
+    "time":"2018-01-27",
+    "website":[
+        "https://www.zb.com/"
+    ],
+    "whitepaper":"-"
+}

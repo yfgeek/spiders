@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://185.106.122.31/bitcedi/",
+        "blockchain_blocks"
+    ],
+    "description":"",
+    "id":1175,
+    "name":"bitcedi",
+    "name_cn":"－",
+    "name_en":"Bitcedi/BXC",
+    "time":"－",
+    "website":[
+        "http://bitcedi.online/"
+    ],
+    "whitepaper":"-"
+}

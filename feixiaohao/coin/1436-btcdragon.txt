@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://asset.burstnation.com/asset/1892701762360056549"
+    ],
+    "description":"",
+    "id":1436,
+    "name":"btcdragon",
+    "name_cn":"－",
+    "name_en":"BTCDragon/DRAGON",
+    "time":"－",
+    "website":[
+        "https://btcdragon.com/"
+    ],
+    "whitepaper":"-"
+}

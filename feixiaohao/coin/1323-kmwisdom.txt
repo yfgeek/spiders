@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Koumei Cottage，简称KMC，中文名孔明屋，是基于阿希平台开发的去中心化的预测市场。它属于type1型dapp，它具有开源、自治、分布式存储、公开透...",
+    "id":1323,
+    "name":"kmwisdom",
+    "name_cn":"孔明屋",
+    "name_en":"Koumei Cottage/KMC",
+    "time":"－",
+    "website":[
+        "http://www.koumei.io/"
+    ],
+    "whitepaper":"http://asch-public.oss-cn-beijing.aliyuncs.com/Koumei/%E5%AD%94%E6%98%8E%E5%B1%8B%20%20Koumei%20Cottage.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x65a15014964f2102ff58647e16a16a6b9e14bcf6",
+        "https://ethplorer.io/address/0x65a15014964f2102ff58647e16a16a6b9e14bcf6"
+    ],
+    "description":"",
+    "id":1720,
+    "name":"ox-fina",
+    "name_cn":"－",
+    "name_en":"OX Fina/OX",
+    "time":"2017-08-25",
+    "website":[
+        "http://oxfina.com"
+    ],
+    "whitepaper":"-"
+}

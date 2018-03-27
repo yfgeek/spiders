@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1876,
+    "name":"w3coin",
+    "name_cn":"－",
+    "name_en":"W3Coin/W3C",
+    "time":"2018-02-18",
+    "website":[
+        "https://w3coin.net/"
+    ],
+    "whitepaper":"-"
+}

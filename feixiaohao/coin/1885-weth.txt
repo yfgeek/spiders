@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"因ERC-20是ETH之后创建的，导致ETH不兼容ERC-20，从而产生了外包装WETH使它们互相兼容。包装后的WETH可以在去中心化应用（例如：Radar R...",
+    "id":1885,
+    "name":"weth",
+    "name_cn":"－",
+    "name_en":"WETH/WETH",
+    "time":"2018-01-14",
+    "website":[
+        "https://weth.io/"
+    ],
+    "whitepaper":"-"
+}

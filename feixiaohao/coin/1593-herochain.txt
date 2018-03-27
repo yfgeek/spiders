@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"HeroChain 公有链是一个博彩即服务(Gamble as a Service，GaaS)的博彩服务生态系统，遵循世界各地的法律法规，面向全球提供合法的博彩...",
+    "id":1593,
+    "name":"herochain",
+    "name_cn":"英雄链",
+    "name_en":"HeroChain/HEC",
+    "time":"－",
+    "website":[
+        "http://www.herochain.org/"
+    ],
+    "whitepaper":"http://www.herochain.org/img/HeroChainWhitePaper.pdf"
+}

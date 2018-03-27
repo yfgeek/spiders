@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/a/SILVER"
+    ],
+    "description":"",
+    "id":900,
+    "name":"bitsilver",
+    "name_cn":"－",
+    "name_en":"bitSilver/BITSILVER",
+    "time":"－",
+    "website":[
+        "http://bit.ly/BitShares_SILVER"
+    ],
+    "whitepaper":"-"
+}

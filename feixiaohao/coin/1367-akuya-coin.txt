@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://akuyacoin.io:3001/"
+    ],
+    "description":"",
+    "id":1367,
+    "name":"akuya-coin",
+    "name_cn":"－",
+    "name_en":"Akuya Coin/AKY",
+    "time":"2017-10-17",
+    "website":[
+        "http://akuyacoin.co/"
+    ],
+    "whitepaper":"-"
+}

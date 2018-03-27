@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://dollar.explorer.bitnodes.net"
+    ],
+    "description":"",
+    "id":1025,
+    "name":"dollarcoin",
+    "name_cn":"德蓝币",
+    "name_en":"Dollarcoin/DLC",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

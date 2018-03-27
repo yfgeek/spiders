@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://120.27.125.227/"
+    ],
+    "description":"Lepaoquan是数字货币与运动健康的大胆、创新结合。用户使用过程中实际的体力和实际付出成本，根据运动量进行挖矿的产出机制，汇集而成的海量真实人流量。懒人挖矿...",
+    "id":1643,
+    "name":"lepaoquan",
+    "name_cn":"乐跑圈",
+    "name_en":"Lepaoquan/HLB",
+    "time":"－",
+    "website":[
+        "http://www.lepaoquan.com/"
+    ],
+    "whitepaper":"-"
+}

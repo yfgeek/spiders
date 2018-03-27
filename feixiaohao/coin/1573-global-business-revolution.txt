@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.gbrcoin.com/"
+    ],
+    "description":"",
+    "id":1573,
+    "name":"global-business-revolution",
+    "name_cn":"－",
+    "name_en":"Global Busine.../GBRC",
+    "time":"－",
+    "website":[
+        "https://gbrcoin.com/"
+    ],
+    "whitepaper":"-"
+}

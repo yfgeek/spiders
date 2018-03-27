@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://138.197.38.170:3001/"
+    ],
+    "description":"",
+    "id":1683,
+    "name":"morningstar-payments",
+    "name_cn":"－",
+    "name_en":"MorningStar/MRNG",
+    "time":"2017-09-20",
+    "website":[
+        "https://morningstarpayments.xyz/"
+    ],
+    "whitepaper":"-"
+}

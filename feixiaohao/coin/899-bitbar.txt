@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://btb.altcoinwarz.com"
+    ],
+    "description":"比特金条BTB(Bitbar)发布于2013年5月2日,基于scrypt算法。总量1千万个，数量非常稀有，被比做金条。",
+    "id":899,
+    "name":"bitbar",
+    "name_cn":"比特金条",
+    "name_en":"BitBar/BTB",
+    "time":"－",
+    "website":[
+        "http://bitbar.co/"
+    ],
+    "whitepaper":"-"
+}

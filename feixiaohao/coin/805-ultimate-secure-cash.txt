@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://45.55.52.85:3001/",
+        "https://chainz.cryptoid.info/usc/"
+    ],
+    "description":"USC是个安全、即时的加密货币。它将在商业世界中发挥非常重要的作用，在加密货币的世界也同样扮演着一个非常重要的角色。",
+    "id":805,
+    "name":"ultimate-secure-cash",
+    "name_cn":"－",
+    "name_en":"Ultimate Secure Cash/USC",
+    "time":"－",
+    "website":[
+        "http://ultimatesecurecash.info/"
+    ],
+    "whitepaper":"-"
+}

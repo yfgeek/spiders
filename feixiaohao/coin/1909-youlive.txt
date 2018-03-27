@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"YouLive是全球首个基于aelf网络的去中心化实时内容分享平台，这是在区块链世界的大规模应用试验，旨在对实时内容分享行业进行颠覆性改革。YouLive的愿景...",
+    "id":1909,
+    "name":"youlive",
+    "name_cn":"－",
+    "name_en":"Youlive Coin/UC",
+    "time":"2018-02-09",
+    "website":[
+        "http://www.youlive.io"
+    ],
+    "whitepaper":"http://www.youlive.io/assets/imgEN/YouLive_WhitepaperV1.0.4.pdf"
+}

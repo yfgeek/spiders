@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/rpc/",
+        "http://rpc.blockexp.info/chain/RonPaulCoin",
+        "https://www.cryptopia.co.nz/BlockExplorer?coin=RPC"
+    ],
+    "description":"",
+    "id":1068,
+    "name":"ronpaulcoin",
+    "name_cn":"－",
+    "name_en":"RonPaulCoin/RPC",
+    "time":"－",
+    "website":[
+        "http://www.ronpaulcoin.com/"
+    ],
+    "whitepaper":"-"
+}

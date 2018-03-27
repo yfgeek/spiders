@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://explorer.richcoin.us/"
+    ],
+    "description":"",
+    "id":1765,
+    "name":"richcoin",
+    "name_cn":"财富币",
+    "name_en":"RichCoin/RICHX",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

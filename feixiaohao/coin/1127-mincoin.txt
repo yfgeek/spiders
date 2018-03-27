@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://mnc.cryptoexplore.com/",
+        "http://mnc.cointech.net/chain/Mincoin"
+    ],
+    "description":"",
+    "id":1127,
+    "name":"mincoin",
+    "name_cn":"－",
+    "name_en":"MNC/MNC",
+    "time":"－",
+    "website":[
+        "https://www.mincoin.us/"
+    ],
+    "whitepaper":"-"
+}

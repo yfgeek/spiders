@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://explore.atccoin.com/",
+        "http://atccoin.thecryptochat.net/"
+    ],
+    "description":"基于lyra2re加密算法，有效抵抗ASIC矿机，让用户获取币的机会更加公平；隐身地址功能，可让交易具有更强的匿名性；2016年3月5日12点发布；硬币总量2....",
+    "id":1380,
+    "name":"atc-coin",
+    "name_cn":"财产币",
+    "name_en":"ATC Coin/ATCC",
+    "time":"2017-06-26",
+    "website":[
+        "http://atccoin.com/"
+    ],
+    "whitepaper":"-"
+}

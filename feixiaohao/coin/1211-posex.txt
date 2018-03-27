@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/pex/"
+    ],
+    "description":"",
+    "id":1211,
+    "name":"posex",
+    "name_cn":"－",
+    "name_en":"PosEx/PEX",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

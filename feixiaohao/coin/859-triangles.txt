@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.triangles.technology/chain/Triangles"
+    ],
+    "description":"",
+    "id":859,
+    "name":"triangles",
+    "name_cn":"－",
+    "name_en":"Triangles/TRI",
+    "time":"－",
+    "website":[
+        "https://www.triangles.network/"
+    ],
+    "whitepaper":"-"
+}

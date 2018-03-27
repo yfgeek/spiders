@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://flavorcoin.thecryptochat.net/"
+    ],
+    "description":"",
+    "id":1554,
+    "name":"flavorcoin",
+    "name_cn":"－",
+    "name_en":"FlavorCoin/FLVR",
+    "time":"－",
+    "website":[
+        "http://www.flavorcoinradio.com/"
+    ],
+    "whitepaper":"-"
+}

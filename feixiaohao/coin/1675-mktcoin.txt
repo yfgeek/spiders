@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://info.mktcoin.org/"
+    ],
+    "description":"",
+    "id":1675,
+    "name":"mktcoin",
+    "name_cn":"－",
+    "name_en":"MktCoin/MLM",
+    "time":"2018-02-11",
+    "website":[
+        "http://mktcoin.org/"
+    ],
+    "whitepaper":"-"
+}

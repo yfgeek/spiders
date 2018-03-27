@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blocktube.net/utablockchain"
+    ],
+    "description":"",
+    "id":1865,
+    "name":"utacoin",
+    "name_cn":"－",
+    "name_en":"UtaCoin/UTA",
+    "time":"－",
+    "website":[
+        "http://www.goodtime.life/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blocks.compcoin.com/"
+    ],
+    "description":"Compcoin 是一个值得信赖的金融投资系统，它使用一个有价值的区块链数字资产运行一个分散的金融交易计算机。使用Compcoin 提供使用人工智能自动生成现金...",
+    "id":1470,
+    "name":"compcoin",
+    "name_cn":"－",
+    "name_en":"Compcoin/CMP",
+    "time":"2017-08-04",
+    "website":[
+        "https://compcoin.com/"
+    ],
+    "whitepaper":"https://compcoin.com/wp-content/uploads/2017/06/Compcoin-Token-For-A.I.-Financial-Trading-060817v2-1.pdf"
+}

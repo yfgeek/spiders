@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://123.207.172.35/"
+    ],
+    "description":"新的Milancoin（MLC）是一款开源的，基于特定的云区块链技术开发的虚拟电子产品，是一种以保护用户隐私为基础的加密数字货币。Milancoin采用blak...",
+    "id":1672,
+    "name":"milancoin",
+    "name_cn":"米兰币",
+    "name_en":"Milancoin/MLC",
+    "time":"2017-12-25",
+    "website":[
+        "http://www.milancoin.vip/"
+    ],
+    "whitepaper":"-"
+}

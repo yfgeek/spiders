@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1502,
+    "name":"donationcoin",
+    "name_cn":"－",
+    "name_en":"Donationcoin/DON",
+    "time":"－",
+    "website":[
+        "http://donationcoin.org/"
+    ],
+    "whitepaper":"-"
+}

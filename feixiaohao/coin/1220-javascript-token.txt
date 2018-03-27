@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5046e860ff274fb8c66106b0ffb8155849fb0787",
+        "https://ethplorer.io/address/0x5046e860ff274fb8c66106b0ffb8155849fb0787"
+    ],
+    "description":"",
+    "id":1220,
+    "name":"javascript-token",
+    "name_cn":"－",
+    "name_en":"JavaScript Token/JS",
+    "time":"2017-10-28",
+    "website":[
+        "http://javascripttoken.pagedemo.co/"
+    ],
+    "whitepaper":"-"
+}

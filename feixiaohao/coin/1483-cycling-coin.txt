@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1483,
+    "name":"cycling-coin",
+    "name_cn":"－",
+    "name_en":"Cycling Coin/CYC",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

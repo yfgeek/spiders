@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/fire/"
+    ],
+    "description":"",
+    "id":1083,
+    "name":"firecoin",
+    "name_cn":"火币",
+    "name_en":"Firecoin/FIRE",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

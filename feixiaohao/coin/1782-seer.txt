@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"SEER是基于Graphene框架开发的下一代去中心现实预测市场平台。SEER利用市场机制让用户表达对未来事件的判断并集众人的智慧与看法对未来事件进行有效的预测...",
+    "id":1782,
+    "name":"seer",
+    "name_cn":"－",
+    "name_en":"SEER/SEER",
+    "time":"－",
+    "website":[
+        "https://www.seer.best/"
+    ],
+    "whitepaper":"https://www.seer.best/img/SEER%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf"
+}

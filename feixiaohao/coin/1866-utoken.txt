@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xeF4B9B2F36aBceF247e22e5b20097B3185EbCfD5"
+    ],
+    "description":"UToken简称（UTK），是基于以太坊区块链发行的符合ERC20标准的代币，每一枚UTK都可以享有UCX平台20%交易手续费的分成。平台每天都会对前一天的交易...",
+    "id":1866,
+    "name":"utoken",
+    "name_cn":"－",
+    "name_en":"UToken/UTK",
+    "time":"2017-12-19",
+    "website":[
+        "http://www.u.cx"
+    ],
+    "whitepaper":"-"
+}

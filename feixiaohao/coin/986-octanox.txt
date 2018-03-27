@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://wavesgo.com/tokens/DxE8xbjHT7rXyRd2DMz5TnNNNC91Kz1SZ9k4dpH6X4JP"
+    ],
+    "description":"Octanox是x11算法的分散式加密货币，使用专注于多平台的POW和POS系统，可用于虚拟经济和虚拟活动。Octanox是在线交易的一种新方式。它的分散平台可...",
+    "id":986,
+    "name":"octanox",
+    "name_cn":"－",
+    "name_en":"Octanox/OTX",
+    "time":"2017-06-24",
+    "website":[
+        "https://octanox.org/"
+    ],
+    "whitepaper":"https://octanox.org/whitepaper.pdf"
+}

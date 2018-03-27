@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://cryptobe.com/chain/BillaryCoin"
+    ],
+    "description":"",
+    "id":1147,
+    "name":"billarycoin",
+    "name_cn":"－",
+    "name_en":"BillaryCoin/BLRY",
+    "time":"－",
+    "website":[
+        "http://billary.rocks/"
+    ],
+    "whitepaper":"-"
+}

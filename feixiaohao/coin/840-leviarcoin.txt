@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://46.101.28.201/"
+    ],
+    "description":"",
+    "id":840,
+    "name":"leviarcoin",
+    "name_cn":"－",
+    "name_en":"LeviarCoin (P.../XLC",
+    "time":"2017-06-25",
+    "website":[
+        "https://leviarcoin.org/"
+    ],
+    "whitepaper":"https://leviarcoin.org/assets/pdf/LeviarCoin_White_Paper_v1.pdf"
+}

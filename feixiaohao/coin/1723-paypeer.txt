@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1723,
+    "name":"paypeer",
+    "name_cn":"－",
+    "name_en":"PayPeer/PAYP",
+    "time":"－",
+    "website":[
+        "http://www.paypeer.pw/"
+    ],
+    "whitepaper":"-"
+}

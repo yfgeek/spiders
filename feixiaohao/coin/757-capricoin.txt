@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/cpc/"
+    ],
+    "description":"开普币是由一组欧洲和美国的技术公司联合开发的。开普币旨在成为一个主流的加密货币。这是具有最新可用技术的、新一代的加密货币；采用基于全球性点对点网络的先进加密技术...",
+    "id":757,
+    "name":"capricoin",
+    "name_cn":"开普币",
+    "name_en":"Capricoin/CPC",
+    "time":"－",
+    "website":[
+        "http://capricoin.org/"
+    ],
+    "whitepaper":"-"
+}

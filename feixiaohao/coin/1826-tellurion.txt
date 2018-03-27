@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockchain.megacrypton.com/tell/"
+    ],
+    "description":"",
+    "id":1826,
+    "name":"tellurion",
+    "name_cn":"－",
+    "name_en":"Tellurion/TELL",
+    "time":"－",
+    "website":[
+        "http://www.tellurion.info/"
+    ],
+    "whitepaper":"-"
+}

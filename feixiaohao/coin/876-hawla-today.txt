@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xc3972ac283b3a7a56125674631a5c254f7f373cf",
+        "https://ethplorer.io/address/0xc3972ac283b3a7a56125674631a5c254f7f373cf"
+    ],
+    "description":"Today是第一个实时P2P加密货币交换的交易平台。它是由一个简单的核心目标–允许用户购买和交易加密货币。自从比特币在过去几年里迅速上涨，世界已经初具block...",
+    "id":876,
+    "name":"hawla-today",
+    "name_cn":"－",
+    "name_en":"Hawala.Today/HAT",
+    "time":"2017-11-15",
+    "website":[
+        "https://www.hawala.today/"
+    ],
+    "whitepaper":"https://www.hawala.today/HAT_Whitepaper.pdf"
+}

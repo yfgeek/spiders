@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.picoin.club/"
+    ],
+    "description":"",
+    "id":1728,
+    "name":"picoin",
+    "name_cn":"－",
+    "name_en":"PiCoin/PI",
+    "time":"－",
+    "website":[
+        "http://picoin.club/"
+    ],
+    "whitepaper":"-"
+}

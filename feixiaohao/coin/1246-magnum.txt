@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://45.55.250.118/"
+    ],
+    "description":"",
+    "id":1246,
+    "name":"magnum",
+    "name_cn":"－",
+    "name_en":"Magnum/MGM",
+    "time":"－",
+    "website":[
+        "https://www.mgmcoin.org/"
+    ],
+    "whitepaper":"-"
+}

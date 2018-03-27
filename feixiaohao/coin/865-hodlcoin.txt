@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.fuzzbawls.pw/explore/HOdlcoin/index.php"
+    ],
+    "description":"",
+    "id":865,
+    "name":"hodlcoin",
+    "name_cn":"－",
+    "name_en":"HOdlcoin/HODL",
+    "time":"－",
+    "website":[
+        "http://hodlcoin.com"
+    ],
+    "whitepaper":"-"
+}

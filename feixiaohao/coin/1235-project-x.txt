@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://207.126.164.144:1337/"
+    ],
+    "description":"",
+    "id":1235,
+    "name":"project-x",
+    "name_cn":"－",
+    "name_en":"Project-X/NANOX",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

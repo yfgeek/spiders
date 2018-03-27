@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"ShareX是基于区块链技术，面向未上市企业的股权登记管理与交易流通领域的创新性公司。ShareX与专业的股权转让平台潜力股强强联合，共同打造一个基于区块链技术...",
+    "id":1786,
+    "name":"sharex",
+    "name_cn":"－",
+    "name_en":"ShareX/SEXC",
+    "time":"2018-01-19",
+    "website":[
+        "https://sharex.vc/"
+    ],
+    "whitepaper":"https://sharex.vc/pdf.html"
+}

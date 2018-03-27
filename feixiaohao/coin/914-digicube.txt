@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/CUBE/chain.php"
+    ],
+    "description":"",
+    "id":914,
+    "name":"digicube",
+    "name_cn":"－",
+    "name_en":"DigiCube/CUBE",
+    "time":"－",
+    "website":[
+        "http://www.freestaking.com"
+    ],
+    "whitepaper":"-"
+}

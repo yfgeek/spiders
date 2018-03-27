@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/dvc/"
+    ],
+    "description":"开发币(Devcoin,DVC)是仅跟BTC之后发布的虚拟货币，诞生于2011年8月5日，采用与比特币联合挖矿的方式， 出块时间10分钟，每块产量5000个币，...",
+    "id":1494,
+    "name":"devcoin",
+    "name_cn":"开发币",
+    "name_en":"Devcoin/DVC",
+    "time":"－",
+    "website":[
+        "http://devcoin.org"
+    ],
+    "whitepaper":"-"
+}

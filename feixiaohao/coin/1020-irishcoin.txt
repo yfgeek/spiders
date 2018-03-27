@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://block.irishcoin.org:2750/chain/Irishcoin"
+    ],
+    "description":"",
+    "id":1020,
+    "name":"irishcoin",
+    "name_cn":"－",
+    "name_en":"IrishCoin/IRL",
+    "time":"－",
+    "website":[
+        "http://irishcoin.org/"
+    ],
+    "whitepaper":"-"
+}

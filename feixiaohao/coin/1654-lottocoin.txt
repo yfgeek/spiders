@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://lottocoin.info/chain/lottocoin"
+    ],
+    "description":"乐透币(Lottocoin,LOT)采用GPU挖矿的Scrypt算法，出块时间30秒，每块产量随机，每块调整难度， 交易确认4个, 总量184亿多一点。（预挖2...",
+    "id":1654,
+    "name":"lottocoin",
+    "name_cn":"乐透币",
+    "name_en":"LottoCoin/LOT",
+    "time":"－",
+    "website":[
+        "http://lottocoin.org/"
+    ],
+    "whitepaper":"-"
+}

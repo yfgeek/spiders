@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.gaiaplatform.com/explorer/"
+    ],
+    "description":"",
+    "id":875,
+    "name":"gaia",
+    "name_cn":"盖亚币",
+    "name_en":"GAIA/GAIA",
+    "time":"－",
+    "website":[
+        "http://gaiaplatform.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x7D5Edcd23dAa3fB94317D32aE253eE1Af08Ba14d",
+        "https://ethplorer.io/address/0x7D5Edcd23dAa3fB94317D32aE253eE1Af08Ba14d"
+    ],
+    "description":"",
+    "id":835,
+    "name":"ethbet",
+    "name_cn":"－",
+    "name_en":"EthBet/EBET",
+    "time":"2017-10-08",
+    "website":[
+        "https://ethbet.io/"
+    ],
+    "whitepaper":"-"
+}

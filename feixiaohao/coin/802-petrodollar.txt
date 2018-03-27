@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.multifaucet.tk/index.php?blockexplorer=XPD"
+    ],
+    "description":"请注意：此石油币不是委内瑞拉的石油币，委内瑞拉的石油币2018年4月起将在国内外的数字加密货币交易所进行二级市场交易。",
+    "id":802,
+    "name":"petrodollar",
+    "name_cn":"石油币",
+    "name_en":"PetroDollar/XPD",
+    "time":"－",
+    "website":[
+        "http://petrodollar.org/"
+    ],
+    "whitepaper":"-"
+}

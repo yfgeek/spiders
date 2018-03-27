@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"CNET系统是一个应用区块链来搭建全球稳定价值支付网络的系统。",
+    "id":1466,
+    "name":"cnet",
+    "name_cn":"－",
+    "name_en":"Currency Network/CNET",
+    "time":"－",
+    "website":[
+        "http://www.cnet.global/"
+    ],
+    "whitepaper":"-"
+}

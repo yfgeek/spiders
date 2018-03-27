@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://45.79.66.198/"
+    ],
+    "description":"",
+    "id":1240,
+    "name":"coupecoin",
+    "name_cn":"－",
+    "name_en":"Coupecoin/COUPE",
+    "time":"2017-06-25",
+    "website":[
+        "http://www.coupecoin.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/netko/"
+    ],
+    "description":"",
+    "id":874,
+    "name":"netko",
+    "name_cn":"－",
+    "name_en":"Netko/NETKO",
+    "time":"－",
+    "website":[
+        "http://netko.tech/"
+    ],
+    "whitepaper":"-"
+}

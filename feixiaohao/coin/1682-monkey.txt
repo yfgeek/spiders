@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/assets.html?2aN5sxTbjtoZziX9iCAyanrtDhCfNcPyRqdpnEHNppdN"
+    ],
+    "description":"",
+    "id":1682,
+    "name":"monkey",
+    "name_cn":"－",
+    "name_en":"Monkey/MNY",
+    "time":"2017-08-04",
+    "website":[
+        "https://www.monkey.capital/"
+    ],
+    "whitepaper":"https://www.monkey.capital/docs/MC_Whitepaper.pdf"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7",
+        "https://ethplorer.io/address/0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7"
+    ],
+    "description":"Jibrel Network 旨在促进货币、债券和其他金融工具等传统资产在区块链上的数字化、上市与交易。Jibrel 去中心化银行可让平台使用者存入现金、货币市...",
+    "id":1626,
+    "name":"jibrelnetwork",
+    "name_cn":"－",
+    "name_en":"Jibrel Network/JNT",
+    "time":"2018-02-02",
+    "website":[
+        "https://jibrel.network/zh.html"
+    ],
+    "whitepaper":"https://jibrel.network/assets/white_paper/Jibrel%20Network%20-%20White%20Paper%20(Chinese%20Simplified%20zh-CN).pdf"
+}

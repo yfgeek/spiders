@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://www.multifaucet.tk/index.php?blockexplorer=STS"
+    ],
+    "description":"",
+    "id":1813,
+    "name":"stress",
+    "name_cn":"－",
+    "name_en":"Stress/STS",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

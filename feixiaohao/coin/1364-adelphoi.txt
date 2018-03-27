@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://www.mynxt.info/asset/17477397104276156702",
+        "https://nxtportal.org/assets/17477397104276156702"
+    ],
+    "description":"Adel是一个全球性的加密货币社区。我们的社区已实现自我管理并独立运作，将通过Adelphoi加密货币打造一个独立的经济生态体系。社区专注于创建、开发并执行与区...",
+    "id":1364,
+    "name":"adelphoi",
+    "name_cn":"－",
+    "name_en":"Adelphoi/ADL",
+    "time":"2017-06-17",
+    "website":[
+        "https://www.adelphoi.io/"
+    ],
+    "whitepaper":"https://www.adelphoi.io/content/pdf/wp_1.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://prohashing.com/explorer/Tittiecoin/"
+    ],
+    "description":"TittieCoin（TTC）是一款开源的scrypt数字货币，受到谷歌前员工Charles Lee于2011年10月7日创建的Litecoin模型的启发。它是...",
+    "id":858,
+    "name":"tittiecoin",
+    "name_cn":"－",
+    "name_en":"TittieCoin/TTC",
+    "time":"－",
+    "website":[
+        "http://tittiecoin.com"
+    ],
+    "whitepaper":"-"
+}

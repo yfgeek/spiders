@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xfae4ee59cdd86e3be9e8b90b53aa866327d7c090",
+        "https://ethplorer.io/address/0xfae4ee59cdd86e3be9e8b90b53aa866327d7c090"
+    ],
+    "description":"物信链（CPChain，Cyber-Physical Chain）是新一代物联网的分布式基础架构，旨在结合分布式存储，数据加密计算，区块链技术，重塑物联网基本架...",
+    "id":1475,
+    "name":"cpchain",
+    "name_cn":"物信链",
+    "name_en":"CPChain/CPC",
+    "time":"2018-01-31",
+    "website":[
+        "http://www.cpchain.io/"
+    ],
+    "whitepaper":"http://www.cpchain.io/%E7%89%A9%E4%BF%A1%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6_web2.1.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/gbt/"
+    ],
+    "description":"",
+    "id":1567,
+    "name":"gamebet-coin",
+    "name_cn":"－",
+    "name_en":"GameBet Coin/GBT",
+    "time":"－",
+    "website":[
+        "https://www.gamebet.gg/"
+    ],
+    "whitepaper":"-"
+}

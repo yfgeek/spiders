@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/xco"
+    ],
+    "description":"",
+    "id":1144,
+    "name":"x-coin",
+    "name_cn":"－",
+    "name_en":"X-Coin/XCO",
+    "time":"－",
+    "website":[
+        "http://x-coin.info/"
+    ],
+    "whitepaper":"-"
+}

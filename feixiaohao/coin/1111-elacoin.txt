@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://51.255.6.35:30004/"
+    ],
+    "description":"开始于2013年5月13日。Scrypt算法，2分钟一个块，每块1个。",
+    "id":1111,
+    "name":"elacoin",
+    "name_cn":"埃拉币",
+    "name_en":"Elacoin/ELC",
+    "time":"－",
+    "website":[
+        "http://elc.22web.org/"
+    ],
+    "whitepaper":"-"
+}

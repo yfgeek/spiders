@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/octo/"
+    ],
+    "description":"Octocoin是一种创新的支付网络，使用点对点技术,基于比特币协议。Octocoin货币系统支持即时付款给世界任何地方的任何人。“网络”是Octocoin对等...",
+    "id":1058,
+    "name":"octocoin",
+    "name_cn":"－",
+    "name_en":"OctoCoin/888",
+    "time":"－",
+    "website":[
+        "http://octocoinfoundation.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.explorermagnetcoin.net/"
+    ],
+    "description":"",
+    "id":1658,
+    "name":"magnetcoin",
+    "name_cn":"－",
+    "name_en":"Magnetcoin/MAGN",
+    "time":"2017-09-11",
+    "website":[
+        "https://magnetcoin.net/"
+    ],
+    "whitepaper":"-"
+}

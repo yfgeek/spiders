@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockchain.alphamao.top/"
+    ],
+    "description":"玩客币（链克）是迅雷旗下公司网心科技推出的产品，是基于“玩客云”智能硬件，依托共享经济云计算和区块链技术的数字资产。玩客币的分配仅限于挖矿奖励、运营开支和创始团...",
+    "id":1890,
+    "name":"wkc",
+    "name_cn":"玩客币（链克）",
+    "name_en":"WKC/WKC",
+    "time":"2017-10-12",
+    "website":[
+        "http://red.xunlei.com/"
+    ],
+    "whitepaper":"-"
+}

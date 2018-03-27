@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/"
+    ],
+    "description":"RealChain产品中的区块链技术会使交易过程、鉴定评估过程，资金流转过程全部分散式记录在各个节点中。使得商业链的各方都会有个公平公开的资讯过程。同时方便商业...",
+    "id":1302,
+    "name":"rcfund",
+    "name_cn":"真链",
+    "name_en":"RealChain/RCT",
+    "time":"2018-01-07",
+    "website":[
+        "http://www.rcfund.org/"
+    ],
+    "whitepaper":"-"
+}

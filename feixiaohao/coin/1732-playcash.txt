@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"玩客币国际社区为一群热爱玩客币的忠实粉丝所建，主要目的为玩客币的国际推广工作，致力于将玩客币推广到世界，让更多人知道玩客币，了解玩客币，爱上玩客币。为发展玩客币...",
+    "id":1732,
+    "name":"playcash",
+    "name_cn":"玩币",
+    "name_en":"PlayCash/PCASH",
+    "time":"2017-12-03",
+    "website":[
+        "http://www.playcash.io/"
+    ],
+    "whitepaper":"-"
+}

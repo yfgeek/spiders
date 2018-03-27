@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"全民链是基于区块链技术的“全球余额宝”，由区块链通（北京）科技有限公司自主开发，是公司在与几个世界500强企业合作的区块链应用落地验证后正式上线的；全民链采用P...",
+    "id":1882,
+    "name":"wearechain",
+    "name_cn":"全民链",
+    "name_en":"WeAreChain/WAC",
+    "time":"2017-12-18",
+    "website":[
+        "https://www.wearechain.com/"
+    ],
+    "whitepaper":"https://www.wearechain.com/whitepaper/wac-white-paper.pdf"
+}

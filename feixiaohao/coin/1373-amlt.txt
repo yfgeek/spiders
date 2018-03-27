@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xca0e7269600d353f70b14ad118a49575455c0f2f",
+        "https://ethplorer.io/address/0xca0e7269600d353f70b14ad118a49575455c0f2f"
+    ],
+    "description":"",
+    "id":1373,
+    "name":"amlt",
+    "name_cn":"－",
+    "name_en":"AMLT Token/AMLT",
+    "time":"2018-03-24",
+    "website":[
+        "https://amlt.coinfirm.io/blocked"
+    ],
+    "whitepaper":"-"
+}

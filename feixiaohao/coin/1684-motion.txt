@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Motion 是一个基于区块链的分布式游戏分发系统，也是一个以游戏视频为分发载体的社区，它可以让广大用户参与游戏的开发、测试、分发全流程。通过这种模式，透明化中...",
+    "id":1684,
+    "name":"motion",
+    "name_cn":"－",
+    "name_en":"Motion/MTN",
+    "time":"－",
+    "website":[
+        "http://motion.one/"
+    ],
+    "whitepaper":"-"
+}

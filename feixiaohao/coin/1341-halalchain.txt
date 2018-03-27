@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.qtum.org/"
+    ],
+    "description":"Halalchain是基于量子qrc-20标准的代币，是服务于清真食品溯源的区块链3.0解决方案，是一个横跨全球穆斯林世界的支付体系！Halal Chain是面...",
+    "id":1341,
+    "name":"halalchain",
+    "name_cn":"绿色食品链",
+    "name_en":"Halalchain/HLC",
+    "time":"2018-01-30",
+    "website":[
+        "http://www.halalchain.ae"
+    ],
+    "whitepaper":"http://www.halalchain.ae/whitepaper.pdf"
+}

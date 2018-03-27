@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/hmp"
+    ],
+    "description":"",
+    "id":1103,
+    "name":"hempcoin-hmp",
+    "name_cn":"－",
+    "name_en":"HempCoin/HMP",
+    "time":"－",
+    "website":[
+        "http://hempcoin.com/"
+    ],
+    "whitepaper":"-"
+}

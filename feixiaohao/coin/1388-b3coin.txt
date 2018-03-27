@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/b3/"
+    ],
+    "description":"B3和kB3是最新的B3Coin钱包中支持的货币单位(v3.1.1.2+)。通过一个软叉，B3Coin开发团队实现了对钱包中1000:1货币转换的支持，以确保货...",
+    "id":1388,
+    "name":"b3coin",
+    "name_cn":"－",
+    "name_en":"B3Coin/B3",
+    "time":"－",
+    "website":[
+        "http://b3coin.net/"
+    ],
+    "whitepaper":"-"
+}

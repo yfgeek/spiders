@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.fastcoinfoundation.org/"
+    ],
+    "description":"快速币(FastCoin,FST)采用Scrypt算法，出块时间：12秒，每块包含32个币，12个月（2592000块）后减半，4次交易确认，48秒可确认完毕。...",
+    "id":818,
+    "name":"fastcoin",
+    "name_cn":"快速币",
+    "name_en":"Fastcoin/FST",
+    "time":"－",
+    "website":[
+        "http://www.fastcoin.ca/"
+    ],
+    "whitepaper":"-"
+}

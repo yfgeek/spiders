@@ -1,0 +1,14 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1549,
+    "name":"filecoin",
+    "name_cn":"－",
+    "name_en":"Filecoin/FIL",
+    "time":"2017-12-14",
+    "website":[
+        "https://filecoin.io/",
+        "https://protocol.ai"
+    ],
+    "whitepaper":"-"
+}

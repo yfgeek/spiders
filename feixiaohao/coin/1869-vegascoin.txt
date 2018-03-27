@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"拉斯维加斯币(Vegascoin,VGC)发布于2014年2月17日，Scrypt算法，120秒每块，30个每块，共计1亿个。",
+    "id":1869,
+    "name":"vegascoin",
+    "name_cn":"拉斯维加斯币",
+    "name_en":"VegasCoin/VGC",
+    "time":"－",
+    "website":[
+        "http://vegascoin.co/"
+    ],
+    "whitepaper":"-"
+}

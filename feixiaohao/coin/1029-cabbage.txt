@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1029,
+    "name":"cabbage",
+    "name_cn":"－",
+    "name_en":"Cabbage/CAB",
+    "time":"－",
+    "website":[
+        "http://www.cabbage.tech"
+    ],
+    "whitepaper":"-"
+}

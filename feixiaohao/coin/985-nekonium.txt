@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.nekonium.org/home"
+    ],
+    "description":"Nekonium是以太坊克隆的分布式应用平台。它用于介绍以太坊复制货币实施示例和学习以太坊功能。",
+    "id":985,
+    "name":"nekonium",
+    "name_cn":"－",
+    "name_en":"Nekonium/NUKO",
+    "time":"2017-12-07",
+    "website":[
+        "https://nekonium.github.io/"
+    ],
+    "whitepaper":"-"
+}

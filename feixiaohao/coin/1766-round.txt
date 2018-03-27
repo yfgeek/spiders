@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4993CB95c7443bdC06155c5f5688Be9D8f6999a5"
+    ],
+    "description":"ROUND是一个去中心化的电竞游戏平台项目，在这个平台上你可以参与或者组队参与竞赛，可以获得一定的钱，通过玩以下这些线上大型游戏，如英雄联盟、DOTA2、Co...",
+    "id":1766,
+    "name":"round",
+    "name_cn":"－",
+    "name_en":"Round/ROUND",
+    "time":"2017-07-27",
+    "website":[
+        "http://roundcoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://neotracker.io/"
+    ],
+    "description":"本体信任网络架构了壹个分布式融合的信任体系，将信任的多样性在壹体化的协议体系下进行协同，整合分布式多维实体认证体系及各类不同区块链体系与信息系统，纳入多源身份认...",
+    "id":1268,
+    "name":"ont",
+    "name_cn":"本体",
+    "name_en":"Ontology/ONT",
+    "time":"－",
+    "website":[
+        "https://ont.io/"
+    ],
+    "whitepaper":"https://ont.io/static/wp/%E6%9C%AC%E4%BD%93%E7%99%BD%E7%9A%AE%E4%B9%A6%E6%A6%82%E8%A7%88.pdf"
+}

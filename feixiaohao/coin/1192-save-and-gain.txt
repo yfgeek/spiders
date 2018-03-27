@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://sandg.miningalts.com/"
+    ],
+    "description":"",
+    "id":1192,
+    "name":"save-and-gain",
+    "name_cn":"－",
+    "name_en":"Save and Gain/SANDG",
+    "time":"－",
+    "website":[
+        "http://coinaid.co.uk/"
+    ],
+    "whitepaper":"-"
+}

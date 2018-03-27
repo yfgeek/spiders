@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://node.qora.tech:9090/index/blockexplorer.html"
+    ],
+    "description":"Qora是一个具有全新代码的二代币。它从最底层设计用来解决比特币的最大问题。同时承诺了很多新的功能。Qora使用公开的IPO的方式进行原始分发，总量为100亿。...",
+    "id":1750,
+    "name":"qora",
+    "name_cn":"简约币",
+    "name_en":"Qora/QORA",
+    "time":"－",
+    "website":[
+        "http://qora.org"
+    ],
+    "whitepaper":"-"
+}

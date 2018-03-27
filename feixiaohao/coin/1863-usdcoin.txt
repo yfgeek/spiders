@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"USC是由Coinfix公司推出了一种新的数字资产，目标是同时建立一个全球超级兑付中心。USC的发行将严格按照1USC=1USD的比例，即每增加1美元的准备金才...",
+    "id":1863,
+    "name":"usdcoin",
+    "name_cn":"－",
+    "name_en":"Usdcoin/USC",
+    "time":"－",
+    "website":[
+        "https://www.coinfix.com/"
+    ],
+    "whitepaper":"-"
+}

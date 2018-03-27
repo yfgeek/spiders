@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockchain.rabbitcoin.co:8080"
+    ],
+    "description":"",
+    "id":1756,
+    "name":"rabbitcoin",
+    "name_cn":"兔子币",
+    "name_en":"RabbitCoin/RBBT",
+    "time":"－",
+    "website":[
+        "http://rabbitco.in"
+    ],
+    "whitepaper":"-"
+}

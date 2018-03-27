@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1",
+        "https://ethplorer.io/address/0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1"
+    ],
+    "description":"跨游戏交易平台DMarket是基于区块链和智能合约技术。 DMarket的alpha版本(在测试网络上运行)将于十月份推出。DMarket代币将是游戏经济市场中...",
+    "id":1500,
+    "name":"dmarket",
+    "name_cn":"－",
+    "name_en":"DMarket/DMT",
+    "time":"2018-02-04",
+    "website":[
+        "https://dmarket.com/"
+    ],
+    "whitepaper":"-"
+}

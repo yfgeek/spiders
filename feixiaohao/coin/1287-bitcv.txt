@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1014613e2b3cbc4d575054d4982e580d9b99d7b1"
+    ],
+    "description":"币威（BitCV，BCV）专注于区块链数字资产管理，从技术上研究和改造区块链底层，构建对跨链、快速支付的支持，同时从应用层实现落地，小工具切入，支持更完整的生态...",
+    "id":1287,
+    "name":"bitcv",
+    "name_cn":"币威",
+    "name_en":"BitCV/BCV",
+    "time":"－",
+    "website":[
+        "https://bitcv.one/"
+    ],
+    "whitepaper":"https://bitcv.one/doc/bitcv_whitepaper_tr.pdf"
+}

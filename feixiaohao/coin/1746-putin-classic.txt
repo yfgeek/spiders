@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://191.101.232.221:3001/",
+        "http://217.117.29.78:3001/"
+    ],
+    "description":"",
+    "id":1746,
+    "name":"putin-classic",
+    "name_cn":"－",
+    "name_en":"Putin Classic/PUTIC",
+    "time":"－",
+    "website":[
+        "http://puticcoin.ru/"
+    ],
+    "whitepaper":"-"
+}

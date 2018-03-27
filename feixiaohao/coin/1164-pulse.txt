@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://pulseexplorer.coin-server.com/"
+    ],
+    "description":"",
+    "id":1164,
+    "name":"pulse",
+    "name_cn":"－",
+    "name_en":"Pulse/PULSE",
+    "time":"－",
+    "website":[
+        "http://pulseproject.pw/"
+    ],
+    "whitepaper":"-"
+}

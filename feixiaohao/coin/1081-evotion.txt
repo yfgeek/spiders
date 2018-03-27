@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://evo.explorer.superpool.in/"
+    ],
+    "description":"",
+    "id":1081,
+    "name":"evotion",
+    "name_cn":"－",
+    "name_en":"Evotion/EVO",
+    "time":"－",
+    "website":[
+        "http://evotion.info/"
+    ],
+    "whitepaper":"-"
+}

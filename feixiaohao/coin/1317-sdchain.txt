@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://ethplorer.io/address/0x4212fea9fec90236ecc51e41e2096b16ceb84555",
+        "https://etherscan.io/token/0x4212fea9fec90236ecc51e41e2096b16ceb84555"
+    ],
+    "description":"六域链（SixDomainChain, SDChain）是全球首个融合物联网“六域模型”国际、国家标准和分布式区块链参考架构标准的去中心化公有区块链生态体系，充...",
+    "id":1317,
+    "name":"sdchain",
+    "name_cn":"六域链",
+    "name_en":"SDChain/SDA",
+    "time":"2018-01-08",
+    "website":[
+        "https://www.sdchain.io"
+    ],
+    "whitepaper":"https://static.sdchain.io/files/SixDomainChain_WhitePaper_CN.pdf"
+}

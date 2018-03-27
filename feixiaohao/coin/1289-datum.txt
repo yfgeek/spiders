@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Datum 是一个建立在区块链上的去中心化的高效率数据存储交易平台。可以将结构化数据如社交网络数据，穿戴式装置数据，智能家居和其他物联网设备，以安全、隐私、匿名...",
+    "id":1289,
+    "name":"datum",
+    "name_cn":"－",
+    "name_en":"Datum/DAT",
+    "time":"2017-12-16",
+    "website":[
+        "https://datum.org/"
+    ],
+    "whitepaper":"https://datum.org/assets/Datum-WhitePaper.pdf"
+}

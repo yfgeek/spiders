@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/mi"
+    ],
+    "description":"",
+    "id":1900,
+    "name":"xiaomicoin",
+    "name_cn":"小米币",
+    "name_en":"Xiaomicoin/MI",
+    "time":"－",
+    "website":[
+        "http://www.xiaomicoin.org/"
+    ],
+    "whitepaper":"-"
+}

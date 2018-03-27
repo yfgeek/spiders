@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"共赢链GYLian是一个分布式数据库系统，数据自动在全球各个节点备份，并借助密码学以及博弈论等，由全球矿工共同维护网络安全，任何个人或者组织都很难篡改系统数据，...",
+    "id":1586,
+    "name":"gylian",
+    "name_cn":"共赢链",
+    "name_en":"Gylian/GYL",
+    "time":"2017-08-13",
+    "website":[
+        "http://www.gylian.org/"
+    ],
+    "whitepaper":"-"
+}

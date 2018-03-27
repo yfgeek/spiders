@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://nxtportal.org/currencies/2334865625411578067"
+    ],
+    "description":"",
+    "id":1617,
+    "name":"internet-of-things",
+    "name_cn":"－",
+    "name_en":"Internet of T.../XOT",
+    "time":"－",
+    "website":[
+        "http://iotcoin.io/"
+    ],
+    "whitepaper":"-"
+}

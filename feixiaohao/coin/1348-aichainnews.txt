@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"AICHAIN旨在为更复杂的AI应用提供一个共有区块链平台，能够让数据资源方、应用开发方、运行平台资源方和用户在这个区块链上自由发布和使用各自的资源和应用，以更...",
+    "id":1348,
+    "name":"aichainnews",
+    "name_cn":"－",
+    "name_en":"AICHAIN/AIT",
+    "time":"－",
+    "website":[
+        "http://www.aichain.me/cn"
+    ],
+    "whitepaper":"http://www.aichain.me/static/home/file/whitepaper-cn.pdf"
+}

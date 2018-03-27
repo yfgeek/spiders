@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x0223fc70574214f65813fe336d870ac47e147fae"
+    ],
+    "description":"标准链：重塑区块链世界的基石。标准链（CanonChain/CZR）将从通讯的协议层、芯片层出发，为整个区块链行业提供健壮的基石。标准链致力于通过社区、第三方开...",
+    "id":1340,
+    "name":"canonchain",
+    "name_cn":"标准链",
+    "name_en":"CanonChain/CZR",
+    "time":"2018-01-23",
+    "website":[
+        "http://www.canonchain.com/"
+    ],
+    "whitepaper":"http://www.canonchain.com/Resource/file/whitepaper/latest/canonchain-cn.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.shellcoin.org/"
+    ],
+    "description":"小贝壳 (SHELL,Shellcoin) 基于PoS的数字虚拟货币，1% PoS 年利率，总量约3亿枚。",
+    "id":1789,
+    "name":"shellcoin",
+    "name_cn":"小贝壳",
+    "name_en":"ShellCoin/SHELL",
+    "time":"－",
+    "website":[
+        "http://www.shellcoin.org"
+    ],
+    "whitepaper":"-"
+}

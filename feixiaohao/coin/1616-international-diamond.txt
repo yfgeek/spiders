@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1616,
+    "name":"international-diamond",
+    "name_cn":"－",
+    "name_en":"International Diamond/XID",
+    "time":"－",
+    "website":[
+        "http://xidcoin.com/"
+    ],
+    "whitepaper":"http://www.sphre.co/cs/downloads/Air_Platform_Whitepaper.pdf"
+}

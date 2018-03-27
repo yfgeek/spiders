@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://45.32.173.218/"
+    ],
+    "description":"Renos是一种最小化的加密货币，它的重点是在项目的贡献者和追随者中推广社区价值。该公司于2017年2月26日上线，在不到一个月的时间内积累了超过1000名用户...",
+    "id":765,
+    "name":"renos",
+    "name_cn":"－",
+    "name_en":"Renos/RNS",
+    "time":"－",
+    "website":[
+        "https://renoscoin.com/"
+    ],
+    "whitepaper":"-"
+}

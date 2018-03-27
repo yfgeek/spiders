@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1225,
+    "name":"xonecoin",
+    "name_cn":"－",
+    "name_en":"Xonecoin/XOC",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

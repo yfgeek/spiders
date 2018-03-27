@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://explore.marscoin.org/",
+        "http://cryptoguru.tk/index.php?Currency=MRS"
+    ],
+    "description":"",
+    "id":994,
+    "name":"marscoin",
+    "name_cn":"星际币",
+    "name_en":"Marscoin/MRS",
+    "time":"－",
+    "website":[
+        "http://marscoin.org/"
+    ],
+    "whitepaper":"-"
+}

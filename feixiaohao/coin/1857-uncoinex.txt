@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"UNI Coin，简称UNIC，是澳洲U网发行的官方平台数字资产，UNIC基于ERC 2.0进行开发，总量1亿，并且永不增发。1. UNIC将可以作为U网平台交...",
+    "id":1857,
+    "name":"uncoinex",
+    "name_cn":"－",
+    "name_en":"UNICoin/UNIC",
+    "time":"2018-01-05",
+    "website":[
+        "https://www.uncoinex.com"
+    ],
+    "whitepaper":"https://hcnbshop.com/UNIC%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://wavesexplorer.com/tx/3cFGoYfimorAAERf6pB7XS5X49ozH6vJBVcwpq3kQ5d6"
+    ],
+    "description":"",
+    "id":1621,
+    "name":"iou1",
+    "name_cn":"－",
+    "name_en":"IOU1/IOU",
+    "time":"2017-08-09",
+    "website":[
+        "http://iou1.io/"
+    ],
+    "whitepaper":"-"
+}

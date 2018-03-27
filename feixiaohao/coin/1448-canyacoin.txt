@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1d462414fe14cf489c7a21cac78509f4bf8cd7c0",
+        "https://ethplorer.io/address/0x1d462414fe14cf489c7a21cac78509f4bf8cd7c0"
+    ],
+    "description":"CanYa 是一个功能完备的点对点数字服务业平台。平台现由成熟的 iOS 和安卓应用程序构成，新的网页端应用程序正在内测中。 CanYa 旨在打造去中心、去信任...",
+    "id":1448,
+    "name":"canyacoin",
+    "name_cn":"－",
+    "name_en":"CanYa/CAN",
+    "time":"2018-01-08",
+    "website":[
+        "https://canya.io/"
+    ],
+    "whitepaper":"https://canya.io/assets/docs/WhitePaper-CanYa_MN.pdf"
+}

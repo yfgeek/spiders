@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://tagcoin.org/tagexplorer/www/"
+    ],
+    "description":"TAGCoin是一个基于sCrypt算法的山寨币，简称“悬赏币”或“TAG”，翻译为悬赏，是由于TAGCoin是在TAGBOND上流通的一种虚拟货币，用户可以...",
+    "id":926,
+    "name":"tagcoin",
+    "name_cn":"悬赏币",
+    "name_en":"TagCoin/TAG",
+    "time":"2013-10-27",
+    "website":[
+        "http://tagcoin.org/"
+    ],
+    "whitepaper":"-"
+}

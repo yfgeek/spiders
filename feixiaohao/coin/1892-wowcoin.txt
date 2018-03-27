@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1892,
+    "name":"wowcoin",
+    "name_cn":"华币",
+    "name_en":"Wowcoin/WOW",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

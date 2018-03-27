@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://xptx.io/"
+    ],
+    "description":"",
+    "id":766,
+    "name":"platinumbar",
+    "name_cn":"－",
+    "name_en":"PlatinumBAR/XPTX",
+    "time":"－",
+    "website":[
+        "http://platinumbar.io"
+    ],
+    "whitepaper":"-"
+}

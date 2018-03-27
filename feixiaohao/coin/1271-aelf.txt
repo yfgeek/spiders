@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"ælf是一个去中心化云计算区块链网络，具有高性能、资源隔离特性以及更完善的治理和发展结构。在ælf的网络中，节点根据类型进行划分，专业化记账节点（全节点）能够运...",
+    "id":1271,
+    "name":"aelf",
+    "name_cn":"－",
+    "name_en":"ELF/ELF",
+    "time":"2017-12-22",
+    "website":[
+        "http://aelf.io/"
+    ],
+    "whitepaper":"https://grid.hoopox.com/%C3%A6lf_whitepaper_v1.2.pdf"
+}

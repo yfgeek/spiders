@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/RUSTBITS"
+    ],
+    "description":"",
+    "id":850,
+    "name":"rustbits",
+    "name_cn":"－",
+    "name_en":"Rustbits/RUSTBITS",
+    "time":"2017-08-09",
+    "website":[
+        "https://spacepirate.io/"
+    ],
+    "whitepaper":"-"
+}

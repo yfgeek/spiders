@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://45.63.54.41/"
+    ],
+    "description":"StarCash Network是一个分散的全球支付网络，它摆脱了中央银行的控制，STARS是一种点对点的加密货币，可以使支付和交易更轻松。",
+    "id":1159,
+    "name":"starcash-network",
+    "name_cn":"－",
+    "name_en":"StarCash Network/STARS",
+    "time":"2017-11-08",
+    "website":[
+        "http://starcash.co/"
+    ],
+    "whitepaper":"-"
+}

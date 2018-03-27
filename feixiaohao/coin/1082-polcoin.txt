@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.e-waluty.net.pl/PLC/"
+    ],
+    "description":"",
+    "id":1082,
+    "name":"polcoin",
+    "name_cn":"－",
+    "name_en":"PLC/PLC",
+    "time":"－",
+    "website":[
+        "https://polcoin.pl/"
+    ],
+    "whitepaper":"-"
+}

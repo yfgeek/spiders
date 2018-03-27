@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://ex.unrc.eu/"
+    ],
+    "description":"",
+    "id":1861,
+    "name":"universalroyalcoin",
+    "name_cn":"－",
+    "name_en":"UniversalRoya.../UNRC",
+    "time":"2017-07-06",
+    "website":[
+        "https://universalroyalcoin.com/"
+    ],
+    "whitepaper":"-"
+}

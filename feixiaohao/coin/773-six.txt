@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/tokens"
+    ],
+    "description":"SIX是基于ETH的ERC20标准代币，致力于打造一个多元化区块链资产交易所，为用户提供高品质服务！",
+    "id":773,
+    "name":"six",
+    "name_cn":"－",
+    "name_en":"Six/SIX",
+    "time":"－",
+    "website":[
+        "https://yoexs.com"
+    ],
+    "whitepaper":"-"
+}

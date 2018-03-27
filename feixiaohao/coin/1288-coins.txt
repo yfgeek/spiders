@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"COINS是COINW的平台币。2018年1月1日，平台开展交易免费赠送COINS区块链商品，商品细则及详情:一、COINS用途:①、上线交易后可以选择抵扣50...",
+    "id":1288,
+    "name":"coins",
+    "name_cn":"－",
+    "name_en":"Coins/COINS",
+    "time":"2018-01-11",
+    "website":[
+        "https://www.coinw.com/"
+    ],
+    "whitepaper":"-"
+}

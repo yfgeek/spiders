@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"PressOne是一个基于EOS的去中心化内容分发平台，人们可以在这里创建各种各样基于内容的去中心化应用，比如微博、论坛、视频直播等。",
+    "id":1743,
+    "name":"prs",
+    "name_cn":"－",
+    "name_en":"PressOne/PRS",
+    "time":"－",
+    "website":[
+        "http://press.one/cn"
+    ],
+    "whitepaper":"-"
+}

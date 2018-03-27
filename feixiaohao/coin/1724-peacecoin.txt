@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/pec"
+    ],
+    "description":"",
+    "id":1724,
+    "name":"peacecoin",
+    "name_cn":"－",
+    "name_en":"Peacecoin/PEC",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://blockexperts.com/bios"
+    ],
+    "description":"",
+    "id":1189,
+    "name":"bios-crypto",
+    "name_cn":"－",
+    "name_en":"BiosCrypto/BIOS",
+    "time":"－",
+    "website":[
+        "http://bioscrypto.com/"
+    ],
+    "whitepaper":"-"
+}

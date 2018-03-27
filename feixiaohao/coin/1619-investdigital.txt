@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"InvestDigital 是数字货币一站式投资服务平台，连接普通投资者和专业投资者，帮助普通投资者发现专业的资管服务，帮助专业投资者建立并发行自己的数字货币基...",
+    "id":1619,
+    "name":"investdigital",
+    "name_cn":"－",
+    "name_en":"InvestDigital/IDT",
+    "time":"2018-01-16",
+    "website":[
+        "https://investdigital.info/"
+    ],
+    "whitepaper":"https://investdigital.info/public/InvestDigital_Whitepaper_CN.pdf"
+}

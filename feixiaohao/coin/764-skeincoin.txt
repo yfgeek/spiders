@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.skeincoin.org/chain/Skeincoin"
+    ],
+    "description":"发布于2013年11月1日，Skein-SHA2算法，2分钟每块，32个每块，每年减半，共计1700万个。",
+    "id":764,
+    "name":"skeincoin",
+    "name_cn":"线团币",
+    "name_en":"Skeincoin/SKC",
+    "time":"－",
+    "website":[
+        "http://www.skeincoin.org/"
+    ],
+    "whitepaper":"-"
+}

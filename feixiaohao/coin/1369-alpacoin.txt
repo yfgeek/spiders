@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blocktube.net/alpablockchain"
+    ],
+    "description":"Alpacoin 是安全及便捷的使用的数字代币，拥有的 Alpacoin 可通过钱包进行保管及交易。不仅可通过平常使用的移动设备、直接安装在 PC 上、加入网页...",
+    "id":1369,
+    "name":"alpacoin",
+    "name_cn":"艾尔发币",
+    "name_en":"AlpaCoin/APC",
+    "time":"－",
+    "website":[
+        "http://alpacoin.com/"
+    ],
+    "whitepaper":"-"
+}

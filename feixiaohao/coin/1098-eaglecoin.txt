@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x994f0dffdbae0bbf09b652d6f11a493fd33f42b9",
+        "https://ethplorer.io/address/0x994f0dffdbae0bbf09b652d6f11a493fd33f42b9"
+    ],
+    "description":"",
+    "id":1098,
+    "name":"eaglecoin",
+    "name_cn":"－",
+    "name_en":"EagleCoin/EAGLE",
+    "time":"2017-11-17",
+    "website":[
+        "https://eaglepay.io/"
+    ],
+    "whitepaper":"https://eaglepay.io/eagle-whitepaper/"
+}

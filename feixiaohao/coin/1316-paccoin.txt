@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://paccoinexplorer.com/"
+    ],
+    "description":"",
+    "id":1316,
+    "name":"paccoin",
+    "name_cn":"－",
+    "name_en":"Paccoin/PAC",
+    "time":"－",
+    "website":[
+        "http://paccoin.net/"
+    ],
+    "whitepaper":"http://download.paccoin.net/PAC_White_Paper_2018_Final.pdf"
+}

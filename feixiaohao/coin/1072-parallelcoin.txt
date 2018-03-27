@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.parallelcoin.info/"
+    ],
+    "description":"",
+    "id":1072,
+    "name":"parallelcoin",
+    "name_cn":"－",
+    "name_en":"ParallelCoin/DUO",
+    "time":"－",
+    "website":[
+        "http://parallelcoin.info/"
+    ],
+    "whitepaper":"-"
+}

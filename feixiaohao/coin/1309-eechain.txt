@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/address/0x7568b9ece8966ae20e7f5edf90bcd6b77c2a47ca"
+    ],
+    "description":"易能链通过区块链技术，为能源行业提供供应链金融解决方案，并为能源产品的分布式数字化交易提供支付和清算服务。易能链将解决目前传统能源系统向现代能源系统革新过程中所...",
+    "id":1309,
+    "name":"eechain",
+    "name_cn":"易能链",
+    "name_en":"Energy Eco Chain/EET",
+    "time":"2018-01-09",
+    "website":[
+        "http://www.energyecochain.com"
+    ],
+    "whitepaper":"http://www.energyecochain.com/assets/EnergyEcoChain_zh.pdf"
+}

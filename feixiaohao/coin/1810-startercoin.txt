@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1810,
+    "name":"startercoin",
+    "name_cn":"－",
+    "name_en":"STAC/STAC",
+    "time":"2018-03-09",
+    "website":[
+        "http://www.coinstarter.com/"
+    ],
+    "whitepaper":"-"
+}

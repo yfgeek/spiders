@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://occexplorer.com/"
+    ],
+    "description":"Octoin是在加密市场赚钱最多的投资工具的国际平台。 “十字路口领导人”成功实施了将世界资本专业影响力与加密市场联合起来的主要原则。而且，这种团结使我们能够通...",
+    "id":1710,
+    "name":"octoin-coin",
+    "name_cn":"－",
+    "name_en":"Octoin Coin/OCC",
+    "time":"2018-03-13",
+    "website":[
+        "https://octoin.com/"
+    ],
+    "whitepaper":"-"
+}

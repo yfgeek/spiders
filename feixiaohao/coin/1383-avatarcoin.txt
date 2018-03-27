@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1383,
+    "name":"avatarcoin",
+    "name_cn":"－",
+    "name_en":"AvatarCoin/AV",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

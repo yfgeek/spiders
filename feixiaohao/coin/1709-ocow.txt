@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1709,
+    "name":"ocow",
+    "name_cn":"－",
+    "name_en":"OCOW/OCOW",
+    "time":"－",
+    "website":[
+        "http://ocow.ga/"
+    ],
+    "whitepaper":"-"
+}

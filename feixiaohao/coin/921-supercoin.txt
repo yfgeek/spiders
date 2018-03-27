@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/super/"
+    ],
+    "description":"",
+    "id":921,
+    "name":"supercoin",
+    "name_cn":"－",
+    "name_en":"SuperCoin/SUPER",
+    "time":"－",
+    "website":[
+        "https://supercoin.nl/"
+    ],
+    "whitepaper":"-"
+}

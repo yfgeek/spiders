@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/tera"
+    ],
+    "description":"",
+    "id":1827,
+    "name":"teracoin",
+    "name_cn":"－",
+    "name_en":"TeraCoin/TERA",
+    "time":"－",
+    "website":[
+        "http://tera.hosuco.co.kr/"
+    ],
+    "whitepaper":"-"
+}

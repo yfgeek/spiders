@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://shekelchain.com/"
+    ],
+    "description":"",
+    "id":801,
+    "name":"shekel",
+    "name_cn":"－",
+    "name_en":"Shekel/JEW",
+    "time":"2018-02-11",
+    "website":[
+        "https://shekel.io/"
+    ],
+    "whitepaper":"https://shekel.io/ShekelWhitepaper.pdf"
+}

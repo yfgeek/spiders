@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://scorecoin.net:3001/"
+    ],
+    "description":"Scorecoin是非常有前途的替代货币，其主要用途是成为游戏的“游戏内”货币。Scorecoin已经在一些浏览器游戏中使用过，例如Valeria 2的Drag...",
+    "id":860,
+    "name":"scorecoin",
+    "name_cn":"－",
+    "name_en":"Scorecoin/SCORE",
+    "time":"－",
+    "website":[
+        "http://scorecoin.net/"
+    ],
+    "whitepaper":"http://scorecoin.net/executive-summary/"
+}

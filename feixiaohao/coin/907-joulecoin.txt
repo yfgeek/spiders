@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/xjo/"
+    ],
+    "description":"焦耳币(JouleCoin ,XJO)发布于2013年9月22日，sha-256算法，45秒每块，每块16个，每块调整难度，每两年减半，共计4500万。",
+    "id":907,
+    "name":"joulecoin",
+    "name_cn":"焦耳币",
+    "name_en":"Joulecoin/XJO",
+    "time":"－",
+    "website":[
+        "http://www.jouleco.in/"
+    ],
+    "whitepaper":"-"
+}

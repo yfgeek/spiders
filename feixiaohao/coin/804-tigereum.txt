@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xeee2d00eb7deb8dd6924187f5aa3496b7d06e62a",
+        "https://ethplorer.io/address/0xeee2d00eb7deb8dd6924187f5aa3496b7d06e62a"
+    ],
+    "description":"Tigereum将使每个人都可以通过即时消息安全、方便的将小额加密货币发送给朋友和家人。Tigereum将开发一个AI聊天机器人，使加密社区能够通过即时消息发送...",
+    "id":804,
+    "name":"tigereum",
+    "name_cn":"－",
+    "name_en":"Tigereum/TIG",
+    "time":"2018-02-16",
+    "website":[
+        "https://www.tigereum.io/"
+    ],
+    "whitepaper":"-"
+}

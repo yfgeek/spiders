@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.absorb.cn/"
+    ],
+    "description":"ABCoin（YLB）是引力波商业模式的核心组成，形成了引力波生态系统的内生经济模型。根据区块链应用的原理，引力波数字资产管理委员会预收了未来生态系统基础设施的...",
+    "id":1360,
+    "name":"abcoin",
+    "name_cn":"引力波",
+    "name_en":"ABCoin/YLB",
+    "time":"－",
+    "website":[
+        "http://www.absorb.cn/"
+    ],
+    "whitepaper":"-"
+}

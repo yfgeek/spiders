@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/wex/"
+    ],
+    "description":"",
+    "id":1886,
+    "name":"wexcoin",
+    "name_cn":"威克斯金币",
+    "name_en":"Wexcoin/WEX",
+    "time":"－",
+    "website":[
+        "http://wexcoin.org/"
+    ],
+    "whitepaper":"-"
+}

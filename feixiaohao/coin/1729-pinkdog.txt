@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockexp.com:8082/"
+    ],
+    "description":"",
+    "id":1729,
+    "name":"pinkdog",
+    "name_cn":"－",
+    "name_en":"PinkDog/PDG",
+    "time":"－",
+    "website":[
+        "http://www.pinkdog.party/"
+    ],
+    "whitepaper":"-"
+}

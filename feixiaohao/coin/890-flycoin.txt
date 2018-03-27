@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://fly.dnsalias.com/"
+    ],
+    "description":"",
+    "id":890,
+    "name":"flycoin",
+    "name_cn":"－",
+    "name_en":"Flycoin/FLY",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

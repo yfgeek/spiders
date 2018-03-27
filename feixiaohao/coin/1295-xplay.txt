@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x90528aeb3a2b736b780fd1b6c478bb7e1d643170",
+        "https://ethplorer.io/address/0x90528aeb3a2b736b780fd1b6c478bb7e1d643170"
+    ],
+    "description":"XPlay以娱乐音视频(包括并创造性地解决与满足了音视频流媒体的问题和需求)流媒体、成人娱乐社交平台、直播互动平台、聚合媒体等数字信息产品(包括在线线下结合的娱...",
+    "id":1295,
+    "name":"xplay",
+    "name_cn":"－",
+    "name_en":"XPlay/XPA",
+    "time":"2017-09-20",
+    "website":[
+        "https://xplay.fund/"
+    ],
+    "whitepaper":"-"
+}

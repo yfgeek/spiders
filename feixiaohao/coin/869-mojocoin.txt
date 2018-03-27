@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/mojo3/"
+    ],
+    "description":"",
+    "id":869,
+    "name":"mojocoin",
+    "name_cn":"－",
+    "name_en":"MojoCoin/MOJO",
+    "time":"－",
+    "website":[
+        "https://mojocoin.org/"
+    ],
+    "whitepaper":"-"
+}

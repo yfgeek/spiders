@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://htcblockchain.com/"
+    ],
+    "description":"HITCoin是以全球金融市场领先企业和投资者为目标而开发的，旨在引导全球加密货币市场。HITCoin是全球加密虚拟货币外汇市场的领导者，本着以人为本的态度来塑...",
+    "id":798,
+    "name":"hitcoin",
+    "name_cn":"怀特币",
+    "name_en":"HitCoin/HTC",
+    "time":"－",
+    "website":[
+        "http://hitcoininfo.com/"
+    ],
+    "whitepaper":"-"
+}

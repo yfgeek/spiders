@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Etherecash通过使用智能合约技术来提供法律支持，提高透明度、安全性和可靠性，以实现由加密支持的点对点贷款。Etherecash的目标是彻底改变金融的三大...",
+    "id":1531,
+    "name":"etherecash",
+    "name_cn":"－",
+    "name_en":"Etherecash/ECH",
+    "time":"2018-02-18",
+    "website":[
+        "http://etherecash.io/"
+    ],
+    "whitepaper":"https://etherecash.io/whitepaper/White%20Paper%20V2.0.pdf"
+}

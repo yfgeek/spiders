@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainradar.com/fcn/blocks"
+    ],
+    "description":"",
+    "id":800,
+    "name":"fantomcoin",
+    "name_cn":"－",
+    "name_en":"Fantomcoin/FCN",
+    "time":"－",
+    "website":[
+        "http://fantomcoin.org/"
+    ],
+    "whitepaper":"-"
+}

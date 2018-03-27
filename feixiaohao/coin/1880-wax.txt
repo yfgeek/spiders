@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"一、项目名称 WAX二、项目定位去中心化的全球虚拟资产交易所（面向网络游戏虚拟财产交易的通用去中心化平台）三、项目简评提供软件包+小程序，构建类似淘宝有小商家的...",
+    "id":1880,
+    "name":"wax",
+    "name_cn":"－",
+    "name_en":"WAX/WAX",
+    "time":"2017-12-22",
+    "website":[
+        "https://wax.io"
+    ],
+    "whitepaper":"https://wax.io/wp/WAX_White_Paper_zh.pdf"
+}

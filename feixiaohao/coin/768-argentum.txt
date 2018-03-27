@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/arg/"
+    ],
+    "description":"银特币(Argentum,ARG)采用与LTC相同的scrypt算法。出块时间32秒，每块随机产生1~5个币，每250块调整一次难度，总共6400万个，但是在总...",
+    "id":768,
+    "name":"argentum",
+    "name_cn":"银特币",
+    "name_en":"Argentum/ARG",
+    "time":"－",
+    "website":[
+        "http://www.argentum.io/"
+    ],
+    "whitepaper":"-"
+}

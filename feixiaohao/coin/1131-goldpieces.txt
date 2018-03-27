@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/gp/",
+        "http://cryptobe.com/chain/GoldPieces"
+    ],
+    "description":"",
+    "id":1131,
+    "name":"goldpieces",
+    "name_cn":"－",
+    "name_en":"GoldPieces/GP",
+    "time":"－",
+    "website":[
+        "http://goldpieces.net/"
+    ],
+    "whitepaper":"-"
+}

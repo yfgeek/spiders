@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.apcoin.co/"
+    ],
+    "description":"苹果币(Applecoin,APC)采用Scrypt算法，核心算法scrypt-jane，出块时间2分钟，每块最多包含100个币，交易确认6次，货币总量共计50...",
+    "id":1377,
+    "name":"applecoin-apw",
+    "name_cn":"苹果币",
+    "name_en":"AppleCoin/APC",
+    "time":"2017-08-13",
+    "website":[
+        "http://apcoin.co/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockexp.com:3004/"
+    ],
+    "description":"",
+    "id":1217,
+    "name":"credence-coin",
+    "name_cn":"－",
+    "name_en":"Credence Coin/CRDNC",
+    "time":"2017-11-07",
+    "website":[
+        "http://www.credencecoin.co/"
+    ],
+    "whitepaper":"-"
+}

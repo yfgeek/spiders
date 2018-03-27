@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"婚链是什么？是一个基于区块链技术，在以太坊 ERC20 的标准上，婚链进行了底层技术的升级与改造，在实现“轻量级、低成本、安全可靠、易扩展”的基础上，创建一个去...",
+    "id":1344,
+    "name":"marrychain",
+    "name_cn":"婚链",
+    "name_en":"MarryChain/MAC",
+    "time":"2017-12-24",
+    "website":[
+        "http://marrychain.org/"
+    ],
+    "whitepaper":"https://marrychain.org/public/Home/pdf/baipishu.pdf"
+}

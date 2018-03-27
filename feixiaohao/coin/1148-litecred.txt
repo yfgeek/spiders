@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://104.238.173.4:3331"
+    ],
+    "description":"",
+    "id":1148,
+    "name":"litecred",
+    "name_cn":"－",
+    "name_en":"Litecred/LTCR",
+    "time":"－",
+    "website":[
+        "http://litecred.com/"
+    ],
+    "whitepaper":"-"
+}

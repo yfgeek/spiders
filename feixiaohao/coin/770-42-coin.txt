@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/42/",
+        "https://prohashing.com/explorer/42/"
+    ],
+    "description":"42coin是2014年1月5日发布的一款数字货币，和ltc一样，基于scrypt算法！gpu挖矿，也就是所谓的显卡挖矿！42coin总量为42个！",
+    "id":770,
+    "name":"42-coin",
+    "name_cn":"42个币",
+    "name_en":"42-coin/42",
+    "time":"－",
+    "website":[
+        "http://42-coin.org/"
+    ],
+    "whitepaper":"-"
+}

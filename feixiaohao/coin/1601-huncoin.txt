@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://huncoin.explorer.web.za/"
+    ],
+    "description":"",
+    "id":1601,
+    "name":"huncoin",
+    "name_cn":"火牛币",
+    "name_en":"Huncoin/HNC",
+    "time":"2017-06-25",
+    "website":[
+        "http://huncoin.org/"
+    ],
+    "whitepaper":"-"
+}

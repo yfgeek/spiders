@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.centurionexplorer.com/"
+    ],
+    "description":"",
+    "id":839,
+    "name":"centurion",
+    "name_cn":"－",
+    "name_en":"Centurion/CNT",
+    "time":"－",
+    "website":[
+        "http://www.centurionlab.org/"
+    ],
+    "whitepaper":"-"
+}

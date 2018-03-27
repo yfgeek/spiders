@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://5.196.67.100:6001/"
+    ],
+    "description":"",
+    "id":1676,
+    "name":"mmxvi",
+    "name_cn":"－",
+    "name_en":"MMXVI/MMXVI",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

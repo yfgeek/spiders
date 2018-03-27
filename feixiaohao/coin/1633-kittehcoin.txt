@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1633,
+    "name":"kittehcoin",
+    "name_cn":"喵币",
+    "name_en":"Kittehcoin/MEOW",
+    "time":"－",
+    "website":[
+        "https://kittehcoin.info/"
+    ],
+    "whitepaper":"-"
+}

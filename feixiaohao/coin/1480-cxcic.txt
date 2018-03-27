@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"创新链是基于莱特币与比特币3.0技术之上打造出来的一款全新的点对点的分布式网络货币系统，它可以在一瞬间，以低昂手续费的方式向全球任意的角落付款。 创新链是一个开...",
+    "id":1480,
+    "name":"cxcic",
+    "name_cn":"创新链",
+    "name_en":"Innovation Chain/INC",
+    "time":"－",
+    "website":[
+        "http://www.cxcic.top/index.html"
+    ],
+    "whitepaper":"http://www.cxcic.top/uploads/20171220/b878c815567a64f41470fd8b34dc4967.pdf"
+}

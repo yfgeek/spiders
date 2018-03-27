@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://utc.presstab.pw/"
+    ],
+    "description":"激进币(Ultracoin,UTC)发布于2014年1月13日，Scrypt算法，30秒每块，50个每块，共计1亿个，5个交易确认。预挖2%",
+    "id":904,
+    "name":"ultracoin",
+    "name_cn":"激进币",
+    "name_en":"UltraCoin/UTC",
+    "time":"－",
+    "website":[
+        "http://ultracoin.io/"
+    ],
+    "whitepaper":"-"
+}

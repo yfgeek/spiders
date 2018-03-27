@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/mbl"
+    ],
+    "description":"",
+    "id":1677,
+    "name":"mobilecash",
+    "name_cn":"－",
+    "name_en":"MobileCash/MBL",
+    "time":"－",
+    "website":[
+        "http://www.mbl.cash/"
+    ],
+    "whitepaper":"-"
+}

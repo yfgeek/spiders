@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://78.109.28.154:3001/"
+    ],
+    "description":"",
+    "id":957,
+    "name":"phantomx",
+    "name_cn":"－",
+    "name_en":"Phantomx/PNX",
+    "time":"2017-11-21",
+    "website":[
+        "https://phantomx.co/"
+    ],
+    "whitepaper":"-"
+}

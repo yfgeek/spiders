@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Alphacat是世界上第一个专注于加密货币的机器人顾问市场。· 也是世界上第一个平台为用户提供各种人工智能交易机器人 提供投资顾问服务· Alphacat的目...",
+    "id":1371,
+    "name":"alphacat",
+    "name_cn":"－",
+    "name_en":"Alphacat/ACAT",
+    "time":"2018-02-16",
+    "website":[
+        "https://www.alphacat.io/"
+    ],
+    "whitepaper":"http://alphacat.io/A_UpLoad/upload_file/20180104/20180104184135_2968.pdf"
+}

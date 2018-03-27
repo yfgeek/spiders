@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"如今，用户免费使用互联网科技公司所开发的产品及服务，但在背后用户其实需要妥协自己的各类数据作为交换。量数币是一个去中心化的大数据价值经济。作为用户、数据使用者、...",
+    "id":1663,
+    "name":"mdt",
+    "name_cn":"量数币",
+    "name_en":"Measurable Data/MDT",
+    "time":"2018-01-03",
+    "website":[
+        "https://www.mdt.co/"
+    ],
+    "whitepaper":"https://www.mdt.co/cn/docs/whitepaper.pdf"
+}

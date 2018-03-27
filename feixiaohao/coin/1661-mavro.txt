@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockchain.mavro.org/"
+    ],
+    "description":"",
+    "id":1661,
+    "name":"mavro",
+    "name_cn":"－",
+    "name_en":"Mavro/MAVRO",
+    "time":"－",
+    "website":[
+        "http://mavro.org/"
+    ],
+    "whitepaper":"https://mavro.org/pdf/MAVRO_Whitepaper.pdf"
+}

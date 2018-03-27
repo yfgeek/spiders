@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://token.im/"
+    ],
+    "description":"Triple chain是在国家“一带一路”背景下，为构建顶层的商业价值体系而诞生的共享联盟生态链，利用公司研发的三大核心技术、三大场景应用，广泛应用于全球联盟...",
+    "id":1848,
+    "name":"triplechain",
+    "name_cn":"三宝链",
+    "name_en":"Triple Chain/TBC",
+    "time":"2017-08-15",
+    "website":[
+        "http://btc399.com/index.html"
+    ],
+    "whitepaper":"http://btc399.com/static/book/3baolianbook.pdf"
+}

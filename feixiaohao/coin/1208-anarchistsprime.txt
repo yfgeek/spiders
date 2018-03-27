@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://acp1.servep2p.com:3001/"
+    ],
+    "description":"AnarchistsPrime致力于长期增长的创新互联网货币，它支持点对点支付，用于在社区内进行买卖交易和奖励。它安全可靠，几乎不收费，可以在全球范围内使用。在...",
+    "id":1208,
+    "name":"anarchistsprime",
+    "name_cn":"－",
+    "name_en":"AnarchistsPrime/ACP",
+    "time":"－",
+    "website":[
+        "http://www.anarchistsprime.info/"
+    ],
+    "whitepaper":"-"
+}

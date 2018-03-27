@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://fickschnitzel.pw:2001/"
+    ],
+    "description":"",
+    "id":1168,
+    "name":"ponzicoin",
+    "name_cn":"－",
+    "name_en":"PonziCoin/PONZI",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

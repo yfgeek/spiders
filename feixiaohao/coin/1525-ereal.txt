@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x15f173b7aca7cd4a01d6f8360e65fb4491d270c1",
+        "https://ethplorer.io/address/0x15f173b7aca7cd4a01d6f8360e65fb4491d270c1"
+    ],
+    "description":"",
+    "id":1525,
+    "name":"ereal",
+    "name_cn":"－",
+    "name_en":"eREAL/EREAL",
+    "time":"2017-10-28",
+    "website":[
+        "https://ereal.cash/"
+    ],
+    "whitepaper":"-"
+}

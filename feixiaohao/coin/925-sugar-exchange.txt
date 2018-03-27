@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xCB5A05beF3257613E984C17DbcF039952B6d883F",
+        "https://ethplorer.io/address/0xCB5A05beF3257613E984C17DbcF039952B6d883F"
+    ],
+    "description":"Sugar Exchange是一种新型的加密货币交易平台，采用成熟的方法，并实施先进的技术，以确保卓越的用户体验。SGR的设计具有安全性、可用性和创新性。",
+    "id":925,
+    "name":"sugar-exchange",
+    "name_cn":"－",
+    "name_en":"Sugar Exchange/SGR",
+    "time":"2017-11-20",
+    "website":[
+        "http://sugarexchange.io/"
+    ],
+    "whitepaper":"http://sugarexchange.io/wp-content/uploads/2017/12/sugar-exchange-white-paper.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.levoplus.com/"
+    ],
+    "description":"",
+    "id":1250,
+    "name":"levoplus",
+    "name_cn":"－",
+    "name_en":"LevoPlus/LVPS",
+    "time":"－",
+    "website":[
+        "http://levoplus.com/"
+    ],
+    "whitepaper":"-"
+}

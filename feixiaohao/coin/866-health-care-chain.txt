@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.hcc.top/"
+    ],
+    "description":"利用区块链的分布式节点共识算法、密码学方法、智能合约引擎，结合医院现有的业务和技术，解决医疗过程中数据传输和访问的安全，为医院提供数据传输过程中的技术解决方案。",
+    "id":866,
+    "name":"health-care-chain",
+    "name_cn":"医疗链",
+    "name_en":"Health Care Chain/HCC",
+    "time":"2017-08-17",
+    "website":[
+        "https://www.hcc.top/"
+    ],
+    "whitepaper":"-"
+}

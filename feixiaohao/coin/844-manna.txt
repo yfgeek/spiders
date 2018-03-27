@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/manna/"
+    ],
+    "description":"",
+    "id":844,
+    "name":"manna",
+    "name_cn":"－",
+    "name_en":"MANNA/MANNA",
+    "time":"－",
+    "website":[
+        "https://www.mannabase.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/pxi/"
+    ],
+    "description":"",
+    "id":1039,
+    "name":"prime-xi",
+    "name_cn":"－",
+    "name_en":"Prime-XI/PXI",
+    "time":"－",
+    "website":[
+        "http://prime-xi.com"
+    ],
+    "whitepaper":"-"
+}

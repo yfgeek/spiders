@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://dgc.blockr.io",
+        "https://chainz.cryptoid.info/dgc/"
+    ],
+    "description":"数码币(Digitalcoin,DGC)去中心化的p2p数字加密货币，采用GPU挖矿的Scrypt算法，出块时间20秒，每块包含15个币，40秒钟快速确认，5个...",
+    "id":845,
+    "name":"digitalcoin",
+    "name_cn":"数码币",
+    "name_en":"Digitalcoin/DGC",
+    "time":"－",
+    "website":[
+        "http://digitalcoin.co"
+    ],
+    "whitepaper":"-"
+}

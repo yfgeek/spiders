@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/qtl/"
+    ],
+    "description":"",
+    "id":1086,
+    "name":"quatloo",
+    "name_cn":"－",
+    "name_en":"Quatloo/QTL",
+    "time":"－",
+    "website":[
+        "http://quatloos.org"
+    ],
+    "whitepaper":"-"
+}

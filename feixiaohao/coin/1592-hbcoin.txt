@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockchain.hbcoin.net"
+    ],
+    "description":"HBCoin也被称为“红包币”(喜庆可爱的数字资产)，是由数字货币爱好者共同发起并研发运营的一款数字货币，是基于Scrypt算法的第四代数字货币。红包币采用PO...",
+    "id":1592,
+    "name":"hbcoin",
+    "name_cn":"红包币",
+    "name_en":"HBCoin/HBC",
+    "time":"2017-08-05",
+    "website":[
+        "http://www.hbcoin.net/"
+    ],
+    "whitepaper":"-"
+}

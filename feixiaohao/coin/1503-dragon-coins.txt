@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x814f67fa286f7572b041d041b1d99b432c9155ee",
+        "http://ethplorer.io/address/0x814f67fa286f7572b041d041b1d99b432c9155ee"
+    ],
+    "description":"Dragon Coins具有高兼容性、低成本和高透明度的特征，是博彩业作业的不二之选，能够促进历史悠久的博彩业的进一步发展。凭借区块链技术的专业性，Dragon...",
+    "id":1503,
+    "name":"dragon-coins",
+    "name_cn":"－",
+    "name_en":"Dragon Coins/DRG",
+    "time":"2018-03-20",
+    "website":[
+        "https://drgtoken.io/"
+    ],
+    "whitepaper":"https://drgtoken.io/download/Dragon-Whitepaper-Chinese.pdf"
+}

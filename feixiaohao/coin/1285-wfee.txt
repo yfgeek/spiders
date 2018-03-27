@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"WFee是世界首个基于区块链技术，针对全球设计的WiFi共享生态系统。基于区块链的智能合约，解决WiFi共享行为中的安全、信任、分享意愿度和隐私等问题。通过WF...",
+    "id":1285,
+    "name":"wfee",
+    "name_cn":"－",
+    "name_en":"WFee/WFEE",
+    "time":"2018-03-06",
+    "website":[
+        "http://www.wfee.info"
+    ],
+    "whitepaper":"http://www.wfee.info/WFee_zh-CN.pdf"
+}

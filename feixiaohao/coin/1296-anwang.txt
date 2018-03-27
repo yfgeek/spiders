@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"安网3（SAFE）是以安付（即时支持、安全支付）、安资（资产管理与发行）、安聊（安全聊天）、安投（安全投票）为四大应用场景的区块链底层技术平台。安网3的目标是成...",
+    "id":1296,
+    "name":"anwang",
+    "name_cn":"安网币",
+    "name_en":"SAFE/SAFE",
+    "time":"2018-01-08",
+    "website":[
+        "http://anwang.com"
+    ],
+    "whitepaper":"-"
+}

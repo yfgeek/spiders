@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"DEW代币是支付平台的佣金，在DEW平台上交易时必须消耗的DEW代币，类似币安的BNB代币，但是不同的是，平台是以DEW代币的形式收取手续费收入，并且将直接销毁...",
+    "id":1495,
+    "name":"dew",
+    "name_cn":"－",
+    "name_en":"DEW/DEW",
+    "time":"2017-12-23",
+    "website":[
+        "https://www.dew.one"
+    ],
+    "whitepaper":"-"
+}

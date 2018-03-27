@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/BCAP"
+    ],
+    "description":"Blockchain Capital是投资区块链技术公司的一流风险投资公司。Blockchain Capital的首个基金是于2013年推出的第一个致力于比特...",
+    "id":1394,
+    "name":"bcap",
+    "name_cn":"－",
+    "name_en":"BCAP/BCAP",
+    "time":"2017-04-03",
+    "website":[
+        "http://blockchain.capital/",
+        "https://blockchainloop.com/"
+    ],
+    "whitepaper":"-"
+}

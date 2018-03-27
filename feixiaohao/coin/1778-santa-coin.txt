@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"白皮书地址：https://santacoin.co/whitepaper.pdf",
+    "id":1778,
+    "name":"santa-coin",
+    "name_cn":"－",
+    "name_en":"Santa Coin/STC",
+    "time":"2017-12-07",
+    "website":[
+        "https://santacoin.co/"
+    ],
+    "whitepaper":"-"
+}

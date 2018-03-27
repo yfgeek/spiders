@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"初链（TrueChain）是全球最早的混合共识公链，实现了Permissionless PBFT协议，将PBFT和POW共识结合在一起。初链解决了区块链领域最重...",
+    "id":1337,
+    "name":"truechain",
+    "name_cn":"初链",
+    "name_en":"TrueChain/TRUE",
+    "time":"2018-01-16",
+    "website":[
+        "http://www.truechain.pro"
+    ],
+    "whitepaper":"http://www.truechain.pro.cdn687.hnpet.net:8081/Truechain.pdf"
+}

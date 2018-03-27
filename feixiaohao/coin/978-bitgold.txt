@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/a/GOLD"
+    ],
+    "description":"",
+    "id":978,
+    "name":"bitgold",
+    "name_cn":"比特金",
+    "name_en":"bitGold/BITGOLD",
+    "time":"－",
+    "website":[
+        "http://bit.ly/BitShares_GOLD"
+    ],
+    "whitepaper":"-"
+}

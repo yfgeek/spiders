@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://94.176.236.84:3001/"
+    ],
+    "description":"",
+    "id":1247,
+    "name":"concoin",
+    "name_cn":"－",
+    "name_en":"Concoin/CONX",
+    "time":"－",
+    "website":[
+        "http://www.concoin.com/"
+    ],
+    "whitepaper":"-"
+}

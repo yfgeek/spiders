@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/"
+    ],
+    "description":"ITSChain（智慧交通链）是 ITSChain Foundation（智慧交通链基金会）团队打造的基于区块链的智慧停车场应用系统。基于区块链溯源清晰、权益明...",
+    "id":1623,
+    "name":"its",
+    "name_cn":"智慧交通链",
+    "name_en":"ITSchain/ITS",
+    "time":"2017-09-01",
+    "website":[
+        "http://www.itschain.cn/"
+    ],
+    "whitepaper":"-"
+}

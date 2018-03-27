@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"时代币(TimesCoin，简称TMC)是比特时代(BTC38.com)推出的虚拟计算单位，初期免费赠送给所有用户，总数为1600万个。每1个时代币等同于1个分...",
+    "id":1836,
+    "name":"timescoin",
+    "name_cn":"时代币",
+    "name_en":"TimesCoin/TMC",
+    "time":"2018-01-23",
+    "website":[
+        "https://www.aex.com"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[],
+    "description":"AWARE 是基于量子链开发的全球首家去中心化代币投资管理平台（TIC），引领代币投资2.0浪潮。平台深度连接投资人和创业者，由三大服务板块 TIP、TIS、I...",
+    "id":1385,
+    "name":"aware",
+    "name_cn":"－",
+    "name_en":"AWARE/AWR",
+    "time":"2018-01-14",
+    "website":[
+        "http://www.aware.bi/",
+        "https://www.aware.bi/"
+    ],
+    "whitepaper":"https://www.aware.bi/pdf/AWARE_whitepaper_EN_3.8.2.pdf"
+}

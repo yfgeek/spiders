@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x58a4884182d9e835597f405e5f258290e46ae7c2",
+        "https://ethplorer.io/address/0x58a4884182d9e835597f405e5f258290e46ae7c2"
+    ],
+    "description":"",
+    "id":1705,
+    "name":"noah-coin",
+    "name_cn":"－",
+    "name_en":"Noah Coin/NOAH",
+    "time":"2018-03-22",
+    "website":[
+        "https://noahcoin.org/"
+    ],
+    "whitepaper":"https://noahcoin.org/wp-content/uploads/2018/02/NOAH-Whitepaper-Chinese.pdf"
+}

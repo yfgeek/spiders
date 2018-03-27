@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.zsecoin.com/"
+    ],
+    "description":"",
+    "id":1915,
+    "name":"zsecoin",
+    "name_cn":"黄金链",
+    "name_en":"ZSEcoin/ZSE",
+    "time":"－",
+    "website":[
+        "https://zsecoin.com/"
+    ],
+    "whitepaper":"-"
+}

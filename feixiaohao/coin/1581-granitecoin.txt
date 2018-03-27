@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1581,
+    "name":"granitecoin",
+    "name_cn":"－",
+    "name_en":"Granite/GRN",
+    "time":"－",
+    "website":[
+        "http://www.granitecoin.com/"
+    ],
+    "whitepaper":"-"
+}

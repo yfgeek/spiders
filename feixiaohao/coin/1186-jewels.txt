@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/jwl/"
+    ],
+    "description":"",
+    "id":1186,
+    "name":"jewels",
+    "name_cn":"－",
+    "name_en":"Jewels/JWL",
+    "time":"－",
+    "website":[
+        "http://jewelsproject.com/"
+    ],
+    "whitepaper":"-"
+}

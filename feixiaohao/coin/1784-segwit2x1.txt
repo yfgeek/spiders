@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"在比特币segwit激活以后，由于开发社区仍然存在争议，有开发团队希望维持比特币主链的1M区块，通过闪电网络等技术来实施比特币扩容；也有一部分开发团队坚持需要扩...",
+    "id":1784,
+    "name":"segwit2x1",
+    "name_cn":"－",
+    "name_en":"segwit2x（原区块链上的币）/BT1",
+    "time":"2017-10-20",
+    "website":[],
+    "whitepaper":"-"
+}

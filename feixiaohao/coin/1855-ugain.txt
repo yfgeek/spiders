@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://ugain.silverdice.us:3002/"
+    ],
+    "description":"",
+    "id":1855,
+    "name":"ugain",
+    "name_cn":"－",
+    "name_en":"UGAIN/GAIN",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

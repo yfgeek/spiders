@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://spk.explorerz.top:3019/"
+    ],
+    "description":"",
+    "id":1805,
+    "name":"sparks",
+    "name_cn":"－",
+    "name_en":"Sparks/SPK",
+    "time":"2018-01-23",
+    "website":[
+        "https://sparks.gold/"
+    ],
+    "whitepaper":"-"
+}

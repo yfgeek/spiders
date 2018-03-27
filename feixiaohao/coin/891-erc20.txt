@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x26d5bd2dfeda983ecd6c39899e69dae6431dffbb",
+        "https://ethplorer.io/address/0x26d5bd2dfeda983ecd6c39899e69dae6431dffbb"
+    ],
+    "description":"ERC20指数是一个代币化的加密货币指数，追踪和投资20个顶级代币，每周重新分配一次，每周以 ETH的形式分红至前20名持有者的钱包，并完成ERC20指数的广告...",
+    "id":891,
+    "name":"erc20",
+    "name_cn":"－",
+    "name_en":"ERC20/ERC20",
+    "time":"2017-11-10",
+    "website":[
+        "http://erc20.space/"
+    ],
+    "whitepaper":"https://index-erc20.io/#whitepaper"
+}

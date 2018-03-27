@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"WOWecoin是一种电子加密货币。1级加密过程于2015年3月1日完成，确保了用户的交易安全并防止被盗或复制的风险！加密后，WOWecoins的锁定流通量为3...",
+    "id":1893,
+    "name":"wowecoin",
+    "name_cn":"－",
+    "name_en":"Wowecoin/WEC",
+    "time":"－",
+    "website":[
+        "http://www.wowdigit.com/"
+    ],
+    "whitepaper":"-"
+}

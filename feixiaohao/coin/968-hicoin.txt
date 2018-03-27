@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.xhicoin.com/"
+    ],
+    "description":"韩国Hi币 Hi Coin ，是一种新型的数字加密货币，已经公布开源代码的，登录了俄罗斯国际交易大盘，起源于韩国， 韩国Hi世界公司系国际互联网企业，曾从事通讯...",
+    "id":968,
+    "name":"hicoin",
+    "name_cn":"嗨币",
+    "name_en":"HiCoin/XHI",
+    "time":"－",
+    "website":[
+        "http://xhicoin.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptoguru.tk/CurrencyInfo/index.php?Currency=NET"
+    ],
+    "description":"网络币(Netcoin)诞生于2013年9月16日，基于Scrypt算法。是一种基于“点对点”(peer-to-peer)技术的网络货币，它可以帮助用户即时付款...",
+    "id":767,
+    "name":"netcoin",
+    "name_cn":"网络币",
+    "name_en":"NetCoin/NET",
+    "time":"－",
+    "website":[
+        "http://netcoin.io"
+    ],
+    "whitepaper":"-"
+}

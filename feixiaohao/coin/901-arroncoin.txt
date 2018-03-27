@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.fiyea.com/arc/"
+    ],
+    "description":"艾伦币基于比特币和区块链技术，采取认购的发行方式，支持分布式记账维护和中心发售，是第一个数字货币与数字资产、数字金融结合的创新实验项目，除了拥有比特币的特点外，...",
+    "id":901,
+    "name":"arroncoin",
+    "name_cn":"艾伦币",
+    "name_en":"ArronCoin/ARC",
+    "time":"2016-08-15",
+    "website":[
+        "http://www.ailuncoin.com/"
+    ],
+    "whitepaper":"-"
+}

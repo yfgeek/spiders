@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://128.199.67.204:4444/status"
+    ],
+    "description":"",
+    "id":1438,
+    "name":"btcgold",
+    "name_cn":"－",
+    "name_en":"BTCGold/XBG",
+    "time":"－",
+    "website":[
+        "http://btcgold.biz/"
+    ],
+    "whitepaper":"-"
+}

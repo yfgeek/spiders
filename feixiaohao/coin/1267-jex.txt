@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xff98a08c143311719ca492e4b8c950c940f26872"
+    ],
+    "description":"JEX代币是由JEX平台发行的代币。JEX是基于以太坊区块链ERC 20标准代币。总量恒定为20亿，永不增发。代币可用于抵扣手续费，回购权，品种发行权，优先认购...",
+    "id":1267,
+    "name":"jex",
+    "name_cn":"－",
+    "name_en":"JEX Token/JEX",
+    "time":"2018-01-01",
+    "website":[
+        "https://www.jex.com/"
+    ],
+    "whitepaper":"-"
+}

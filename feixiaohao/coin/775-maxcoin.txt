@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://explorer.maxcoinproject.net",
+        "https://explorer2.maxcoinproject.net"
+    ],
+    "description":"最大币(MaxCoin，音译：麦克斯币)采用独特的 Keccak (SHA-3) 算法。开发团队采用预告，公开透明的方式发行此币种，最大限度的保证公平挖矿。3...",
+    "id":775,
+    "name":"maxcoin",
+    "name_cn":"最大币",
+    "name_en":"MaxCoin/MAX",
+    "time":"2014-02-06",
+    "website":[
+        "https://www.maxcoin.co.uk/"
+    ],
+    "whitepaper":"-"
+}

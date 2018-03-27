@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/1cr/",
+        "https://prohashing.com/explorer/1CRedit/"
+    ],
+    "description":"",
+    "id":1357,
+    "name":"1credit",
+    "name_cn":"－",
+    "name_en":"1CRedit/1CR",
+    "time":"－",
+    "website":[
+        "http://www.1-credit.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1557,
+    "name":"fonziecoin",
+    "name_cn":"－",
+    "name_en":"Fonziecoin/FONZ",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

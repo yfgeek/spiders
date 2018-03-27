@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://info.sanchain.org/"
+    ],
+    "description":"SanChain旨在构建全新的区块链生态系统，成为互联网价值的一部分，实现高性能数字资产交易，并与行业有机结合。SAN生态系统使用SAN作为燃料，通过底层技术架...",
+    "id":1776,
+    "name":"sanchain",
+    "name_cn":"－",
+    "name_en":"SanChain/SANC",
+    "time":"2016-10-15",
+    "website":[
+        "https://www.sanchain.org"
+    ],
+    "whitepaper":"-"
+}

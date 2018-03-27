@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.btn.org"
+    ],
+    "description":"比新链(BitNew Chain)是首个支持软硬扩展的去中心化商业级应用（DAPP）开发平台，目前采用PoS挖矿，本已支持智能合约技术，后续将通过标准化物理主节...",
+    "id":1339,
+    "name":"bitcoinnew",
+    "name_cn":"比新链",
+    "name_en":"BitNew Chain/BTN",
+    "time":"2018-01-11",
+    "website":[
+        "http://www.btn.org/"
+    ],
+    "whitepaper":"http://www.btn.org/download/BTN-Tec-white_paper_finalV1.1.pdf"
+}

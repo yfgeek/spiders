@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"快速比特币简称FBTC，已于比特币（BTC）区块高度501225（香港时间2017年12月27日14:55:44）分叉成功。天下武功，唯快不破。唯有效率问题解决...",
+    "id":1546,
+    "name":"fbtc",
+    "name_cn":"快速比特币",
+    "name_en":"FBTC/FBTC",
+    "time":"2017-12-27",
+    "website":[
+        "https://fbtc.pro/"
+    ],
+    "whitepaper":"https://fbtc.pro/images/fbtc.pdf"
+}

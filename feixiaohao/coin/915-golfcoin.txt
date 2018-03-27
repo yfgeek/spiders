@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/golf/"
+    ],
+    "description":"",
+    "id":915,
+    "name":"golfcoin",
+    "name_cn":"－",
+    "name_en":"Golfcoin/GOLF",
+    "time":"－",
+    "website":[
+        "https://golfcoin.biz/"
+    ],
+    "whitepaper":"-"
+}

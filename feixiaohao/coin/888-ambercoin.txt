@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://altcoinguys.blockexperts.com/amber"
+    ],
+    "description":"",
+    "id":888,
+    "name":"ambercoin",
+    "name_cn":"－",
+    "name_en":"AmberCoin/AMBER",
+    "time":"－",
+    "website":[
+        "http://ambercoin.info"
+    ],
+    "whitepaper":"-"
+}

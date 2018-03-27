@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://91.121.108.101:3001/",
+        "http://5.196.89.126:8080/"
+    ],
+    "description":"",
+    "id":1057,
+    "name":"gameunits",
+    "name_cn":"－",
+    "name_en":"GameUnits/UNITS",
+    "time":"－",
+    "website":[
+        "http://gameunits.org/"
+    ],
+    "whitepaper":"-"
+}

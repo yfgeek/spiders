@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/XDE2/"
+    ],
+    "description":"",
+    "id":1898,
+    "name":"xde-ii",
+    "name_cn":"－",
+    "name_en":"XDE II/XDE2",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

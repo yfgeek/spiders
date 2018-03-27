@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://block.ulatech.com/",
+        "https://www.blockexperts.com/ula"
+    ],
+    "description":"",
+    "id":1242,
+    "name":"ulatech",
+    "name_cn":"－",
+    "name_en":"Ulatech/ULA",
+    "time":"2017-08-28",
+    "website":[
+        "https://ulatech.com/"
+    ],
+    "whitepaper":"-"
+}

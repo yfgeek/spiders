@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/bro/"
+    ],
+    "description":"",
+    "id":832,
+    "name":"bitradio",
+    "name_cn":"－",
+    "name_en":"Bitradio/BRO",
+    "time":"2017-06-26",
+    "website":[
+        "http://www.bitrad.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Kcash是一款打通数字货币和实体世界的钱包应用，通过解决用户管理多种数字货币的不便和兑换交易过程繁杂、安全性等问题，使用户支付更加方便、安全、经济，为数字货币...",
+    "id":1291,
+    "name":"kcash",
+    "name_cn":"－",
+    "name_en":"KCASH/KCASH",
+    "time":"2018-01-12",
+    "website":[
+        "https://www.kcash.com/"
+    ],
+    "whitepaper":"https://www.kcash.com/doc/KcashWhitePaper.pdf"
+}

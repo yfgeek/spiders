@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4270bb238f6dd8b1c3ca01f96ca65b2647c06d3c",
+        "https://ethplorer.io/address/0x4270bb238f6dd8b1c3ca01f96ca65b2647c06d3c"
+    ],
+    "description":"Fortuna 是一个分布式风险对冲区块链平台，也是掌握区块链底层开发技术、 拥有丰富金融市场管理与实务经验的“风险对冲+区块链”的实施和推广平台。 Fortu...",
+    "id":1558,
+    "name":"fota",
+    "name_cn":"－",
+    "name_en":"Fortuna/FOTA",
+    "time":"2018-01-25",
+    "website":[
+        "https://www.fota.top/"
+    ],
+    "whitepaper":"https://fortuna-public.s3.amazonaws.com/Fortuna%20Whitepaper%20CN.pdf"
+}

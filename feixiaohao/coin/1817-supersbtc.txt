@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"历时3年的比特币扩容之争严重阻滞了比特币的发展进程，与此同时，更是遭遇以太坊，Zcash等创新币种的强势围攻，丧失了巨量的市场份额。扼腕叹息之余，遂开始集聚社区...",
+    "id":1817,
+    "name":"supersbtc",
+    "name_cn":"超级比特币",
+    "name_en":"Super Bitcoin/SBTC",
+    "time":"2017-12-05",
+    "website":[
+        "http://www.supersmartbitcoin.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"GSC (Global Social Chain，全球社交链)是全球首个基于数亿社交用户的新一代社交链，立志于使用区块链技术颠覆Facebook、Line、微信...",
+    "id":1265,
+    "name":"gsc",
+    "name_cn":"全球社交链",
+    "name_en":"Global Social Chain/GSC",
+    "time":"2018-03-01",
+    "website":[
+        "https://www.gsc.social/"
+    ],
+    "whitepaper":"http://p2h5lt9c0.bkt.clouddn.com/GSC_Whitepaper_EN_V0.10.2_20180131.pdf"
+}

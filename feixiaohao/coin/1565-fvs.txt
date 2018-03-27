@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"FVS （自由价值数字资产free value security）是武汉自由客信息技术有限公司开发的基于自由职业生态链的落地流通加密数字资产。 自由价值链是“机...",
+    "id":1565,
+    "name":"fvs",
+    "name_cn":"自由链",
+    "name_en":"Free Value Security/FVS",
+    "time":"2017-12-28",
+    "website":[],
+    "whitepaper":"-"
+}

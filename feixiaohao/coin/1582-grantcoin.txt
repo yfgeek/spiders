@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/grt/"
+    ],
+    "description":"",
+    "id":1582,
+    "name":"grantcoin",
+    "name_cn":"－",
+    "name_en":"Grantcoin/GRT",
+    "time":"－",
+    "website":[
+        "http://www.grantcoin.org/"
+    ],
+    "whitepaper":"-"
+}

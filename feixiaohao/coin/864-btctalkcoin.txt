@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/talk/"
+    ],
+    "description":"",
+    "id":864,
+    "name":"btctalkcoin",
+    "name_cn":"－",
+    "name_en":"BTCtalkcoin/TALK",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

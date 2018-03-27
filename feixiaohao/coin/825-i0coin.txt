@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/i0c/"
+    ],
+    "description":"",
+    "id":825,
+    "name":"i0coin",
+    "name_cn":"－",
+    "name_en":"I0Coin/I0C",
+    "time":"－",
+    "website":[
+        "http://izerocoin.org"
+    ],
+    "whitepaper":"-"
+}

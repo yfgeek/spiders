@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4CF488387F035FF08c371515562CBa712f9015d4",
+        "https://ethplorer.io/address/0x4CF488387F035FF08c371515562CBa712f9015d4"
+    ],
+    "description":"WePower是一个由区块链和智能合约支持的绿色能源交易平台。 借助WePower，能源生产商可以通过发行自己的能源代币来筹集资金，而能源购买者和投资者可以降低...",
+    "id":1884,
+    "name":"wepowernetwork",
+    "name_cn":"－",
+    "name_en":"WePower Network/WPR",
+    "time":"2018-02-08",
+    "website":[
+        "http://wepower.network/"
+    ],
+    "whitepaper":"https://drive.google.com/file/d/0B_OW_EddXO5RWWFVQjJGZXpQT3c/view?usp=sharing"
+}

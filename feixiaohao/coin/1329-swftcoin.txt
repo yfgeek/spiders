@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"SWFTC致力于在生活的各个方面为用户带来优惠，SWFT是其第一个成熟应用，SWFTC是SWFT币币兑换平台唯一指定手续费。SWFTC将与传统金融机构、跨境汇兑...",
+    "id":1329,
+    "name":"swftcoin",
+    "name_cn":"速币",
+    "name_en":"SwftCoin/SWFTC",
+    "time":"2018-01-05",
+    "website":[
+        "http://www.swftcoin.org/"
+    ],
+    "whitepaper":"-"
+}

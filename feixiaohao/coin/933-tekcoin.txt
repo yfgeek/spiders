@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockexperts.com/tek"
+    ],
+    "description":"",
+    "id":933,
+    "name":"tekcoin",
+    "name_cn":"泰克币",
+    "name_en":"TEKcoin/TEK",
+    "time":"－",
+    "website":[
+        "http://tekcoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://cryptobe.com/chain/Cypher"
+    ],
+    "description":"",
+    "id":995,
+    "name":"cypher",
+    "name_cn":"－",
+    "name_en":"Cypher/CYP",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

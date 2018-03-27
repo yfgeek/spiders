@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab",
+        "https://ethplorer.io/address/0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab"
+    ],
+    "description":"DATx生态系统包括激励机制、行为信息存储系统、代币交易、广告平台、人工智能推荐系统和反欺诈系统等等。生态系统激励机制：根据用户和广告/渠道的互动，系统会定期结...",
+    "id":1488,
+    "name":"datx",
+    "name_cn":"－",
+    "name_en":"DATx/DATX",
+    "time":"2018-03-09",
+    "website":[
+        "https://www.datx.co/"
+    ],
+    "whitepaper":"https://www.datx.co/pdf/DATx+WHITEPAPER+(EN)+V1.1.pdf?v=2"
+}

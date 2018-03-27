@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://qubitcoinxplorer.cc"
+    ],
+    "description":"量子币(QubitCoin ,Q2C)是由luffa, cubehash, shavite, simd, echo 混合组成的全新算法，CPU挖矿，于2014年...",
+    "id":872,
+    "name":"qubitcoin",
+    "name_cn":"量子币",
+    "name_en":"QubitCoin/Q2C",
+    "time":"－",
+    "website":[
+        "https://qubitcoin.cc/"
+    ],
+    "whitepaper":"-"
+}

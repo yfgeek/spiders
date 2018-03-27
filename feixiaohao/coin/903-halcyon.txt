@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://atlas.phoenixcoin.org:2080/chain/Halcyon",
+        "http://explorer.halcyon.top:2080/chain/Halcyon"
+    ],
+    "description":"",
+    "id":903,
+    "name":"halcyon",
+    "name_cn":"－",
+    "name_en":"Halcyon/HAL",
+    "time":"－",
+    "website":[
+        "http://halcyon.top/"
+    ],
+    "whitepaper":"-"
+}

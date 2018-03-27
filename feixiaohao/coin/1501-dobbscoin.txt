@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.dobbscoin.info/chain/Dobbscoin"
+    ],
+    "description":"",
+    "id":1501,
+    "name":"dobbscoin",
+    "name_cn":"－",
+    "name_en":"Dobbscoin/BOB",
+    "time":"－",
+    "website":[
+        "http://www.dobbscoin.info"
+    ],
+    "whitepaper":"-"
+}

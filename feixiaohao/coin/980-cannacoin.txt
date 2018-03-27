@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/ccn/",
+        "http://ccn.smartchain.cc/"
+    ],
+    "description":"CannaCoin运行在类似比特币的分散式区块链平台上，允许用户在数秒内通过网络发送货币。这个分散的网络没有任何中央机构，遵循比特币社区提出的核心原则。",
+    "id":980,
+    "name":"cannacoin",
+    "name_cn":"－",
+    "name_en":"Cannacoin/CCN",
+    "time":"－",
+    "website":[
+        "http://www.cannacoin.tech/"
+    ],
+    "whitepaper":"-"
+}

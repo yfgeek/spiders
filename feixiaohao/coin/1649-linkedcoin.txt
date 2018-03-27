@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/lkc2"
+    ],
+    "description":"",
+    "id":1649,
+    "name":"linkedcoin",
+    "name_cn":"－",
+    "name_en":"LinkedCoin/LKC",
+    "time":"－",
+    "website":[
+        "https://www.linkedcoin.com/"
+    ],
+    "whitepaper":"-"
+}

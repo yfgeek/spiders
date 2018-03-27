@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"StarChain（星链）是StarChain Foundation（基金会）全力打造的全球文娱数字资产链，拥有开放的、具备良好可扩展性的、面向文化创意产业的区...",
+    "id":1334,
+    "name":"starchain",
+    "name_cn":"星链",
+    "name_en":"Starchain/STC",
+    "time":"2018-01-20",
+    "website":[
+        "http://www.starchain.one/"
+    ],
+    "whitepaper":"http://www.starchain.one/img/%E6%98%9F%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf"
+}

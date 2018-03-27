@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://zennies.thecryptochat.net/"
+    ],
+    "description":"",
+    "id":809,
+    "name":"zennies",
+    "name_cn":"－",
+    "name_en":"Zennies/ZENI",
+    "time":"－",
+    "website":[
+        "http://zeni.zone/"
+    ],
+    "whitepaper":"-"
+}

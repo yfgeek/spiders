@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/fuel/"
+    ],
+    "description":"FuelCoin是一个分布式、去中心化的、点对点的加密货币，是拥有闪电般的速度和超低的费用的全球支付解决方案。",
+    "id":861,
+    "name":"fuelcoin",
+    "name_cn":"－",
+    "name_en":"FuelCoin/FC2",
+    "time":"－",
+    "website":[
+        "http://www.fuelcoin.org/"
+    ],
+    "whitepaper":"-"
+}

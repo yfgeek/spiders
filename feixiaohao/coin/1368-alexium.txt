@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://aumchain.info:3001/"
+    ],
+    "description":"",
+    "id":1368,
+    "name":"alexium",
+    "name_cn":"－",
+    "name_en":"Alexium/AUM",
+    "time":"－",
+    "website":[
+        "https://alexium.org/"
+    ],
+    "whitepaper":"-"
+}

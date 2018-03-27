@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x9fe173573b3f3cf4aebce5fd5bef957b9a6686e8"
+    ],
+    "description":"VTCHAIN是一种构建企业级区块链应用的分布式、生产级开放生态，致力于推动将区块链技术与企业级产品应用紧密关联起来，充分利用区块链技术的优势，解决应用系统实践...",
+    "id":1318,
+    "name":"vtchain",
+    "name_cn":"－",
+    "name_en":"VTChain/BVT",
+    "time":"2017-12-28",
+    "website":[
+        "http://vtchain.org/"
+    ],
+    "whitepaper":"http://vtchain.org/down/vtchain.pdf"
+}

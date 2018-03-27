@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://107.170.222.106/",
+        "https://masternodes.online/currencies/XIOS/"
+    ],
+    "description":"",
+    "id":1013,
+    "name":"xios",
+    "name_cn":"－",
+    "name_en":"Xios/XIOS",
+    "time":"2017-10-27",
+    "website":[
+        "http://www.xioscoin.com/"
+    ],
+    "whitepaper":"-"
+}

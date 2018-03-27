@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://bitcoinplanet.thecryptochat.net/"
+    ],
+    "description":"Bitcoin Planet（BTPL）是一种使用Skein哈希算法的加密货币，该算法速度快，可以用于CPU和GPU。Skein是一个较新的加密散列函数系列，结...",
+    "id":1137,
+    "name":"bitcoin-planet",
+    "name_cn":"－",
+    "name_en":"Bitcoin Planet/BTPL",
+    "time":"2017-06-26",
+    "website":[
+        "http://bitcoin-planet.net/"
+    ],
+    "whitepaper":"-"
+}

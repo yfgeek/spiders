@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.shadow.cash/chain/ShadowCash"
+    ],
+    "description":"ShadowCash是一个名为“影子项目”(ShadowProject)的生态系统下的货币，旨在创建一个对所有人都开放、且无法追踪、内在相连的市场，即意味着没有...",
+    "id":786,
+    "name":"shadowcash",
+    "name_cn":"－",
+    "name_en":"ShadowCash/SDC",
+    "time":"－",
+    "website":[
+        "http://shadowproject.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x6ccb56947ea1d6efdc81acfbacd8263ddfa9b202",
+        "https://ethplorer.io/address/0x6ccb56947ea1d6efdc81acfbacd8263ddfa9b202"
+    ],
+    "description":"Royal Kingdom Enterprise是一个在迪拜的中东初创公司注册，其团队成员分散遍布世界各地。该公司已从销售支付网关的白色标签和加密货币交易变成区...",
+    "id":1146,
+    "name":"royal-kingdom-coin",
+    "name_cn":"－",
+    "name_en":"Royal Kingdom Coin/RKC",
+    "time":"2017-10-17",
+    "website":[
+        "https://www.royalkingdomcoin.com/"
+    ],
+    "whitepaper":"https://drive.google.com/file/d/0B7zprSHHmD_0T2tCcXdjb2NZbUE/view"
+}

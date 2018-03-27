@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.multifaucet.tk/index.php?blockexplorer=ZCC"
+    ],
+    "description":"招财币简称ZCC，英文名为ZhaocaiCoin。招财币是第一款国内自行发行的网络币。目前最活跃，日均成交量较大。其定位是创建真正公平，服务中国，并开创公益事...",
+    "id":855,
+    "name":"zccoin",
+    "name_cn":"招财币",
+    "name_en":"ZcCoin/ZCC",
+    "time":"2013-08-08",
+    "website":[
+        "http://www.zccoin.org"
+    ],
+    "whitepaper":"-"
+}

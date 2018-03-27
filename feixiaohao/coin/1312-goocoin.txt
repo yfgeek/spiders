@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"2014年11月发布，是基于概率发行的数字货币。目前是全球唯一款可以在手机端挖掘的弱中心化数字货币,且由每8个用户组成一个挖矿小组在2分钟内,随机出现一名胜者并...",
+    "id":1312,
+    "name":"goocoin",
+    "name_cn":"谷壳币",
+    "name_en":"GooCoin/GOOC",
+    "time":"－",
+    "website":[
+        "http://www.goocoin.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/stv/"
+    ],
+    "description":"Sativacoin是一种POW和POS混合的二代加密货币。货币总量为一千万，POS的年利率为5%。",
+    "id":1035,
+    "name":"sativacoin",
+    "name_cn":"－",
+    "name_en":"Sativacoin/STV",
+    "time":"－",
+    "website":[
+        "https://www.sativacoin.io/"
+    ],
+    "whitepaper":"-"
+}

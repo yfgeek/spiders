@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://47.89.9.157:2299/"
+    ],
+    "description":"币缘币(英文名：BiYuanCoin 简称 BYC)，是一种数字货币，由币缘团队开发。币缘币通过挖矿产生，交易确认速度为 1 分钟，是非常快捷的支付货币。币缘币...",
+    "id":843,
+    "name":"bycion",
+    "name_cn":"币缘币",
+    "name_en":"BiYuanCoin/BYC",
+    "time":"－",
+    "website":[
+        "http://bycion.com/"
+    ],
+    "whitepaper":"-"
+}

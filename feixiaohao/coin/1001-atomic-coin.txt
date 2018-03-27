@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/atom/",
+        "http://explorer.atomchain.info:8080/"
+    ],
+    "description":"",
+    "id":1001,
+    "name":"atomic-coin",
+    "name_cn":"－",
+    "name_en":"Atomic Coin/ATOM",
+    "time":"－",
+    "website":[
+        "https://www.atomicproject.org/"
+    ],
+    "whitepaper":"https://cosmos.network/whitepaper"
+}

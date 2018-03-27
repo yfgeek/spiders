@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/icn/"
+    ],
+    "description":"发布于2013年12月29日，Scrypt算法，10分钟每块，100个每块，3次交易确认。",
+    "id":979,
+    "name":"icoin",
+    "name_cn":"－",
+    "name_en":"iCoin/ICN",
+    "time":"－",
+    "website":[
+        "http://www.icoin.world/"
+    ],
+    "whitepaper":"https://coss.io/documents/white-papers/iconomi.pdf"
+}

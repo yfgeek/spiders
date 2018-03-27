@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.avoncoin.org"
+    ],
+    "description":"",
+    "id":1384,
+    "name":"avoncoin",
+    "name_cn":"－",
+    "name_en":"Avoncoin/ACN",
+    "time":"－",
+    "website":[
+        "http://avoncoin.org/"
+    ],
+    "whitepaper":"-"
+}

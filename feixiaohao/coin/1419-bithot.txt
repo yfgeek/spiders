@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"比特热点是比特币在498848区块高度分叉出来的一种新型电子货币。比特热点采用新的PoW算法，拥有更大的区块、更快的出块时间和更多的总供应量。比特热点的矿工在挖...",
+    "id":1419,
+    "name":"bithot",
+    "name_cn":"比特热点",
+    "name_en":"Bitcoin Hot/BTH",
+    "time":"－",
+    "website":[
+        "http://www.bithot.org"
+    ],
+    "whitepaper":"-"
+}

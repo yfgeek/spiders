@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://isl.explorer.ssdpool.com:9156/"
+    ],
+    "description":"",
+    "id":1054,
+    "name":"islacoin",
+    "name_cn":"－",
+    "name_en":"IslaCoin/ISL",
+    "time":"－",
+    "website":[
+        "http://www.islacoin.net/"
+    ],
+    "whitepaper":"-"
+}

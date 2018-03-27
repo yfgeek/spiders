@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/SJCX"
+    ],
+    "description":"Storjcoin X(SJCX)是Storj网络的代币“燃料”，它允许用户通过 DriveSahre 应用和 MetaDisk 来出租和购买存储空间。",
+    "id":1812,
+    "name":"storjcoin-x",
+    "name_cn":"－",
+    "name_en":"Storjcoin X/SJCX",
+    "time":"－",
+    "website":[
+        "http://storj.io"
+    ],
+    "whitepaper":"https://storj.io/storj.pdf"
+}

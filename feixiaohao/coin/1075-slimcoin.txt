@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://bchain.info/SLM/"
+    ],
+    "description":"Slimcoin（SLM, Slimcoin）首次采用PoB+PoW+PoS的混合挖矿方式。其首创的PoB燃烧挖矿方式因可以让所有人在无需强大算力投入的情况下公...",
+    "id":1075,
+    "name":"slimcoin",
+    "name_cn":"－",
+    "name_en":"Slimcoin/SLM",
+    "time":"－",
+    "website":[
+        "http://slimco.in/",
+        "https://slimcoin-project.github.io/"
+    ],
+    "whitepaper":"-"
+}

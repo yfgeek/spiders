@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://nxtreporting.com/?as=15344649963748848799"
+    ],
+    "description":"",
+    "id":1615,
+    "name":"instantdex",
+    "name_cn":"－",
+    "name_en":"InstantDEX/DEX",
+    "time":"－",
+    "website":[
+        "http://instantdex.org"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "https://explorer.globaltoken.org/",
+        "https://www.blockexperts.com/glt",
+        "https://bchain.info/GLT/"
+    ],
+    "description":"",
+    "id":1037,
+    "name":"globaltoken",
+    "name_cn":"－",
+    "name_en":"GlobalToken/GLT",
+    "time":"2017-06-20",
+    "website":[
+        "http://globaltoken.org/"
+    ],
+    "whitepaper":"-"
+}

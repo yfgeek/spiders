@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://explorer.nubits.com/",
+        "https://nuexplorer.ddns.net"
+    ],
+    "description":"Nu系统由NuShares（NuShares，简称NSR）持有者控制并利用PoS（Proof of Stake）权益证明方式铸币，从而维护网络安全。与其他点点股...",
+    "id":882,
+    "name":"nushares",
+    "name_cn":"－",
+    "name_en":"NuShares/NSR",
+    "time":"－",
+    "website":[
+        "https://nubits.com/nushares"
+    ],
+    "whitepaper":"-"
+}

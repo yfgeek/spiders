@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://70.83.227.32:3000/"
+    ],
+    "description":"",
+    "id":1012,
+    "name":"mineum",
+    "name_cn":"－",
+    "name_en":"Mineum/MNM",
+    "time":"－",
+    "website":[
+        "https://mineum.org/"
+    ],
+    "whitepaper":"https://mineum.org/documentation/mineum-whitepaper.pdf"
+}

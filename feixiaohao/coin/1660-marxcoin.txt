@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/marx"
+    ],
+    "description":"发布于2014年1月17日，Scrypt算法，CPU挖矿，200~25秒每块，约10个每10分钟，共计1200万个。",
+    "id":1660,
+    "name":"marxcoin",
+    "name_cn":"马克思币",
+    "name_en":"MarxCoin/MARX",
+    "time":"－",
+    "website":[
+        "https://www.marxcoin.com/"
+    ],
+    "whitepaper":"-"
+}

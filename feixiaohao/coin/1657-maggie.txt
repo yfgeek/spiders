@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x647f274b3a7248d6cf51b35f08e7e7fd6edfb271"
+    ],
+    "description":"麦奇（Maggie）创造了全新的区块链价值社交生态，旨在通过区块链技术改变传统的中心化社交模式。麦奇是定位于强认证、高隐私、弱关系、强个性的社交平台，通过全网分...",
+    "id":1657,
+    "name":"maggie",
+    "name_cn":"麦奇",
+    "name_en":"Maggie Token/MAG",
+    "time":"2018-01-20",
+    "website":[
+        "http://maggie.vip/"
+    ],
+    "whitepaper":"http://maggie.vip/resources/images/Maggie_WhitePaper.pdf"
+}

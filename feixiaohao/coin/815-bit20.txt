@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/a/BTWTY"
+    ],
+    "description":"",
+    "id":815,
+    "name":"bit20",
+    "name_cn":"－",
+    "name_en":"Bit20/BTWTY",
+    "time":"2017-07-19",
+    "website":[
+        "http://www.bittwenty.com/"
+    ],
+    "whitepaper":"-"
+}

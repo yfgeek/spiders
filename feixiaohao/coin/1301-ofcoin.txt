@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"OF，Order & Freedom，我们认为区块链技术是关于秩序和自由的哲学。OFCOIN，中文名福币，是社群基金会为全球社群生态链设计的代币。随着移...",
+    "id":1301,
+    "name":"ofcoin",
+    "name_cn":"福币",
+    "name_en":"OFCOIN/OF",
+    "time":"2018-01-25",
+    "website":[
+        "http://www.ofbank.com/"
+    ],
+    "whitepaper":"http://ofbank.com/whitepaper/ofbank.pdf"
+}

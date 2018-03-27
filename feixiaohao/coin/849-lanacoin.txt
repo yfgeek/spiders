@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/lana/"
+    ],
+    "description":"",
+    "id":849,
+    "name":"lanacoin",
+    "name_cn":"－",
+    "name_en":"LanaCoin/LANA",
+    "time":"－",
+    "website":[
+        "https://lanacoin.com/"
+    ],
+    "whitepaper":"-"
+}

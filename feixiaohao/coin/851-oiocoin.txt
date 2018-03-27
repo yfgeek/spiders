@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://101.200.41.213/"
+    ],
+    "description":"交子币（oiocoin）是国内第一款社交打赏为主的加密数字货币，是一款在比特币基础上开发的开源的数字货币，通过交子币，用户可以实现低成本支付与社交打赏功能。利用...",
+    "id":851,
+    "name":"oiocoin",
+    "name_cn":"交子币",
+    "name_en":"OIOCoin/OIOC",
+    "time":"2017-06-23",
+    "website":[
+        "http://www.oiocoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1179,
+    "name":"altcommunity-coin",
+    "name_cn":"－",
+    "name_en":"ALTCOM/ALTCOM",
+    "time":"2017-11-03",
+    "website":[
+        "http://altcoincommunity.co/"
+    ],
+    "whitepaper":"-"
+}

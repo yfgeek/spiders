@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xae4f56f072c34c0a65b3ae3e4db797d831439d93",
+        "https://ethplorer.io/address/0xae4f56f072c34c0a65b3ae3e4db797d831439d93"
+    ],
+    "description":"Gimli是一种参与电子竞技直播的革命性方式。用户可以使用数字代币进行投注、参与直播商设置的挑战和问卷调查。Gimli由电竞发烧友创造，献给更多的电竞爱好者。",
+    "id":1571,
+    "name":"gimli",
+    "name_cn":"－",
+    "name_en":"Gimli/GIM",
+    "time":"2017-11-02",
+    "website":[
+        "https://gimli.io/"
+    ],
+    "whitepaper":"-"
+}

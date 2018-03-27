@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://viptokensexplorer.ddns.net/"
+    ],
+    "description":"",
+    "id":1150,
+    "name":"vip-tokens",
+    "name_cn":"－",
+    "name_en":"VIP Tokens/VIP",
+    "time":"－",
+    "website":[
+        "http://viptokens.club/"
+    ],
+    "whitepaper":"-"
+}

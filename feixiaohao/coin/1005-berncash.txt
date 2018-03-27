@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://158.69.205.238:3002/"
+    ],
+    "description":"",
+    "id":1005,
+    "name":"berncash",
+    "name_cn":"－",
+    "name_en":"BERNcash/BERN",
+    "time":"－",
+    "website":[
+        "http://berncoin.org/"
+    ],
+    "whitepaper":"-"
+}

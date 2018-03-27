@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/address/0xe75ad3aab14e4b0df8c5da4286608dabb21bd864"
+    ],
+    "description":"Acute Angle Cloud是一个全球分布式IaaS服务平台。基于Acute Angle PC、Acute Angle Chain、IPFS星际文件系统实...",
+    "id":1338,
+    "name":"acuteangle",
+    "name_cn":"锐角币",
+    "name_en":"Acute Angle Cloud/AAC",
+    "time":"－",
+    "website":[
+        "http://acuteangle.com"
+    ],
+    "whitepaper":"https://aacdn.3jiaoxing.com/doc/AcuteAngleCloud%2012.14_z_zh.pdf"
+}

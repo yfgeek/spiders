@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"SIGMACOIN（西格玛币），简称SIGMA，是基于以太坊发行的去中心化应用（App）和智能合约时需要使用的加密数字货币，SIGMACOIN会作为西格玛项目的...",
+    "id":1793,
+    "name":"sigmacoin",
+    "name_cn":"西格玛币",
+    "name_en":"SIGMAcoin/SIGMA",
+    "time":"2017-08-28",
+    "website":[
+        "http://www.sigmacoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.desire-crypto.com/block-explorer"
+    ],
+    "description":"",
+    "id":1065,
+    "name":"desire",
+    "name_cn":"－",
+    "name_en":"Desire/DSR",
+    "time":"2017-11-06",
+    "website":[
+        "http://www.desire-crypto.com/"
+    ],
+    "whitepaper":"-"
+}

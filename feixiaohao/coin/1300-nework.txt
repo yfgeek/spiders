@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/"
+    ],
+    "description":"Nework是基于区块链技术连接人类工作技能的激励型平台，通过分布式账本记录个体的可信工作时间向量，实现个人价值的积累和体现。充分利用以太坊机制将Nework打...",
+    "id":1300,
+    "name":"nework",
+    "name_cn":"－",
+    "name_en":"Nework/NKC",
+    "time":"2018-01-30",
+    "website":[
+        "http://nework.pro/"
+    ],
+    "whitepaper":"http://nework.pro/whitepaper-cn.pdf"
+}

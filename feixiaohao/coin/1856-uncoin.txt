@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chain.uncoin.org/"
+    ],
+    "description":"UNCoin是2014年12月18日世界上首次通过GITHUB.COM发布技术后，诞生为名为UNCoin的最初的虚拟货币和加密货币。UNCoin是全球UNCoi...",
+    "id":1856,
+    "name":"uncoin",
+    "name_cn":"联和币",
+    "name_en":"UNCoin/UNC",
+    "time":"－",
+    "website":[
+        "http://uncoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"用户在Yiia平台进行交易每笔交易（不包含yic交易）将会获得手续费百分之十的yic增送（列如交易手续费10元用户将会获得平台增送的一个yic），平台每个季度将...",
+    "id":1907,
+    "name":"yiiacoin",
+    "name_cn":"－",
+    "name_en":"Yiia Coin/YIC",
+    "time":"－",
+    "website":[
+        "http://yiia.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xa974c709cfb4566686553a20790685a47aceaa33"
+    ],
+    "description":"MIXIN将建立一个最大的对开发者最友好的移动区块链网络，无限吞吐地连接所有现存的区块链。MIXIN messager 只是建立在MIXIN网络上的第一个DAP...",
+    "id":1292,
+    "name":"mixin",
+    "name_cn":"－",
+    "name_en":"Mixin/XIN",
+    "time":"2018-01-09",
+    "website":[
+        "http://mixin.one"
+    ],
+    "whitepaper":"https://mixin.one/assets/Mixin-Draft-2017-12-22.pdf"
+}

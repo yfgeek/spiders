@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1846,
+    "name":"trickycoin",
+    "name_cn":"－",
+    "name_en":"TrickyCoin/TRICK",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

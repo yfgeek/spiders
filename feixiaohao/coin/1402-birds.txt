@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1402,
+    "name":"birds",
+    "name_cn":"－",
+    "name_en":"Birds/BIRDS",
+    "time":"2017-08-01",
+    "website":[
+        "https://www.birdscoin.com/"
+    ],
+    "whitepaper":"-"
+}

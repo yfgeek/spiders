@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.tychocoin.info"
+    ],
+    "description":"",
+    "id":1249,
+    "name":"tychocoin",
+    "name_cn":"－",
+    "name_en":"Tychocoin/TYCHO",
+    "time":"2017-06-26",
+    "website":[
+        "https://tychocoin.com/"
+    ],
+    "whitepaper":"-"
+}

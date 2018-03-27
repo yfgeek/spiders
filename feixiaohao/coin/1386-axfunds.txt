@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1386,
+    "name":"axfunds",
+    "name_cn":"－",
+    "name_en":"AxFunds/AXF",
+    "time":"－",
+    "website":[
+        "http://axfunds.com/"
+    ],
+    "whitepaper":"-"
+}

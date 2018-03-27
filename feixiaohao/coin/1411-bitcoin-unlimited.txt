@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1411,
+    "name":"bitcoin-unlimited",
+    "name_cn":"－",
+    "name_en":"Bitcoin Unlim.../BTU",
+    "time":"－",
+    "website":[
+        "https://www.bitcoinunlimited.info/"
+    ],
+    "whitepaper":"-"
+}

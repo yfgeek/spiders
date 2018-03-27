@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.moneta.io/"
+    ],
+    "description":"",
+    "id":1680,
+    "name":"moneta2",
+    "name_cn":"－",
+    "name_en":"Moneta/MONETA",
+    "time":"－",
+    "website":[
+        "http://moneta.io/"
+    ],
+    "whitepaper":"-"
+}

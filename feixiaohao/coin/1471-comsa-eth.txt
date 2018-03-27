@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf83301c5cd1ccbb86f466a6b3c53316ed2f8465a"
+    ],
+    "description":"",
+    "id":1471,
+    "name":"comsa-eth",
+    "name_cn":"－",
+    "name_en":"COMSA-ETH/CMS",
+    "time":"2017-12-14",
+    "website":[
+        "https://comsa.io/en/"
+    ],
+    "whitepaper":"-"
+}

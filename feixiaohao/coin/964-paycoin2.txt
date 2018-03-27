@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://ledger.paycoin.com/"
+    ],
+    "description":"PayCoin是比特币挖矿集团GAW Miners推出的产品，PayCoin加快了数字货币的变革，它向BitCoin和PayPal提供了其他选择，使得用户可以在...",
+    "id":964,
+    "name":"paycoin2",
+    "name_cn":"支付币",
+    "name_en":"PayCoin/XPY",
+    "time":"－",
+    "website":[
+        "http://www.paycoin.com"
+    ],
+    "whitepaper":"-"
+}

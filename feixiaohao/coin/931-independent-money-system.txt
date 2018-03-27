@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://96.44.134.252:3001/"
+    ],
+    "description":"",
+    "id":931,
+    "name":"independent-money-system",
+    "name_cn":"－",
+    "name_en":"Independent M.../IMS",
+    "time":"－",
+    "website":[
+        "http://independentmoneysystem.com/"
+    ],
+    "whitepaper":"-"
+}

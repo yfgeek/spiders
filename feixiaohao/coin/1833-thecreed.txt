@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1833,
+    "name":"thecreed",
+    "name_cn":"－",
+    "name_en":"TheCreed/TCR",
+    "time":"－",
+    "website":[
+        "http://thecreed.tech/"
+    ],
+    "whitepaper":"-"
+}

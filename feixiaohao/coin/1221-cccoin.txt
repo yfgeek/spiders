@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"CarChain是基于区块链的去中心化内容协议，其目标在于通过区块链与分布式存储技术，构建一个全球汽车行业内的生态链，在CarChain这个生态内，车主可以根据...",
+    "id":1221,
+    "name":"cccoin",
+    "name_cn":"车链",
+    "name_en":"CarChain/CCB",
+    "time":"－",
+    "website":[
+        "http://cccoin.top/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x3543638ed4a9006e4840b105944271bcea15605d"
+    ],
+    "description":"U Network是全球首个内容价值预测和内容发布平台, 一个以公平和价值驱动的内容激励网络。U Network 的设计初衷是构建一个用户内容价值的预测市场，从...",
+    "id":1858,
+    "name":"unetwork",
+    "name_cn":"－",
+    "name_en":"U Network/UUU",
+    "time":"－",
+    "website":[
+        "https://u.network/"
+    ],
+    "whitepaper":"https://u.network/U_whitepaper_en.pdf"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"贝壳币（Bankcoin）是由美国谷歌和硅谷研发实验室研发开源数字货币其点对点的传输，在网络里实现交易支付的金融产品。贝壳币是基于比特币成熟加密货币技术以及其相...",
+    "id":1002,
+    "name":"bankcoin",
+    "name_cn":"贝壳币",
+    "name_en":"Bankcoin/B@",
+    "time":"－",
+    "website":[
+        "http://bankcoin.global/"
+    ],
+    "whitepaper":"-"
+}

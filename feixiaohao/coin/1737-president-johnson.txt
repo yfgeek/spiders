@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://omnichest.info/mdexmarket.aspx?market=66"
+    ],
+    "description":"",
+    "id":1737,
+    "name":"president-johnson",
+    "name_cn":"－",
+    "name_en":"President Joh.../GARY",
+    "time":"－",
+    "website":[
+        "http://johnson.2016coin.org/"
+    ],
+    "whitepaper":"-"
+}

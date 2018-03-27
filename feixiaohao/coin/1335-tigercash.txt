@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Tiger Cash是由CoinTiger交易平台发行的代币，简称 “TCH“，其发行总量为10.5亿个。TCH是CoinTiger基于以太坊区块链的ERC-2...",
+    "id":1335,
+    "name":"tigercash",
+    "name_cn":"－",
+    "name_en":"Tiger Cash/TCH",
+    "time":"2017-11-15",
+    "website":[
+        "https://www.cointiger.com"
+    ],
+    "whitepaper":"-"
+}

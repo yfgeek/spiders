@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/sh/"
+    ],
+    "description":"",
+    "id":1157,
+    "name":"shilling",
+    "name_cn":"－",
+    "name_en":"Shilling/SH",
+    "time":"－",
+    "website":[
+        "https://digitalshilling.org/"
+    ],
+    "whitepaper":"-"
+}

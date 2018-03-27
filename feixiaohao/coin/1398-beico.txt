@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Beico 针对中小参与者面临的诸多困境如：资金有限，缺乏专业度，人脉资源匮乏，信息不对称，投资渠道稀少等痛点；利用Beico 已有的社会和行业资源，以专业的投...",
+    "id":1398,
+    "name":"beico",
+    "name_cn":"B-Token",
+    "name_en":"Beico/BTK",
+    "time":"2017-08-03",
+    "website":[
+        "https://beico.io/"
+    ],
+    "whitepaper":"-"
+}

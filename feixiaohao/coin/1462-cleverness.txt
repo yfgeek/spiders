@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cleverness.io/Cleverness_Whitepaper.pdf"
+    ],
+    "description":"Cleverness(CES)是一个基于区块链去中心化的加密资产操作系统，通过Saas软件工具、社交网络互动、加密市场资讯信息服务让加密资产投资者处理交易变得更...",
+    "id":1462,
+    "name":"cleverness",
+    "name_cn":"智慧链",
+    "name_en":"Cleverness/CES",
+    "time":"2018-01-01",
+    "website":[
+        "http://cleverness.io/"
+    ],
+    "whitepaper":"-"
+}

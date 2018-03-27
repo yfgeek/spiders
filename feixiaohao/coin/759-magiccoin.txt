@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.magiccoin.io:3001/"
+    ],
+    "description":"",
+    "id":759,
+    "name":"magiccoin",
+    "name_cn":"－",
+    "name_en":"MagicCoin/MAGE",
+    "time":"2017-12-07",
+    "website":[
+        "https://magiccoin.io/"
+    ],
+    "whitepaper":"-"
+}

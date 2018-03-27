@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://asset.burstnation.com/asset/4762801406751253511"
+    ],
+    "description":"",
+    "id":1748,
+    "name":"qibuck-asset",
+    "name_cn":"－",
+    "name_en":"Qibuck Asset/QBK",
+    "time":"－",
+    "website":[
+        "http://bitbillions.net/qibuck-asset/"
+    ],
+    "whitepaper":"-"
+}

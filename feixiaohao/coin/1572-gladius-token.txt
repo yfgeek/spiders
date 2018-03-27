@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C",
+        "https://ethplorer.io/address/0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C"
+    ],
+    "description":"DDoS 攻击正在成为运营互联网业务无法避免的现实。这些攻击可能会消耗大量的金钱，不止失去正常的运行时间，而且还会失去消费者的信任并造成公关危机。Gladius...",
+    "id":1572,
+    "name":"gladius-token",
+    "name_cn":"－",
+    "name_en":"Gladius Token/GLA",
+    "time":"2018-02-18",
+    "website":[
+        "https://gladius.io/"
+    ],
+    "whitepaper":"https://gladius.io/pdf/gladius-whitepaper.pdf"
+}

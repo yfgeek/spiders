@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Yee是一个基于区块链的云通讯网络及去中心化的社交生态系统。该系统包括支持快速交易、高效存储的区块链YeeChain，基于YeeChain的云通讯网络YeeNe...",
+    "id":1269,
+    "name":"yee",
+    "name_cn":"亿币",
+    "name_en":"Yee Token/YEE",
+    "time":"2018-01-12",
+    "website":[
+        "http://www.yeefoundation.com"
+    ],
+    "whitepaper":"http://www.yeefoundation.com/yee/white-paper/white-paper-zh-V1.0.4.pdf"
+}

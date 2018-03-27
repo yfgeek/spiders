@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x07d9e49ea402194bf48a8276dafb16e4ed633317",
+        "https://ethplorer.io/address/0x07d9e49ea402194bf48a8276dafb16e4ed633317"
+    ],
+    "description":"",
+    "id":1076,
+    "name":"dalecoin",
+    "name_cn":"－",
+    "name_en":"Dalecoin/DALC",
+    "time":"2017-08-25",
+    "website":[
+        "http://dalecoin.org/"
+    ],
+    "whitepaper":"-"
+}

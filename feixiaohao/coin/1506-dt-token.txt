@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://nxtportal.org/currencies/13507468225104715822"
+    ],
+    "description":"",
+    "id":1506,
+    "name":"dt-token",
+    "name_cn":"－",
+    "name_en":"DT Token/DRACO",
+    "time":"－",
+    "website":[
+        "http://www.drachmae.co.uk/"
+    ],
+    "whitepaper":"-"
+}

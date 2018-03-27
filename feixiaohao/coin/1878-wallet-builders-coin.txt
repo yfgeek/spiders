@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/wbc/"
+    ],
+    "description":"",
+    "id":1878,
+    "name":"wallet-builders-coin",
+    "name_cn":"－",
+    "name_en":"WalletBuilder.../WBC",
+    "time":"2017-09-14",
+    "website":[
+        "https://walletbuilderscoin.com/"
+    ],
+    "whitepaper":"-"
+}

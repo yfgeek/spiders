@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x7d38056d5486df55954477f5426afe6c88789031"
+    ],
+    "description":"1. 简介热币（CHT）是 CoinHot 数字币场外交易平台发行的代币。用户在 CoinHot 平台上交易时，平台会根据成交额赠予用户代币。每一枚代币享有本项...",
+    "id":1307,
+    "name":"coinhot",
+    "name_cn":"热币",
+    "name_en":"CoinHot Token/CHT",
+    "time":"2017-12-30",
+    "website":[
+        "https://coinhot.io"
+    ],
+    "whitepaper":"https://coinhot.com/dividends/cht/"
+}

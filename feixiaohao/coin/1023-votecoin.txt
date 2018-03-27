@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.votecoin.site/"
+    ],
+    "description":"",
+    "id":1023,
+    "name":"votecoin",
+    "name_cn":"－",
+    "name_en":"VoteCoin/VOT",
+    "time":"2017-11-24",
+    "website":[
+        "https://votecoin.site/"
+    ],
+    "whitepaper":"https://votecoin.site/VoteCoin-Whitepaper.pdf"
+}

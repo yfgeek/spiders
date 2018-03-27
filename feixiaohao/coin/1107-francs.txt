@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.francs.paris/"
+    ],
+    "description":"法琅是灵感源自比特币的新一代加密电子货币。其交易及发行由数字加密算则法控制。总数量将被永久限制在1100万个之内。法琅引领金融革命. 交易金额无上限。. 无税收...",
+    "id":1107,
+    "name":"francs",
+    "name_cn":"法琅",
+    "name_en":"Francs/FRN",
+    "time":"－",
+    "website":[
+        "http://www.francs.paris/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x662aBcAd0b7f345AB7FfB1b1fbb9Df7894f18e66",
+        "https://ethplorer.io/address/0x662aBcAd0b7f345AB7FfB1b1fbb9Df7894f18e66"
+    ],
+    "description":"CarTaxi是一个疏散和运输汽车的物流平台，将所有拖车集成到一个应用程序中。它是基于地理定位和区块链+智能合约技术的全球移动解决方案。CarTaxi是一个基于...",
+    "id":887,
+    "name":"cartaxi-token",
+    "name_cn":"－",
+    "name_en":"CarTaxi Token/CTX",
+    "time":"2017-11-08",
+    "website":[
+        "https://cartaxi.io/"
+    ],
+    "whitepaper":"https://cartaxi.io/WP/CARTAXI_WP_CH.pdf"
+}

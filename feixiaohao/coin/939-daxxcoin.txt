@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://daxxcoin.org/explorer.html"
+    ],
+    "description":"",
+    "id":939,
+    "name":"daxxcoin",
+    "name_cn":"－",
+    "name_en":"DaxxCoin/DAXX",
+    "time":"2017-07-12",
+    "website":[
+        "https://daxxcoin.org/"
+    ],
+    "whitepaper":"-"
+}

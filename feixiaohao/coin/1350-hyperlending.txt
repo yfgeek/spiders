@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf3db9a281ef5273741388cf0ca164d39e18433dd"
+    ],
+    "description":"DIC 为原项目发行的 token，现在更名为 HLD，HLD 是 HyperLending 平台发行的代币。HyperLending 是一个专为数字资产持有者...",
+    "id":1350,
+    "name":"hyperlending",
+    "name_cn":"－",
+    "name_en":"HyperLending/HLD",
+    "time":"－",
+    "website":[
+        "http://www.hyperlending.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/post",
+        "https://bitexplorer.top/"
+    ],
+    "description":"PostCoin是一种新的加密货币，技术上比比特币更完美。加密货币Postcoin超越所有古典支付系统和银行。提供了高度的匿名性，低廉的转账费用，以及由于技术方...",
+    "id":930,
+    "name":"postcoin",
+    "name_cn":"－",
+    "name_en":"PostCoin/POST",
+    "time":"－",
+    "website":[
+        "https://postcoin.top/"
+    ],
+    "whitepaper":"-"
+}

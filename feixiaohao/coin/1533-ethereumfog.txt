@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"以太雾EthereumFog，简称：ETF，是以太坊Ethereum的分叉链，是为了解决以太坊所缺乏的分布式存储和分布式计算能力而生，后期会切换为POW+POS...",
+    "id":1533,
+    "name":"ethereumfog",
+    "name_cn":"以太雾",
+    "name_en":"EthereumFog/ETF",
+    "time":"－",
+    "website":[
+        "http://ethereumfog.org/"
+    ],
+    "whitepaper":"-"
+}

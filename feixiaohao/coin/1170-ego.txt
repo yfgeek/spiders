@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://explorer.ego.gleeze.com/"
+    ],
+    "description":"",
+    "id":1170,
+    "name":"ego",
+    "name_cn":"－",
+    "name_en":"EGO/EGO",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

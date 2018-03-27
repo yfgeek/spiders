@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://speedcash.acc-pool.pw/"
+    ],
+    "description":"Speedcash是一个点对点分散式速率数字货币。当前基于x13算法，计划改变为x13 mSHA3。初始总币供应量：476,918 SCS，区块奖励为8个SCS...",
+    "id":1042,
+    "name":"speedcash",
+    "name_cn":"－",
+    "name_en":"Speedcash/SCS",
+    "time":"－",
+    "website":[
+        "http://www.scash.ml/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/kayi"
+    ],
+    "description":"",
+    "id":1024,
+    "name":"kayicoin",
+    "name_cn":"－",
+    "name_en":"Kayicoin/KAYI",
+    "time":"－",
+    "website":[
+        "https://www.xn--kay-lua.net/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1744,
+    "name":"psilocybin",
+    "name_cn":"－",
+    "name_en":"Psilocybin/PSY",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

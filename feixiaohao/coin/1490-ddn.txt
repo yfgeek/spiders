@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://mainnet.ddn.link/"
+    ],
+    "description":"DDN（Data Delivery Network）是新一代基于区块链技术的数据分发网络，是CDN（内容分发网络）的升级版。它的核心是MatrixChain（矩...",
+    "id":1490,
+    "name":"ddn",
+    "name_cn":"－",
+    "name_en":"Data Delivery Network/DDN",
+    "time":"－",
+    "website":[
+        "http://ddn.link/"
+    ],
+    "whitepaper":"-"
+}

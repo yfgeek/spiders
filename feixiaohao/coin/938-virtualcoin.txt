@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://blockexplorer.virtualcoin.ca/"
+    ],
+    "description":"虚拟币(VirtualCoin,VC)发布于2014年3月16日，Scrypt算法，显卡挖矿，5分钟每块，共计2.1亿个。",
+    "id":938,
+    "name":"virtualcoin",
+    "name_cn":"虚拟币",
+    "name_en":"VirtualCoin/VC",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

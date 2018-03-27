@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockchain.beavercoin.org"
+    ],
+    "description":"",
+    "id":1396,
+    "name":"beavercoin",
+    "name_cn":"－",
+    "name_en":"BeaverCoin/BVC",
+    "time":"－",
+    "website":[
+        "http://beavercoin.org"
+    ],
+    "whitepaper":"-"
+}

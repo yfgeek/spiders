@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://pool.agrolifecoin.org:3001/"
+    ],
+    "description":"",
+    "id":1366,
+    "name":"agrolifecoin",
+    "name_cn":"－",
+    "name_en":"AgrolifeCoin/AGLC",
+    "time":"－",
+    "website":[
+        "https://www.agrolifecoin.org/"
+    ],
+    "whitepaper":"-"
+}

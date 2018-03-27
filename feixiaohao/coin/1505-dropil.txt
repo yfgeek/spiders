@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4672bad527107471cb5067a887f4656d585a8a31",
+        "https://ethplorer.io/address/0x4672bad527107471cb5067a887f4656d585a8a31"
+    ],
+    "description":"",
+    "id":1505,
+    "name":"dropil",
+    "name_cn":"－",
+    "name_en":"Dropil/DROP",
+    "time":"2018-03-19",
+    "website":[
+        "https://dropil.com"
+    ],
+    "whitepaper":"-"
+}

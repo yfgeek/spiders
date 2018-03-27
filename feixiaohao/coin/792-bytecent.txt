@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/byc/"
+    ],
+    "description":"Bytecent是第一个由区块链技术支持的点对点奖励网络。Bytecent网络是运行特殊软件的消费者计算机的全球链，其设计用于自动处理交易，任何有PC和互联网连...",
+    "id":792,
+    "name":"bytecent",
+    "name_cn":"－",
+    "name_en":"Bytecent/BYC",
+    "time":"－",
+    "website":[
+        "http://bytecent.com"
+    ],
+    "whitepaper":"-"
+}

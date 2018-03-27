@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1774,
+    "name":"safecoin",
+    "name_cn":"－",
+    "name_en":"SafeCoin/SFE",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

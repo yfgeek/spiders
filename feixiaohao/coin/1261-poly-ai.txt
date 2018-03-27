@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5121e348e897daef1eef23959ab290e5557cf274",
+        "https://ethplorer.io/address/0x5121e348e897daef1eef23959ab290e5557cf274"
+    ],
+    "description":"POLY AI聚焦于深度学习的人工智能，谷歌、苹果、Facebook最近在这个领域贡献了巨大的成果，POLY AI使用区块链技术来解决深度学习训练过程中的计算消...",
+    "id":1261,
+    "name":"poly-ai",
+    "name_cn":"－",
+    "name_en":"POLY AI/AI",
+    "time":"2017-11-25",
+    "website":[
+        "https://polynetwork.org/"
+    ],
+    "whitepaper":"https://polynetwork.org/public/whitepaper.pdf"
+}

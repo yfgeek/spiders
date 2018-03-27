@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockchain.live9coin.net/"
+    ],
+    "description":"",
+    "id":1359,
+    "name":"9coin",
+    "name_cn":"－",
+    "name_en":"9COIN/9COIN",
+    "time":"－",
+    "website":[
+        "http://live9coin.net/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"比特币（BTC）、无界（BDS）、钛值（TV）联合的跨链分叉币比特币奇迹（BCW）将在比特币区块高度达到50万时分叉，持有比特币、无界及钛值的用户均可以分到糖果...",
+    "id":1416,
+    "name":"bitcoinwonder",
+    "name_cn":"比特奇迹",
+    "name_en":"Bitcoin Wonder/BCW",
+    "time":"－",
+    "website":[
+        "http://www.bitcoinwonder.io"
+    ],
+    "whitepaper":"http://www.bitcoinwonder.io/#baipi"
+}

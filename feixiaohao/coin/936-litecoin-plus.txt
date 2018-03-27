@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://lcp.altcoinwarz.com:3004/"
+    ],
+    "description":"",
+    "id":936,
+    "name":"litecoin-plus",
+    "name_cn":"－",
+    "name_en":"Litecoin Plus/LCP",
+    "time":"－",
+    "website":[
+        "http://litecoinplus.co"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"LEEKCOIN (韭菜币) 是基于区块链娱乐应用平台中的流通货币，LeekCoin持有人将在LeekICO平台上享有高级会员的服务，能使用LeekCoin提前...",
+    "id":1641,
+    "name":"leekcoin",
+    "name_cn":"韭菜币",
+    "name_en":"Leekcoin/LEEK",
+    "time":"2017-12-20",
+    "website":[
+        "http://www.leekico.com"
+    ],
+    "whitepaper":"-"
+}

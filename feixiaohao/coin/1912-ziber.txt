@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"ZIBER LTD是区块链行业首个在英国获取移动运营商牌照的公司，ZIBER它是安装在世界各地不同的服务器或VPS上的分散式MASTERNODES系统。提供跨国...",
+    "id":1912,
+    "name":"ziber",
+    "name_cn":"－",
+    "name_en":"Ziber/ZIBER",
+    "time":"2017-12-20",
+    "website":[
+        "http://ziber.in/"
+    ],
+    "whitepaper":"http://ziber.in/whitepaper.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.impulsecoin.io/"
+    ],
+    "description":"",
+    "id":1212,
+    "name":"impulsecoin",
+    "name_cn":"脉冲币",
+    "name_en":"ImpulseCoin/IMPS",
+    "time":"－",
+    "website":[
+        "http://www.impulsecoin.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://51.255.6.35:30005/"
+    ],
+    "description":"",
+    "id":1128,
+    "name":"spots",
+    "name_cn":"－",
+    "name_en":"Spots/SPT",
+    "time":"－",
+    "website":[
+        "https://bitcointalk.org/index.php?topic=615513.0"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/"
+    ],
+    "description":"QunQun是基于区块链的激励型社区平台。在QunQun上，人们可以无需任何编码和部署即可轻松创建属于自己的主题社区。人们通过运营自己的QunQun社区，或者参...",
+    "id":1754,
+    "name":"qunqun",
+    "name_cn":"－",
+    "name_en":"QunQun/QUN",
+    "time":"2018-01-12",
+    "website":[
+        "https://qunqun.io/"
+    ],
+    "whitepaper":"https://qunqun.io/static/QunQun_v1.8.0_%E5%9F%BA%E4%BA%8E%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9A%84%E6%BF%80%E5%8A%B1%E5%9E%8B%E7%A4%BE%E5%8C%BA%E5%B9%B3%E5%8F%B0_whitepaper.pdf"
+}

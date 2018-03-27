@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/krs"
+    ],
+    "description":"KRYPSTAL是一个分散的开放源代码（OSI）网络，可通过网络上的多个节点路由IP地址信息，使世界各地的用户匿名使用互联网。 KRYPSTAL帮助用户防范流量...",
+    "id":1636,
+    "name":"krypstal",
+    "name_cn":"－",
+    "name_en":"Krypstal/KRS",
+    "time":"2017-08-20",
+    "website":[
+        "https://www.krypstal.com/"
+    ],
+    "whitepaper":"-"
+}

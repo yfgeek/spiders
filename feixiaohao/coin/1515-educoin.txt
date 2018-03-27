@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/address/0xa0872eE815B8dd0F6937386Fd77134720d953581"
+    ],
+    "description":"EduCoin是建立在基于区块链和智能合约技术基础上，针对教学内容分享，教学服务消费与提供，教学产品技术分享，教学质量监控评估而设计的数字加密虚拟货币体系。请注...",
+    "id":1515,
+    "name":"educoin",
+    "name_cn":"教育币",
+    "name_en":"EduCoin/EDU",
+    "time":"2018-02-22",
+    "website":[
+        "http://edu.one/"
+    ],
+    "whitepaper":"http://whitepaper.edu.one/EduCoin_WhitePaper.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://51.255.6.35:30003/"
+    ],
+    "description":"世界上第一个基于区块链的专业咖啡交易平台，CoffeeCoin为该平台的代币，是一个可交易的，可转让的可靠数字资产，支持全球咖啡市场的交易，提高了交易效率和供应...",
+    "id":1468,
+    "name":"coffeecoin",
+    "name_cn":"－",
+    "name_en":"CoffeeCoin/CFC",
+    "time":"－",
+    "website":[
+        "http://www.coffee-coin.org/"
+    ],
+    "whitepaper":"-"
+}

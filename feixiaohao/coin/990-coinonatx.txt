@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://193.70.109.114:5003/",
+        "http://193.70.109.114/"
+    ],
+    "description":"",
+    "id":990,
+    "name":"coinonatx",
+    "name_cn":"－",
+    "name_en":"CoinonatX/XCXT",
+    "time":"2017-08-15",
+    "website":[
+        "http://coinonatx.com/"
+    ],
+    "whitepaper":"-"
+}

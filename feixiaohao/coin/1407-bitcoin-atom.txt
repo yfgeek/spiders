@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.bitcoinatom.io/"
+    ],
+    "description":"BCA 是比特币在区块高度505888 高度 1:1 的分叉，总量 2100万。支持隔离见证，闪电网络，以及跨链原子交换。",
+    "id":1407,
+    "name":"bitcoin-atom",
+    "name_cn":"－",
+    "name_en":"Bitcoin Atom/BCA",
+    "time":"2018-01-12",
+    "website":[
+        "https://bitcoinatom.io/"
+    ],
+    "whitepaper":"-"
+}

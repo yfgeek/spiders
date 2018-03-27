@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1632,
+    "name":"kibicoin",
+    "name_cn":"开元币",
+    "name_en":"KibiCoin/KIC",
+    "time":"－",
+    "website":[
+        "http://www.kibicoin.org/"
+    ],
+    "whitepaper":"-"
+}

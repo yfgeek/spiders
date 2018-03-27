@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/off/"
+    ],
+    "description":"",
+    "id":1214,
+    "name":"cthulhu-offerings",
+    "name_cn":"－",
+    "name_en":"Cthulhu Offer.../OFF",
+    "time":"－",
+    "website":[
+        "http://cthulhu.tk/"
+    ],
+    "whitepaper":"-"
+}

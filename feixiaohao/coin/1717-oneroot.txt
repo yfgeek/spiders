@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xff603f43946a3a28df5e6a73172555d8c8b02386",
+        "https://ethplorer.io/address/0xff603f43946a3a28df5e6a73172555d8c8b02386"
+    ],
+    "description":"基于区块链技术的概念和应用正在颠覆传统经济，这将撬动价值交换领域的基石，从根本上改变全球经济秩序。ONEROOT致力于在谨守去中心化和共享经济体理念的同时，利用...",
+    "id":1717,
+    "name":"oneroot",
+    "name_cn":"－",
+    "name_en":"Oneroot/RNT",
+    "time":"2017-12-06",
+    "website":[
+        "https://www.oneroot.io/en"
+    ],
+    "whitepaper":"https://www.oneroot.io/static/pdf/whitepaperCH.pdf?_=1712060001"
+}

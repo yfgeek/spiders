@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://revolvercoin.org:3001/",
+        "http://yiimp.ccminer.org/explorer/XRE"
+    ],
+    "description":"RevolverCoin是一种分散的点对点数字货币，可让您轻松在线发送和接收货币。",
+    "id":1015,
+    "name":"revolvercoin",
+    "name_cn":"－",
+    "name_en":"RevolverCoin/XRE",
+    "time":"－",
+    "website":[
+        "http://revolvercoin.org/"
+    ],
+    "whitepaper":"-"
+}

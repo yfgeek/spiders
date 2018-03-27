@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.bitdeal.co.in/"
+    ],
+    "description":"Bitdeal硬币旨在提供专业的交易和交流工具在法律范围内和强有力的技术和法律保护的金融资产。 我们推出的生态系统对全球市场包括仪器为普通用户和私人crypt...",
+    "id":795,
+    "name":"bitdeal",
+    "name_cn":"－",
+    "name_en":"Bitdeal/BDL",
+    "time":"2017-07-11",
+    "website":[
+        "https://bitdeal.co.in/"
+    ],
+    "whitepaper":"-"
+}

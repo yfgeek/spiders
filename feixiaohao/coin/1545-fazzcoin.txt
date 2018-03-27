@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://fazzcoin.org:4444/"
+    ],
+    "description":"",
+    "id":1545,
+    "name":"fazzcoin",
+    "name_cn":"－",
+    "name_en":"Fazzcoin/FAZZ",
+    "time":"－",
+    "website":[
+        "http://fazzcoin.org/"
+    ],
+    "whitepaper":"-"
+}

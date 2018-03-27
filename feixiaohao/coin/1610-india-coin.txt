@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://lpool.name/explorer/INDIA"
+    ],
+    "description":"",
+    "id":1610,
+    "name":"india-coin",
+    "name_cn":"－",
+    "name_en":"India Coin/INDIA",
+    "time":"2017-09-30",
+    "website":[
+        "https://www.indiacoin.club/"
+    ],
+    "whitepaper":"-"
+}

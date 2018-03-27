@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5c5413bad5f6fdb0f4fcd1457e46ead8e01d73d3",
+        "https://ethplorer.io/address/0x5c5413bad5f6fdb0f4fcd1457e46ead8e01d73d3"
+    ],
+    "description":"",
+    "id":1852,
+    "name":"uahpay",
+    "name_cn":"－",
+    "name_en":"UAHPay/UAH",
+    "time":"2017-11-30",
+    "website":[
+        "https://www.uahpay.com/"
+    ],
+    "whitepaper":"-"
+}

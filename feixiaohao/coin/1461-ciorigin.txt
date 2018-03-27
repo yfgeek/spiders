@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"CIG代币是运用以太坊（Ethereum）智能合约开发的数字货币，通过编程智能合约代码，创建一种新的数字货币。",
+    "id":1461,
+    "name":"ciorigin",
+    "name_cn":"－",
+    "name_en":"CIorigin/CIG",
+    "time":"－",
+    "website":[
+        "https://www.ciorigin.net/"
+    ],
+    "whitepaper":"-"
+}

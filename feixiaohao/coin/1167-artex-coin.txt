@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://162.243.99.178:3001/"
+    ],
+    "description":"",
+    "id":1167,
+    "name":"artex-coin",
+    "name_cn":"－",
+    "name_en":"Artex Coin/ATX",
+    "time":"－",
+    "website":[
+        "http://www.atxcoin.org/"
+    ],
+    "whitepaper":"-"
+}

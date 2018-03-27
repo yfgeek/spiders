@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/xvp/"
+    ],
+    "description":"",
+    "id":1028,
+    "name":"virtacoinplus",
+    "name_cn":"－",
+    "name_en":"Virtacoinplus/XVP",
+    "time":"－",
+    "website":[
+        "https://www.virtacoin.plus/",
+        "https://www.virtacoinplus.eu/"
+    ],
+    "whitepaper":"-"
+}

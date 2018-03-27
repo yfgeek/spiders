@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1",
+        "https://ethplorer.io/address/0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1"
+    ],
+    "description":"",
+    "id":1611,
+    "name":"indicoin",
+    "name_cn":"－",
+    "name_en":"Indicoin/INDI",
+    "time":"2018-02-11",
+    "website":[
+        "https://www.indicoin.org.in/"
+    ],
+    "whitepaper":"-"
+}

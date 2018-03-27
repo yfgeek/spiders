@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/feds",
+        "http://blockexplorer.fedorashare.org/"
+    ],
+    "description":"",
+    "id":1547,
+    "name":"fedorashare",
+    "name_cn":"－",
+    "name_en":"FedoraShare/FEDS",
+    "time":"－",
+    "website":[
+        "http://fedorashare.org/"
+    ],
+    "whitepaper":"-"
+}

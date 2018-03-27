@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.startcoin.org"
+    ],
+    "description":"Starcoin是基于BitStar交易平台自身的收入为锚定而发行的数字货币。BitStar致力于为广大区块链和数字货币爱好者提供全新的交易产品和交易体验，数字...",
+    "id":819,
+    "name":"startcoin",
+    "name_cn":"－",
+    "name_en":"Startcoin/START",
+    "time":"－",
+    "website":[
+        "https://startcoin.org/"
+    ],
+    "whitepaper":"-"
+}

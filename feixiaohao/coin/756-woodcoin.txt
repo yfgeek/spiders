@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://explorer.woodcoin.org/",
+        "http://woodcoin.xyz/"
+    ],
+    "description":"",
+    "id":756,
+    "name":"woodcoin",
+    "name_cn":"木币",
+    "name_en":"Woodcoin/LOG",
+    "time":"－",
+    "website":[
+        "http://woodcoin.org/"
+    ],
+    "whitepaper":"-"
+}

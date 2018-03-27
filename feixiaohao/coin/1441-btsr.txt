@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/a/BTSR"
+    ],
+    "description":"",
+    "id":1441,
+    "name":"btsr",
+    "name_cn":"－",
+    "name_en":"BTSR/BTSR",
+    "time":"－",
+    "website":[
+        "https://btsr.io/"
+    ],
+    "whitepaper":"-"
+}

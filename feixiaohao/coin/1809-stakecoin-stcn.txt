@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://www.stakechain.info",
+        "https://www.blockexperts.com/stcn"
+    ],
+    "description":"",
+    "id":1809,
+    "name":"stakecoin-stcn",
+    "name_cn":"－",
+    "name_en":"Stakecoin/STCN",
+    "time":"2017-08-10",
+    "website":[
+        "https://www.stakecoin.com/"
+    ],
+    "whitepaper":"-"
+}

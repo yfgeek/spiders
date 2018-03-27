@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://bex.zilbercoin.space/"
+    ],
+    "description":"",
+    "id":1913,
+    "name":"zilbercoin",
+    "name_cn":"－",
+    "name_en":"Zilbercoin/ZBC",
+    "time":"－",
+    "website":[
+        "http://zilbercoin.space/"
+    ],
+    "whitepaper":"-"
+}

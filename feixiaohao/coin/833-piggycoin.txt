@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info/piggy/"
+    ],
+    "description":"小猪币允许孩子在学习中获得收益，孩子们通过在线教育游戏凭自己的努力获得货币。一旦他们的数字钱包里储存了足够的猪猪币时，就可以在猪猪币商城里购买物品。",
+    "id":833,
+    "name":"piggycoin",
+    "name_cn":"小猪币",
+    "name_en":"Piggycoin/PIGGY",
+    "time":"－",
+    "website":[
+        "http://piggy-coin.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"龙币是由DragonEx发行的一种基于以太坊ERC20标准的代币，每一枚在平台存放的龙币均享有项目分红权。特点：每天DragonEx项目的所有收入都会按照龙币持...",
+    "id":1504,
+    "name":"dragontoken",
+    "name_cn":"龙币",
+    "name_en":"Dragon Token/DT",
+    "time":"2017-11-02",
+    "website":[
+        "https://dragonex.io"
+    ],
+    "whitepaper":"-"
+}

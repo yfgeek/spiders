@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.qtum.org/token/QMUDYjQpjkxZjjfEdKznqsim7VMS5LZzqp"
+    ],
+    "description":"Qbao是基于Qtum技术的去中心化社交网络，拥有数字货币钱包，交易，支付，dapp商店，社交等多种应用场景。目标是成为微信那样拥有完整生态的去中心化应用。Qb...",
+    "id":1281,
+    "name":"qbao",
+    "name_cn":"－",
+    "name_en":"Qbao/QBT",
+    "time":"2017-12-03",
+    "website":[
+        "https://qbao.fund"
+    ],
+    "whitepaper":"https://qbao.fund/qbao/qbao/resources/pdf/qbao_fund_zh-CN.pdf"
+}

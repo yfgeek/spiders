@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://insanecoin.thecryptochat.net/"
+    ],
+    "description":"",
+    "id":1614,
+    "name":"insanecoin",
+    "name_cn":"－",
+    "name_en":"InsaneCoin/INSANE",
+    "time":"－",
+    "website":[
+        "http://insanecoin.com/"
+    ],
+    "whitepaper":"-"
+}

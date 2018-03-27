@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"DATA的数据项目是为解决其核心欺诈的根源而设计的。为了确保生态系统的每一个参与者都有“做得好”的动机，数据平台应用奖励系统来激励最终用户的注意力，并对发布者进...",
+    "id":1275,
+    "name":"data",
+    "name_cn":"－",
+    "name_en":"DATA/DTA",
+    "time":"2018-01-23",
+    "website":[
+        "https://www.data.eco/"
+    ],
+    "whitepaper":"https://docsend.com/view/pk5w8wx"
+}

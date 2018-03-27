@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptobe.com/chain/020LondonCoin"
+    ],
+    "description":"",
+    "id":1708,
+    "name":"o2olondoncoin",
+    "name_cn":"－",
+    "name_en":"020LondonCoin/020",
+    "time":"－",
+    "website":[
+        "http://020londoncoin.co.uk/"
+    ],
+    "whitepaper":"-"
+}

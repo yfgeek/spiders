@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1707,
+    "name":"numuscash",
+    "name_cn":"－",
+    "name_en":"NUMUS/NUMUS",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

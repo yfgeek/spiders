@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.trollpay.com/viewpage.php?page_id=19"
+    ],
+    "description":"",
+    "id":1118,
+    "name":"allion",
+    "name_cn":"－",
+    "name_en":"Allion/ALL",
+    "time":"－",
+    "website":[
+        "http://www.trollpay.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1908,
+    "name":"yogold",
+    "name_cn":"－",
+    "name_en":"Yogold/YOG",
+    "time":"－",
+    "website":[
+        "http://yogold.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/tokentxns"
+    ],
+    "description":"EduChain 平台将从技术上打造教育行业孵化系统，并从业务上与 VC 资本进行深度对接与融合，方便教育行业的区块链技术推广及应用，为不同规模的教育企业与个人...",
+    "id":1514,
+    "name":"educhain",
+    "name_cn":"教育链",
+    "name_en":"EduChain/EDU",
+    "time":"2017-09-10",
+    "website":[
+        "http://www.educhain.kim"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://prohashing.com/explorer/Blazecoin/"
+    ],
+    "description":"Blazecoin于5月23日正式启动，直接邮寄给国际消防协会，并与当地的消防队员和志愿者一起发布，让志愿者消防员受益。美国和世界各地的大部分消防部门都是志愿者...",
+    "id":880,
+    "name":"blazecoin",
+    "name_cn":"－",
+    "name_en":"BlazeCoin/BLZ",
+    "time":"－",
+    "website":[
+        "http://blazeco.in/"
+    ],
+    "whitepaper":"-"
+}

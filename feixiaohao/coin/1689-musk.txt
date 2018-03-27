@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"MUSK 联盟链——是基于区块链的全球媒体数字资产交易平台、版权追溯系统以及去中心化的智能广告推广分发系统。MUSK 的业务逻辑是以区块链为底层技术，自媒体版权...",
+    "id":1689,
+    "name":"musk",
+    "name_cn":"－",
+    "name_en":"MUSK Token/MUSK",
+    "time":"－",
+    "website":[
+        "http://musk.vip"
+    ],
+    "whitepaper":"-"
+}

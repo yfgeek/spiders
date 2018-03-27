@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://blox.slingcoin.rocks/"
+    ],
+    "description":"",
+    "id":1797,
+    "name":"sling",
+    "name_cn":"－",
+    "name_en":"Sling/SLING",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

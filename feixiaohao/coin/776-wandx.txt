@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x27f610bf36eca0939093343ac28b1534a721dbb4",
+        "https://ethplorer.io/address/0x27f610bf36eca0939093343ac28b1534a721dbb4"
+    ],
+    "description":"WandX是以太坊区块链上的一个分散平台，它使用户能够使用任何金融工具在加密资产上创建、交易和结算。使用Wand令牌，用户可以投资ETF（交易所买卖基金），购买...",
+    "id":776,
+    "name":"wandx",
+    "name_cn":"－",
+    "name_en":"WandX/WAND",
+    "time":"2017-12-30",
+    "website":[
+        "https://www.wandx.co/"
+    ],
+    "whitepaper":"https://www.wandx.co/whitepaper.html"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://namocoin.dynns.com:3001/"
+    ],
+    "description":"",
+    "id":1692,
+    "name":"namocoin",
+    "name_cn":"－",
+    "name_en":"NamoCoin/NAMO",
+    "time":"2017-08-28",
+    "website":[
+        "http://namocoin.co.in/"
+    ],
+    "whitepaper":"-"
+}

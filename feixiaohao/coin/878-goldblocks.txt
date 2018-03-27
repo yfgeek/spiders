@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://cryptogods.net/explorer/goldblocks/"
+    ],
+    "description":"",
+    "id":878,
+    "name":"goldblocks",
+    "name_cn":"－",
+    "name_en":"GoldBlocks/GB",
+    "time":"－",
+    "website":[
+        "http://goldblocks.eu/"
+    ],
+    "whitepaper":"-"
+}

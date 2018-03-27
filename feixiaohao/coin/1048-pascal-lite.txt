@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.pascallite.com/"
+    ],
+    "description":"",
+    "id":1048,
+    "name":"pascal-lite",
+    "name_cn":"－",
+    "name_en":"Pascal Lite/PASL",
+    "time":"－",
+    "website":[
+        "https://pascallite.com/"
+    ],
+    "whitepaper":"-"
+}

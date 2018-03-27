@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7",
+        "https://ethplorer.io/address/0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7"
+    ],
+    "description":"TokenClub是基于区块链的数字货币投资服务社区，为投资者提供专业的数字货币资讯、 投顾咨询、投资策略等综合服务，并利用区块链技术解决社区内成员之间的信任和...",
+    "id":1336,
+    "name":"tokenclub",
+    "name_cn":"－",
+    "name_en":"TokenClub/TCT",
+    "time":"2018-01-11",
+    "website":[
+        "http://www.tokenclub.com/"
+    ],
+    "whitepaper":"http://www.tokenclub.com/assets/TokenClub_c.pdf"
+}

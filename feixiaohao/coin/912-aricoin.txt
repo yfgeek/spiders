@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://ari.explorer.ssdpool.com:9127/"
+    ],
+    "description":"",
+    "id":912,
+    "name":"aricoin",
+    "name_cn":"－",
+    "name_en":"Aricoin/ARI",
+    "time":"－",
+    "website":[
+        "https://aricoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://www.techsharescommunity.com/wallet",
+        "/explorer/blocks"
+    ],
+    "description":"Techshare(THS)是一个智能合约平台，与大多数数字货币类似，TechShares (科技股) 使用区块链来记录参与者的转账信息及市场行为。TechSh...",
+    "id":1825,
+    "name":"techshares",
+    "name_cn":"科技股",
+    "name_en":"TechShares/THS",
+    "time":"－",
+    "website":[
+        "http://www.techsharescommunity.com/"
+    ],
+    "whitepaper":"-"
+}

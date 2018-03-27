@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://asset.burstnation.com/asset/6503640249706792397"
+    ],
+    "description":"",
+    "id":1859,
+    "name":"uniburst",
+    "name_cn":"－",
+    "name_en":"UniBURST/UNIBURST",
+    "time":"－",
+    "website":[
+        "http://uniburst.info"
+    ],
+    "whitepaper":"-"
+}

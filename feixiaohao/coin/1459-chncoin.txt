@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/cnc/"
+    ],
+    "description":"中国币(CHNCoin,CNC)基于Litecoin的新型P2P货币,采用GPU挖矿的Scrypt算法，出块时间60秒，每个区块包含88个货币，每5040个区块...",
+    "id":1459,
+    "name":"chncoin",
+    "name_cn":"中国币",
+    "name_en":"CHNCoin/CNC",
+    "time":"－",
+    "website":[
+        "http://chncoin.org/"
+    ],
+    "whitepaper":"-"
+}

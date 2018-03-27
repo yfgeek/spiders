@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xd780ae2bf04cd96e577d3d014762f831d97129d0",
+        "https://ethplorer.io/address/0xd780ae2bf04cd96e577d3d014762f831d97129d0"
+    ],
+    "description":"Envion 是一家来自德国柏林的瑞士创新型区块链初创企业，其交付智能的网外解决方案，这些方案可对全球可再生能源及传统能源的价值最大化。由于同欧洲和中东许多领先...",
+    "id":1523,
+    "name":"envion",
+    "name_cn":"－",
+    "name_en":"Envion/EVN",
+    "time":"2018-02-16",
+    "website":[
+        "https://www.envion.org"
+    ],
+    "whitepaper":"https://www.envion.org/en/download/envion_whitepaper.pdf"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://asset.burstnation.com/asset/15582693451220660615"
+    ],
+    "description":"",
+    "id":1802,
+    "name":"snakeeyes",
+    "name_cn":"蛇眼币",
+    "name_en":"SnakeEyes/SNAKE",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

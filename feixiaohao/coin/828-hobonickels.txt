@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/hbn/"
+    ],
+    "description":"HoboNickels是一种类似于比特币的加密货币，旨在使在线交易变得简单高效。HoboNickels正在积极开发和改进,它是一个非常快速和高效的加密货币。",
+    "id":828,
+    "name":"hobonickels",
+    "name_cn":"流浪币",
+    "name_en":"HoboNickels/HBN",
+    "time":"－",
+    "website":[
+        "http://hobonickels.info/"
+    ],
+    "whitepaper":"-"
+}

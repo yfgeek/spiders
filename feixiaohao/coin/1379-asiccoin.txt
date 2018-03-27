@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"AsicCoin发布于2013年9月11日，SHA-256算法，30秒每块，每块1024个，60块（30分钟）调整难度，三个月减半，共计675,925,530个...",
+    "id":1379,
+    "name":"asiccoin",
+    "name_cn":"斯科币",
+    "name_en":"AsicCoin/ASC",
+    "time":"－",
+    "website":[
+        "http://asiccoin.biz"
+    ],
+    "whitepaper":"-"
+}

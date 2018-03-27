@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.canadaecoin.ca/"
+    ],
+    "description":"Canada eCoin是一种基于加拿大主题的scrypbased加密货币。CDN在一个完全透明的公共账簿上，所有在Canada eCoin网络上广播的交易都可...",
+    "id":787,
+    "name":"canada-ecoin",
+    "name_cn":"－",
+    "name_en":"Canada eCoin/CDN",
+    "time":"－",
+    "website":[
+        "http://www.canadaecoin.ca/"
+    ],
+    "whitepaper":"-"
+}

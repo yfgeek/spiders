@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://grim.reaper.rocks/"
+    ],
+    "description":"",
+    "id":997,
+    "name":"grimcoin",
+    "name_cn":"－",
+    "name_en":"Grimcoin/GRIM",
+    "time":"2017-11-11",
+    "website":[
+        "http://reaper.rocks/"
+    ],
+    "whitepaper":"-"
+}

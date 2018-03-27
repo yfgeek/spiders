@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://193.70.109.114:3001/",
+        "https://pool.coin-miners.info/explorer/CXT"
+    ],
+    "description":"",
+    "id":1129,
+    "name":"coinonat",
+    "name_cn":"－",
+    "name_en":"Coinonat/CXT",
+    "time":"－",
+    "website":[
+        "http://www.coinonat.org/"
+    ],
+    "whitepaper":"-"
+}

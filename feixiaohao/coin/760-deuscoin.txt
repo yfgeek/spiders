@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.deuscoin.org/"
+    ],
+    "description":"",
+    "id":760,
+    "name":"deuscoin",
+    "name_cn":"－",
+    "name_en":"DeusCoin/DEUS",
+    "time":"－",
+    "website":[
+        "http://deuscoin.org/"
+    ],
+    "whitepaper":"-"
+}

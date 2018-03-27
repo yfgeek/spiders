@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/FLT/",
+        "https://prohashing.com/explorer/Fluttercoin/"
+    ],
+    "description":"",
+    "id":790,
+    "name":"fluttercoin",
+    "name_cn":"彩蝶币",
+    "name_en":"FlutterCoin/FLT",
+    "time":"－",
+    "website":[
+        "http://www.fluttercoin.me/"
+    ],
+    "whitepaper":"-"
+}

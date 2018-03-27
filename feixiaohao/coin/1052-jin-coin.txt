@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://jin-coin.info/explorer"
+    ],
+    "description":"Jin Coin是建立在区块链上的分布式开放式账户，由矿工和节点维护，使用SHA256哈希算法通过工作证明进行安全保护。SegWit提供更高的交易容量，并为将来...",
+    "id":1052,
+    "name":"jin-coin",
+    "name_cn":"－",
+    "name_en":"Jin Coin/JIN",
+    "time":"－",
+    "website":[
+        "http://jin-coin.info/"
+    ],
+    "whitepaper":"-"
+}

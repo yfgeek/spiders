@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"由于Segwit2X宣告失败，海外Evey团队和007团队联合开发的Bitcoin Diamond（比特币钻石）应运而生！  比特币钻石币背后有一个非常有趣的想...",
+    "id":1274,
+    "name":"btcd",
+    "name_cn":"比特币钻石",
+    "name_en":"BCD/BCD",
+    "time":"2017-11-16",
+    "website":[
+        "http://www.btcd.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1374,
+    "name":"animecoin",
+    "name_cn":"－",
+    "name_en":"Animecoin/ANI",
+    "time":"－",
+    "website":[
+        "http://anime-coin.com/"
+    ],
+    "whitepaper":"-"
+}

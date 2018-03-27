@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/j/",
+        "http://cryptoguru.tk/CurrencyInfo/index.php?Currency=J"
+    ],
+    "description":"",
+    "id":1080,
+    "name":"joincoin",
+    "name_cn":"－",
+    "name_en":"Joincoin/J",
+    "time":"－",
+    "website":[
+        "https://bitcointalk.org/index.php?topic=737405.0"
+    ],
+    "whitepaper":"-"
+}

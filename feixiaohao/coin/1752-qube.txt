@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"QUantitative Bitcoin Exchange，简称QUBE。QUBE智能量化分析引擎，解决方案基于数据大规模处理和深度学习算法的数据降维、 噪点去...",
+    "id":1752,
+    "name":"qube",
+    "name_cn":"－",
+    "name_en":"Qube/QUBE",
+    "time":"2018-01-16",
+    "website":[
+        "http://www.qube.vip/"
+    ],
+    "whitepaper":"http://www.qube.vip/download/QUBE_White_Paper_A_Bloomberg_for_Blockchain_cn.pdf"
+}

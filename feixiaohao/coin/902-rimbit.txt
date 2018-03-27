@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://rimbitexplorer.com/chain/Rimbit"
+    ],
+    "description":"",
+    "id":902,
+    "name":"rimbit",
+    "name_cn":"－",
+    "name_en":"Rimbit/RBT",
+    "time":"－",
+    "website":[
+        "http://www.rimbit.com"
+    ],
+    "whitepaper":"-"
+}

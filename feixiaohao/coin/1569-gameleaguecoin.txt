@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1569,
+    "name":"gameleaguecoin",
+    "name_cn":"－",
+    "name_en":"GameLeagueCoin/GML",
+    "time":"－",
+    "website":[
+        "https://bitcointalk.org/index.php?topic=595779.0"
+    ],
+    "whitepaper":"-"
+}

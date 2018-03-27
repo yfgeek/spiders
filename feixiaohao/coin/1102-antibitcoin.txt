@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/anti"
+    ],
+    "description":"",
+    "id":1102,
+    "name":"antibitcoin",
+    "name_cn":"－",
+    "name_en":"AntiBitcoin/ANTI",
+    "time":"－",
+    "website":[
+        "http://anti.cash/"
+    ],
+    "whitepaper":"-"
+}

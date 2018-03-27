@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://numus.info/"
+    ],
+    "description":"",
+    "id":1706,
+    "name":"numus",
+    "name_cn":"－",
+    "name_en":"NMS/NMS",
+    "time":"－",
+    "website":[
+        "http://numus.cash/"
+    ],
+    "whitepaper":"-"
+}

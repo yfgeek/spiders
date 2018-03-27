@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5c6183d10a00cd747a6dbb5f658ad514383e9419",
+        "https://ethplorer.io/address/0x5c6183d10a00cd747a6dbb5f658ad514383e9419"
+    ],
+    "description":"",
+    "id":1702,
+    "name":"nexxus",
+    "name_cn":"－",
+    "name_en":"Nexxus/NXX",
+    "time":"2017-08-10",
+    "website":[
+        "http://www.nexxuscoin.com"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://sdp.miningalts.com/"
+    ],
+    "description":"",
+    "id":1227,
+    "name":"sydpak",
+    "name_cn":"－",
+    "name_en":"SydPak/SDP",
+    "time":"－",
+    "website":[
+        "http://www.sydpak.com/"
+    ],
+    "whitepaper":"-"
+}

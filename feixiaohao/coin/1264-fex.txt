@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x271220fbefd584a6b0a6ad457721c076321646a1"
+    ],
+    "description":"FEX代币代表的是FEX平台的分红权益，其发行初始数量为恒定的3000万枚，永不增发，发行后每个季度使用平台产生交易收益的20%回购市场上的FEX代币并进行销毁...",
+    "id":1264,
+    "name":"fex",
+    "name_cn":"－",
+    "name_en":"FEX/FEX",
+    "time":"2017-12-11",
+    "website":[
+        "https://fex.hk/"
+    ],
+    "whitepaper":"https://fexpro.io/Files/Whitepaper_chinese.pdf"
+}

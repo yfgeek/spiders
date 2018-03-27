@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/a/OBITS.WARRANT"
+    ],
+    "description":"",
+    "id":1879,
+    "name":"warrant",
+    "name_cn":"－",
+    "name_en":"OBITS.WARRANT/WARRANT",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

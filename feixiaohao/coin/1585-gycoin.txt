@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://gyc.ybi.net/"
+    ],
+    "description":"公益币诞生2015年7月7日，基于X13算法，改进独有算法，专业矿机不能进行挖矿，普通电脑CPU.GPU可以进行挖矿，更加公平公正，公益币发行总量为4200万，...",
+    "id":1585,
+    "name":"gycoin",
+    "name_cn":"公益币",
+    "name_en":"Gycoin/GYC",
+    "time":"－",
+    "website":[
+        "http://www.gycoin.net/"
+    ],
+    "whitepaper":"-"
+}

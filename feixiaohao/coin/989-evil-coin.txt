@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://cryptobe.com/chain/EvilCoin",
+        "http://www.tekyexplorer.xyz/evil/"
+    ],
+    "description":"",
+    "id":989,
+    "name":"evil-coin",
+    "name_cn":"－",
+    "name_en":"Evil Coin/EVIL",
+    "time":"－",
+    "website":[
+        "http://evilcoin.xyz/"
+    ],
+    "whitepaper":"-"
+}

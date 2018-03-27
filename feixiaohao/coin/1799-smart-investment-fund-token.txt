@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x8a187d5285d316bcbc9adafc08b51d70a0d8e000",
+        "https://ethplorer.io/address/0x8a187d5285d316bcbc9adafc08b51d70a0d8e000"
+    ],
+    "description":"",
+    "id":1799,
+    "name":"smart-investment-fund-token",
+    "name_cn":"－",
+    "name_en":"Smart Investm.../SIFT",
+    "time":"2017-09-30",
+    "website":[
+        "https://smartift.com/"
+    ],
+    "whitepaper":"-"
+}

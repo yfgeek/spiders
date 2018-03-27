@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.topcoin.us/"
+    ],
+    "description":"顶点币(Topcoin,TOP)发布于2014年2月8日，Scrypt算法，30秒每块，100万个每块，每2天减半，共计115.2亿个，4次交易确认。",
+    "id":1843,
+    "name":"topcoin",
+    "name_cn":"顶点币",
+    "name_en":"TopCoin/TOP",
+    "time":"－",
+    "website":[
+        "http://topcoin.pw/"
+    ],
+    "whitepaper":"-"
+}

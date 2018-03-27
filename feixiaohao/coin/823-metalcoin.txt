@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/METALCOIN"
+    ],
+    "description":"Metal是一种基于区块链技术的支付工具，用来证明用户付款确认，并使用MTL代币进行奖励。Metal拥有一个友好的用户界面，就像Venmo、Square、Pay...",
+    "id":823,
+    "name":"metalcoin",
+    "name_cn":"－",
+    "name_en":"MetalCoin/METAL",
+    "time":"－",
+    "website":[
+        "http://www.metalmoshpit.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1804,
+    "name":"soulcoin",
+    "name_cn":"－",
+    "name_en":"SoulCoin/SOUL",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

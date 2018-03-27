@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chainz.cryptoid.info"
+    ],
+    "description":"",
+    "id":829,
+    "name":"trollcoin",
+    "name_cn":"－",
+    "name_en":"Trollcoin/TROLL",
+    "time":"－",
+    "website":[
+        "http://trollcoinbase.com"
+    ],
+    "whitepaper":"-"
+}

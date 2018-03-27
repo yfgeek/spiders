@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Ruff链是第一个支持物联网全栈开发端到端分布式应用的链，它包含一个基于javascript的操作系统，支持边缘计算节点的开发，同时支持记账节点通过集群的方式同...",
+    "id":1282,
+    "name":"ruff",
+    "name_cn":"－",
+    "name_en":"Ruff/RUFF",
+    "time":"2018-01-29",
+    "website":[
+        "https://ruff.io/"
+    ],
+    "whitepaper":"https://github.com/RuffNotes/RuffChain/blob/master/WhitePaper.md"
+}

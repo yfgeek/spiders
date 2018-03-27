@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://104.223.43.151:8080/",
+        "http://opcoin.prenges.rocks/"
+    ],
+    "description":"OP Coin的目标是创造一个伟大的社区，除了高回报和强大的市场营销外，用户将能够花费他的OPC在社区的许多彩票中赢得大奖。",
+    "id":881,
+    "name":"op-coin",
+    "name_cn":"－",
+    "name_en":"OP Coin/OPC",
+    "time":"2018-01-09",
+    "website":[
+        "http://opcoin.info/"
+    ],
+    "whitepaper":"-"
+}

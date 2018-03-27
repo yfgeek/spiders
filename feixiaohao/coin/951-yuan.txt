@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://yuancoin.coingogo.com/"
+    ],
+    "description":"源币，是由币源社区项目创始人团队共同发行，总量为2100万枚（为了纪念比特币的诞生），创世于2016年09月28日，它是一种基于区块链技术的去中心化加密数字资产...",
+    "id":951,
+    "name":"yuan",
+    "name_cn":"源币",
+    "name_en":"YUANCOIN/YUAN",
+    "time":"－",
+    "website":[
+        "http://yuancoin.coingogo.com/"
+    ],
+    "whitepaper":"-"
+}

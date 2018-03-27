@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://x2.altcoinsteps.com/"
+    ],
+    "description":"",
+    "id":1895,
+    "name":"x2",
+    "name_cn":"－",
+    "name_en":"X2/X2",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/BUK/"
+    ],
+    "description":"发布于2013年8月31日，Scrypt算法，3分钟每块，每块30个，共计1000万个。",
+    "id":1476,
+    "name":"cryptobuck",
+    "name_cn":"巴克币",
+    "name_en":"CryptoBuck/BUK",
+    "time":"－",
+    "website":[
+        "http://cryptobuck.com/"
+    ],
+    "whitepaper":"-"
+}

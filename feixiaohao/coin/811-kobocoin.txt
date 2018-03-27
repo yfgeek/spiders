@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/kobo/"
+    ],
+    "description":"",
+    "id":811,
+    "name":"kobocoin",
+    "name_cn":"－",
+    "name_en":"Kobocoin/KOBO",
+    "time":"－",
+    "website":[
+        "http://kobocoin.com"
+    ],
+    "whitepaper":"-"
+}

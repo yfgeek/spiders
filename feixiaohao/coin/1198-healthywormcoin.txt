@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/worm/"
+    ],
+    "description":"",
+    "id":1198,
+    "name":"healthywormcoin",
+    "name_cn":"－",
+    "name_en":"HealthyWormCoin/WORM",
+    "time":"－",
+    "website":[
+        "http://healthyworm.com/"
+    ],
+    "whitepaper":"-"
+}

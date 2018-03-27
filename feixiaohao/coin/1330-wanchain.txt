@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.wanchain.org/"
+    ],
+    "description":"Wanchain是一个区块链技术的智能合约平台，它具有保护隐私和跨链功能。Wanchain区块链是基于以太坊的代码建立的。这个主网在2018年1月18号上线，在...",
+    "id":1330,
+    "name":"wanchain",
+    "name_cn":"－",
+    "name_en":"Wanchain/WAN",
+    "time":"2018-03-24",
+    "website":[
+        "https://www.wanchain.org/"
+    ],
+    "whitepaper":"https://www.wanchain.org/files/Wanchain-Whitepaper-EN-version.pdf"
+}

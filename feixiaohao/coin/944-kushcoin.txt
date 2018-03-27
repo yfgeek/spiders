@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/kush/"
+    ],
+    "description":"",
+    "id":944,
+    "name":"kushcoin",
+    "name_cn":"－",
+    "name_en":"KushCoin/KUSH",
+    "time":"－",
+    "website":[
+        "https://kushcoin.co"
+    ],
+    "whitepaper":"-"
+}

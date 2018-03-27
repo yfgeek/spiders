@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://freicoin.info/chain/Freicoin"
+    ],
+    "description":"运输币(FreiCoin,FRC)是一个点对点的虚拟货币，发布于2012年11月22日,出块时间10分钟，货币的总量是1亿,。FRC在设计思想上有所创新,为了加...",
+    "id":983,
+    "name":"freicoin",
+    "name_cn":"运输币",
+    "name_en":"Freicoin/FRC",
+    "time":"－",
+    "website":[
+        "http://freico.in"
+    ],
+    "whitepaper":"-"
+}

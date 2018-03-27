@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.grlc-bakery.fun/"
+    ],
+    "description":"",
+    "id":943,
+    "name":"garlicoin",
+    "name_cn":"－",
+    "name_en":"Garlicoin/GRLC",
+    "time":"2018-01-28",
+    "website":[
+        "https://garlicoin.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://kroneblocks.org/"
+    ],
+    "description":"",
+    "id":1162,
+    "name":"kronecoin",
+    "name_cn":"－",
+    "name_en":"Kronecoin/KRONE",
+    "time":"2017-09-07",
+    "website":[
+        "https://bitcointalk.org/index.php?topic=2068475.0"
+    ],
+    "whitepaper":"-"
+}

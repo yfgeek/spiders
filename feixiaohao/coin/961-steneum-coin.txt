@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.steneum.com/"
+    ],
+    "description":"Steneum Coin是支持Bitsten交易所的数字货币。它使用开放协议来进行去中心化的安全支付交易，存储服务器是分散的、分布式的。",
+    "id":961,
+    "name":"steneum-coin",
+    "name_cn":"－",
+    "name_en":"Steneum Coin/STN",
+    "time":"2018-01-11",
+    "website":[
+        "http://www.steneum.com/"
+    ],
+    "whitepaper":"-"
+}

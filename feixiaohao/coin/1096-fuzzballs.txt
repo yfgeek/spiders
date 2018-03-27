@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptobe.com/chain/FuzzCoin"
+    ],
+    "description":"FuzzBalls最初是用于礼物和派对的货币，在IRC房间或聊天室中可以使用FUZZ或同等的BTC购买礼物送给人们。",
+    "id":1096,
+    "name":"fuzzballs",
+    "name_cn":"－",
+    "name_en":"FuzzBalls/FUZZ",
+    "time":"－",
+    "website":[
+        "http://www.fyi-koerier.nl/fuzzballs.htm"
+    ],
+    "whitepaper":"-"
+}

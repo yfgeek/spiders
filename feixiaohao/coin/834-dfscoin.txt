@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://139.162.189.133:3001/"
+    ],
+    "description":"",
+    "id":834,
+    "name":"dfscoin",
+    "name_cn":"－",
+    "name_en":"DFSCoin/DFS",
+    "time":"2017-09-24",
+    "website":[
+        "http://dfscoins.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/paycon/",
+        "https://www.cryptopia.co.nz/BlockExplorer?coin=CON"
+    ],
+    "description":"",
+    "id":1116,
+    "name":"paycon",
+    "name_cn":"－",
+    "name_en":"PayCon/CON",
+    "time":"－",
+    "website":[
+        "https://paycon.pw/"
+    ],
+    "whitepaper":"-"
+}

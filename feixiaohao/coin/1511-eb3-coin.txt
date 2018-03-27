@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://eb3explorer.com/"
+    ],
+    "description":"EB3硬币是一个集中cryptocurrency使用分散的区块链技术,称为一个alt硬币。 它是由kc Ching开发早在2015年,加密专家和技术爱好者渴望...",
+    "id":1511,
+    "name":"eb3-coin",
+    "name_cn":"－",
+    "name_en":"EB3 Coin/EB3",
+    "time":"－",
+    "website":[
+        "http://www.eb3coin.com/"
+    ],
+    "whitepaper":"-"
+}

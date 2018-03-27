@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://prcoin.info/chain/Prcoin/"
+    ],
+    "description":"",
+    "id":1216,
+    "name":"prcoin",
+    "name_cn":"－",
+    "name_en":"PRCoin/PRC",
+    "time":"－",
+    "website":[
+        "https://prcoin.io/"
+    ],
+    "whitepaper":"-"
+}

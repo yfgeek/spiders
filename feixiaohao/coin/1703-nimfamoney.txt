@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xe26517a9967299453d3f1b48aa005e6127e67210",
+        "https://ethplorer.io/address/0xe26517a9967299453d3f1b48aa005e6127e67210"
+    ],
+    "description":"Nimfamoney 是一个数字货币的贷款平台。您可以借用零利率的 NIMFA 代币 来参加其他公司的 ICO, 或者直接在交易平台使用。你只需支付进入 ICO...",
+    "id":1703,
+    "name":"nimfamoney",
+    "name_cn":"－",
+    "name_en":"Nimfamoney/NIMFA",
+    "time":"2018-01-05",
+    "website":[
+        "https://nimfamoney.io/"
+    ],
+    "whitepaper":"-"
+}

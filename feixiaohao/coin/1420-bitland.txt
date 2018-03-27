@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/a/CADASTRAL"
+    ],
+    "description":"",
+    "id":1420,
+    "name":"bitland",
+    "name_cn":"－",
+    "name_en":"Bitland/CADASTRAL",
+    "time":"－",
+    "website":[
+        "http://www.bitland.world/"
+    ],
+    "whitepaper":"-"
+}

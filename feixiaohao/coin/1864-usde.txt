@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://usde.explorerz.top:3008/"
+    ],
+    "description":"",
+    "id":1864,
+    "name":"usde",
+    "name_cn":"－",
+    "name_en":"USDe/USDE",
+    "time":"－",
+    "website":[
+        "http://usde.co/"
+    ],
+    "whitepaper":"-"
+}

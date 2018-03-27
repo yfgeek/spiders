@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/pcn/",
+        "http://www.almightycoins.org/explorer/peepcoin"
+    ],
+    "description":"",
+    "id":852,
+    "name":"peepcoin",
+    "name_cn":"－",
+    "name_en":"PeepCoin/PCN",
+    "time":"2017-07-12",
+    "website":[
+        "http://dapscoin.com/"
+    ],
+    "whitepaper":"-"
+}

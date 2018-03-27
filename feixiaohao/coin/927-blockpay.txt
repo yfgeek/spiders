@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/a/BLOCKPAY"
+    ],
+    "description":"BlockPay致力于为大中华地区的外贸企业提供基于比特币的境外支付解决方案。商户可以接收全球客户的比特币付款，并在中国大陆和香港采用当地的法币结算，整个过程不...",
+    "id":927,
+    "name":"blockpay",
+    "name_cn":"－",
+    "name_en":"BlockPay/BLOCKPAY",
+    "time":"－",
+    "website":[
+        "https://blockpay.ch/"
+    ],
+    "whitepaper":"-"
+}

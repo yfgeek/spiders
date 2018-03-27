@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/RAREPEPEPRTY"
+    ],
+    "description":"",
+    "id":1757,
+    "name":"rare-pepe-party",
+    "name_cn":"－",
+    "name_en":"Rare Pepe Party/RAREPEPEPRTY",
+    "time":"－",
+    "website":[
+        "http://rarepepe.party/"
+    ],
+    "whitepaper":"-"
+}

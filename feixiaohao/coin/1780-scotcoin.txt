@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/SCOTCOIN"
+    ],
+    "description":"Scotcoin由苏格兰风险投资家Derek Nisbet发起，这种数字货币将在苏格兰独立运动中发挥重要作用，虽然2014年独立公投失败，但Scotcoin却并...",
+    "id":1780,
+    "name":"scotcoin",
+    "name_cn":"－",
+    "name_en":"Scotcoin/SCOT",
+    "time":"－",
+    "website":[
+        "http://scotcoin.org/"
+    ],
+    "whitepaper":"-"
+}

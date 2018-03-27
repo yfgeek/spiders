@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1839,
+    "name":"todaycoin",
+    "name_cn":"－",
+    "name_en":"TodayCoin/TODAY",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

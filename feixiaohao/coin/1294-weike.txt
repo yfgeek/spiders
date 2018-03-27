@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"WKT是基于威客链的区块链平台智能数字资产生成，是在威客链的社交服务社区上使用去中心化应用（“Daps”）和智能数字资产时需要使用的加密软件代币，WKT会作为威...",
+    "id":1294,
+    "name":"weike",
+    "name_cn":"威客币",
+    "name_en":"Weike/WKT",
+    "time":"－",
+    "website":[
+        "http://www.weike.tw/"
+    ],
+    "whitepaper":"-"
+}

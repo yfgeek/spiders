@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockexplorer.helleniccoin.gr/"
+    ],
+    "description":"",
+    "id":1008,
+    "name":"helleniccoin",
+    "name_cn":"火牛币",
+    "name_en":"Helleniccoin/HNC",
+    "time":"－",
+    "website":[
+        "http://www.helleniccoin.gr/"
+    ],
+    "whitepaper":"-"
+}

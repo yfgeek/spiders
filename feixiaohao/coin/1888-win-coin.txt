@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/wc"
+    ],
+    "description":"云尊币(WC)一一是一种以区块链为底层安全技术的加密数字资产，它的发展趋势和价值将随着时间的推移而日益彰显。云尊加密数字资产的发行量源于庞大的经销商数量和可循环...",
+    "id":1888,
+    "name":"win-coin",
+    "name_cn":"云尊币",
+    "name_en":"WINCOIN/WC",
+    "time":"2017-11-21",
+    "website":[
+        "https://wincoin.co/"
+    ],
+    "whitepaper":"-"
+}

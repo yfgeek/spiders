@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.zzcexplorer.com/"
+    ],
+    "description":"ZOZO Coin（ZZC）是一种独一无二的基于区块链的加密货币，旨在为世界提供快速、安全、接近零的成本支付。ZZC是美国去中心化的不动产融资。",
+    "id":1026,
+    "name":"zozocoin",
+    "name_cn":"－",
+    "name_en":"ZoZoCoin/ZZC",
+    "time":"2017-11-22",
+    "website":[
+        "https://www.zozocoins.com/"
+    ],
+    "whitepaper":"https://zozocoins.com/ZZCCloud/Zozo_Coin_English_Resize_Reduced.pdf"
+}

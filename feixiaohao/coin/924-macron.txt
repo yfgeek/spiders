@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://mcrn.acc-pool.pw/"
+    ],
+    "description":"",
+    "id":924,
+    "name":"macron",
+    "name_cn":"－",
+    "name_en":"MACRON/MCRN",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

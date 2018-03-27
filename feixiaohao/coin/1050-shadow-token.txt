@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/assets.html?ETLzrCpBqTrpyuMGdiVLBPZnUoKwte88oVdJjoFi5R2h"
+    ],
+    "description":"",
+    "id":1050,
+    "name":"shadow-token",
+    "name_cn":"－",
+    "name_en":"Shadow Token/SHDW",
+    "time":"2017-08-13",
+    "website":[
+        "http://shadowtoken.io/"
+    ],
+    "whitepaper":"-"
+}

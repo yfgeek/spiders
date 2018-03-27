@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://honey.thecryptochat.net/",
+        "https://pool.coin-miners.info/explorer/HONEY"
+    ],
+    "description":"",
+    "id":1046,
+    "name":"honey",
+    "name_cn":"－",
+    "name_en":"Honey/HONEY",
+    "time":"－",
+    "website":[
+        "http://honeycoin.info"
+    ],
+    "whitepaper":"-"
+}

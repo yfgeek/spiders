@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.tekyexplorer.xyz/strb/"
+    ],
+    "description":"",
+    "id":1818,
+    "name":"superturbostake",
+    "name_cn":"－",
+    "name_en":"SuperTurboStake/STRB",
+    "time":"－",
+    "website":[
+        "http://superturbostake.yolasite.com/"
+    ],
+    "whitepaper":"-"
+}

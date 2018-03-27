@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1832,
+    "name":"the-vegan-initiative",
+    "name_cn":"－",
+    "name_en":"The Vegan Initiative/XVE",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

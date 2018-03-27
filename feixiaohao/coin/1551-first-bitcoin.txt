@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://bitcf.mintr.org/"
+    ],
+    "description":"",
+    "id":1551,
+    "name":"first-bitcoin",
+    "name_cn":"－",
+    "name_en":"First Bitcoin/BIT",
+    "time":"－",
+    "website":[
+        "http://bitcoincapitalcorp.com/"
+    ],
+    "whitepaper":"http://bitcoincapitalcorp.com/teslacoilcoinwhitepaper/"
+}

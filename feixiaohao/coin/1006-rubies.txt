@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockexplorer.betterbets.io:8080/"
+    ],
+    "description":"",
+    "id":1006,
+    "name":"rubies",
+    "name_cn":"－",
+    "name_en":"Rubies/RBIES",
+    "time":"－",
+    "website":[
+        "http://rbies.org/"
+    ],
+    "whitepaper":"-"
+}

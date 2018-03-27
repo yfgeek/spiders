@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"区块链是价值互联网的基石，美链旨在构建真正去中心化的美丽生态链，汇集整个美丽产业上下游的平台、用户、内容生产者、商家、广告主、制造业等，通过区块链深刻变革美丽产...",
+    "id":1297,
+    "name":"beauty",
+    "name_cn":"美蜜",
+    "name_en":"Beauty Chain/BEC",
+    "time":"2018-02-23",
+    "website":[
+        "http://www.beauty.io/"
+    ],
+    "whitepaper":"http://www.beauty.io/pdf/cn.pdf"
+}

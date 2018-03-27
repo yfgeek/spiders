@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.klondikecoin.com/chain/klondikecoin/"
+    ],
+    "description":"",
+    "id":1634,
+    "name":"klondikecoin",
+    "name_cn":"－",
+    "name_en":"KDC/KDC",
+    "time":"－",
+    "website":[
+        "http://klondikecoin.com/"
+    ],
+    "whitepaper":"-"
+}

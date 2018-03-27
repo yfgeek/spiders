@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xdd16ec0f66e54d453e6756713e533355989040e4",
+        "https://ethplorer.io/address/0xdd16ec0f66e54d453e6756713e533355989040e4"
+    ],
+    "description":"Tokenomy的主要产品是密码与密码交换，专注于东南亚服务不足和高增长的市场。此外，Tokenomy是一个一站式标记化平台，允许任何人通过交换创建，出售和交易...",
+    "id":1840,
+    "name":"tokenomy",
+    "name_cn":"－",
+    "name_en":"Tokenomy/TEN",
+    "time":"2018-03-11",
+    "website":[
+        "https://www.tokenomy.com/"
+    ],
+    "whitepaper":"https://www.tokenomy.com/whitepaper/TOKENOMY_WHITEPAPER_en.pdf"
+}

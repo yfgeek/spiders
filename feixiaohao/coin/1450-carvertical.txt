@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xda6cb58a0d0c01610a29c5a65c303e13e885887c",
+        "https://ethplorer.io/address/0xda6cb58a0d0c01610a29c5a65c303e13e885887c"
+    ],
+    "description":"carVertical 是基于加密货币的解决方案,致力于收集关于汽车的全方位信息，包括汽车的来源追踪，例如汽车注册来源信息,警察与国际刑警组织的数据库、保险数据...",
+    "id":1450,
+    "name":"carvertical",
+    "name_cn":"－",
+    "name_en":"carVertical/CV",
+    "time":"2018-01-23",
+    "website":[
+        "https://www.carvertical.com/"
+    ],
+    "whitepaper":"https://www.carvertical.com/carvertical-whitepaper.pdf"
+}

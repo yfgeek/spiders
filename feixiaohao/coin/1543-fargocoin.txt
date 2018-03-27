@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://fargochain.org/"
+    ],
+    "description":"",
+    "id":1543,
+    "name":"fargocoin",
+    "name_cn":"－",
+    "name_en":"Fargocoin/FRGC",
+    "time":"－",
+    "website":[
+        "https://fargocoin.org/"
+    ],
+    "whitepaper":"-"
+}

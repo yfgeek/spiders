@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/ent/"
+    ],
+    "description":"Eternity是一种实验性的新型数字货币，可以匿名、即时支付给世界上任何地方的任何人。Eternity使用点对点技术来运作，没有中央管理，交易和发行货币是由网...",
+    "id":922,
+    "name":"eternity",
+    "name_cn":"－",
+    "name_en":"Eternity/ENT",
+    "time":"－",
+    "website":[
+        "http://ent.eternity-group.org/"
+    ],
+    "whitepaper":"-"
+}

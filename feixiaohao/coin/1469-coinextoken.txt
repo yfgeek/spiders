@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"CoinEx Token（简称：CET）是由CoinEx交易平台官方推出的用户增值服务权益体系，它基于Ethereum ERC 20协议发行，未来将迁移到Coi...",
+    "id":1469,
+    "name":"coinextoken",
+    "name_cn":"－",
+    "name_en":"CoinEx Token/CET",
+    "time":"－",
+    "website":[
+        "https://www.coinex.com/token"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://ganjacoinexplorer.com/"
+    ],
+    "description":"",
+    "id":784,
+    "name":"ganjacoin",
+    "name_cn":"－",
+    "name_en":"GanjaCoin/420G",
+    "time":"－",
+    "website":[
+        "https://www.ganjacoinpro.com/"
+    ],
+    "whitepaper":"-"
+}

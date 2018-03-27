@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://brit.coinzone.info/chain/BritCoin"
+    ],
+    "description":"2014年6月27日，一种在英国本土研发和发展的新型虚拟货币正式推出。这种新型数字货币被命名为“Britcoin”，它的设计理念和Bitcoin是一样的，但是“...",
+    "id":797,
+    "name":"britcoin",
+    "name_cn":"－",
+    "name_en":"BritCoin/BRIT",
+    "time":"－",
+    "website":[
+        "http://britcoin.xyz/"
+    ],
+    "whitepaper":"-"
+}

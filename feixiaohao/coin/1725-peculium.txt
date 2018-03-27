@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x3618516f45cd3c913f81f9987af41077932bc40d",
+        "https://ethplorer.io/address/0x3618516f45cd3c913f81f9987af41077932bc40d"
+    ],
+    "description":"",
+    "id":1725,
+    "name":"peculium",
+    "name_cn":"－",
+    "name_en":"Peculium/PCL",
+    "time":"2018-03-26",
+    "website":[
+        "https://cco.peculium.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x180e5087935a94fd5bbab00fd2249c5be0473381",
+        "https://ethplorer.io/address/0x180e5087935a94fd5bbab00fd2249c5be0473381"
+    ],
+    "description":"ZCash Gold将成为一个内容平台的支付货币，在这个内容平台上自由撰稿人可以发布他们的创新性内容，而ZCash Gold将为这些创作者的创意提供价值收益。",
+    "id":1014,
+    "name":"zcash-gold",
+    "name_cn":"－",
+    "name_en":"ZCash Gold/ZCG",
+    "time":"2017-11-11",
+    "website":[
+        "http://zcashgold.net/"
+    ],
+    "whitepaper":"-"
+}

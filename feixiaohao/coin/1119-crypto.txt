@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://crypto.miningalts.com/"
+    ],
+    "description":"Crypto是使用Lyra2RE作为工作量验证算法的比特币精简版。这是一种分散的数字货币，可以通过比特币的挖掘或交易获得。Crypto还具有隐身地址和ASIC抗...",
+    "id":1119,
+    "name":"crypto",
+    "name_cn":"－",
+    "name_en":"Crypto/CTO",
+    "time":"－",
+    "website":[
+        "http://tailflick.wix.com/official-crypto"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x949bEd886c739f1A3273629b3320db0C5024c719",
+        "https://ethplorer.io/address/0x949bed886c739f1a3273629b3320db0c5024c719"
+    ],
+    "description":"",
+    "id":1372,
+    "name":"amis",
+    "name_cn":"－",
+    "name_en":"AMIS/AMIS",
+    "time":"－",
+    "website":[
+        "http://erc20-amis.amisolution.net/"
+    ],
+    "whitepaper":"-"
+}

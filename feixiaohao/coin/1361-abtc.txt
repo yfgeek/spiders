@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"为了解决BTC网络拥堵问题，提升比特币的市场竞争力。ABTC是使用Achain的RDPoS机制，在BTC 498888 高度和ACT 1498888 高度分叉，...",
+    "id":1361,
+    "name":"abtc",
+    "name_cn":"－",
+    "name_en":"ABTC/ABTC",
+    "time":"2017-12-12",
+    "website":[],
+    "whitepaper":"-"
+}

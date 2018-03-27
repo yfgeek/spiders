@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"分子未来是一家创新金融投资服务公司由分子集团、 老鹰基金、港京基金、XBTING基金会、HCASH基金会及科银资本联合投资的一站式数字资产投资服务平台。我们将为...",
+    "id":1332,
+    "name":"molecular",
+    "name_cn":"分子未来",
+    "name_en":"Molecular Future/MOF",
+    "time":"2018-01-15",
+    "website":[
+        "http://www.molecular.cc/"
+    ],
+    "whitepaper":"http://www.molecular.cc/ico/Molecular%20Future_BP-CN.pdf"
+}

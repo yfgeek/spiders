@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1517,
+    "name":"eggcoin",
+    "name_cn":"－",
+    "name_en":"EggCoin/EGG",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

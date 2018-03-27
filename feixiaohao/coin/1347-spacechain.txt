@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"太空链是基于人类共识的太空探索计划，期待在太空探索领域寻找一种共识机制，能有效地调动全人类的力量来自发地开启太空探索活动。太空链基金会希望利用社区激励系统建立航...",
+    "id":1347,
+    "name":"spacechain",
+    "name_cn":"太空链",
+    "name_en":"SpaceChain/SPC",
+    "time":"2018-01-16",
+    "website":[
+        "http://spacechain.com/"
+    ],
+    "whitepaper":"http://www.spacechain.com/SpaceChain-0128-1.0-EN.pdf"
+}

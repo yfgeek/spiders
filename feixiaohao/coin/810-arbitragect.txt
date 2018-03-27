@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1245ef80f4d9e02ed9425375e8f649b9221b31d8",
+        "https://ethplorer.io/address/0x1245ef80f4d9e02ed9425375e8f649b9221b31d8"
+    ],
+    "description":"",
+    "id":810,
+    "name":"arbitragect",
+    "name_cn":"－",
+    "name_en":"ArbitrageCT/ARCT",
+    "time":"2018-01-17",
+    "website":[
+        "https://arbitragect.com/"
+    ],
+    "whitepaper":"https://arbitragect.com/arbitragect_wp_en.pdf"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Ecom Chain是基于区块链技术的去中介化交易社群。让每个人更方便的搭建自己的社区，进而形成分销矩阵并自动分佣。Ecom是国内率先全面区块链化的交易型产品应...",
+    "id":1331,
+    "name":"ecomchain",
+    "name_cn":"－",
+    "name_en":"Ecom Chain/ECOM",
+    "time":"－",
+    "website":[
+        "http://www.ecomchain.io/"
+    ],
+    "whitepaper":"https://candy.ecomchain.io/page/ecomchain_whitepaper_zh.pdf"
+}

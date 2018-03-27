@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xcbce61316759d807c474441952ce41985bbc5a40"
+    ],
+    "description":"墨客（MOAC），起源于世界IT中心硅谷的第三代区块链底层技术平台，是11位硅谷20年IT工作经验、6年区块链研发经验的顶级区块链专家团队对区块链技术从逻辑到架...",
+    "id":1280,
+    "name":"moac",
+    "name_cn":"墨客",
+    "name_en":"Moac/MOAC",
+    "time":"2018-01-15",
+    "website":[
+        "http://moac.io/"
+    ],
+    "whitepaper":"http://moac.io/files/MOAC%20technical%20whitepaper%20en.pdf"
+}

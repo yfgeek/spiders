@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf333b2ace992ac2bbd8798bf57bc65a06184afba",
+        "https://ethplorer.io/address/0xf333b2ace992ac2bbd8798bf57bc65a06184afba"
+    ],
+    "description":"",
+    "id":1777,
+    "name":"sand-coin",
+    "name_cn":"－",
+    "name_en":"Sand Coin/SND",
+    "time":"2017-10-09",
+    "website":[
+        "https://en.sandcoin.io/"
+    ],
+    "whitepaper":"-"
+}

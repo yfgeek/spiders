@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://ec2-52-37-136-30.us-west-2.compute.amazonaws.com:3001/"
+    ],
+    "description":"",
+    "id":1165,
+    "name":"slevin",
+    "name_cn":"－",
+    "name_en":"Slevin/SLEVIN",
+    "time":"2017-07-06",
+    "website":[],
+    "whitepaper":"-"
+}

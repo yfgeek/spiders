@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.onixcoin.com/"
+    ],
+    "description":"",
+    "id":950,
+    "name":"onix",
+    "name_cn":"－",
+    "name_en":"Onix/ONX",
+    "time":"2017-06-25",
+    "website":[
+        "http://www.onixcoin.com/"
+    ],
+    "whitepaper":"https://www.onixcoin.com/static/descarga/white-paper-onix-En.pdf"
+}

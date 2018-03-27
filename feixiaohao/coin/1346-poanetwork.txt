@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://poaexplorer.com/"
+    ],
+    "description":"POA Network是Ethereum（ETH）网络的分叉，拥有PoA共识机制，其共识由预选的独立验证者达成。POA网络每5秒生成一个区块，每天能处理约150...",
+    "id":1346,
+    "name":"poanetwork",
+    "name_cn":"－",
+    "name_en":"POA Network/POA",
+    "time":"2017-12-15",
+    "website":[
+        "https://poa.network"
+    ],
+    "whitepaper":"-"
+}

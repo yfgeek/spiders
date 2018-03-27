@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://sojourn.thecryptochat.net/ledger.php"
+    ],
+    "description":"",
+    "id":1009,
+    "name":"sojourn",
+    "name_cn":"－",
+    "name_en":"Soujourn/SOJ",
+    "time":"2017-08-15",
+    "website":[
+        "http://www.sojournbooking.net/"
+    ],
+    "whitepaper":"-"
+}

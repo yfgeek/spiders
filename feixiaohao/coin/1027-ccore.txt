@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x679badc551626e01b23ceecefbc9b877ea18fc46",
+        "https://ethplorer.io/address/0x679badc551626e01b23ceecefbc9b877ea18fc46"
+    ],
+    "description":"Ccore是一个加密支付平台，允许拥有cryptoconins / altcoins的用户在不损失交易所价值的情况下，将他们花费在各种基于在线服务和商店的平台上...",
+    "id":1027,
+    "name":"ccore",
+    "name_cn":"－",
+    "name_en":"Ccore/CCO",
+    "time":"2017-12-02",
+    "website":[
+        "https://ccore.azureedge.net/"
+    ],
+    "whitepaper":"https://ccore.azureedge.net/EN-whitepaper.pdf"
+}

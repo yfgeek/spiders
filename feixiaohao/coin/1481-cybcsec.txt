@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cybcsecexplorer.com/"
+    ],
+    "description":"",
+    "id":1481,
+    "name":"cybcsec",
+    "name_cn":"－",
+    "name_en":"CybCSec/XCS",
+    "time":"2017-10-07",
+    "website":[
+        "https://cybcsec.com/"
+    ],
+    "whitepaper":"-"
+}

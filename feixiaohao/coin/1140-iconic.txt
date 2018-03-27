@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.iconicproject.com/"
+    ],
+    "description":"ICON是一个由各种独立的社会以区块链连接而形成的去中心化网络。ICON 已连接了韩国多家银行、证券公司、保险公司、医院、大学、电子商务等所属的多种社会。以此，...",
+    "id":1140,
+    "name":"iconic",
+    "name_cn":"－",
+    "name_en":"Iconic/ICON",
+    "time":"－",
+    "website":[
+        "http://iconicproject.com/"
+    ],
+    "whitepaper":"-"
+}

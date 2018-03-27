@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x47dd62d4d075dead71d0e00299fc56a2d747bebb",
+        "https://ethplorer.io/address/0x47dd62d4d075dead71d0e00299fc56a2d747bebb"
+    ],
+    "description":"Equal是一个多平台应用程序令牌，通过提供可在各种应用程序中使用的加密货币来统一数字服务，而不是为单个应用程序而构建的ICO令牌。Equal是在以太坊区块链之...",
+    "id":824,
+    "name":"equal",
+    "name_cn":"－",
+    "name_en":"Equal/EQL",
+    "time":"2018-01-30",
+    "website":[
+        "http://www.equaltoken.io"
+    ],
+    "whitepaper":"http://www.equaltoken.io/whitepapers/EQL_Whitepaper_v2_chinese.pdf"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"BitClave致力于下一代搜索数据的隐私保护，用户也应该控制谁可以使用以及如何使用数据。 分布式搜索引擎有帮助用户真的找到要找的东西，并得到用户数据的补偿，使...",
+    "id":1406,
+    "name":"bitclave",
+    "name_cn":"－",
+    "name_en":"BitClave/CAT",
+    "time":"2018-01-03",
+    "website":[
+        "https://www.bitclave.com/zh/"
+    ],
+    "whitepaper":"https://docsend.com/view/eujkjdk"
+}

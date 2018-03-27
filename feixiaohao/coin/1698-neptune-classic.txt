@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/ncc"
+    ],
+    "description":"",
+    "id":1698,
+    "name":"neptune-classic",
+    "name_cn":"－",
+    "name_en":"Neptune Classic/NTCC",
+    "time":"－",
+    "website":[
+        "http://tituslimited.asia/"
+    ],
+    "whitepaper":"-"
+}

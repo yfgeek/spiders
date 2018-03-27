@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/CV2/"
+    ],
+    "description":"可可币(Colossuscoin,COL)采用Scrypt算法，出块时间25秒，每块包含500万个币，每块调整难度，每5万块减半，70个确认成熟，交易确认6次。...",
+    "id":820,
+    "name":"colossuscoin-v2",
+    "name_cn":"可可币",
+    "name_en":"Colossuscoin V2/CV2",
+    "time":"－",
+    "website":[
+        "http://colossuscoin.org"
+    ],
+    "whitepaper":"-"
+}

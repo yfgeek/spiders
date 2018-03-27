@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.zpool.ca/explorer/XCT"
+    ],
+    "description":"",
+    "id":1040,
+    "name":"c-bit",
+    "name_cn":"－",
+    "name_en":"C-Bit/XCT",
+    "time":"－",
+    "website":[
+        "http://c-bit.me/"
+    ],
+    "whitepaper":"-"
+}

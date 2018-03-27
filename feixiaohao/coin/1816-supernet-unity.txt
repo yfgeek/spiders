@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://nxtreporting.com/?as=12071612744977229797"
+    ],
+    "description":"Supernet是一个分散的平台，充当不同区块链技术之间的中间人。它提供了无缝、流畅的互操作性和几个区块链技术之间的共同开发框架。作为一个用户，您可以从一个地方...",
+    "id":1816,
+    "name":"supernet-unity",
+    "name_cn":"－",
+    "name_en":"SuperNET/UNITY",
+    "time":"－",
+    "website":[
+        "http://supernet.org"
+    ],
+    "whitepaper":"-"
+}

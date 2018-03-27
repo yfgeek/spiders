@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1595,
+    "name":"high-gain",
+    "name_cn":"－",
+    "name_en":"High Gain/HIGH",
+    "time":"2017-11-03",
+    "website":[
+        "http://www.highgain.ltd/"
+    ],
+    "whitepaper":"-"
+}

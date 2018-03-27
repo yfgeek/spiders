@@ -1,0 +1,11 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1519,
+    "name":"elcoin",
+    "name_cn":"－",
+    "name_en":"ELcoin/ELCO",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

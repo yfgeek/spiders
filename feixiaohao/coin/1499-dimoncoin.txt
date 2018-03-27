@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xde39e5e5a1b0eeb3afe717d6d011cae88d19451e",
+        "https://ethplorer.io/address/0xde39e5e5a1b0eeb3afe717d6d011cae88d19451e"
+    ],
+    "description":"",
+    "id":1499,
+    "name":"dimoncoin",
+    "name_cn":"－",
+    "name_en":"DimonCoin/FUDD",
+    "time":"2017-11-26",
+    "website":[
+        "https://dimoncoin.org/"
+    ],
+    "whitepaper":"-"
+}

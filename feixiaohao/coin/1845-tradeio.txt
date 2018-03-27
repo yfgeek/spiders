@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x80bc5512561c7f85a3a9508c7df7901b370fa1df",
+        "https://ethplorer.io/address/0x80bc5512561c7f85a3a9508c7df7901b370fa1df"
+    ],
+    "description":"通过利用其创新的区块链交易平台并通过降低和消除费用和效率低下，trade.io将金融市场民主化，为投资者和公司节省资金。要扰乱整个银行，顾问，市场和记录保管者的...",
+    "id":1845,
+    "name":"tradeio",
+    "name_cn":"－",
+    "name_en":"trade.io/TIO",
+    "time":"2018-01-12",
+    "website":[
+        "https://trade.io"
+    ],
+    "whitepaper":"https://trade.io/whitepaper/CN.pdf"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1740,
+    "name":"primulon",
+    "name_cn":"－",
+    "name_en":"Primulon/PRIMU",
+    "time":"2017-07-22",
+    "website":[
+        "https://www.primulon.com/"
+    ],
+    "whitepaper":"-"
+}

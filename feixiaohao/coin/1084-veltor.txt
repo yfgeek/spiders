@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://block.veltor.org:8080"
+    ],
+    "description":"",
+    "id":1084,
+    "name":"veltor",
+    "name_cn":"－",
+    "name_en":"Veltor/VLT",
+    "time":"－",
+    "website":[
+        "http://veltor.org/"
+    ],
+    "whitepaper":"-"
+}

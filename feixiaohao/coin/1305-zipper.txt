@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"跨链信息及交易传递网络。Zipper是一个去中心化的可实现价值转移的网络，其支持在不同金融机构间的跨链、跨网络点对点信息通讯、交易传输以交易结算。Zipper为...",
+    "id":1305,
+    "name":"zipper",
+    "name_cn":"－",
+    "name_en":"Zipper/ZIP",
+    "time":"2018-01-31",
+    "website":[
+        "http://zipper.io"
+    ],
+    "whitepaper":"http://zipper.io/zipper.pdf"
+}

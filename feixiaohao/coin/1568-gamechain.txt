@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"GCS游戏公链（Gamechain System），是一个基于石墨烯框架开发的去中心游戏生态系统，定位于游戏界未来的EOS，以重塑游戏产业价值链为使命，旨在建立...",
+    "id":1568,
+    "name":"gamechain",
+    "name_cn":"GCS游戏公链",
+    "name_en":"Gamechain System/GCS",
+    "time":"2018-01-09",
+    "website":[
+        "https://blockchain.game"
+    ],
+    "whitepaper":"https://blockchain.game/whitepapers"
+}

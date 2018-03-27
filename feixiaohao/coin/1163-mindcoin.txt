@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/mnd/",
+        "http://chain.blockpioneers.info/mnd/explorer.php"
+    ],
+    "description":"MinCoin（Min是Minimalist的缩写）是一种使用scrypt作为工作量验证算法的点对点加密货币。MinCoin于2013年4月3日发布，零预期。",
+    "id":1163,
+    "name":"mindcoin",
+    "name_cn":"－",
+    "name_en":"MindCoin/MND",
+    "time":"－",
+    "website":[
+        "http://www.mindcoin.xyz/"
+    ],
+    "whitepaper":"-"
+}

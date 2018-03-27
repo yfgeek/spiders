@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://188.166.182.57:3001",
+        "https://www.blockexperts.com/mscn",
+        "https://chainz.cryptoid.info/mscn/"
+    ],
+    "description":"",
+    "id":1139,
+    "name":"master-swiscoin",
+    "name_cn":"－",
+    "name_en":"Master Swiscoin/MSCN",
+    "time":"－",
+    "website":[
+        "https://www.swisopensource.com/"
+    ],
+    "whitepaper":"-"
+}

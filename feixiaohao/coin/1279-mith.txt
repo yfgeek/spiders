@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Mithril 是个去中心化的社交网络，以区块链技术回馈内容生产者的贡献。使用者可以使用社交挖矿来挖掘秘银币。每一位使用者在秘银生态系中的社交媒体上的互动，以及...",
+    "id":1279,
+    "name":"mith",
+    "name_cn":"秘银币",
+    "name_en":"Mithril/MITH",
+    "time":"2018-02-23",
+    "website":[
+        "https://mith.io/"
+    ],
+    "whitepaper":"https://mith.io/whitepaper.pdf"
+}

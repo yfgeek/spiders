@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"LITEX是个去中心化的数字货币小额即时支付产品，技术上创新设计了复合决策闪电网络，是一个针对线下支付场景的需求基于BOLT协议自主设计的复合型闪电网络；商业模...",
+    "id":1652,
+    "name":"litex",
+    "name_cn":"－",
+    "name_en":"LITEX/LXT",
+    "time":"－",
+    "website":[
+        "http://litex.io/"
+    ],
+    "whitepaper":"http://litex.io/wp.pdf"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://195.181.247.217:3001/"
+    ],
+    "description":"",
+    "id":1522,
+    "name":"emoneypower",
+    "name_cn":"－",
+    "name_en":"EMoneyPower/EMP",
+    "time":"2017-06-25",
+    "website":[
+        "http://coinmoney.co/"
+    ],
+    "whitepaper":"-"
+}

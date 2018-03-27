@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.elementrem.net/"
+    ],
+    "description":"",
+    "id":831,
+    "name":"elementrem",
+    "name_cn":"－",
+    "name_en":"Elementrem/ELE",
+    "time":"－",
+    "website":[
+        "http://www.elementrem.org/"
+    ],
+    "whitepaper":"-"
+}

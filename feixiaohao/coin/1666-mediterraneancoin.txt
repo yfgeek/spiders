@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://med.szbpool.com:2750/chain/Mediterraneancoin/"
+    ],
+    "description":"地中海币（Mediterraneancoin）混合了比特币和莱特币两种主流加密数字货币的算法，综合设计而成的一种新的工作量证明算法，总量2亿，被称为 Hybri...",
+    "id":1666,
+    "name":"mediterraneancoin",
+    "name_cn":"地中海币",
+    "name_en":"Mediterraneancoin/MED",
+    "time":"－",
+    "website":[
+        "http://www.mediterraneancoin.org/"
+    ],
+    "whitepaper":"-"
+}

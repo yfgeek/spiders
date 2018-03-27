@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://162.243.225.212/"
+    ],
+    "description":"",
+    "id":1248,
+    "name":"vault-coin",
+    "name_cn":"－",
+    "name_en":"Vault Coin/VLTC",
+    "time":"－",
+    "website":[
+        "http://vltcoin.org/"
+    ],
+    "whitepaper":"-"
+}

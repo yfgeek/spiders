@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.tokugawacoin.com/"
+    ],
+    "description":"TOK是一种基于区块链技术的去中心化点对点数字货币。使用Tokugawa在世界任何地方安全发送和接收即时价值转移。凭借其超快的交易确认功能，Tokugawa c...",
+    "id":969,
+    "name":"tokugawa",
+    "name_cn":"－",
+    "name_en":"Tokugawa/TOK",
+    "time":"2017-12-11",
+    "website":[
+        "http://www.tokugawacoin.com/"
+    ],
+    "whitepaper":"-"
+}

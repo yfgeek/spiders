@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.whalecoin.org/"
+    ],
+    "description":"",
+    "id":873,
+    "name":"whalecoin",
+    "name_cn":"－",
+    "name_en":"WhaleCoin/WHL",
+    "time":"2017-10-08",
+    "website":[
+        "https://whalecoin.org/"
+    ],
+    "whitepaper":"-"
+}

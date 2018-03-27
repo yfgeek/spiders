@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.phoenixcoin.org"
+    ],
+    "description":"凤凰电子币 (PXC)所有权分散的开源电子货币凤凰电子币是在开源软件技术基础上精心设计打造的适于各国大众使用的电子货币。 凤凰币的开采可在普通办公及家用电脑上进...",
+    "id":871,
+    "name":"phoenixcoin",
+    "name_cn":"凤凰电子币",
+    "name_en":"Phoenixcoin/PXC",
+    "time":"－",
+    "website":[
+        "http://phoenixcoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.massgrid.com"
+    ],
+    "description":"MassGrid 是一个去中心化高性能计算网络。随着 AI、VR 等行业发展壮大，高性能计算需求也渗透到各行业，而每个公司、团队都不一定有财力、能力和必要性去建...",
+    "id":1324,
+    "name":"massgrid",
+    "name_cn":"马勒戈币",
+    "name_en":"MassGrid/MGD",
+    "time":"－",
+    "website":[
+        "https://www.massgrid.com"
+    ],
+    "whitepaper":"https://www.massgrid.com/assets/download/MassGridWhitePaper_En.pdf"
+}

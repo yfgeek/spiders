@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://ltb.altcoinwarz.com:3002/"
+    ],
+    "description":"",
+    "id":1038,
+    "name":"litebar",
+    "name_cn":"莱特银",
+    "name_en":"LiteBar/LTB",
+    "time":"－",
+    "website":[
+        "http://litebar.co/"
+    ],
+    "whitepaper":"-"
+}

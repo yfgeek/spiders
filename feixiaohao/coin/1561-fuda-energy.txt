@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://fudaenergy.cn/"
+    ],
+    "description":"富达能源积分（Fuda Energy），是一种基于“点对点”(peer-to-peer)技术和区块链技术的去中心化的数字资产，是一种建立在P2P网络和密码学基础...",
+    "id":1561,
+    "name":"fuda-energy",
+    "name_cn":"富达能源积分",
+    "name_en":"Fuda Energy/FEI",
+    "time":"2017-08-05",
+    "website":[
+        "http://fudaenergy.club/"
+    ],
+    "whitepaper":"-"
+}

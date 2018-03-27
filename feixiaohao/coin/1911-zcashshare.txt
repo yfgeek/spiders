@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://withchain.com:3001/"
+    ],
+    "description":"",
+    "id":1911,
+    "name":"zcashshare",
+    "name_cn":"－",
+    "name_en":"Zcashshare/ZHS",
+    "time":"－",
+    "website":[
+        "http://withchain.com/"
+    ],
+    "whitepaper":"-"
+}

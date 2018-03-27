@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/op/"
+    ],
+    "description":"",
+    "id":1718,
+    "name":"operand",
+    "name_cn":"－",
+    "name_en":"Operand/OP",
+    "time":"－",
+    "website":[
+        "http://www.operand.money/"
+    ],
+    "whitepaper":"-"
+}

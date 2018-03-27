@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"DDD是無域Scry.info项目的数字代币符号。Scry.info是一个基于区块链的量化数据提供和交易平台，目标是提供一个智能化区块链社会的数字合约引擎，让开...",
+    "id":1781,
+    "name":"scry",
+    "name_cn":"－",
+    "name_en":"Scry/DDD",
+    "time":"－",
+    "website":[
+        "https://home.scry.info/"
+    ],
+    "whitepaper":"-"
+}

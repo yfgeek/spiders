@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://nxtreporting.com/?a=6883271355794806507"
+    ],
+    "description":"",
+    "id":1722,
+    "name":"pangea-poker",
+    "name_cn":"－",
+    "name_en":"Pangea Poker/PANGEA",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.dw.cash/"
+    ],
+    "description":"DWC又称深网币，其英文名称为Deep Web Cash。DWC 与 Zcash 对比，二者都是基于比特币的设计结构，极其相似，但又有所不同。",
+    "id":1492,
+    "name":"deepwebcash",
+    "name_cn":"－",
+    "name_en":"DeepWebCash/DWC",
+    "time":"－",
+    "website":[
+        "http://dw.cash/"
+    ],
+    "whitepaper":"-"
+}

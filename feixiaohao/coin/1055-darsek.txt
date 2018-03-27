@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptoguru.tk/CurrencyInfo/index.php?Currency=KED"
+    ],
+    "description":"",
+    "id":1055,
+    "name":"darsek",
+    "name_cn":"－",
+    "name_en":"Darsek/KED",
+    "time":"－",
+    "website":[
+        "http://ked.scificrypto.info/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cannationcoin.thecryptochat.net/"
+    ],
+    "description":"",
+    "id":1160,
+    "name":"cannation",
+    "name_cn":"－",
+    "name_en":"Cannation/CNNC",
+    "time":"－",
+    "website":[
+        "http://www.cannationcoin.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"SHOW ONE — 基于以太坊的互动式直播平台，人们可以在这里建立自己的去中心化直播。SHOW ONE计划通过区块链技术解决直播领域中利益分配、内容激励等问题...",
+    "id":1792,
+    "name":"show",
+    "name_cn":"秀币",
+    "name_en":"SHOW/SHOW",
+    "time":"2018-01-11",
+    "website":[
+        "http://www.show.one/"
+    ],
+    "whitepaper":"http://www.show.one/pdf/ShowCoinwp.pdf"
+}

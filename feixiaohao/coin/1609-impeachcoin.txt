@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockexp.com:8073/"
+    ],
+    "description":"",
+    "id":1609,
+    "name":"impeachcoin",
+    "name_cn":"－",
+    "name_en":"Impeachcoin/IMPCH",
+    "time":"－",
+    "website":[
+        "https://www.impeachcoin.com/"
+    ],
+    "whitepaper":"-"
+}

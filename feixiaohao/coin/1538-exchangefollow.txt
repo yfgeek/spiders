@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "124.173.113.87"
+    ],
+    "description":"易兑币，英文名ExchangeFollowChain（简称EFC），易兑币诞生于2016年6月30日，创始人是一支在区块链技术方面有精深研究的团队。易兑币核心算...",
+    "id":1538,
+    "name":"exchangefollow",
+    "name_cn":"易兑币",
+    "name_en":"Exchange Follow Chain/EFC",
+    "time":"2017-06-30",
+    "website":[
+        "http://www.exchangefollow.org/"
+    ],
+    "whitepaper":"-"
+}

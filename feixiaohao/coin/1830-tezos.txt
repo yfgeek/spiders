@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Tezos一词来源于古希腊语，意为smart contract智能合约。Tezos是一个去中心化的区块链，它通过建立一个真实的数字联邦来管理自身，来使得正式的验...",
+    "id":1830,
+    "name":"tezos",
+    "name_cn":"－",
+    "name_en":"Tezos/XTZ",
+    "time":"2017-10-03",
+    "website":[
+        "https://www.tezos.com/"
+    ],
+    "whitepaper":"-"
+}

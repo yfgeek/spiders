@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://cerberus.ageleis.de/"
+    ],
+    "description":"CacheCoin是一种加密货币，使用独特的scrypt算法。CacheCoin的目标是成为一种全球性货币，让世界各地的人们在当地社区中就能购买和销售Cache...",
+    "id":1109,
+    "name":"cachecoin",
+    "name_cn":"－",
+    "name_en":"CacheCoin/CACH",
+    "time":"－",
+    "website":[
+        "https://www.cachecoin.cc/",
+        "https://www.cachecoin.net/"
+    ],
+    "whitepaper":"-"
+}

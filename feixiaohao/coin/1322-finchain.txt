@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://47.97.8.71/"
+    ],
+    "description":"Financial application chain 金融应用链，简称金融链(FinChain)，是第一个专注于金融行业商业底层应用的公有链项目，是一个去中心...",
+    "id":1322,
+    "name":"finchain",
+    "name_cn":"金融链",
+    "name_en":"Finchain/JRC",
+    "time":"2017-12-25",
+    "website":[
+        "https://www.finchain.info/finchain.html"
+    ],
+    "whitepaper":"https://www.finchain.info/white_paper.html"
+}

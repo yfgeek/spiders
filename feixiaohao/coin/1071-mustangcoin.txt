@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/mst/",
+        "https://www.blockexperts.com/mst"
+    ],
+    "description":"",
+    "id":1071,
+    "name":"mustangcoin",
+    "name_cn":"－",
+    "name_en":"MustangCoin/MST",
+    "time":"－",
+    "website":[
+        "http://mustangcoin.xyz/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://browser.achain.com/",
+        "/"
+    ],
+    "description":"LinkEye 是一套基于区块链技术的自主研发的征信共享联盟链解决方案。 LinkEye 立足中国、东南亚和欧洲市场，通过区块链技术和信贷经济模型的深度整合，在...",
+    "id":1313,
+    "name":"linkeye",
+    "name_cn":"林可爱",
+    "name_en":"LinkEye/LET",
+    "time":"2018-01-26",
+    "website":[
+        "https://www.linkeye.com"
+    ],
+    "whitepaper":"https://www.linkeye.com/static/whitePaper/LinkEye201710.pdf"
+}

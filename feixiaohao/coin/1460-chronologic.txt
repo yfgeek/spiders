@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xE814aeE960a85208C3dB542C53E7D4a6C8D5f60F",
+        "https://ethplorer.io/address/0xE814aeE960a85208C3dB542C53E7D4a6C8D5f60F"
+    ],
+    "description":"第一个在以太坊区块链上与时间挂钩的加密币。ChronoLogic将实时间证明的概念融入区块链科技中，能将时间融入区块链科技中并运用于金融，运输和网络商业等领域。",
+    "id":1460,
+    "name":"chronologic",
+    "name_cn":"－",
+    "name_en":"Chronologic/DAY",
+    "time":"2017-09-26",
+    "website":[
+        "https://chronologic.network/"
+    ],
+    "whitepaper":"-"
+}

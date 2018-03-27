@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"智投链 IIC（Intelligent Investment Chain）是基于智能投资分析、大数据分析、区块炼等技术的全生态金融投资策略管理平台，是致力于发展...",
+    "id":1608,
+    "name":"iicoin",
+    "name_cn":"智投链",
+    "name_en":"Intelligent Investment Chain/IIC",
+    "time":"－",
+    "website":[
+        "http://www.iicoin.io/"
+    ],
+    "whitepaper":"-"
+}

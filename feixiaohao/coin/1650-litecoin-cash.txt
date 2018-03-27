@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://explorer.litecoinca.sh/"
+    ],
+    "description":"LCC 致力于开发比特币和以太坊之外的第三种专业型区块链生态系统，数字链通过价值传输协议(“Value Transfer Pro-tocol”)来实现全行业数字...",
+    "id":1650,
+    "name":"litecoin-cash",
+    "name_cn":"－",
+    "name_en":"Litecoin Cash/LCC",
+    "time":"2018-02-22",
+    "website":[
+        "https://litecoinca.sh/"
+    ],
+    "whitepaper":"-"
+}

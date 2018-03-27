@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/wbb/"
+    ],
+    "description":"",
+    "id":1196,
+    "name":"wild-beast-block",
+    "name_cn":"－",
+    "name_en":"Wild Beast Block/WBB",
+    "time":"－",
+    "website":[
+        "http://wbbos.com/"
+    ],
+    "whitepaper":"-"
+}

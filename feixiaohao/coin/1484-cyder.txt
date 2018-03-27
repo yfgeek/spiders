@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://blockchaincyder.com/",
+        "http://cydercoin.lchain.cc/"
+    ],
+    "description":"",
+    "id":1484,
+    "name":"cyder",
+    "name_cn":"－",
+    "name_en":"Cyder/CYDER",
+    "time":"2017-09-07",
+    "website":[
+        "http://cydercoin.com/"
+    ],
+    "whitepaper":"-"
+}

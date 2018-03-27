@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://frazchain.com/"
+    ],
+    "description":"",
+    "id":1560,
+    "name":"frazcoin",
+    "name_cn":"－",
+    "name_en":"Frazcoin/FRAZ",
+    "time":"2017-08-24",
+    "website":[
+        "http://frazcoin.org/"
+    ],
+    "whitepaper":"-"
+}

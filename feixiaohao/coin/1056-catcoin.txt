@@ -1,0 +1,17 @@
+{
+    "blockchain":[
+        "http://catcoinwallets.com:2750/chain/Catcoin",
+        "http://cat.smartchain.cc/",
+        "https://prohashing.com/explorer/Catcoin/"
+    ],
+    "description":"发布于2013年12月21日，Scrypt算法，10分钟每块，50个每块，2016块调整难度，共计2100万。",
+    "id":1056,
+    "name":"catcoin",
+    "name_cn":"猫币",
+    "name_en":"Catcoin/CAT",
+    "time":"－",
+    "website":[
+        "http://www.catcoins.org/"
+    ],
+    "whitepaper":"-"
+}

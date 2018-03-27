@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x6733d909e10ddedb8d6181b213de32a30ceac7ed",
+        "https://ethplorer.io/address/0x6733d909e10ddedb8d6181b213de32a30ceac7ed"
+    ],
+    "description":"BitSerial基于以太坊技术开发，使用了开放的 P2P 技术，使得可以在不需要引入任何第三方的情况下高效完成所有交易，且降低交易风险。",
+    "id":1423,
+    "name":"bitserial",
+    "name_cn":"－",
+    "name_en":"BitSerial/BTE",
+    "time":"2017-11-20",
+    "website":[
+        "https://bitserial.io/"
+    ],
+    "whitepaper":"-"
+}

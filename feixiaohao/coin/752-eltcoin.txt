@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x44197a4c44d6a059297caf6be4f7e172bd56caaf",
+        "https://ethplorer.io/address/0x44197a4c44d6a059297caf6be4f7e172bd56caaf"
+    ],
+    "description":"ELTCOIN是一个由DAO社区组成的生态系统，它是开源的、去中心化的，强调自由主张。",
+    "id":752,
+    "name":"eltcoin",
+    "name_cn":"－",
+    "name_en":"ELTCOIN/ELTCOIN",
+    "time":"2017-11-05",
+    "website":[
+        "https://www.eltcoin.tech/"
+    ],
+    "whitepaper":"https://s3.eu-west-1.amazonaws.com/eltcoin/ELTCOIN%20WHITEPAPER.pdf"
+}

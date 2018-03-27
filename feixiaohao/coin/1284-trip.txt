@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Tripio 是全球首家基于区块链提供去中心化旅行服务的市场平台，致力于通过去中心化的区块链网络直接链接全球旅行服务提供者与消费者，以旅行住宿预订为切入口构建基...",
+    "id":1284,
+    "name":"trip",
+    "name_cn":"－",
+    "name_en":"Tripio/TRIO",
+    "time":"2018-03-02",
+    "website":[
+        "https://trip.io/"
+    ],
+    "whitepaper":"https://trip.io/wp-content/uploads/2018/02/Tripio_Whitepaper_CN_v4.0.pdf"
+}

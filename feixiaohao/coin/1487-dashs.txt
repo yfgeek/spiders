@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"",
+    "id":1487,
+    "name":"dashs",
+    "name_cn":"－",
+    "name_en":"Dashs/DASHS",
+    "time":"－",
+    "website":[
+        "http://dashscrypt.com/"
+    ],
+    "whitepaper":"-"
+}

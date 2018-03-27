@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.mynxt.info/asset/3061160746493230502"
+    ],
+    "description":"Jinn是基于三值逻辑硬件支持的用于分布式计算的通用处理器，该项目还包括:Jinir有限版本（单节点）和Jiniri无限版本（多节点）模拟器。此外，Jinn正在...",
+    "id":1627,
+    "name":"jinn",
+    "name_cn":"－",
+    "name_en":"Jinn/JINN",
+    "time":"－",
+    "website":[
+        "http://www.jinnlabs.com"
+    ],
+    "whitepaper":"-"
+}

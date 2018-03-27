@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=35"
+    ],
+    "description":"Agoras 是一个建立在 Tau-Chain 之上的应用程序，首先是一个智能货币，具有智能个人代理、编程市场、计算能力市场和未来的搜索引擎。Tau-Chain...",
+    "id":1365,
+    "name":"agoras-tokens",
+    "name_cn":"－",
+    "name_en":"Agoras Tokens/AGRS",
+    "time":"－",
+    "website":[
+        "http://www.idni.org/"
+    ],
+    "whitepaper":"-"
+}

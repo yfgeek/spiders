@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"BTF是比特币在块500000高度分叉诞生的新链。BTF，Bitcoin Faith的缩写，中文名比特信仰，首次曝光于是2017年12月8日，开发团队是Bitg...",
+    "id":1414,
+    "name":"bitcoinfaith",
+    "name_cn":"比特信仰",
+    "name_en":"Bitcoin Faith/BTF",
+    "time":"－",
+    "website":[
+        "http://bitcoinfaith.org/"
+    ],
+    "whitepaper":"-"
+}

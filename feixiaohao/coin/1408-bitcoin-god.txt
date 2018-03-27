@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Bitcoin God 是无国界点对点的慈善系统，其宗旨是用去中心化的方式解决当前中心化慈善机构的种种问题，Bitcoin God作为一个公开可追溯不可篡改的区...",
+    "id":1408,
+    "name":"bitcoin-god",
+    "name_cn":"比特上帝",
+    "name_en":"Bitcoin God/GOD",
+    "time":"2018-01-11",
+    "website":[
+        "https://www.bitcoingod.org/"
+    ],
+    "whitepaper":"-"
+}

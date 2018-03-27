@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"Travel旨在建立一个去中心化的全球旅游出行平台。Travel通过区块链的技术和理念，创建一个更加高效、透明、可信、且具备自我驱动力的旅行生态。在Travel...",
+    "id":1304,
+    "name":"travel",
+    "name_cn":"旅行链",
+    "name_en":"Travel/TRA",
+    "time":"2018-03-05",
+    "website":[
+        "http://www.travel.one/"
+    ],
+    "whitepaper":"http://www.travel.one/assets/pdf/Travel_White%20Paper_cn.pdf"
+}

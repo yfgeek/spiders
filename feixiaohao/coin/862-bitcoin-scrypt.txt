@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://backup.blockchain-explorer.com/",
+        "http://coincave.nl:3603/"
+    ],
+    "description":"",
+    "id":862,
+    "name":"bitcoin-scrypt",
+    "name_cn":"－",
+    "name_en":"Bitcoin Scrypt/BTCS",
+    "time":"－",
+    "website":[
+        "http://theotherbitcoin.com"
+    ],
+    "whitepaper":"-"
+}

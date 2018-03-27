@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/btcr/"
+    ],
+    "description":"",
+    "id":908,
+    "name":"bitcurrency",
+    "name_cn":"－",
+    "name_en":"Bitcurrency/BTCR",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

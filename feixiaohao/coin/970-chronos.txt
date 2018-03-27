@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptobe.com/chain/Chronos"
+    ],
+    "description":"",
+    "id":970,
+    "name":"chronos",
+    "name_cn":"－",
+    "name_en":"Chronos/CRX",
+    "time":"－",
+    "website":[
+        "http://chronos-coin.com/"
+    ],
+    "whitepaper":"-"
+}

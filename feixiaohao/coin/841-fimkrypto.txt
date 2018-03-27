@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://www.mofowallet.com/launch.html",
+        "/activity/fim/activity/latest"
+    ],
+    "description":"FIMK于2014年7月2日由非营利协会Krypto Fin ry推出。按照比例向416个捐赠者发放33.314亿FIMK,其余666.86万元将在未来4-6年...",
+    "id":841,
+    "name":"fimkrypto",
+    "name_cn":"－",
+    "name_en":"FIMKrypto/FIMK",
+    "time":"－",
+    "website":[
+        "http://fimk.fi/"
+    ],
+    "whitepaper":"-"
+}

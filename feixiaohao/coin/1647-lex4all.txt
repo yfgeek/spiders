@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "https://explore.burst.cryptoguru.org/account/16641465707917791470"
+    ],
+    "description":"",
+    "id":1647,
+    "name":"lex4all",
+    "name_cn":"－",
+    "name_en":"Lex4All/LEX",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

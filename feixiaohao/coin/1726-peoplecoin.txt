@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://ex.peoplecoin.pw/"
+    ],
+    "description":"发布于2013年9月17日，Scrypt算法，1分钟每块，第1～3天，每区块10个币，第4～15天，每区块5个币，第16～30天，每区块2.5个币，第31天开始...",
+    "id":1726,
+    "name":"peoplecoin",
+    "name_cn":"人人币",
+    "name_en":"PeopleCoin/MEN",
+    "time":"2017-07-28",
+    "website":[
+        "https://www.peoplecoin.pw/"
+    ],
+    "whitepaper":"-"
+}

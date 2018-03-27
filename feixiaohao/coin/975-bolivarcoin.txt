@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/boli/"
+    ],
+    "description":"",
+    "id":975,
+    "name":"bolivarcoin",
+    "name_cn":"－",
+    "name_en":"Bolivarcoin/BOLI",
+    "time":"－",
+    "website":[
+        "http://bolicoin.com/"
+    ],
+    "whitepaper":"-"
+}

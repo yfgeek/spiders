@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://178.62.133.174:9001/",
+        "/chain/"
+    ],
+    "description":"",
+    "id":1100,
+    "name":"soilcoin",
+    "name_cn":"－",
+    "name_en":"SOILcoin/SOIL",
+    "time":"－",
+    "website":[
+        "http://soilcoin.xyz/"
+    ],
+    "whitepaper":"-"
+}

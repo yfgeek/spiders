@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x809826cceab68c387726af962713b64cb5cb3cca",
+        "https://ethplorer.io/address/0x809826cceab68c387726af962713b64cb5cb3cca"
+    ],
+    "description":"Nucleus Vision是一种端到端的技术解决方案，通过其专有的区块链和实时传感器技术，为零售商和众多“实体店”提供业务数据支撑。nCash是Nucleus...",
+    "id":1315,
+    "name":"nucleus",
+    "name_cn":"－",
+    "name_en":"Nucleus Vision/NCASH",
+    "time":"2018-02-26",
+    "website":[
+        "https://nucleus.vision/"
+    ],
+    "whitepaper":"https://docsend.com/view/sfdfg6p"
+}

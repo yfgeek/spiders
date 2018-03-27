@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://172.110.9.193:40003/"
+    ],
+    "description":"",
+    "id":1016,
+    "name":"high-voltage",
+    "name_cn":"－",
+    "name_en":"High Voltage/HVCO",
+    "time":"－",
+    "website":[
+        "http://www.highvoltagecoin.tech/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://asset.burstnation.com/asset/5255893438014874161"
+    ],
+    "description":"",
+    "id":1258,
+    "name":"ccminer",
+    "name_cn":"－",
+    "name_en":"CCMiner/CCM100",
+    "time":"－",
+    "website":[
+        "https://asset.ccminer.net/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"HMC将建立互助合约的生态和应用平台，并逐渐完善相互保障场景。第三方组织亦可在合约生态中创建自己的互助合约。",
+    "id":1266,
+    "name":"hms",
+    "name_cn":"－",
+    "name_en":"Hi Mutual Certificate/HMC",
+    "time":"－",
+    "website":[
+        "http://hms.io/"
+    ],
+    "whitepaper":"http://hms.io/Whitepaper_20180111.pdf"
+}

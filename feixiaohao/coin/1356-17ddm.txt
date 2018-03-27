@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"DDM是一个去中心化的数字内容的公共区块链服务平台，用于解决数字内容（游戏、动画、动漫、小说、视频内容）的IP价值动态评估、交易、使用、价值转换以及服务使用信用...",
+    "id":1356,
+    "name":"17ddm",
+    "name_cn":"娱乐星球",
+    "name_en":"DDMCoin/DDM",
+    "time":"－",
+    "website":[
+        "http://www.17ddm.com/"
+    ],
+    "whitepaper":"-"
+}

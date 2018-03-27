@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://benjiexp.cryptooz.com/"
+    ],
+    "description":"",
+    "id":1132,
+    "name":"benjirolls",
+    "name_cn":"－",
+    "name_en":"BenjiRolls/BENJI",
+    "time":"－",
+    "website":[
+        "http://benjirolls.cf/"
+    ],
+    "whitepaper":"-"
+}

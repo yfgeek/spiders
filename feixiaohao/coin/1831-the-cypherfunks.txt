@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/funk/"
+    ],
+    "description":"",
+    "id":1831,
+    "name":"the-cypherfunks",
+    "name_cn":"－",
+    "name_en":"The Cypherfunks/FUNK",
+    "time":"－",
+    "website":[
+        "http://thecypherfunks.com/"
+    ],
+    "whitepaper":"-"
+}

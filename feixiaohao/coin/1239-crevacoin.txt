@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://chains.crevacoin.com/"
+    ],
+    "description":"",
+    "id":1239,
+    "name":"crevacoin",
+    "name_cn":"－",
+    "name_en":"CrevaCoin/CREVA",
+    "time":"－",
+    "website":[
+        "http://www.crevacoin.com/"
+    ],
+    "whitepaper":"-"
+}

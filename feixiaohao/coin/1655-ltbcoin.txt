@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://xchain.io/asset/LTBCOIN"
+    ],
+    "description":"",
+    "id":1655,
+    "name":"ltbcoin",
+    "name_cn":"－",
+    "name_en":"LTBcoin/LTBC",
+    "time":"－",
+    "website":[
+        "http://ltbcoin.com"
+    ],
+    "whitepaper":"-"
+}

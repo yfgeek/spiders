@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://block.bagcoin.org/"
+    ],
+    "description":"背包币(BagCoin,BGC) 是虚拟货币协会发明的一种数字货币。它同时也是为实现此货币流通之开源软件的名字。2014年2月28日，SHA-256算法，比特币...",
+    "id":1390,
+    "name":"bagcoin",
+    "name_cn":"背包币",
+    "name_en":"BagCoin/BGC",
+    "time":"－",
+    "website":[
+        "http://www.bagcoin.org/"
+    ],
+    "whitepaper":"-"
+}

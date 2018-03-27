@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://os76.altcoinexplorer.top"
+    ],
+    "description":"",
+    "id":1206,
+    "name":"osmiumcoin",
+    "name_cn":"－",
+    "name_en":"OsmiumCoin/OS76",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

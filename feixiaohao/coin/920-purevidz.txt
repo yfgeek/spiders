@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/vidz/"
+    ],
+    "description":"",
+    "id":920,
+    "name":"purevidz",
+    "name_cn":"－",
+    "name_en":"PureVidz/VIDZ",
+    "time":"－",
+    "website":[
+        "http://purevidz.net/"
+    ],
+    "whitepaper":"-"
+}

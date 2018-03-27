@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://securechain.info/"
+    ],
+    "description":"安全币，英文名SecureCoin，简称SRC，诞生于2013年8月9日。该币之所以叫做安全币，是因为它采用6种哈希算法组合进行数据加密，号称最安全的虚拟货币。...",
+    "id":962,
+    "name":"securecoin",
+    "name_cn":"安全币",
+    "name_en":"SecureCoin/SRC",
+    "time":"2013-09-06",
+    "website":[
+        "http://securecoin.org/"
+    ],
+    "whitepaper":"-"
+}

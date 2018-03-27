@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://bcf.altcoinwarz.com:3003/"
+    ],
+    "description":"",
+    "id":972,
+    "name":"bitcoinfast",
+    "name_cn":"－",
+    "name_en":"BitcoinFast/BCF",
+    "time":"－",
+    "website":[
+        "http://bitcoinfast.co/"
+    ],
+    "whitepaper":"-"
+}

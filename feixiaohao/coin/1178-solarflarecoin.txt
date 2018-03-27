@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://www.blockexperts.com/sfc"
+    ],
+    "description":"Solarflarecoin是基于Scrypt散列算法的工作证明加密货币，它有18%的预支作为发展基金。",
+    "id":1178,
+    "name":"solarflarecoin",
+    "name_cn":"－",
+    "name_en":"Solarflarecoin/SFC",
+    "time":"－",
+    "website":[
+        "http://solarflarecoin.us/"
+    ],
+    "whitepaper":"-"
+}

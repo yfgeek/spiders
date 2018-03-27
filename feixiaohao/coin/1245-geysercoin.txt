@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://geysercoin.com:3001/"
+    ],
+    "description":"",
+    "id":1245,
+    "name":"geysercoin",
+    "name_cn":"－",
+    "name_en":"GeyserCoin/GSR",
+    "time":"2017-07-28",
+    "website":[
+        "http://geysercoin.com/"
+    ],
+    "whitepaper":"-"
+}

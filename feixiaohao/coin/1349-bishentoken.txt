@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x5bc792754fc71e2f7892e72922690f57c9724132"
+    ],
+    "description":"币神专注于区块链安全的技术公司,其研发的数字资产多重签名,冷热分离存储技术,成功应用于多家交易所和企业,并经受了长时间的严酷考验,真正做到了零安全事故.公司致力...",
+    "id":1349,
+    "name":"bishentoken",
+    "name_cn":"币神",
+    "name_en":"Bishen Token/BIT",
+    "time":"2018-02-10",
+    "website":[
+        "http://www.bishen.im"
+    ],
+    "whitepaper":"http://bishen.im/#tx"
+}

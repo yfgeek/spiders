@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://cryptofresh.com/a/BTC"
+    ],
+    "description":"",
+    "id":911,
+    "name":"bitbtc",
+    "name_cn":"－",
+    "name_en":"bitBTC/BITBTC",
+    "time":"－",
+    "website":[
+        "http://bit.ly/BitShares_BTC"
+    ],
+    "whitepaper":"-"
+}

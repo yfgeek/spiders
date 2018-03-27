@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://tekyexplorer.xyz/altc/"
+    ],
+    "description":"",
+    "id":1223,
+    "name":"antilitecoin",
+    "name_cn":"－",
+    "name_en":"Antilitecoin/ALTC",
+    "time":"－",
+    "website":[
+        "http://antilitecoin.pw/"
+    ],
+    "whitepaper":"https://drive.google.com/file/d/0B_kmY5mKXSK5cGgtb3JyT0VWZ1k/view"
+}

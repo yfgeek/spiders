@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/flax/"
+    ],
+    "description":"",
+    "id":1124,
+    "name":"flaxscript",
+    "name_cn":"－",
+    "name_en":"Flaxscript/FLAX",
+    "time":"－",
+    "website":[
+        "http://flaxscript.org"
+    ],
+    "whitepaper":"-"
+}

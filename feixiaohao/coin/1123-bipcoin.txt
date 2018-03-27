@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://democats.org/blockchain/?name=bipcoin"
+    ],
+    "description":"",
+    "id":1123,
+    "name":"bipcoin",
+    "name_cn":"－",
+    "name_en":"BipCoin/BIP",
+    "time":"－",
+    "website":[
+        "https://bipcoin.org/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"TNC（Trinity Network Credit）—Trinity网络积分，是Trinity网络的协议燃料，用于支付状态通道的押金和通道建立所需的燃料费用，...",
+    "id":1847,
+    "name":"trinity",
+    "name_cn":"－",
+    "name_en":"Trinity/TNC",
+    "time":"2018-01-22",
+    "website":[
+        "https://trinity.tech"
+    ],
+    "whitepaper":"https://trinity.tech/file/WhitePaperDraftCn.pdf"
+}

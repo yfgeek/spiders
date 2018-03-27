@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://dev.pywaves.org/assets/7exc1iaSZQAaLqnqaUTdaypnBk2BZv8M9tADYnveewYg"
+    ],
+    "description":"",
+    "id":1526,
+    "name":"escoro",
+    "name_cn":"－",
+    "name_en":"Escroco/ESC",
+    "time":"2018-01-05",
+    "website":[
+        "https://escroco.co/"
+    ],
+    "whitepaper":"https://escroco.co/plan.php"
+}

@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://cryptobe.com/chain/VoyaCoin"
+    ],
+    "description":"",
+    "id":1872,
+    "name":"voyacoin",
+    "name_cn":"－",
+    "name_en":"Voyacoin/VOYA",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

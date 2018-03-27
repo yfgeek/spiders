@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "http://173.254.204.74:12313/",
+        "http://xgox.ddns.net/"
+    ],
+    "description":"xGOx 是一个加密数字代币，官方最近对 xGOx 进行重新命名和品牌化，xGOx 成功推出为 GOKUCOIN。随着重新命名推出了第一款游戏，它将 xGOx ...",
+    "id":1311,
+    "name":"go-coin",
+    "name_cn":"－",
+    "name_en":"XGOX/XGOX",
+    "time":"2017-10-19",
+    "website":[
+        "http://xgox.rocks/"
+    ],
+    "whitepaper":"-"
+}

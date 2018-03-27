@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=89"
+    ],
+    "description":"",
+    "id":1259,
+    "name":"dibcoin",
+    "name_cn":"－",
+    "name_en":"DIBCOIN/DIBC",
+    "time":"－",
+    "website":[
+        "https://www.dibcoin.io/"
+    ],
+    "whitepaper":"-"
+}

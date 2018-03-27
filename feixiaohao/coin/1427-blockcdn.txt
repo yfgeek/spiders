@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
+        "https://ethplorer.io/address/0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40"
+    ],
+    "description":"BlockCDN能让网络闲置用户分享他们的闲置上网设备（如：PC、路由、电视盒、Pad、手机等等）作为CDN的数据缓存节点，为网站提供CDN服务。并在不额外增加...",
+    "id":1427,
+    "name":"blockcdn",
+    "name_cn":"－",
+    "name_en":"BlockCDN/BCDN",
+    "time":"2017-12-07",
+    "website":[
+        "http://www.blockcdn.org/"
+    ],
+    "whitepaper":"-"
+}

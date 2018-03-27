@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x90c88ccd74e57e016acae8ad1eaa12ecf4c06f33",
+        "https://ethplorer.io/address/0x90c88ccd74e57e016acae8ad1eaa12ecf4c06f33"
+    ],
+    "description":"",
+    "id":1605,
+    "name":"ibtc",
+    "name_cn":"－",
+    "name_en":"IBTC/IBTC",
+    "time":"2017-11-02",
+    "website":[
+        "http://ibtctoken.com/"
+    ],
+    "whitepaper":"-"
+}

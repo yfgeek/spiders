@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://explorer.destiny.cash/"
+    ],
+    "description":"",
+    "id":1210,
+    "name":"destiny",
+    "name_cn":"命运币",
+    "name_en":"Destiny/DES",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

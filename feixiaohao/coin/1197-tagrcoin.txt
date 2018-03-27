@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://tagr.altexplorers.info:3029/"
+    ],
+    "description":"",
+    "id":1197,
+    "name":"tagrcoin",
+    "name_cn":"－",
+    "name_en":"TAGRcoin/TAGR",
+    "time":"－",
+    "website":[
+        "http://www.tagrcoin.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://democats.org/blockchain/?name=bitcoal"
+    ],
+    "description":"",
+    "id":1097,
+    "name":"bitcoal",
+    "name_cn":"－",
+    "name_en":"BitCoal/COAL",
+    "time":"2017-07-21",
+    "website":[
+        "http://getbitcoal.org/"
+    ],
+    "whitepaper":"-"
+}

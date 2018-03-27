@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://blockexplorers.dynalias.com:11003/"
+    ],
+    "description":"",
+    "id":1583,
+    "name":"grumfork",
+    "name_cn":"－",
+    "name_en":"Grumfork/GMF",
+    "time":"－",
+    "website":[
+        "http://grum.co/"
+    ],
+    "whitepaper":"-"
+}

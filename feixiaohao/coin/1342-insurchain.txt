@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"InsurChain的定位是提供保险行业商业级的区块链基础设施服务。一方面打造企业级区块链基础平台，另一方面在其上构建高扩展性的应用业务支撑系统。InsurCh...",
+    "id":1342,
+    "name":"insurchain",
+    "name_cn":"－",
+    "name_en":"InsurChain/INSUR",
+    "time":"－",
+    "website":[
+        "http://www.insurchain.org/"
+    ],
+    "whitepaper":"http://www.insurchain.org/InsurChain-WhitePaper.pdf"
+}

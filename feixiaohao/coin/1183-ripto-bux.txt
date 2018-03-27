@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.wavesgo.com/assets.html?AnERqFRffNVrCbviXbDEdzrU6ipXCP5Y1PKpFdRnyQAy"
+    ],
+    "description":"",
+    "id":1183,
+    "name":"ripto-bux",
+    "name_cn":"－",
+    "name_en":"Ripto Bux/RBX",
+    "time":"－",
+    "website":[
+        "http://riptobux.com/"
+    ],
+    "whitepaper":"-"
+}

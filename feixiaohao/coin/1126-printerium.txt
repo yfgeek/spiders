@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.printerium.info:5000/"
+    ],
+    "description":"",
+    "id":1126,
+    "name":"printerium",
+    "name_cn":"－",
+    "name_en":"Printerium/PRX",
+    "time":"－",
+    "website":[
+        "http://printerium.info/"
+    ],
+    "whitepaper":"https://prymex.io/white-paper"
+}

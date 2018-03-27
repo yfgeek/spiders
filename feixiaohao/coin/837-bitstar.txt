@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://blockexperts.com/bits",
+        "http://explorer.bitstarcoin.com/"
+    ],
+    "description":"",
+    "id":837,
+    "name":"bitstar",
+    "name_cn":"－",
+    "name_en":"Bitstar/BITS",
+    "time":"－",
+    "website":[
+        "https://www.bitstarcoin.com/"
+    ],
+    "whitepaper":"-"
+}

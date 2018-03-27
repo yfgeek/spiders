@@ -1,0 +1,13 @@
+{
+    "blockchain":[
+        "http://cryptobe.com/chain/UnrealCoin"
+    ],
+    "description":"",
+    "id":1174,
+    "name":"unrealcoin",
+    "name_cn":"－",
+    "name_en":"Unrealcoin/URC",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.b2x-segwit.io/"
+    ],
+    "description":"2017年5月23日，来自全球22个国家58家知名区块链公司共同签署了纽约共识（Segwit2x，即隔离验证+2M），纽约共识获得了全网83.28%的算力签字支...",
+    "id":1783,
+    "name":"segwit2x",
+    "name_cn":"－",
+    "name_en":"SegWit2x/BT2",
+    "time":"2017-10-21",
+    "website":[
+        "http://b2x-segwit.io/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/vuc/"
+    ],
+    "description":"",
+    "id":1092,
+    "name":"virta-unique-coin",
+    "name_cn":"－",
+    "name_en":"Virta Unique .../VUC",
+    "time":"2017-07-11",
+    "website":[
+        "http://www.virtauniquecoin.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://nxtportal.org/currencies/15874060122562671369"
+    ],
+    "description":"",
+    "id":1628,
+    "name":"jio-token",
+    "name_cn":"－",
+    "name_en":"JIO Token/JIO",
+    "time":"－",
+    "website":[
+        "http://tamtamtravels.com/jio-token/"
+    ],
+    "whitepaper":"-"
+}

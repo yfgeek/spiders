@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0x8a7b7B9B2f7d0c63F66171721339705A6188a7D5",
+        "https://ethplorer.io/address/0x8a7b7b9b2f7d0c63f66171721339705a6188a7d5"
+    ],
+    "description":"",
+    "id":1530,
+    "name":"etherdoge",
+    "name_cn":"－",
+    "name_en":"EtherDoge/EDOGE",
+    "time":"2017-10-17",
+    "website":[
+        "https://etherdoge.org/"
+    ],
+    "whitepaper":"-"
+}

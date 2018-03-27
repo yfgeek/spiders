@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/lir/",
+        "http://chain.blockpioneers.info/lir/"
+    ],
+    "description":"",
+    "id":1205,
+    "name":"letitride",
+    "name_cn":"－",
+    "name_en":"LetItRide/LIR",
+    "time":"－",
+    "website":[
+        "http://www.letitri.de/"
+    ],
+    "whitepaper":"-"
+}

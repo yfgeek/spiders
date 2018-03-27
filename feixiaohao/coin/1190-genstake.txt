@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.presstab.pw/phpexplorer/G3N/index.php"
+    ],
+    "description":"",
+    "id":1190,
+    "name":"genstake",
+    "name_cn":"－",
+    "name_en":"G3N/G3N",
+    "time":"－",
+    "website":[
+        "http://www.g3n.info/"
+    ],
+    "whitepaper":"-"
+}

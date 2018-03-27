@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"由在老挝有 3 年以上种植香蕉经验的专家团队创立。我们与软件的开发者和能够使用区块链技术好处来解决商业问题的律师商量了我们的项目。项目的战略目标是投资和出口关系...",
+    "id":1391,
+    "name":"bananacoin",
+    "name_cn":"香蕉币",
+    "name_en":"BananacCoin/BCO",
+    "time":"－",
+    "website":[
+        "http://www.bananacoin.io"
+    ],
+    "whitepaper":"https://bananacoin.io/files/White_Paper_Bananacoin_en.pdf"
+}

@@ -1,0 +1,14 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/bucks/",
+        "http://www.presstab.pw/phpexplorer/BUCKS/index.php"
+    ],
+    "description":"",
+    "id":918,
+    "name":"swagbucks",
+    "name_cn":"－",
+    "name_en":"SwagBucks/BUCKS",
+    "time":"－",
+    "website":[],
+    "whitepaper":"-"
+}

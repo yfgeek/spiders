@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://omnichest.info/lookupsp.aspx?sp=69"
+    ],
+    "description":"",
+    "id":1738,
+    "name":"president-sanders",
+    "name_cn":"－",
+    "name_en":"President San.../BURN",
+    "time":"－",
+    "website":[
+        "http://bernie.2016coin.org/"
+    ],
+    "whitepaper":"-"
+}

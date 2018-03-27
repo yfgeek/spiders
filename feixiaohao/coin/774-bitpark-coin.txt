@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xf3d29fb98d2dc5e78c87198deef99377345fd6f1"
+    ],
+    "description":"",
+    "id":774,
+    "name":"bitpark-coin",
+    "name_cn":"奔跑币",
+    "name_en":"Bitpark Coin/BPC",
+    "time":"－",
+    "website":[
+        "https://bitpark.net/"
+    ],
+    "whitepaper":"https://bitpark.net/BITPARK_whitepaper1.2.pdf"
+}

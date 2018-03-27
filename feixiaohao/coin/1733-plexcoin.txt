@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://etherscan.io/token/0xb3203DB25a01fa7950a860B42b899Ad7Da52DDD6",
+        "https://ethplorer.io/address/0xb3203db25a01fa7950a860b42b899ad7da52ddd6"
+    ],
+    "description":"",
+    "id":1733,
+    "name":"plexcoin",
+    "name_cn":"－",
+    "name_en":"PlexCoin/PLX",
+    "time":"2017-11-26",
+    "website":[
+        "https://www.plexcoin.com/"
+    ],
+    "whitepaper":"-"
+}

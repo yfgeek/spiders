@@ -1,0 +1,13 @@
+{
+    "blockchain":[],
+    "description":"云保链(CIChain,Cloud-insurance Chain)是首个保障区块链世界的风险保障平台。从钱包安全保障到转账丢币保障等，云保链致力于为区块链世界...",
+    "id":1306,
+    "name":"cichain",
+    "name_cn":"云保链",
+    "name_en":"Cloud-Insurance Chain/CIC",
+    "time":"2018-02-05",
+    "website":[
+        "https://cichain.io/"
+    ],
+    "whitepaper":"https://cichain.io/doc/WhitePaper_zh_HK.pdf"
+}

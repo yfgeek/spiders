@@ -1,0 +1,16 @@
+{
+    "blockchain":[
+        "https://chainz.cryptoid.info/arco/",
+        "https://www.blockexperts.com/arco"
+    ],
+    "description":"",
+    "id":999,
+    "name":"aquariuscoin",
+    "name_cn":"－",
+    "name_en":"AquariusCoin/ARCO",
+    "time":"－",
+    "website":[
+        "http://aquariuscoin.com/"
+    ],
+    "whitepaper":"-"
+}

@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://www.pioneerchain.com/"
+    ],
+    "description":"",
+    "id":1047,
+    "name":"pioneer-coin",
+    "name_cn":"－",
+    "name_en":"Pioneer Coin/PCOIN",
+    "time":"2017-12-12",
+    "website":[
+        "https://pioneercoin.com/"
+    ],
+    "whitepaper":"https://pioneercoin.com/whitepaper.pdf"
+}

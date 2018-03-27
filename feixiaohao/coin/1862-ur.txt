@@ -1,0 +1,15 @@
+{
+    "blockchain":[
+        "http://explorer.ur.technology/"
+    ],
+    "description":"",
+    "id":1862,
+    "name":"ur",
+    "name_cn":"－",
+    "name_en":"UR/UR",
+    "time":"－",
+    "website":[
+        "https://ur.technology/"
+    ],
+    "whitepaper":"-"
+}
