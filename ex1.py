@@ -1,20 +1,26 @@
 import sys
 
+def convert_arr(value):
+    return list(map(int, str(value)))
+
+
 def verify(num):
-    arr = num.split()
-    test = [0,1,2,3,4,5,6,7,8,9]
+    arr = convert_arr(num)
+    test = [0] * 10
     for i in arr:
-        if test[int(i)]>0:
+        if test[int(i)] > 0:
             return False
         test[int(i)] += 1
     return True
 
+
 def search(start, end):
     num = 0
-    for i in range(start, end):
+    for i in range(start, end+1):
         if verify(i):
             num += 1
     return num
+
 
 for line in sys.stdin:
     a = line.split()

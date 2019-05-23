@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2a963c5-eecc-46b9-bb68-576072c61aad" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feixiaohao/download.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uobspider.iml" afterPath="$PROJECT_DIR$/.idea/uobspider.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/feixiaohao/spider.py" afterPath="$PROJECT_DIR$/feixiaohao/spider.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,12 +18,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/uobspider$spider__1_.coverage" NAME="spider (1) Coverage Results" MODIFIED="1522170784622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feixiaohao" />
+    <SUITE FILE_PATH="coverage/uobspider$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1522492385123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/uobspider$spider__1_.coverage" NAME="spider (1) Coverage Results" MODIFIED="1522172623115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feixiaohao" />
     <SUITE FILE_PATH="coverage/uobspider$filter.coverage" NAME="filter Coverage Results" MODIFIED="1509203784955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/uobspider$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1522497238565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/uobspider$urlmanager.coverage" NAME="urlmanager Coverage Results" MODIFIED="1508738623245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/uobspider$price.coverage" NAME="price Coverage Results" MODIFIED="1515119849692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/uobspider$download.coverage" NAME="download Coverage Results" MODIFIED="1522176507758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feixiaohao" />
     <SUITE FILE_PATH="coverage/uobspider$uobspider.coverage" NAME="uobspider Coverage Results" MODIFIED="1508738940047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/uobspider$spider.coverage" NAME="spider Coverage Results" MODIFIED="1509355474651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/uobspider$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1522493167160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/uobspider$scrapy.coverage" NAME="scrapy Coverage Results" MODIFIED="1515117332901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
@@ -35,7 +45,7 @@
       <file leaf-file-name="spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/uob/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
+            <state relative-caret-position="465">
               <caret line="36" column="109" lean-forward="false" selection-start-line="36" selection-start-column="88" selection-end-line="36" selection-end-column="109" />
               <folding>
                 <element signature="e#35#48#0" expanded="true" />
@@ -44,62 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urlmanager.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uob/urlmanager.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding>
-                <marker date="1509355474637" expanded="true" signature="558:584" ph="INSERT INTO uob... " />
-                <marker date="1509355474637" expanded="true" signature="558:603" ph="INSERT INTO uob... " />
-                <marker date="1509355474637" expanded="true" signature="558:612" ph="INSERT INTO uob... " />
-                <marker date="1509355474637" expanded="true" signature="558:625" ph="INSERT INTO uob... " />
-                <marker date="1509355474637" expanded="true" signature="558:627" ph="INSERT INTO uob... " />
-                <marker date="1509355474637" expanded="true" signature="558:632" ph="INSERT INTO uob... " />
-                <marker date="1509355474637" expanded="true" signature="558:633" ph="INSERT INTO uob... " />
-                <marker date="1509355474637" expanded="true" signature="558:644" ph="INSERT INTO uob... " />
-                <marker date="1509355474637" expanded="true" signature="558:651" ph="INSERT INTO uob... " />
-                <marker date="1509355474637" expanded="true" signature="558:670" ph="INSERT INTO uob... " />
-                <marker date="1509355474637" expanded="true" signature="558:671" ph="INSERT INTO uob... " />
-                <marker date="1509355474637" expanded="true" signature="558:676" ph="INSERT INTO EMPLOYEE... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="filter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uob/filter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-              <folding>
-                <element signature="e#37#73#0" expanded="true" />
-                <marker date="1510808160869" expanded="true" signature="799:817" ph="SELECT id,na... list" />
-                <marker date="1510808160869" expanded="true" signature="1335:1459" ph="INSERT INTO filter_second... " />
-                <marker date="1510808160869" expanded="true" signature="1458:1459" ph="INSERT INTO filter_second... " />
-                <marker date="1510808160869" expanded="true" signature="1685:1713" ph="SELECT id,na... list" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="price.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yiqiyin/price.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-              <folding>
-                <element signature="e#39#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spider.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/feixiaohao/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="1290">
+              <caret line="91" column="9" lean-forward="false" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
               <folding>
                 <element signature="e#36#47#0" expanded="true" />
               </folding>
@@ -107,10 +66,62 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="download.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/feixiaohao/download.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="45" column="26" lean-forward="false" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+              <folding>
+                <element signature="e#36#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8550">
+              <caret line="602" column="13" lean-forward="false" selection-start-line="602" selection-start-column="13" selection-end-line="602" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1305">
+              <caret line="87" column="4" lean-forward="false" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/json/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
+            <state relative-caret-position="3525">
               <caret line="236" column="0" lean-forward="false" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
               <folding />
             </state>
@@ -120,7 +131,7 @@
       <file leaf-file-name="element.py" pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/lib/python2.7/site-packages/bs4/element.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="15075">
               <caret line="1010" column="0" lean-forward="false" selection-start-line="1010" selection-start-column="0" selection-end-line="1010" selection-end-column="0" />
               <folding />
             </state>
@@ -130,18 +141,8 @@
       <file leaf-file-name="connections.py" pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/lib/python2.7/site-packages/pymysql/connections.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="10275">
               <caret line="705" column="0" lean-forward="false" selection-start-line="705" selection-start-column="0" selection-end-line="705" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weibo/data/2018-02-05-00_2018-02-06-00/2.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="1346" lean-forward="false" selection-start-line="1" selection-start-column="1346" selection-end-line="1" selection-end-column="1346" />
               <folding />
             </state>
           </provider>
@@ -160,7 +161,6 @@
     <findStrings>
       <find>key_word</find>
       <find>add</find>
-      <find>print</find>
       <find>len(A)</find>
       <find>JClass</find>
       <find>ne</find>
@@ -168,7 +168,16 @@
       <find>wrt</find>
       <find>coins</find>
       <find>open</find>
+      <find>print</find>
+      <find>headers</find>
+      <find>lock</find>
+      <find>valuesvalues</find>
+      <find>niu</find>
     </findStrings>
+    <replaceStrings>
+      <replace>num</replace>
+      <replace>len(arr)</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -180,7 +189,6 @@
         <option value="$PROJECT_DIR$/uobspider.py" />
         <option value="$PROJECT_DIR$/spider.py" />
         <option value="$PROJECT_DIR$/urlmanager.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/filter.py" />
         <option value="$PROJECT_DIR$/scrapy.py" />
         <option value="$PROJECT_DIR$/price.py" />
@@ -188,6 +196,10 @@
         <option value="$PROJECT_DIR$/yiqiyin/scrapy.py" />
         <option value="$PROJECT_DIR$/feixiaohao/feixiaohao.py" />
         <option value="$PROJECT_DIR$/feixiaohao/spider.py" />
+        <option value="$PROJECT_DIR$/feixiaohao/download.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/ex1.py" />
+        <option value="$PROJECT_DIR$/ex2.py" />
       </list>
     </option>
   </component>
@@ -276,83 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.spider (1)">
-    <configuration default="false" name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="uobspider" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uob/spider.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="uobspider" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uob/filter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="price" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="uobspider" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yiqiyin/price.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="scrapy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="uobspider" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yiqiyin/scrapy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.ex2">
     <configuration default="false" name="spider (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -367,6 +303,79 @@
       <module name="uobspider" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feixiaohao/spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="download" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/feixiaohao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="uobspider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feixiaohao/download.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in ex1.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="uobspider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ex1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="uobspider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="uobspider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -521,19 +530,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.spider" />
-      <item index="1" class="java.lang.String" itemvalue="Python.filter" />
-      <item index="2" class="java.lang.String" itemvalue="Python.price" />
-      <item index="3" class="java.lang.String" itemvalue="Python.scrapy" />
-      <item index="4" class="java.lang.String" itemvalue="Python.spider (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.spider (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.download" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in ex1.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ex1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ex2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.spider (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.price" />
-        <item index="2" class="java.lang.String" itemvalue="Python.scrapy" />
-        <item index="3" class="java.lang.String" itemvalue="Python.spider" />
-        <item index="4" class="java.lang.String" itemvalue="Python.filter" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ex2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ex1" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in ex1.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python.download" />
+        <item index="4" class="java.lang.String" itemvalue="Python.spider (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -593,19 +602,26 @@
     <option name="localTasksCounter" value="7" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_py - 2018.03.31 at 18h 33m 00s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2018.03.31 at 18h 33m 13s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="730" extended-state="6" />
     <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37367624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48865354" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39788198" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -613,7 +629,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -644,104 +662,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/uob/filter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding>
-            <element signature="e#37#73#0" expanded="true" />
-            <marker date="1510808160869" expanded="true" signature="799:817" ph="SELECT id,na... list" />
-            <marker date="1510808160869" expanded="true" signature="1335:1459" ph="INSERT INTO filter_second... " />
-            <marker date="1510808160869" expanded="true" signature="1458:1459" ph="INSERT INTO filter_second... " />
-            <marker date="1510808160869" expanded="true" signature="1685:1713" ph="SELECT id,na... list" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yiqiyin/price.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#39#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/site-packages/selenium/webdriver/remote/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3540">
-          <caret line="236" column="13" lean-forward="false" selection-start-line="236" selection-start-column="13" selection-end-line="236" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uob/spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#35#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uob/urlmanager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <marker date="1509355474637" expanded="true" signature="558:584" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:603" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:612" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:625" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:627" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:632" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:633" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:644" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:651" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:670" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:671" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:676" ph="INSERT INTO EMPLOYEE... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uob/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uob/spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#35#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/uob/urlmanager.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <marker date="1509355474637" expanded="true" signature="558:584" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:603" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:612" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:625" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:627" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:632" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:633" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:644" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:651" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:670" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:671" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:676" ph="INSERT INTO EMPLOYEE... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -749,13 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="37" column="33" lean-forward="false" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
-          <folding>
-            <element signature="e#37#73#0" expanded="true" />
-            <marker date="1510808160869" expanded="true" signature="799:817" ph="SELECT id,na... list" />
-            <marker date="1510808160869" expanded="true" signature="1335:1459" ph="INSERT INTO filter_second... " />
-            <marker date="1510808160869" expanded="true" signature="1458:1459" ph="INSERT INTO filter_second... " />
-            <marker date="1510808160869" expanded="true" signature="1685:1713" ph="SELECT id,na... list" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -773,20 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <marker date="1509355474637" expanded="true" signature="558:584" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:603" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:612" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:625" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:627" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:632" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:633" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:644" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:651" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:670" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:671" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:676" ph="INSERT INTO EMPLOYEE... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -794,13 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="37" column="33" lean-forward="false" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
-          <folding>
-            <element signature="e#37#73#0" expanded="true" />
-            <marker date="1510808160869" expanded="true" signature="799:817" ph="SELECT id,na... list" />
-            <marker date="1510808160869" expanded="true" signature="1335:1459" ph="INSERT INTO filter_second... " />
-            <marker date="1510808160869" expanded="true" signature="1458:1459" ph="INSERT INTO filter_second... " />
-            <marker date="1510808160869" expanded="true" signature="1685:1713" ph="SELECT id,na... list" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -818,20 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <marker date="1509355474637" expanded="true" signature="558:584" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:603" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:612" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:625" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:627" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:632" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:633" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:644" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:651" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:670" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:671" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:676" ph="INSERT INTO EMPLOYEE... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -849,20 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <marker date="1509355474637" expanded="true" signature="558:584" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:603" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:612" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:625" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:627" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:632" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:633" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:644" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:651" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:670" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:671" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:676" ph="INSERT INTO EMPLOYEE... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -870,13 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-          <folding>
-            <element signature="e#37#73#0" expanded="true" />
-            <marker date="1510808160869" expanded="true" signature="799:817" ph="SELECT id,na... list" />
-            <marker date="1510808160869" expanded="true" signature="1335:1459" ph="INSERT INTO filter_second... " />
-            <marker date="1510808160869" expanded="true" signature="1458:1459" ph="INSERT INTO filter_second... " />
-            <marker date="1510808160869" expanded="true" signature="1685:1713" ph="SELECT id,na... list" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -894,20 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <marker date="1509355474637" expanded="true" signature="558:584" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:603" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:612" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:625" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:627" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:632" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:633" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:644" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:651" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:670" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:671" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:676" ph="INSERT INTO EMPLOYEE... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -925,20 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <marker date="1509355474637" expanded="true" signature="558:584" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:603" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:612" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:625" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:627" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:632" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:633" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:644" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:651" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:670" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:671" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:676" ph="INSERT INTO EMPLOYEE... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -946,13 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="57" column="24" lean-forward="true" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
-          <folding>
-            <element signature="e#37#73#0" expanded="true" />
-            <marker date="1510808160869" expanded="true" signature="799:817" ph="SELECT id,na... list" />
-            <marker date="1510808160869" expanded="true" signature="1335:1459" ph="INSERT INTO filter_second... " />
-            <marker date="1510808160869" expanded="true" signature="1458:1459" ph="INSERT INTO filter_second... " />
-            <marker date="1510808160869" expanded="true" signature="1685:1713" ph="SELECT id,na... list" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -961,20 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <marker date="1509355474637" expanded="true" signature="558:584" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:603" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:612" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:625" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:627" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:632" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:633" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:644" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:651" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:670" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:671" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:676" ph="INSERT INTO EMPLOYEE... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -993,20 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <marker date="1509355474637" expanded="true" signature="558:584" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:603" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:612" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:625" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:627" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:632" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:633" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:644" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:651" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:670" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:671" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:676" ph="INSERT INTO EMPLOYEE... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1039,7 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1047,7 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7380">
           <caret line="492" column="4" lean-forward="false" selection-start-line="492" selection-start-column="4" selection-end-line="492" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1055,7 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1063,7 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1071,10 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="48" column="8" lean-forward="false" selection-start-line="47" selection-start-column="7" selection-end-line="48" selection-end-column="8" />
-          <folding>
-            <element signature="e#40#49#0" expanded="false" />
-            <marker date="1520408484511" expanded="true" signature="3398:4037" ph="INSERT INTO data... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1082,62 +872,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="1346" lean-forward="false" selection-start-line="1" selection-start-column="1346" selection-end-line="1" selection-end-column="1346" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uob/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yiqiyin/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/uob/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/yiqiyin/__init__.py" />
     <entry file="file://$PROJECT_DIR$/yiqiyin/price.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <element signature="e#39#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feixiaohao/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiaohao/__init__.py" />
     <entry file="file://$PROJECT_DIR$/uob/urlmanager.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <marker date="1509355474637" expanded="true" signature="558:584" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:603" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:612" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:625" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:627" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:632" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:633" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:644" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:651" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:670" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:671" ph="INSERT INTO uob... " />
-            <marker date="1509355474637" expanded="true" signature="558:676" ph="INSERT INTO EMPLOYEE... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1145,35 +896,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding>
-            <element signature="e#37#73#0" expanded="true" />
-            <marker date="1510808160869" expanded="true" signature="799:817" ph="SELECT id,na... list" />
-            <marker date="1510808160869" expanded="true" signature="1335:1459" ph="INSERT INTO filter_second... " />
-            <marker date="1510808160869" expanded="true" signature="1458:1459" ph="INSERT INTO filter_second... " />
-            <marker date="1510808160869" expanded="true" signature="1685:1713" ph="SELECT id,na... list" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feixiaohao/urlmanager.py">
+    <entry file="file://$PROJECT_DIR$/feixiaohao/urlmanager.py" />
+    <entry file="file://$PROJECT_DIR$/feixiaohao/coin/12-dash.txt" />
+    <entry file="file://$PROJECT_DIR$/feixiaohao/coin/1-bitcoin.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python2.7/site-packages/pymysql/connections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="705" column="0" lean-forward="false" selection-start-line="705" selection-start-column="0" selection-end-line="705" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiaohao/whitepaper" />
+    <entry file="file://$PROJECT_DIR$/feixiaohao/whitepaper/white-paper-pdf.txt" />
     <entry file="file://$PROJECT_DIR$/uob/spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
+        <state relative-caret-position="465">
           <caret line="36" column="109" lean-forward="false" selection-start-line="36" selection-start-column="88" selection-end-line="36" selection-end-column="109" />
           <folding>
             <element signature="e#35#48#0" expanded="true" />
@@ -1181,45 +920,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python2.7/site-packages/bs4/element.py">
+    <entry file="file://$PROJECT_DIR$/feixiaohao/spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="1010" column="0" lean-forward="false" selection-start-line="1010" selection-start-column="0" selection-end-line="1010" selection-end-column="0" />
+        <state relative-caret-position="1290">
+          <caret line="91" column="9" lean-forward="false" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
+          <folding>
+            <element signature="e#36#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiaohao/download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="45" column="26" lean-forward="false" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+          <folding>
+            <element signature="e#36#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feixiaohao/coin/12-dash.txt">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="8550">
+          <caret line="602" column="13" lean-forward="false" selection-start-line="602" selection-start-column="13" selection-end-line="602" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feixiaohao/coin/1-bitcoin.txt">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="1305">
+          <caret line="87" column="4" lean-forward="false" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/json/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
+        <state relative-caret-position="3525">
           <caret line="236" column="0" lean-forward="false" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feixiaohao/spider.py">
+    <entry file="file:///usr/local/lib/python2.7/site-packages/bs4/element.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#36#47#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="15075">
+          <caret line="1010" column="0" lean-forward="false" selection-start-line="1010" selection-start-column="0" selection-end-line="1010" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10275">
+          <caret line="705" column="0" lean-forward="false" selection-start-line="705" selection-start-column="0" selection-end-line="705" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -39,9 +39,8 @@ class Spider(object):
 
     def download_all_list(self):
         for coin in self.list:
-            print(coin)
             content = self.download(coin)
-            self.write_file(coin, content)
+            # self.write_file(coin, content)
 
     def run(self, page):
         for x in range(1, page):
@@ -63,8 +62,6 @@ class Spider(object):
         des = soup.find("div", {
             "class": 'des'
         }).get_text().strip().replace(u'查看全部', '')
-        print(des)
-
         ul = soup.find_all("div", {
             "class": "secondPark"
         })[0].find_all("span", {
